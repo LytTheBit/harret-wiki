@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Religioni e Dei/5 - Dio della conoscenza/Dio della conoscenza/","tags":["#dio","Num5"],"created":"2026-05-08T22:51:08.113+02:00","updated":"2026-05-16T18:47:02.717+02:00","dg-note-properties":{"aliases":["Memor"],"tags":["#dio","Num5"],"Template":"[[Divinità]]","Sesso":"Maschio","Stagione":"[[Stagione Ombrosa]]","Dominio":["Libri","Conoscenze","Mente"],"Culti":["[[Ordine dei sapienti\|Ordine dei sapienti]]"],"Mese":"[[5° mese\|5° mese]]","Costellazione":"[[Religioni e Dei/5 - Dio della conoscenza/Tomo dei sapienti\|Tomo dei sapienti]]","Nome":"Memor","Immagine":"![Dio della conoscenza.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/5%20-%20conoscenza/Dio%20della%20conoscenza.png)"}}
+{"dg-publish":true,"permalink":"/Religioni e Dei/5 - Dio della conoscenza/Dio della conoscenza/","tags":["#dio","Num5"],"created":"2026-05-08T22:51:08.113+02:00","updated":"2026-06-10T19:13:22.993+02:00","dg-note-properties":{"aliases":["Memor"],"tags":["#dio","Num5"],"Template":"[[Divinità]]","Sesso":"Maschio","Stagione":"[[Stagione Ombrosa]]","Dominio":["Libri","Conoscenze","Mente"],"Culti":["[[Ordine dei sapienti\|Ordine dei sapienti]]"],"Mese":"[[5° mese\|5° mese]]","Costellazione":"[[Religioni e Dei/5 - Dio della conoscenza/Tomo dei sapienti\|Tomo dei sapienti]]","Nome":"Memor","Immagine":"![Dio della conoscenza.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/5%20-%20conoscenza/Dio%20della%20conoscenza.png)"}}
 ---
 
 # Dio della conoscenza
@@ -16,9 +16,7 @@
 > | Culti | [[Ordine dei sapienti\|Ordine dei sapienti]] |
 > | Mese | [[5° mese\|5° mese]] |
 > | Costellazione | [[Religioni e Dei/5 - Dio della conoscenza/Tomo dei sapienti\|Tomo dei sapienti]] |
-> ![Tomo dei sapienti.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/5%20-%20conoscenza/Tomo%20dei%20sapienti.png)
-> > [!footer]
-> > ᚨᛏᛏᛖᚾᛏᛁ ᚨᛚ ᚢᛟᛗᛟ ᚲᚺᛖ ᛊᛟᚱᚱᛁᛞᛖ ᚲᛟᚾ ᛚᛖ ᛗᚨᚾᛁ
+
 
 
 Memor è il dio della conoscenza, della mente e dei libri (tutte le forme del sapere in generale). E' spesso visto come il patrono degli studiosi e dei ricercatori.

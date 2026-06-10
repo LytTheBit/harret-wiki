@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Religioni e Dei/6 - Dio del sole/Dio del sole/","tags":["#dio","Num6"],"created":"2026-05-11T19:07:40.401+02:00","updated":"2026-05-16T18:46:59.314+02:00","dg-note-properties":{"aliases":["Dio della luce","Aurelius","Re degli dei"],"tags":["#dio","Num6"],"Template":"[[Divinità]]","Sesso":"Maschio","Stagione":"[[Stagione Ombrosa]]","Dominio":["Sole","Luce","Gloria","Onore"],"Culti":null,"Mese":"[[6° mese\|6° mese]]","Costellazione":"[[Sole del mattino\|Sole del mattino]]","Nome":"Aurelius","Immagine":"![Dio del sole.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/Dio%20del%20sole.png)"}}
+{"dg-publish":true,"permalink":"/Religioni e Dei/6 - Dio del sole/Dio del sole/","tags":["#dio","Num6"],"created":"2026-05-11T19:07:40.401+02:00","updated":"2026-06-10T19:13:13.166+02:00","dg-note-properties":{"aliases":["Dio della luce","Aurelius","Re degli dei"],"tags":["#dio","Num6"],"Template":"[[Divinità]]","Sesso":"Maschio","Stagione":"[[Stagione Ombrosa]]","Dominio":["Sole","Luce","Gloria","Onore"],"Culti":null,"Mese":"[[6° mese\|6° mese]]","Costellazione":"[[Sole del mattino\|Sole del mattino]]","Nome":"Aurelius","Immagine":"![Dio del sole.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/Dio%20del%20sole.png)"}}
 ---
 
 # Dio del sole
@@ -16,9 +16,7 @@
 > | Culti | [[Ordine dei sapienti\|Ordine dei sapienti]] |
 > | Mese | [[6° mese\|6° mese]] |
 > | Costellazione | [[Sole del mattino\|Sole del mattino]] |
-> ![Tomo dei sapienti.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/5%20-%20conoscenza/Tomo%20dei%20sapienti.png)
-> > [!footer]
-> > ᚨᛏᛏᛖᚾᛏᛁ ᚨᛚ ᚢᛟᛗᛟ ᚲᚺᛖ ᛊᛟᚱᚱᛁᛞᛖ ᚲᛟᚾ ᛚᛖ ᛗᚨᚾᛁ
+
 
 
 Aurelius è il dio del sole, della luce e della gloria.

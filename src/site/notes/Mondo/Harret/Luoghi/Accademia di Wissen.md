@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mondo/Harret/Luoghi/Accademia di Wissen/","contentClasses":"dg-cards","created":"2026-05-07T11:56:30.769+02:00","updated":"2026-05-17T10:52:31.288+02:00","dg-note-properties":{"aliases":["Wissen","l'Accademia"],"tags":null,"Template":"[[Posto]]","Tipo":"Istituzione","Regione":"[[Vette Grigie\|Vette Grigie]]","Affiliazione":"Neutrale","Immagine":"![Accademia di Wissen.png](/img/user/0-Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png)"}}
+{"dg-publish":true,"permalink":"/Mondo/Harret/Luoghi/Accademia di Wissen/","contentClasses":"dg-cards","created":"2026-05-07T11:56:30.769+02:00","updated":"2026-06-09T19:21:29.282+02:00","dg-note-properties":{"aliases":["Wissen","l'Accademia"],"tags":null,"Template":"[[Posto]]","Tipo":"Istituzione","Regione":"[[Vette Grigie\|Vette Grigie]]","Affiliazione":"Neutrale","Immagine":"![Accademia di Wissen.png](/img/user/0-Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png)"}}
 ---
 
 # Accademia di Wissen
@@ -19,12 +19,12 @@
 > |------|---------|
 > | Preside | [[Il Preside\|Il Preside]] *(sconosciuto)* |
 > | Vicepreside | [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Gianpiero Arcangeli]] |
-> | Insegnante di regalità | ... |
-> | Insegnante di cavalleria | ... |
-> | Insegnante di magia | ... |
-> | Insegnante di arte | ... |
-> | Insegnante di religione | ... |
-> | Insegnante di natura | ... |
+> | Insegnante di regalità |  [[Personaggi/NPC/Professori Accademia di Wissen/Ser Leon Rammer\|Ser Leon Rammer]] |
+> | Insegnante di cavalleria | [[Personaggi/NPC/Professori Accademia di Wissen/Tomoe Gozen\|Tomoe Gozen]] |
+> | Insegnante di magia | [[Personaggi/NPC/Professori Accademia di Wissen/Pearl Violet\|Pearl Violet]] |
+> | Insegnante di arte | [[Personaggi/NPC/Professori Accademia di Wissen/Miss Teodora Cost\|Miss Teodora Cost]] |
+> | Insegnante di religione | [[Personaggi/NPC/Professori Accademia di Wissen/Padre Lucas Mimer\|Padre Lucas Mimer]] |
+> | Insegnante di natura | [[Personaggi/NPC/Professori Accademia di Wissen/Ryukyu Geoemyda\|Ryukyu Geoemyda]] |
 
 ## Descrizione
 
@@ -90,8 +90,9 @@ Variante del dodgeball con palle da bowling magicamente alleggerite che rimbalza
 - [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Gianpiero Arcangeli]] — vicepreside e professore di storia, voce calda, sempre disponibile
 
 #### Professori
-|   | Professori |
-| - | ---------- |
+|                                                                                          | Professori                                                                                    |
+| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| ![0-Immagini/Personaggi immagini/NPC/Gianpiero Arcangeli.png\|Gianpiero Arcangeli.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Gianpiero%20Arcangeli.png) | [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Gianpiero Arcangeli]] |
 
 { .block-language-dataview}
 #### Studenti

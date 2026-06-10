@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Specie/Galapa/","contentClasses":"dg-cards","tags":["Specie","Senziente","Galapa"],"created":"2026-05-11T11:44:17.194+02:00","updated":"2026-05-16T18:57:06.593+02:00","dg-note-properties":{"aliases":["Tortle"],"tags":["Specie","Senziente","Galapa"],"Template":"[[Specie Senziente]]","Immagine":"![Galapa.png](/img/user/0-Immagini/Specie%20immagini/Galapa.png)","Stirpe":"Terza stirpe"}}
+{"dg-publish":true,"permalink":"/Specie/Galapa/","contentClasses":"dg-cards","tags":["Specie","Senziente","Galapa"],"created":"2026-05-11T11:44:17.194+02:00","updated":"2026-05-23T11:43:36.632+02:00","dg-note-properties":{"aliases":["Tortle"],"tags":["Specie","Senziente","Galapa"],"Template":"[[Specie Senziente]]","Immagine":"![Galapa.png](/img/user/0-Immagini/Specie%20immagini/Galapa.png)","Stirpe":"Terza stirpe"}}
 ---
 
 # GALAPA
@@ -9,7 +9,7 @@
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
-> | Pianeti | [[Mondo/Gelior/Gelior\|Gelior]], [[Sylvara\|Sylvara]] |
+> | Pianeti | [[Mondo/Gelior/Pianeta di Gelior\|Pianeta di Gelior]], [[Sylvara\|Sylvara]] |
 > | Altezza tipica | dai 1,2 ai 1,8m |
 > | Longevità | ~150 anni |
 > ## Regolamento
@@ -19,7 +19,7 @@
 I Galapa sono una specie di tartarughe antropomorfe.
 
 ## Habitat
-I Galapa sono autoctoni di [[Mondo/Gelior/Gelior\|Gelior]], il pianeta del acqua. Ed per questo somigliano spesso a tartarughe di terra. In particolare abitano le zone più sud del pianeta, con un clima più mite e tropicale. 
+I Galapa sono autoctoni di [[Mondo/Gelior/Pianeta di Gelior\|Pianeta di Gelior]], il pianeta del acqua. Ed per questo somigliano spesso a tartarughe di terra. In particolare abitano le zone più sud del pianeta, con un clima più mite e tropicale. 
 Movimenti migratori hanno portato i Galapa ad abitare anche ad [[Sylvara\|Sylvara]], il pianeta della terra, dove si è è venuta a formare una sottospecie di tartarughe di terra.
 
 ## Origini

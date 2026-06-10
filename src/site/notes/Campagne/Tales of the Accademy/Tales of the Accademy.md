@@ -43,9 +43,11 @@ Harry Potter, Persona, Percy Jackson, Fire Emblem: Three Houses, The Owl House, 
 
 ## Sessioni
 
-|    | Sessioni                                                              |
-| -- | --------------------------------------------------------------------- |
-| \- | [[Campagne/Tales of the Accademy/Sessioni/Sessione 1\|Sessione 1]] |
+|    | Sessioni                                                                                      |
+| -- | --------------------------------------------------------------------------------------------- |
+| \- | [[Campagne/Tales of the Accademy/Sessioni/DM 1\|DM 1]]                                     |
+| \- | [[Campagne/Tales of the Accademy/Sessioni/Sessione 1 - riassunto\|Sessione 1 - riassunto]] |
+| \- | [[Campagne/Tales of the Accademy/Sessioni/Sessione 1 - verbale\|Sessione 1 - verbale]]     |
 
 { .block-language-dataview}
 

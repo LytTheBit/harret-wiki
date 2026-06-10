@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mondo/Harret/Pianeta di Harret/","contentClasses":"dg-cards","created":"2026-05-15T19:48:16.855+02:00","updated":"2026-05-16T17:46:52.484+02:00","dg-note-properties":{"aliases":["Harret","Terra"],"tags":null,"Template":"[[Corpo Celeste]]","Immagine":"![Harret.png](/img/user/0-Immagini/Luoghi%20immagini/Pianeti/Harret.png)"}}
+{"dg-publish":true,"permalink":"/Mondo/Harret/Pianeta di Harret/","contentClasses":"dg-cards","created":"2026-05-15T19:48:16.855+02:00","updated":"2026-06-06T11:41:02.786+02:00","dg-note-properties":{"aliases":["Harret","Terra"],"tags":null,"Template":"[[Corpo Celeste]]","Immagine":"![Harret.png](/img/user/0-Immagini/Luoghi%20immagini/Pianeti/Harret.png)"}}
 ---
 
 # Pianeta di Harret
@@ -28,6 +28,7 @@ La popolazione senziente più diffusa su Harret sono senz'altro gli [[Specie/Uma
 ## Peculiarità
 #### Stagioni
 Vista la sua posizione centrale nel [[Mondo/Cosmo\|Cosmo]], Harret subisce gli effetti degli altri pianeti, portando al esistenza di sei stagioni molto distinte tra di loro.
+Per saperne di più: [[Lore/Stagioni\|Stagioni]]
 
 ## Cosa c'è ad Harret?
 
