@@ -1,18 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/Fazioni/Fazioni/","contentClasses":"dg-cards","tags":["#Lore","Fazione","Gilda","Famiglia","Religione"],"created":"2026-05-12T22:17:57.743+02:00","updated":"2026-05-15T12:43:30.418+02:00","dg-note-properties":{"aliases":null,"tags":["#Lore","Fazione","Gilda","Famiglia","Religione"],"Template":"[[Info]]","Argomento":"Fazioni su Harret"}}
+{"dg-publish":true,"permalink":"/Fazioni/Fazioni/","contentClasses":"dg-cards","tags":["#Lore","Fazione","Gilda","Famiglia","Religione"],"created":"2026-05-12T22:17:57.743+02:00","updated":"2026-06-14T10:35:34.919+02:00","dg-note-properties":{"aliases":null,"tags":["#Lore","Fazione","Gilda","Famiglia","Religione"],"Template":"[[Info]]","Argomento":"Fazioni su Harret"}}
 ---
 
 Esistono diverse tipi di fazioni. Famiglie nobili, bande mercenarie, gilde di vario tipo.
 In questa pagina elenchiamo e spieghiamo alcuni tipi di fazione per facilitarne la ricerca.
 
 ## Famiglia nobile
-Sono qui riportate la lista delle famiglie nobili esplorate nel ambientazione. Ogni regno elenca e cataloga le famiglie in modo diverso, con ranghi e titoli diversi. Ma tendenzialmente possiamo catalogarle in questo modo:
-1. Reali 
-2. Duchi
-3. Marchesi
-4. Conti
-5. Cavalieri
-6. Plebe
+Sono qui riportate la lista delle famiglie nobili esplorate nel ambientazione. Ogni regno elenca e cataloga le famiglie in modo diverso, con ranghi e titoli diversi. Per maggiori informazioni: [[Lore/Nobiltà\|Nobiltà]]
 
 |                                                                              | Famiglie                                   |
 | ---------------------------------------------------------------------------- | ------------------------------------------ |
@@ -21,7 +15,7 @@ Sono qui riportate la lista delle famiglie nobili esplorate nel ambientazione. O
 { .block-language-dataview}
 
 ## Gilda
-Una gilda è un organizzazione composta da privati cittadini, riuntiti 
+Una gilda è un organizzazione composta da privati cittadini, riuntiti in confederazioni e unioni di diverso tipo e scopo. Per maggiori informazioni: [[Gilde\|Gilde]]
 |                                                                                                  | Gilde                                                       |
 | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
 | ![0-Immagini/Stendardi immagini/Gilde immagini/Gilda di Konstrukt.png\|Gilda di Konstrukt.png](/img/user/0-Immagini/Stendardi%20immagini/Gilde%20immagini/Gilda%20di%20Konstrukt.png) | [[Fazioni/Gilde/Gilda di Konstrukt\|Gilda di Konstrukt]] |
@@ -29,7 +23,7 @@ Una gilda è un organizzazione composta da privati cittadini, riuntiti
 { .block-language-dataview}
 
 ## Religione 
-
+Culti dedicati a una o più divinità. Ordini monastici o religiosi, con scopi e ruoli differenti nella società. Per maggiori informazioni: [[Religioni e Dei/Religione e divinità\|Religione]]
 |   | Fazioni |
 | - | ------- |
 

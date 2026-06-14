@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fazioni/Famiglie/Aurelian/","contentClasses":"dg-cards","tags":["#Famiglia","#Fazione","Aurelian"],"created":"2026-05-12T13:49:21.401+02:00","updated":"2026-05-16T18:30:16.168+02:00","dg-note-properties":{"aliases":null,"tags":["#Famiglia","#Fazione","Aurelian"],"Template":"[[Famiglia]]","Motto":"*\"Il sole non tramonta mai sulla Casata Aurelion.\"*","Capofamiglia":"[[Persona NPC]]","Regno":"[[Ducato di Aurelian\|Ducato di Aurelian]]","Sede":"[[Posto]]","Rango nobiliare":"Duchi","Immagine":"![Aurelian.png](/img/user/0-Immagini/Stendardi%20immagini/Gilde%20immagini/Aurelian.png)"}}
+{"dg-publish":true,"permalink":"/Fazioni/Famiglie/Aurelian/","contentClasses":"dg-cards","tags":["#Famiglia","#Fazione","Aurelian"],"created":"2026-05-12T13:49:21.401+02:00","updated":"2026-06-11T18:53:25.413+02:00","dg-note-properties":{"aliases":null,"tags":["#Famiglia","#Fazione","Aurelian"],"Template":"[[Famiglia]]","Motto":"*\"Il sole non tramonta mai sulla Casata Aurelion.\"*","Capofamiglia":"[[Persona NPC]]","Regno":"[[Ducato di Aurelian\|Ducato di Aurelian]]","Sede":"[[Posto]]","Rango nobiliare":"Duchi","Immagine":"![Aurelian.png](/img/user/0-Immagini/Stendardi%20immagini/Gilde%20immagini/Aurelian.png)"}}
 ---
 
 # Famiglia Aurelian
@@ -10,12 +10,12 @@
 > | Voce | Valore |
 > |------|---------|
 > | Motto | *"Il sole non tramonta mai sulla Casata Aurelion."* |
-> | Regno | [[Ducato di Aurelian\|Ducato di Aurelian]] |
-> | Sede | ??? |
+> | Regno | [[Regno di Xxx\|Regno di Xxx]] |
+> | Sede |  [[Ducato di Aurelian\|Ducato di Aurelian]]  |
 > | Capofamiglia | ??? |
 > | Rango nobiliare | ??? |
 
-La famiglia Aurelian è la più importante famiglia ducale del [[Regno di Xxx\|Regno di Xxx]]. Uno dei più potenti regni del continente. 
+La famiglia Aurelian è la più importante famiglia ducale del [[Regno di Xxx\|Regno di Xxx]]. Uno dei più potenti regni del continente. Governano sul ducato dal omonimo nome: [[Ducato di Aurelian\|Ducato di Aurelian]]
 
 ## Storia
 ...

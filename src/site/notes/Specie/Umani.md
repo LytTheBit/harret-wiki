@@ -34,10 +34,13 @@ Gli umani sono estremamente diffusi, cosa che ha portato a innumerevoli variazio
 Il rapporto con le altre specie varia molto da persona a persona. Sono molto diffusi, e sanno specializzarsi molto bene in molti ambiti differenti, per cui è difficile ignorarli. Ma sono anche per questo spesso temuti.
 
 ## Umani degni di nota
-|                                                                                                           | Umani                                                                                         |
-| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| ![0-Immagini/Personaggi immagini/NPC/Gianpiero Arcangeli.png\|Gianpiero Arcangeli.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Gianpiero%20Arcangeli.png)                  | [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Gianpiero Arcangeli]] |
-| ![0-Immagini/Personaggi immagini/PG/Lugalin Gilgamesh d’Aurelian.png\|Lugalin Gilgamesh d’Aurelian.png](/img/user/0-Immagini/Personaggi%20immagini/PG/Lugalin%20Gilgamesh%20d%E2%80%99Aurelian.png) | [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]]               |
+|                                                                                                           | Umani                                                                                             |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| ![0-Immagini/Personaggi immagini/NPC/Amity Dumar.png\|Amity Dumar.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Amity%20Dumar.png)                                  | [[Personaggi/NPC/Studenti Accademia di Wissen/Amity Dumar\|Amity Dumar]]                       |
+| ![0-Immagini/Personaggi immagini/Enkidu Qamar.png\|Enkidu Qamar.png](/img/user/0-Immagini/Personaggi%20immagini/Enkidu%20Qamar.png)                                    | [[Personaggi/NPC/Studenti Accademia di Wissen/Enkidu Dantalion Qamar\|Enkidu Dantalion Qamar]] |
+| ![0-Immagini/Personaggi immagini/NPC/Gianpiero Arcangeli.png\|Gianpiero Arcangeli.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Gianpiero%20Arcangeli.png)                  | [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Gianpiero Arcangeli]]     |
+| ![0-Immagini/Personaggi immagini/PG/Lugalin Gilgamesh d’Aurelian.png\|Lugalin Gilgamesh d’Aurelian.png](/img/user/0-Immagini/Personaggi%20immagini/PG/Lugalin%20Gilgamesh%20d%E2%80%99Aurelian.png) | [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]]                   |
+| ![0-Immagini/Personaggi immagini/NPC/Pearl Violet.png\|Pearl Violet.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Pearl%20Violet.png)                                | [[Personaggi/NPC/Professori Accademia di Wissen/Pearl Violet\|Pearl Violet]]                   |
 
 { .block-language-dataview}
 

@@ -93,15 +93,18 @@ Variante del dodgeball con palle da bowling magicamente alleggerite che rimbalza
 |                                                                                          | Professori                                                                                    |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | ![0-Immagini/Personaggi immagini/NPC/Gianpiero Arcangeli.png\|Gianpiero Arcangeli.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Gianpiero%20Arcangeli.png) | [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Gianpiero Arcangeli]] |
+| ![0-Immagini/Personaggi immagini/NPC/Pearl Violet.png\|Pearl Violet.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Pearl%20Violet.png)               | [[Personaggi/NPC/Professori Accademia di Wissen/Pearl Violet\|Pearl Violet]]               |
 
 { .block-language-dataview}
 #### Studenti
 ![Uniformi studenti Wissen.png\|right\|300](/img/user/0-Immagini/Abbellimenti/Uniformi%20studenti%20Wissen.png) Originariamente l'accademia era pensata per ospitare solo uomini di origine nobile. Ben presto si è espansa per poter ospitare anche le nobildonne e infine ha aperto le porte a chiunque potesse permettersi di pagare la lettera e di ricevere una raccomandazione. Cominciando inoltre ad offrire borse di studio per gli studenti più in difficoltà economica.
 Al momento l'accademia conta più di mille studenti. Anche se è curioso notare come la maggior parte siano studenti dei primi anni, visto che molti tendono ad abbandonare visti i rigidi requisiti del accademia. O a fermarsi dopo il *ciclo triennale* di studi.
-|                                                                                                           | Studenti                                                                        |
-| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| ![0-Immagini/Extra/Test.png\|Test.png](/img/user/0-Immagini/Extra/Test.png)                                                                  | [[Personaggi/PG/D1-X0N\|D1-X0N]]                                             |
-| ![0-Immagini/Personaggi immagini/PG/Lugalin Gilgamesh d’Aurelian.png\|Lugalin Gilgamesh d’Aurelian.png](/img/user/0-Immagini/Personaggi%20immagini/PG/Lugalin%20Gilgamesh%20d%E2%80%99Aurelian.png) | [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]] |
-| ![0-Immagini/Personaggi immagini/PG/Matamata.png\|Matamata.png](/img/user/0-Immagini/Personaggi%20immagini/PG/Matamata.png)                                         | [[Personaggi/PG/Mata Mata\|Mata Mata]]                                       |
+|                                                                                                           | Studenti                                                                                          |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| ![0-Immagini/Personaggi immagini/NPC/Amity Dumar.png\|Amity Dumar.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Amity%20Dumar.png)                                  | [[Personaggi/NPC/Studenti Accademia di Wissen/Amity Dumar\|Amity Dumar]]                       |
+| ![0-Immagini/Extra/Test.png\|Test.png](/img/user/0-Immagini/Extra/Test.png)                                                                  | [[Personaggi/PG/D1-X0N\|D1-X0N]]                                                               |
+| ![0-Immagini/Personaggi immagini/Enkidu Qamar.png\|Enkidu Qamar.png](/img/user/0-Immagini/Personaggi%20immagini/Enkidu%20Qamar.png)                                    | [[Personaggi/NPC/Studenti Accademia di Wissen/Enkidu Dantalion Qamar\|Enkidu Dantalion Qamar]] |
+| ![0-Immagini/Personaggi immagini/PG/Lugalin Gilgamesh d’Aurelian.png\|Lugalin Gilgamesh d’Aurelian.png](/img/user/0-Immagini/Personaggi%20immagini/PG/Lugalin%20Gilgamesh%20d%E2%80%99Aurelian.png) | [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]]                   |
+| ![0-Immagini/Personaggi immagini/PG/Matamata.png\|Matamata.png](/img/user/0-Immagini/Personaggi%20immagini/PG/Matamata.png)                                         | [[Personaggi/PG/Mata Mata\|Mata Mata]]                                                         |
 
 { .block-language-dataview}
