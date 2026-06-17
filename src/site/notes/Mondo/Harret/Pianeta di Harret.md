@@ -40,8 +40,8 @@ Per saperne di più: [[Lore/Stagioni su Harret\|Stagioni su Harret]]
 
 #### Luoghi di Harret
 
-|                                                                                        | Luoghi                                                              |
-| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| ![0-Immagini/Luoghi immagini/Posti/Accademia di Wissen.png\|Accademia di Wissen.png](/img/user/0-Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png) | [[Mondo/Harret/Luoghi/Accademia di Wissen\|Accademia di Wissen]] |
+|                                                                                        | Luoghi                                                  |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| ![0-Immagini/Luoghi immagini/Posti/Accademia di Wissen.png\|Accademia di Wissen.png](/img/user/0-Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png) | [[Mondo/Harret/Luoghi/Castel Wissen\|Castel Wissen]] |
 
 { .block-language-dataview}

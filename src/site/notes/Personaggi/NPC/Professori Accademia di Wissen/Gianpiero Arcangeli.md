@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli/","tags":["NPC","ProfessoriWissen"],"created":"2026-05-16T18:35:31.209+02:00","updated":"2026-06-08T19:00:05.369+02:00","dg-note-properties":{"aliases":["Gianpiero","Piero"],"tags":["NPC","ProfessoriWissen"],"Template":"[[Persona NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Gianpiero","Cognome":"[[Arcangeli]]","Specie":"[[Umani]]","Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Gianpiero Arcangeli.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Gianpiero%20Arcangeli.png)"}}
+{"dg-publish":true,"permalink":"/Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli/","tags":["NPC","ProfessoriWissen"],"created":"2026-05-16T18:35:31.209+02:00","updated":"2026-06-17T21:01:12.322+02:00","dg-note-properties":{"aliases":["Gianpiero","Piero"],"tags":["NPC","ProfessoriWissen"],"Template":"[[Persona NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Gianpiero","Cognome":"[[Arcangeli]]","Specie":"[[Specie/Umani\|Umani]]","Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Gianpiero Arcangeli.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Gianpiero%20Arcangeli.png)"}}
 ---
 
 # Gianpiero Arcangeli
@@ -13,9 +13,10 @@
 > | Nome | Gianpiero  |
 > | Cognome | Arcangeli |
 > | Sesso | Maschio |
+> | Specie | [[Specie/Umani\|Umani]] |
 > | Età | ~70 |
 
-Vice preside del [[Mondo/Harret/Luoghi/Accademia di Wissen\|Accademia di Wissen]]. 
+Vice preside del [[Fazioni/Gilde/Accademia di Wissen\|Accademia di Wissen]]. 
 Vista la rarità delle volte in cui il preside si fa effettivamente vivo, de facto si comporta come preside della scuola.
 
 ## Legami

@@ -22,7 +22,7 @@ Dieci anni fa, Konstrukt sviluppò la prima generazione di [[Specie/Risvegliati\
 ## Al giorno d'oggi
 Konstrukt mantiene inoltre enormi archivi segreti sui processi di creazione dei loro golem. Parte di queste conoscenze è codificata tramite misteriose rune arcane che persino molti membri della gilda non comprendono completamente. Il più grande mistero rimane infatti irrisolto: come e quando nasca realmente “l’[[anima\|anima]]” di un [[Specie/Risvegliati\|risvegliato]].
 
-La gilda gode di grande influenza politica e accademica, avendo rapporti diretti con l’[[Mondo/Harret/Luoghi/Accademia di Wissen\|Accademia di Wissen]]. 
+La gilda gode di grande influenza politica e accademica, avendo rapporti diretti con l’[[Fazioni/Gilde/Accademia di Wissen\|Accademia di Wissen]]. 
 
 ## Membri della Gilda di Konstrukt
 |                                          | Membri della Gilda di Konstrukt     |

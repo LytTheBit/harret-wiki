@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Amity Dumar/","tags":["StudenteWissen","NPC"],"created":"2026-05-16T18:58:15.963+02:00","updated":"2026-06-17T18:03:31.268+02:00","dg-note-properties":{"aliases":["Amity"],"tags":["StudenteWissen","NPC"],"Template":"[[Persona NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Amity","Cognome":"[[Dumar\|Dumar]]","Specie":"[[Umani]]","Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Amity Dumar.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Amity%20Dumar.png)"}}
+{"dg-publish":true,"permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Amity Dumar/","tags":["StudenteWissen","NPC"],"created":"2026-05-16T18:58:15.963+02:00","updated":"2026-06-17T21:00:40.833+02:00","dg-note-properties":{"aliases":["Amity"],"tags":["StudenteWissen","NPC"],"Template":"[[Persona NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Amity","Cognome":"[[Dumar\|Dumar]]","Specie":"[[Specie/Umani\|Umani]]","Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Amity Dumar.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Amity%20Dumar.png)"}}
 ---
 
 > [!warning] Attenzione
@@ -14,9 +14,10 @@
 > | Nome | Amity   |
 > | Cognome | Dumar |
 > | Sesso | Femmina |
+> | Specie | [[Specie/Umani\|Umani]] |
 > | Età | ~20 |
 
-Studentessa del primo anno del [[Mondo/Harret/Luoghi/Accademia di Wissen\|Accademia di Wissen]] e figlia secondogenita del [[Gran Conte Dumar\|Gran Conte Dumar]], del omonima famiglia [[Dumar\|Dumar]], signori della piccola ma ricca [[Città di Dumar\|Città di Dumar]]. 
+Studentessa del primo anno del [[Fazioni/Gilde/Accademia di Wissen\|Accademia di Wissen]] e figlia secondogenita del [[Gran Conte Dumar\|Gran Conte Dumar]], del omonima famiglia [[Dumar\|Dumar]], signori della piccola ma ricca [[Città di Dumar\|Città di Dumar]]. 
 E' stata ammessa nel accademia per lo più per il suo cognome. E ha insistito per portarsi con se l'*"amica"* e cameriera [[Personaggi/NPC/Studenti Accademia di Wissen/Lucy Nocida\|Lucy]].
 
 ## Legami
