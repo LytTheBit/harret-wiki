@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Campagne/Tales of the Accademy/Tales of the Accademy/","tags":["Campagna","Daggerheart"],"created":"2026-05-07T11:36:31.432+02:00","updated":"2026-06-17T18:50:19.790+02:00","dg-note-properties":{"aliases":null,"tags":["Campagna","Daggerheart"],"Template":"[[0-Template/Off game/Campagna]]","Generi":["Fantasy","Slice of life","Mistero"],"Data di inizio":null,"Data di fine":null,"Players":["[[(Extra) Persone/Lorenzo Grassi\|Lorenzo Grassi]]","[[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]]","[[(Extra) Persone/Lorenzo Camuso\|Lorenzo Camuso]]"],"PG":"[[Persona PG]]","Sistema":"[[Daggerheart]]","Immagine":"![Accademia di Wissen.png](/img/user/0-Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png)"}}
+{"dg-publish":true,"permalink":"/Campagne/Tales of the Accademy/Tales of the Accademy/","contentClasses":"dg-cards","tags":["Campagna","Daggerheart"],"created":"2026-05-07T11:36:31.432+02:00","updated":"2026-06-17T22:10:04.778+02:00","dg-note-properties":{"aliases":null,"tags":["Campagna","Daggerheart"],"Template":"[[0-Template/Off game/Campagna]]","Generi":["Fantasy","Slice of life","Mistero"],"Data di inizio":null,"Data di fine":null,"Players":["[[(Extra) Persone/Lorenzo Grassi\|Lorenzo Grassi]]","[[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]]","[[(Extra) Persone/Lorenzo Camuso\|Lorenzo Camuso]]"],"PG":"[[Persona PG]]","Sistema":"[[Daggerheart]]","Immagine":"![Accademia di Wissen.png](/img/user/0-Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png)"}}
 ---
 
 # Tales of the Academy
@@ -11,7 +11,7 @@
 > | Voce | Valore |
 > |------|---------|
 > | Generi | Fantasy, Slice of life, Mistero |
-> | Data di inizio | ??? |
+> | Data di inizio | 13/06/2026 |
 > | Data di fine | ??? |
 > | Ambientazione | [[Fazioni/Gilde/Accademia di Wissen\|Accademia di Wissen]] |
 > ## Players
@@ -45,18 +45,16 @@ Harry Potter, Persona, Percy Jackson, Fire Emblem: Three Houses, The Owl House, 
 
 |    | Sessioni                                                                                      |
 | -- | --------------------------------------------------------------------------------------------- |
-| \- | [[Campagne/Tales of the Accademy/Sessioni/DM 1\|DM 1]]                                     |
 | \- | [[Campagne/Tales of the Accademy/Sessioni/Sessione 1 - riassunto\|Sessione 1 - riassunto]] |
-| \- | [[Campagne/Tales of the Accademy/Sessioni/Sessione 1 - verbale\|Sessione 1 - verbale]]     |
 
 { .block-language-dataview}
 
 ## Quest e misteri
-|                                       | Sessioni                                                                                             |
-| ------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| ![Icona Quest.png\|Icona Quest.png](/img/user/Icona%20Quest.png) | [[Campagne/Tales of the Accademy/Quest e misteri/Documenti da decifrare\|Documenti da decifrare]] |
-| ![Icona Quest.png\|Icona Quest.png](/img/user/Icona%20Quest.png) | [[Campagne/Tales of the Accademy/Quest e misteri/Lettera dal padre 1\|Lettera dal padre 1]]       |
-| ![Icona Quest.png\|Icona Quest.png](/img/user/Icona%20Quest.png) | [[Campagne/Tales of the Accademy/Quest e misteri/Rito di iniziazione\|Rito di iniziazione]]       |
+|                                                             | Sessioni                                                                                             |
+| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| ![0-Immagini/Sito Icone/Icona Quest.png\|Icona Quest.png](/img/user/0-Immagini/Sito%20Icone/Icona%20Quest.png) | [[Campagne/Tales of the Accademy/Quest e misteri/Documenti da decifrare\|Documenti da decifrare]] |
+| ![Icona Quest.png\|Icona Quest.png](/img/user/0-Immagini/Sito%20Icone/Icona%20Quest.png)                       | [[Campagne/Tales of the Accademy/Quest e misteri/Lettera dal padre 1\|Lettera dal padre 1]]       |
+| ![0-Immagini/Sito Icone/Icona Quest.png\|Icona Quest.png](/img/user/0-Immagini/Sito%20Icone/Icona%20Quest.png) | [[Campagne/Tales of the Accademy/Quest e misteri/Rito di iniziazione\|Rito di iniziazione]]       |
 
 { .block-language-dataview}
 

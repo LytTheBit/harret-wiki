@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Campagne/Tales of the Accademy/Quest e misteri/Lettera dal padre 1/","created":"2026-06-14T19:16:43.171+02:00","updated":"2026-06-15T21:38:40.639+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Quest]]","Campagna":"[[Tales of the Accademy]]","Mandante":"[[Duca Aurelian\|Duca Aurelian]]","Completata":false,"Immagine":"![Icona Quest.png](/img/user/Icona%20Quest.png)"}}
+{"dg-publish":true,"permalink":"/Campagne/Tales of the Accademy/Quest e misteri/Lettera dal padre 1/","created":"2026-06-14T19:16:43.171+02:00","updated":"2026-06-15T21:38:40.639+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Quest]]","Campagna":"[[Tales of the Accademy]]","Mandante":"[[Duca Aurelian\|Duca Aurelian]]","Completata":false,"Immagine":"![Icona Quest.png](/img/user/0-Immagini/Sito%20Icone/Icona%20Quest.png)"}}
 ---
 
 
