@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Home/","contentClasses":"dg-cards","tags":["gardenEntry"],"created":"2026-04-24T14:36:59.227+02:00","updated":"2026-06-17T18:02:44.860+02:00","dg-note-properties":{"cssclasses":null}}
+{"dg-publish":true,"permalink":"/Home/","contentClasses":"dg-cards","tags":["gardenEntry"],"created":"2026-04-24T14:36:59.227+02:00","updated":"2026-06-17T22:11:54.541+02:00","dg-note-properties":{"cssclasses":null}}
 ---
 
-# Home
 Benvenuti su [[Mondo/Harret/Pianeta di Harret\|Pianeta di Harret]]... non c'è niente qui per ora...  test
 
 ## Campagne

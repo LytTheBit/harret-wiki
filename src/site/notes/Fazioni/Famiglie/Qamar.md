@@ -37,8 +37,8 @@ Hanno una storica rivalità con la famiglia [[Fazioni/Famiglie/Aurelian\|Aurelia
 .
 
 ## Membri della Famiglia ...
-|                                                                            | Membri della Famiglia Qamar                                                                       |
-| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| ![0-Immagini/Personaggi immagini/NPC/Enkidu Qamar.png\|Enkidu Qamar.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Enkidu%20Qamar.png) | [[Personaggi/NPC/Studenti Accademia di Wissen/Enkidu Dantalion Qamar\|Enkidu Dantalion Qamar]] |
+|                                                                                | Membri della Famiglia Qamar                                                                       |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
+| ![0-Immagini/Personaggi immagini/NPC/Enkidu Qamar 1.png\|Enkidu Qamar 1.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Enkidu%20Qamar%201.png) | [[Personaggi/NPC/Studenti Accademia di Wissen/Enkidu Dantalion Qamar\|Enkidu Dantalion Qamar]] |
 
 { .block-language-dataview}
