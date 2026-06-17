@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Mondo/Harret/Pianeta di Harret/","contentClasses":"dg-cards","created":"2026-05-15T19:48:16.855+02:00","updated":"2026-06-14T18:39:42.024+02:00","dg-note-properties":{"aliases":["Harret","Terra"],"tags":null,"Template":"[[Corpo Celeste]]","Immagine":"![Harret.png](/img/user/0-Immagini/Luoghi%20immagini/Pianeti/Harret.png)"}}
+{"dg-publish":true,"permalink":"/Mondo/Harret/Pianeta di Harret/","contentClasses":"dg-cards","created":"2026-05-15T19:48:16.855+02:00","updated":"2026-06-17T22:25:36.413+02:00","dg-note-properties":{"aliases":["Harret","Terra"],"tags":null,"Template":"[[Corpo Celeste]]","Immagine":"![Harret.png](/img/user/0-Immagini/Luoghi%20immagini/Pianeti/Harret.png)"}}
 ---
 
-# Pianeta di Harret
 
 > [!infobox|right]
 > # Pianeta di Harret

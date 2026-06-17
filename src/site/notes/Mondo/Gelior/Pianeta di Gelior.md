@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Mondo/Gelior/Pianeta di Gelior/","contentClasses":"dg-cards","created":"2026-05-15T19:48:50.401+02:00","updated":"2026-05-23T12:00:16.454+02:00","dg-note-properties":{"aliases":["Gelior","Luna del acqua","Piano del acqua"],"tags":null,"Template":"[[Corpo Celeste]]","Immagine":"![Gelior.png](/img/user/0-Immagini/Luoghi%20immagini/Pianeti/Gelior.png)"}}
+{"dg-publish":true,"permalink":"/Mondo/Gelior/Pianeta di Gelior/","contentClasses":"dg-cards","created":"2026-05-15T19:48:50.401+02:00","updated":"2026-06-17T22:25:15.291+02:00","dg-note-properties":{"aliases":["Gelior","Luna del acqua","Piano del acqua"],"tags":null,"Template":"[[Corpo Celeste]]","Immagine":"![Gelior.png](/img/user/0-Immagini/Luoghi%20immagini/Pianeti/Gelior.png)"}}
 ---
-
-# Pianeta di Gelior
 
 > [!infobox|right]
 > # Pianeta di Harret
