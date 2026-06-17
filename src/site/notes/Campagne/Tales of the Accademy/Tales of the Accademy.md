@@ -52,9 +52,11 @@ Harry Potter, Persona, Percy Jackson, Fire Emblem: Three Houses, The Owl House, 
 { .block-language-dataview}
 
 ## Quest e misteri
-|    | Sessioni                                                               |
-| -- | ---------------------------------------------------------------------- |
-| \- | [[Campagne/Tales of the Accademy/Quest e misteri/Quest 1\|Quest 1]] |
+|                                       | Sessioni                                                                                             |
+| ------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| ![Icona Quest.png\|Icona Quest.png](/img/user/Icona%20Quest.png) | [[Campagne/Tales of the Accademy/Quest e misteri/Documenti da decifrare\|Documenti da decifrare]] |
+| ![Icona Quest.png\|Icona Quest.png](/img/user/Icona%20Quest.png) | [[Campagne/Tales of the Accademy/Quest e misteri/Lettera dal padre 1\|Lettera dal padre 1]]       |
+| ![Icona Quest.png\|Icona Quest.png](/img/user/Icona%20Quest.png) | [[Campagne/Tales of the Accademy/Quest e misteri/Rito di iniziazione\|Rito di iniziazione]]       |
 
 { .block-language-dataview}
 

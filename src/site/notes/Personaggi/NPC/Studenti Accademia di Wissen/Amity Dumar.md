@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Amity Dumar/","tags":["StudenteWissen","NPC"],"created":"2026-05-16T18:58:15.963+02:00","updated":"2026-06-14T10:09:15.607+02:00","dg-note-properties":{"aliases":["Amity"],"tags":["StudenteWissen","NPC"],"Template":"[[Persona NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Amity","Cognome":"[[Dumar\|Dumar]]","Specie":"[[Umani]]","Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Amity Dumar.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Amity%20Dumar.png)"}}
+{"dg-publish":true,"permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Amity Dumar/","tags":["StudenteWissen","NPC"],"created":"2026-05-16T18:58:15.963+02:00","updated":"2026-06-17T18:03:31.268+02:00","dg-note-properties":{"aliases":["Amity"],"tags":["StudenteWissen","NPC"],"Template":"[[Persona NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Amity","Cognome":"[[Dumar\|Dumar]]","Specie":"[[Umani]]","Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Amity Dumar.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Amity%20Dumar.png)"}}
 ---
 
-# Amity Dumar
+> [!warning] Attenzione
+> Questa nota è ancora in fase di creazione, potrebbe essere incompleta o errata!
 
 > [!infobox|right]
 > # Amity Dumar

@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Mondo/Harret/Luoghi/Accademia di Wissen/","contentClasses":"dg-cards","created":"2026-05-07T11:56:30.769+02:00","updated":"2026-06-09T19:21:29.282+02:00","dg-note-properties":{"aliases":["Wissen","l'Accademia"],"tags":null,"Template":"[[Posto]]","Tipo":"Istituzione","Regione":"[[Vette Grigie\|Vette Grigie]]","Affiliazione":"Neutrale","Immagine":"![Accademia di Wissen.png](/img/user/0-Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png)"}}
+{"dg-publish":true,"permalink":"/Mondo/Harret/Luoghi/Accademia di Wissen/","contentClasses":"dg-cards","created":"2026-05-07T11:56:30.769+02:00","updated":"2026-06-15T21:39:02.595+02:00","dg-note-properties":{"aliases":["Wissen","l'Accademia"],"tags":null,"Template":"[[Posto]]","Tipo":"Istituzione","Regione":"[[Vette Grigie\|Vette Grigie]]","Affiliazione":"Neutrale","Immagine":"![Accademia di Wissen.png](/img/user/0-Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png)"}}
 ---
-
-# Accademia di Wissen
 
 > [!infobox|right]
 > # Accademia di Wissen
@@ -104,6 +102,7 @@ Al momento l'accademia conta più di mille studenti. Anche se è curioso notare 
 | ![0-Immagini/Personaggi immagini/NPC/Amity Dumar.png\|Amity Dumar.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Amity%20Dumar.png)                                  | [[Personaggi/NPC/Studenti Accademia di Wissen/Amity Dumar\|Amity Dumar]]                       |
 | ![0-Immagini/Extra/Test.png\|Test.png](/img/user/0-Immagini/Extra/Test.png)                                                                  | [[Personaggi/PG/D1-X0N\|D1-X0N]]                                                               |
 | ![0-Immagini/Personaggi immagini/Enkidu Qamar.png\|Enkidu Qamar.png](/img/user/0-Immagini/Personaggi%20immagini/Enkidu%20Qamar.png)                                    | [[Personaggi/NPC/Studenti Accademia di Wissen/Enkidu Dantalion Qamar\|Enkidu Dantalion Qamar]] |
+| ![0-Immagini/Personaggi immagini/NPC/Lucy Nocida.png\|Lucy Nocida.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Lucy%20Nocida.png)                                  | [[Personaggi/NPC/Studenti Accademia di Wissen/Lucy Nocida\|Lucy Nocida]]                       |
 | ![0-Immagini/Personaggi immagini/PG/Lugalin Gilgamesh d’Aurelian.png\|Lugalin Gilgamesh d’Aurelian.png](/img/user/0-Immagini/Personaggi%20immagini/PG/Lugalin%20Gilgamesh%20d%E2%80%99Aurelian.png) | [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]]                   |
 | ![0-Immagini/Personaggi immagini/PG/Matamata.png\|Matamata.png](/img/user/0-Immagini/Personaggi%20immagini/PG/Matamata.png)                                         | [[Personaggi/PG/Mata Mata\|Mata Mata]]                                                         |
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Enkidu Dantalion Qamar/","tags":["StudenteWissen","NPC"],"created":"2026-05-16T18:20:49.496+02:00","updated":"2026-06-14T10:23:57.346+02:00","dg-note-properties":{"aliases":["Enkidu","Qamar"],"tags":["StudenteWissen","NPC"],"Template":"[[Persona NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Enkidu","Cognome":"[[Fazioni/Famiglie/Qamar\|Qamar]]","Specie":"[[Umani]]","Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Enkidu Qamar.png](/img/user/0-Immagini/Personaggi%20immagini/Enkidu%20Qamar.png)"}}
+{"dg-publish":true,"permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Enkidu Dantalion Qamar/","tags":["StudenteWissen","NPC"],"created":"2026-05-16T18:20:49.496+02:00","updated":"2026-06-17T18:10:19.301+02:00","dg-note-properties":{"aliases":["Enkidu"],"tags":["StudenteWissen","NPC"],"Template":"[[Persona NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Enkidu","Cognome":"[[Fazioni/Famiglie/Qamar\|Qamar]]","Specie":"[[Umani]]","Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Enkidu Qamar.png](/img/user/0-Immagini/Personaggi%20immagini/Enkidu%20Qamar.png)"}}
 ---
 
 > [!infobox|right]
