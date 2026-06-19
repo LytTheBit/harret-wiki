@@ -42,6 +42,7 @@ Il rapporto con le altre specie varia molto da persona a persona. Sono molto dif
 | ![0-Immagini/Personaggi immagini/NPC/Lucy Nocida.png\|Lucy Nocida.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Lucy%20Nocida.png)                                  | [[Personaggi/NPC/Studenti Accademia di Wissen/Lucy Nocida\|Lucy Nocida]]                       |
 | ![0-Immagini/Personaggi immagini/PG/Lugalin Gilgamesh d’Aurelian.png\|Lugalin Gilgamesh d’Aurelian.png](/img/user/0-Immagini/Personaggi%20immagini/PG/Lugalin%20Gilgamesh%20d%E2%80%99Aurelian.png) | [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]]                   |
 | ![0-Immagini/Personaggi immagini/NPC/Pearl Violet.png\|Pearl Violet.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Pearl%20Violet.png)                                | [[Personaggi/NPC/Professori Accademia di Wissen/Pearl Violet\|Pearl Violet]]                   |
+| ![Ruggie Kerma.png\|Ruggie Kerma.png](/img/user/Ruggie%20Kerma.png)                                                                   | [[Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma\|Ruggie Kerma]]                     |
 
 { .block-language-dataview}
 

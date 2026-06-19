@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Fazioni/Famiglie/Aurelian/","contentClasses":"dg-cards","tags":["#Famiglia","#Fazione","Aurelian"],"created":"2026-05-12T13:49:21.401+02:00","updated":"2026-06-17T18:10:13.043+02:00","dg-note-properties":{"aliases":null,"tags":["#Famiglia","#Fazione","Aurelian"],"Template":"[[Famiglia]]","Motto":"*\"Il sole non tramonta mai sulla Casata Aurelion.\"*","Capofamiglia":"[[Persona NPC]]","Regno":"[[Ducato di Aurelian\|Ducato di Aurelian]]","Sede":"[[Posto]]","Rango nobiliare":"Duchi","Immagine":"![Aurelian.png](/img/user/0-Immagini/Stendardi%20immagini/Gilde%20immagini/Aurelian.png)"}}
+{"dg-publish":true,"permalink":"/Fazioni/Famiglie/Aurelian/","contentClasses":"dg-cards","tags":["#Famiglia","#Fazione","Aurelian"],"created":"2026-05-12T13:49:21.401+02:00","updated":"2026-06-18T11:04:55.399+02:00","dg-note-properties":{"aliases":null,"tags":["#Famiglia","#Fazione","Aurelian"],"Template":"[[Famiglia]]","Motto":"*\"Il sole non tramonta mai sulla Casata Aurelion.\"*","Capofamiglia":"[[Persona NPC]]","Regno":"[[Ducato di Aurelian\|Ducato di Aurelian]]","Sede":"[[Posto]]","Rango nobiliare":"Duchi","Immagine":"![Aurelian.png](/img/user/0-Immagini/Stendardi%20immagini/Gilde%20immagini/Aurelian.png)"}}
 ---
 
-# Famiglia Aurelian
 > [!infobox|right]
 > # ...
 > ![Aurelian.png](/img/user/0-Immagini/Stendardi%20immagini/Gilde%20immagini/Aurelian.png)

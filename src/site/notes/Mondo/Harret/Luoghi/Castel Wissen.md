@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mondo/Harret/Luoghi/Castel Wissen/","contentClasses":"dg-cards","created":"2026-06-17T18:29:20.804+02:00","updated":"2026-06-17T20:56:53.842+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Posto]]","Tipo":"Istituzione","Regione":"[[Vette Grigie\|Vette Grigie]]","Affiliazione":"[[Fazioni/Gilde/Accademia di Wissen\|Accademia di Wissen]]","Immagine":"![Accademia di Wissen.png](/img/user/0-Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png)"}}
+{"dg-publish":true,"permalink":"/Mondo/Harret/Luoghi/Castel Wissen/","contentClasses":"dg-cards","created":"2026-06-17T18:29:20.804+02:00","updated":"2026-06-19T18:11:42.019+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Posto]]","Tipo":"Istituzione","Regione":"[[Vette Grigie\|Vette Grigie]]","Affiliazione":"[[Fazioni/Gilde/Accademia di Wissen\|Accademia di Wissen]]","Immagine":"![Accademia di Wissen.png](/img/user/0-Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png)"}}
 ---
 
 > [!infobox|right]
@@ -38,4 +38,4 @@ Il complesso è distribuito su cinque altopiani collegati da scale e ponti sopre
 | Terzo     | Studentato, Sede dei club                                                                  |
 | Quarto    | Cappella di Memor, Monastero                                                               |
 | Quinto    | Giardino delle Vette                                                                       |
-
+### Biblioteca

@@ -77,6 +77,7 @@ Variante del dodgeball con palle da bowling magicamente alleggerite che rimbalza
 #### Professori
 |                                                                                          | Professori                                                                                    |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| ![Bidello Thom Laamp.png\|Bidello Thom Laamp.png](/img/user/Bidello%20Thom%20Laamp.png)                                      | [[Personaggi/NPC/Professori Accademia di Wissen/Bidello Thom Laamp\|Bidello Thom Laamp]]   |
 | ![0-Immagini/Personaggi immagini/NPC/Gianpiero Arcangeli.png\|Gianpiero Arcangeli.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Gianpiero%20Arcangeli.png) | [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Gianpiero Arcangeli]] |
 | ![0-Immagini/Personaggi immagini/NPC/Pearl Violet.png\|Pearl Violet.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Pearl%20Violet.png)               | [[Personaggi/NPC/Professori Accademia di Wissen/Pearl Violet\|Pearl Violet]]               |
 
@@ -93,5 +94,6 @@ Al momento l'accademia conta più di mille studenti. Anche se è curioso notare 
 | ![0-Immagini/Personaggi immagini/PG/Lugalin Gilgamesh d’Aurelian.png\|Lugalin Gilgamesh d’Aurelian.png](/img/user/0-Immagini/Personaggi%20immagini/PG/Lugalin%20Gilgamesh%20d%E2%80%99Aurelian.png) | [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]]                   |
 | ![0-Immagini/Personaggi immagini/PG/Matamata.png\|Matamata.png](/img/user/0-Immagini/Personaggi%20immagini/PG/Matamata.png)                                         | [[Personaggi/PG/Mata Mata\|Mata Mata]]                                                         |
 | ![0-Immagini/Personaggi immagini/NPC/Poul.png\|Poul.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Poul.png)                                                | [[Personaggi/NPC/Studenti Accademia di Wissen/Poooooooooooooo...\|Poooooooooooooo...]]         |
+| ![Ruggie Kerma.png\|Ruggie Kerma.png](/img/user/Ruggie%20Kerma.png)                                                                   | [[Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma\|Ruggie Kerma]]                     |
 
 { .block-language-dataview}
