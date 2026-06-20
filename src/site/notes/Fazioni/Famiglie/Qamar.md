@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fazioni/Famiglie/Qamar/","contentClasses":"dg-cards","tags":["#Famiglia","#Fazione","Qamar"],"created":"2026-05-16T18:45:53.923+02:00","updated":"2026-06-17T18:28:41.601+02:00","dg-note-properties":{"aliases":null,"tags":["#Famiglia","#Fazione","Qamar"],"Template":"[[Famiglia]]","Motto":"*\"Il sole non tramonta mai sulla Casata Aurelion.\"*","Capofamiglia":"[[Persona NPC]]","Regno":"[[Ducato di Qamar\|Ducato di Qamar]]","Sede":"[[Posto]]","Rango nobiliare":"Duchi","Immagine":"![Qamar.png](/img/user/0-Immagini/Stendardi%20immagini/Qamar.png)"}}
+{"dg-publish":true,"permalink":"/Fazioni/Famiglie/Qamar/","contentClasses":"dg-cards","tags":["#Famiglia","#Fazione","Qamar"],"created":"2026-05-16T18:45:53.923+02:00","updated":"2026-06-20T15:52:09.072+02:00","dg-note-properties":{"aliases":null,"tags":["#Famiglia","#Fazione","Qamar"],"Template":"[[Famiglia]]","Motto":"*\"Il sole non tramonta mai sulla Casata Aurelion.\"*","Capofamiglia":"[[Persona NPC]]","Regno":"[[Ducato di Qamar\|Ducato di Qamar]]","Sede":"[[Posto]]","Rango nobiliare":"Duchi","Immagine":"![Qamar.png](/img/user/0-Immagini/Stendardi%20immagini/Qamar.png)"}}
 ---
 
 > [!infobox|right]
@@ -8,7 +8,7 @@
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
-> | Motto | *"Il sole non tramonta mai sulla Casata Aurelion."* |
+> | Motto | *"La luna splende divina."* |
 > | Regno | [[Regno di Xxx\|Regno di Xxx]] |
 > | Sede |  [[Ducato di Qamar\|Ducato di Qamar]]  |
 > | Capofamiglia | [[Duca Qamar\|Duca Qamar]] |

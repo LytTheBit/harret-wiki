@@ -17,12 +17,12 @@
 > | Specie | [[Specie/Umani\|Umani]] |
 > | Età | ~20 |
 
-Studente del [[Fazioni/Gilde/Accademia di Wissen\|Accademia di Wissen]]. Studia Magia e misteri.
-è figlio di un geomante della [[Fazioni/Gilde/Gilda di Konstrukt\|Gilda di Konstrukt]].
+Studente del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]]. Studia Magia e misteri.
+è figlio di un geomante della [[Fazioni/Organizazioni/Gilde/Gilda di Konstrukt\|Gilda di Konstrukt]].
 
 ## Legami
-Suo padre è un [[Geomanzia\|Geomanzia]] per la [[Fazioni/Gilde/Gilda di Konstrukt\|Gilda di Konstrukt]].
-Conosce di vista [[Personaggi/PG/D1-X0N\|D1-X0N]] per via del loro legame con la [[Fazioni/Gilde/Gilda di Konstrukt\|Gilda di Konstrukt]]
+Suo padre è un [[Geomanzia\|Geomanzia]] per la [[Fazioni/Organizazioni/Gilde/Gilda di Konstrukt\|Gilda di Konstrukt]].
+Conosce di vista [[Personaggi/PG/D1-X0N\|D1-X0N]] per via del loro legame con la [[Fazioni/Organizazioni/Gilde/Gilda di Konstrukt\|Gilda di Konstrukt]]
 
 ## Aspetto e carattere
 E' un un giovane ragazzo molto piccolo e minuto per la sua età. Probabilmente a causa della malattia.

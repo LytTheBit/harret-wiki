@@ -17,7 +17,7 @@
 > | Specie | [[Specie/Umani\|Umani]] |
 > | Età | ~20 |
 
-Studentessa del primo anno del [[Fazioni/Gilde/Accademia di Wissen\|Accademia di Wissen]] e figlia secondogenita del [[Gran Conte Dumar\|Gran Conte Dumar]], del omonima famiglia [[Dumar\|Dumar]], signori della piccola ma ricca [[Città di Dumar\|Città di Dumar]]. 
+Studentessa del primo anno del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]] e figlia secondogenita del [[Gran Conte Dumar\|Gran Conte Dumar]], del omonima famiglia [[Dumar\|Dumar]], signori della piccola ma ricca [[Città di Dumar\|Città di Dumar]]. 
 E' stata ammessa nel accademia per lo più per il suo cognome. E ha insistito per portarsi con se l'*"amica"* e cameriera [[Personaggi/NPC/Studenti Accademia di Wissen/Lucy Nocida\|Lucy]].
 
 ## Legami

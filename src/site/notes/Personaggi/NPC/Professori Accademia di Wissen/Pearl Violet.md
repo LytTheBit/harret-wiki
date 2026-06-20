@@ -16,7 +16,7 @@
 > | Specie | [[Specie/Umani\|Umani]] |
 > | Età | ~35 |
 
-Professoressa del [[Fazioni/Gilde/Accademia di Wissen\|Accademia di Wissen]] e membro del [[Ordine dei maghi di torre storta\|Ordine dei maghi di torre storta]]. 
+Professoressa del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]] e membro del [[Ordine dei maghi di torre storta\|Ordine dei maghi di torre storta]]. 
 Insegna Magia e dei Misteri, ha un particolare focus sulle magie di divinazione e di controllo delle marionette
 
 ## Legami

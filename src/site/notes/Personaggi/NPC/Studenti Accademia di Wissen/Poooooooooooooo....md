@@ -17,7 +17,7 @@
 > | Specie | [[Specie/Umani\|Umani]] |
 > | Età | ~20 |
 
-Studente del [[Fazioni/Gilde/Accademia di Wissen\|Accademia di Wissen]]. Studia Arte e musica.
+Studente del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]]. Studia Arte e musica.
 E' compagno di camera con [[Personaggi/PG/Mata Mata\|Mata Mata]] e [[Personaggi/PG/D1-X0N\|D1-X0N]].
 
 ## Legami

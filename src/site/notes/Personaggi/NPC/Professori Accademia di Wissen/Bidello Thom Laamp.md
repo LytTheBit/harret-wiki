@@ -16,10 +16,10 @@
 > | Specie | [[Genasi\|Genasi]] |
 > | Età | ~60 |
 
-Bidello del [[Fazioni/Gilde/Accademia di Wissen\|Accademia di Wissen]]. 
+Bidello del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]]. 
 
 ## Legami
-Ha due figlie [[Marea Laamp\|Marea Laamp]] e [[Pira Laamp\|Pira Laamp]] che lavorano sempre al [[Fazioni/Gilde/Accademia di Wissen\|Accademia di Wissen]]. 
+Ha due figlie [[Marea Laamp\|Marea Laamp]] e [[Pira Laamp\|Pira Laamp]] che lavorano sempre al [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]]. 
 Non si sa nulla sulla moglie.
 
 ## Aspetto e carattere

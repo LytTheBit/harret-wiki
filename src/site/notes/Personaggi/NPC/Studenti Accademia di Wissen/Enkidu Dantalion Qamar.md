@@ -14,7 +14,7 @@
 > | Specie | [[Specie/Umani\|Umani]] |
 > | Età | ~20 |
 
-Studente del [[Fazioni/Gilde/Accademia di Wissen\|Accademia di Wissen]] ed è il figlio primogenito della famiglia [[Fazioni/Famiglie/Qamar\|Qamar]] i duchi del omonimo [[Ducato di Qamar\|Ducato di Qamar]] del [[Regno di Xxx\|Regno di Xxx]]. E' un fervente credente del credo della [[Religioni e Dei/12 - Dea della luna/Dea della luna\|Dea della luna]]. 
+Studente del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]] ed è il figlio primogenito della famiglia [[Fazioni/Famiglie/Qamar\|Qamar]] i duchi del omonimo [[Ducato di Qamar\|Ducato di Qamar]] del [[Regno di Xxx\|Regno di Xxx]]. E' un fervente credente del credo della [[Religioni e Dei/12 - Dea della luna/Dea della luna\|Dea della luna]]. 
 
 ## Legami
 La sua famiglia, i [[Fazioni/Famiglie/Qamar\|Qamar]]: Duchi del omonimo [[Ducato di Qamar\|Ducato di Qamar]].

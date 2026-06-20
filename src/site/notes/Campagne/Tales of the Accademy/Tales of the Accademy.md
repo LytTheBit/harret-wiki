@@ -11,7 +11,7 @@
 > | Generi | Fantasy, Slice of life, Mistero |
 > | Data di inizio | 13/06/2026 |
 > | Data di fine | ??? |
-> | Ambientazione | [[Fazioni/Gilde/Accademia di Wissen\|Accademia di Wissen]] |
+> | Ambientazione | [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]] |
 > ## Players
 > | Giocatore | PG |
 > |------|---------|
@@ -20,7 +20,7 @@
 > | [[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]] | [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]] |
 
 
-*Tales of the Academy* è una campagna ambientata su Harret iniziata nel Maggio del 2026. Ha come giocatori [[(Extra) Persone/Lorenzo Grassi\|Lorenzo Grassi]], [[(Extra) Persone/Lorenzo Camuso\|Lorenzo Camuso]] e [[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]]. E' ambientata nel [[Fazioni/Gilde/Accademia di Wissen\|Accademia di Wissen]], e ha come protagonisti un gruppo di studenti del primo anno.
+*Tales of the Academy* è una campagna ambientata su Harret iniziata nel Maggio del 2026. Ha come giocatori [[(Extra) Persone/Lorenzo Grassi\|Lorenzo Grassi]], [[(Extra) Persone/Lorenzo Camuso\|Lorenzo Camuso]] e [[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]]. E' ambientata nel [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]], e ha come protagonisti un gruppo di studenti del primo anno.
 ## Premessa
 
 C'è un detto sull'Accademia di Wissen. Tutti coloro che ne escono diventano grandi eroi... se ne escono vivi.

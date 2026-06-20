@@ -23,7 +23,7 @@ I Risvegliati sono un particolare tipo di golem di recente invenzione.
 In quanto costrutti i Risvegliati sono solito abitare ovunque vi siano umani o altre specie senzienti. Pertanto la maggior parte vive su Harret.
 
 ## Origini
-I Risvegliati sono l'ultima scoperta in ambito golem della [[Fazioni/Gilde/Gilda di Konstrukt\|Gilda di Konstrukt]]. I segreti per la loro creazione sono ancora super segreti. Solo i membri di più alto rango della gilda ne sono a conoscenza. 
+I Risvegliati sono l'ultima scoperta in ambito golem della [[Fazioni/Organizazioni/Gilde/Gilda di Konstrukt\|Gilda di Konstrukt]]. I segreti per la loro creazione sono ancora super segreti. Solo i membri di più alto rango della gilda ne sono a conoscenza. 
 
 Al momento sono i circolazione solo i Risvegliati di prima e di seconda generazione.
 

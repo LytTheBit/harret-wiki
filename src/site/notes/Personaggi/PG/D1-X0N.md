@@ -24,4 +24,4 @@
 > | Sottoclasse | Scuola della conoscenza |
 > | Livello | 1 |
 
-Membro della seconda generazione di [[Specie/Risvegliati\|Risvegliati]] della [[Fazioni/Gilde/Gilda di Konstrukt\|Gilda di Konstrukt]]. Ne esistono pochi come lui, solo un centinaio o anche meno.
+Membro della seconda generazione di [[Specie/Risvegliati\|Risvegliati]] della [[Fazioni/Organizazioni/Gilde/Gilda di Konstrukt\|Gilda di Konstrukt]]. Ne esistono pochi come lui, solo un centinaio o anche meno.

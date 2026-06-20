@@ -16,7 +16,7 @@
 > | Specie | [[Specie/Umani\|Umani]] |
 > | Età | ~70 |
 
-Vice preside del [[Fazioni/Gilde/Accademia di Wissen\|Accademia di Wissen]]. 
+Vice preside del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]]. 
 Vista la rarità delle volte in cui il preside si fa effettivamente vivo, de facto si comporta come preside della scuola.
 
 ## Legami

@@ -17,7 +17,7 @@
 > | Specie | [[Specie/Umani\|Umani]] |
 > | Età | ~20 |
 
-Studentessa del [[Fazioni/Gilde/Accademia di Wissen\|Accademia di Wissen]] e cameriera di [[Personaggi/NPC/Studenti Accademia di Wissen/Amity Dumar\|Amity Dumar]]. In qualche modo è stata ammessa nel accademia anche senza particolare talenti o senza essere di origine nobile. Probabilmente per meritò del amica... che forse voleva solo portarsi dietro una cameriera....
+Studentessa del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]] e cameriera di [[Personaggi/NPC/Studenti Accademia di Wissen/Amity Dumar\|Amity Dumar]]. In qualche modo è stata ammessa nel accademia anche senza particolare talenti o senza essere di origine nobile. Probabilmente per meritò del amica... che forse voleva solo portarsi dietro una cameriera....
 
 ## Legami
 Lei e la sua famiglia lavorano alla [[Magione Dumar\|Magione Dumar]]. 
