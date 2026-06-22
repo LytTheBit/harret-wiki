@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Enkidu Dantalion Qamar/","tags":["StudenteWissen","NPC"],"created":"2026-05-16T18:20:49.496+02:00","updated":"2026-06-17T22:16:34.536+02:00","dg-note-properties":{"aliases":["Enkidu"],"tags":["StudenteWissen","NPC"],"Template":"[[Persona NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Enkidu","Cognome":"[[Fazioni/Famiglie/Qamar\|Qamar]]","Specie":"[[Specie/Umani\|Umani]]","Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Enkidu Qamar 1.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Enkidu%20Qamar%201.png)"}}
+{"dg-publish":true,"permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Enkidu Dantalion Qamar/","tags":["StudenteWissen","NPC"],"created":"2026-05-16T18:20:49.496+02:00","updated":"2026-06-22T19:12:21.044+02:00","dg-note-properties":{"aliases":["Enkidu"],"tags":["StudenteWissen","NPC"],"Template":"[[Persona NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Enkidu","Cognome":"[[Fazioni/Famiglie/Qamar\|Qamar]]","Specie":"[[Specie/Umani\|Umani]]","Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Enkidu Qamar 1.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Enkidu%20Qamar%201.png)"}}
 ---
 
 > [!infobox|right]
@@ -18,6 +18,8 @@ Studente del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]] 
 
 ## Legami
 La sua famiglia, i [[Fazioni/Famiglie/Qamar\|Qamar]]: Duchi del omonimo [[Ducato di Qamar\|Ducato di Qamar]].
+
+E' imparentato alla lontana con [[Personaggi/NPC/Studenti Accademia di Wissen/Uta Napish\|Uta Napish]] per via di matrimoni dinastici.
 
 ## Aspetto e carattere
 E' un giovane ragazzo di bel aspetto. Alto, spalle larghe e capelli neri. Vestito sempre molto elegante.

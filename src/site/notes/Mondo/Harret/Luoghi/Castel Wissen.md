@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mondo/Harret/Luoghi/Castel Wissen/","contentClasses":"dg-cards","created":"2026-06-17T18:29:20.804+02:00","updated":"2026-06-19T18:11:42.019+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Posto]]","Tipo":"Istituzione","Regione":"[[Vette Grigie\|Vette Grigie]]","Affiliazione":"[[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]]","Immagine":"![Accademia di Wissen.png](/img/user/0-Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png)"}}
+{"dg-publish":true,"permalink":"/Mondo/Harret/Luoghi/Castel Wissen/","contentClasses":"dg-cards","created":"2026-06-17T18:29:20.804+02:00","updated":"2026-06-19T18:11:42.019+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Posto]]","Tipo":"Istituzione","Regione":"[[Mondo/Harret/Geografia/Vette Grigie\|Vette Grigie]]","Affiliazione":"[[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]]","Immagine":"![Accademia di Wissen.png](/img/user/0-Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png)"}}
 ---
 
 > [!infobox|right]
@@ -9,11 +9,11 @@
 > | Voce | Valore |
 > |------|---------|
 > | Tipo | Università / Istituzione |
-> | Posizione | [[Vette Grigie\|Vette Grigie]] |
+> | Posizione | [[Mondo/Harret/Geografia/Vette Grigie\|Vette Grigie]] |
 > | Costruzione | ~600 anni fa |
 > | Proprietario | [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]] |
 
-Castel Wissen è un antico castello situato sulle [[Vette Grigie\|Vette Grigie]], dimora del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]].
+Castel Wissen è un antico castello situato sulle [[Mondo/Harret/Geografia/Vette Grigie\|Vette Grigie]], dimora del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]].
 
 ## Descrizione
 Il castello appare come un agglomerato di edifici bianchi, in un materiale simil marmo ma più poroso e leggero. Si appoggia su diversi promontori della catena montuoso su cui sorge.

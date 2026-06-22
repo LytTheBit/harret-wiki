@@ -10,7 +10,7 @@
 > | Voce | Valore |
 > |------|---------|
 > | Tipo | Università / Istituzione |
-> | Posizione | [[Vette Grigie\|Vette Grigie]] |
+> | Posizione | [[Mondo/Harret/Geografia/Vette Grigie\|Vette Grigie]] |
 > | Affiliazione | Neutrale |
 > | Fondata | ~600 anni fa |
 >  ## Corpo insegnanti
@@ -25,7 +25,7 @@
 > | Insegnante di religione | [[Personaggi/NPC/Professori Accademia di Wissen/Padre Lucas Mimer\|Padre Lucas Mimer]] |
 > | Insegnante di natura | [[Personaggi/NPC/Professori Accademia di Wissen/Ryukyu Geoemyda\|Ryukyu Geoemyda]] |
 
-L'Accademia di Wissen è una prestigiosa università per eroi. Ha sede nel omonimo [[Mondo/Harret/Luoghi/Castel Wissen\|Castel Wissen]], in zona neutrale sulla catena montuosa delle [[Vette Grigie\|Vette Grigie]]. Fu fondata seicento anni fa da tre valorosi eroi dopo aver sconfitto un antico drago, e oggi conta sei percorsi di studi.
+L'Accademia di Wissen è una prestigiosa università per eroi. Ha sede nel omonimo [[Mondo/Harret/Luoghi/Castel Wissen\|Castel Wissen]], in zona neutrale sulla catena montuosa delle [[Mondo/Harret/Geografia/Vette Grigie\|Vette Grigie]]. Fu fondata seicento anni fa da tre valorosi eroi dopo aver sconfitto un antico drago, e oggi conta sei percorsi di studi.
 
 E' l'ambientazione principale della campagna [[Campagne/Tales of the Accademy/Tales of the Accademy\|Tales of the Accademy]]
 
@@ -77,7 +77,7 @@ Variante del dodgeball con palle da bowling magicamente alleggerite che rimbalza
 #### Professori
 |                                                                                          | Professori                                                                                    |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| ![Bidello Thom Laamp.png\|Bidello Thom Laamp.png](/img/user/Bidello%20Thom%20Laamp.png)                                      | [[Personaggi/NPC/Professori Accademia di Wissen/Bidello Thom Laamp\|Bidello Thom Laamp]]   |
+| ![0-Immagini/Bidello Thom Laamp.png\|Bidello Thom Laamp.png](/img/user/0-Immagini/Bidello%20Thom%20Laamp.png)                           | [[Personaggi/NPC/Professori Accademia di Wissen/Bidello Thom Laamp\|Bidello Thom Laamp]]   |
 | ![0-Immagini/Personaggi immagini/NPC/Gianpiero Arcangeli.png\|Gianpiero Arcangeli.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Gianpiero%20Arcangeli.png) | [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Gianpiero Arcangeli]] |
 | ![0-Immagini/Personaggi immagini/NPC/Pearl Violet.png\|Pearl Violet.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Pearl%20Violet.png)               | [[Personaggi/NPC/Professori Accademia di Wissen/Pearl Violet\|Pearl Violet]]               |
 
@@ -92,8 +92,10 @@ Al momento l'accademia conta più di mille studenti. Anche se è curioso notare 
 | ![0-Immagini/Personaggi immagini/NPC/Enkidu Qamar 1.png\|Enkidu Qamar 1.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Enkidu%20Qamar%201.png)                            | [[Personaggi/NPC/Studenti Accademia di Wissen/Enkidu Dantalion Qamar\|Enkidu Dantalion Qamar]] |
 | ![0-Immagini/Personaggi immagini/NPC/Lucy Nocida.png\|Lucy Nocida.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Lucy%20Nocida.png)                                  | [[Personaggi/NPC/Studenti Accademia di Wissen/Lucy Nocida\|Lucy Nocida]]                       |
 | ![0-Immagini/Personaggi immagini/PG/Lugalin Gilgamesh d’Aurelian.png\|Lugalin Gilgamesh d’Aurelian.png](/img/user/0-Immagini/Personaggi%20immagini/PG/Lugalin%20Gilgamesh%20d%E2%80%99Aurelian.png) | [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]]                   |
+| ![Marcus Ion.png\|Marcus Ion.png](/img/user/Marcus%20Ion.png)                                                                       | [[Personaggi/NPC/Studenti Accademia di Wissen/Marcus Ion\|Marcus Ion]]                         |
+| ![Marcus Ion.png\|Marcus Ion.png](/img/user/Marcus%20Ion.png)                                                                       | [[Personaggi/NPC/Studenti Accademia di Wissen/Marcus Ion old\|Marcus Ion old]]                 |
 | ![0-Immagini/Personaggi immagini/PG/Matamata.png\|Matamata.png](/img/user/0-Immagini/Personaggi%20immagini/PG/Matamata.png)                                         | [[Personaggi/PG/Mata Mata\|Mata Mata]]                                                         |
 | ![0-Immagini/Personaggi immagini/NPC/Poul.png\|Poul.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Poul.png)                                                | [[Personaggi/NPC/Studenti Accademia di Wissen/Poooooooooooooo...\|Poooooooooooooo...]]         |
-| ![Ruggie Kerma.png\|Ruggie Kerma.png](/img/user/Ruggie%20Kerma.png)                                                                   | [[Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma\|Ruggie Kerma]]                     |
+| ![0-Immagini/Ruggie Kerma.png\|Ruggie Kerma.png](/img/user/0-Immagini/Ruggie%20Kerma.png)                                                        | [[Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma\|Ruggie Kerma]]                     |
 
 { .block-language-dataview}

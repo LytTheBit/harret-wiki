@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fazioni/Organizazioni/Gilde/Gilda di Konstrukt/","contentClasses":"dg-cards","tags":["#Gilda","#Fazione","Konstrukt"],"created":"2026-05-11T21:06:32.232+02:00","updated":"2026-05-15T12:29:03.594+02:00","dg-note-properties":{"aliases":null,"tags":["#Gilda","#Fazione","Konstrukt"],"Template":"[[Gilda]]","Sede":"[[Posto]]","Capo":null,"Tipo di gilda":"Gilda di costruttori","Immagine":"![Gilda di Konstrukt.png](/img/user/0-Immagini/Stendardi%20immagini/Gilde%20immagini/Gilda%20di%20Konstrukt.png)"}}
+{"dg-publish":true,"permalink":"/Fazioni/Organizazioni/Gilde/Gilda di Konstrukt/","contentClasses":"dg-cards","tags":["#Gilda","#Fazione","Konstrukt"],"created":"2026-05-11T21:06:32.232+02:00","updated":"2026-06-22T12:22:11.040+02:00","dg-note-properties":{"aliases":null,"tags":["#Gilda","#Fazione","Konstrukt"],"Template":"[[Gilda]]","Sede":"[[Posto]]","Capo":null,"Tipo di gilda":"Gilda di costruttori","Immagine":"![Gilda di Konstrukt.png](/img/user/0-Immagini/Stendardi%20immagini/Gilde%20immagini/Gilda%20di%20Konstrukt.png)"}}
 ---
 
 
@@ -11,7 +11,7 @@
 > | Voce | Valore |
 > |------|---------|
 > | Sede | ??? |
-> | Capo | ??? |
+> | Capo | 200 anni fa |
 > | Tipo | Gilda di costruttori |
 
 La Gilda di Konstrukt è la più importante gilda di geomanti del continente, specializzata nella creazione di golem e nello sviluppo della geomanzia, l’arte arcana che permette di costruirli e animarli. Oltre a produrre e fornire golem ai vari regni, la gilda è soprattutto famosa per aver creato i [[Specie/Risvegliati\|Risvegliati]]: una nuova generazione di costrutti senzienti dotati di vera coscienza e capaci di restare attivi e usare magia senza dover essere ricaricati da un incantatore.
