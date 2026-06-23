@@ -43,7 +43,8 @@ Harry Potter, Persona, Percy Jackson, Fire Emblem: Three Houses, The Owl House, 
 
 |                                                                                | Sessioni                                                                                      |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
-| ![0-Immagini/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/0-Immagini/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 1 - riassunto\|Sessione 1 - riassunto]] |
+| ![0-Immagini/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/0-Immagini/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 1 - Riassunto\|Sessione 1 - Riassunto]] |
+| ![0-Immagini/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/0-Immagini/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 2 - Riassunto\|Sessione 2 - Riassunto]] |
 
 { .block-language-dataview}
 

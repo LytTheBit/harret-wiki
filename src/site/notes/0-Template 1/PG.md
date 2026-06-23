@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-Template 1/PG/","tags":["PG","V2"],"created":"2026-06-23T11:05:29.803+02:00","updated":"2026-06-23T15:06:52.520+02:00","dg-note-properties":{"aliases":[null],"tags":["PG","V2"],"Template":"[[PG]]","Sesso":null,"Stato":"Morto","Nome":null,"Cognome":null,"Specie":null,"Anno di nascita":1100,"Compleanno":null,"Capelli":null,"Carnagione":null,"Cibo preferito":null,"Giocatore":null,"Affiliazioni":null,"Campagna":[null],"Immagine":null}}
+{"dg-publish":true,"permalink":"/0-Template 1/PG/","tags":["PG","V2"],"created":"2026-06-23T11:05:29.803+02:00","updated":"2026-06-23T18:29:15.461+02:00","dg-note-properties":{"aliases":[null],"tags":["PG","V2"],"Template":"[[PG]]","Sesso":null,"Stato":"Morto","Nome":null,"Cognome":null,"Specie":null,"Anno di nascita":1100,"Compleanno":null,"Capelli":null,"Carnagione":null,"Cibo preferito":null,"Giocatore":null,"Affiliazioni":null,"Campagna":[null],"Immagine":null}}
 ---
 
 > [!infobox|right]
@@ -13,7 +13,7 @@
 > | Sesso | `= this.Sesso` |
 > | Specie | `= this.Specie` |
 > | Compleanno | `= this.Compleanno` |
-> | Età | 126 (morto) |
+> | Età | 127 (morto) |
 > | Giocatore | `= this.Giocatore` |
 > | Affiliato | `= this.Affiliazioni` |
 
@@ -44,17 +44,51 @@ Ha i capelli `= this.Capelli` e una carnagione `= this.Carnagione`. Il suo cibo 
 > ## Scheda: <Sistema> — <Nome campagna>
 > | Voce | Valore |
 > |------|---------|
+> | Ancestry | ... |
 > | Comunità | ... |
 > | Classe | ... |
 > | Sottoclasse | ... |
 > | Livello | ... |
+>  ## Stat
+> |Agi |Str|Fin|Ins|Pre|Kno|
+> |------|------|------|------|------|------|
+> | 1 | 1 | 1 | 1 | 1 | 1 |
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 ### Scheda D&D
+
 > [!infobox|right]
 > ## Scheda: <Sistema> — <Nome campagna>
 > | Voce | Valore |
 > |------|---------|
-> | Comunità | ... |
+> | Specie | ... |
+> | Background | ... |
 > | Classe | ... |
 > | Sottoclasse | ... |
 > | Livello | ... |
+>  ## Stat
+> | Str | Des | Cos | Int | Sag | Car |
+> |------|------|------|------|------|------|
+> | 1 | 1 | 1 | 1 | 1 | 1 |
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.

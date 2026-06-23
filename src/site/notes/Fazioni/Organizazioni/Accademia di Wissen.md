@@ -80,6 +80,7 @@ Variante del dodgeball con palle da bowling magicamente alleggerite che rimbalza
 | ![0-Immagini/Bidello Thom Laamp.png\|Bidello Thom Laamp.png](/img/user/0-Immagini/Bidello%20Thom%20Laamp.png)                           | [[Personaggi/NPC/Professori Accademia di Wissen/Bidello Thom Laamp\|Bidello Thom Laamp]]   |
 | ![0-Immagini/Personaggi immagini/NPC/Gianpiero Arcangeli.png\|Gianpiero Arcangeli.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Gianpiero%20Arcangeli.png) | [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Gianpiero Arcangeli]] |
 | ![0-Immagini/Personaggi immagini/NPC/Pearl Violet.png\|Pearl Violet.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Pearl%20Violet.png)               | [[Personaggi/NPC/Professori Accademia di Wissen/Pearl Violet\|Pearl Violet]]               |
+| ![0-Immagini/Personaggi immagini/NPC/Ryukyu Geoemyda.png\|Ryukyu Geoemyda.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Ryukyu%20Geoemyda.png)         | [[Personaggi/NPC/Professori Accademia di Wissen/Ryukyu Geoemyda\|Ryukyu Geoemyda]]         |
 
 { .block-language-dataview}
 #### Studenti
