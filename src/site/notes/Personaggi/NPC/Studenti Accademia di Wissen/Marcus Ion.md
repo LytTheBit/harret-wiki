@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Marcus Ion/","tags":["StudenteWissen","NPC"],"created":"2026-06-22T19:08:44.926+02:00","updated":"2026-06-22T22:34:13.827+02:00","dg-note-properties":{"aliases":["Marcus","Ion"],"tags":["StudenteWissen","NPC"],"Template":"[[Persona NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Marcus","Cognome":"[[Ion]]","Specie":"[[Umani]]","Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Marcus Ion.png](/img/user/Marcus%20Ion.png)"}}
+{"dg-publish":true,"permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Marcus Ion/","tags":["StudenteWissen","NPC"],"created":"2026-06-22T19:08:44.926+02:00","updated":"2026-06-22T22:34:13.827+02:00","dg-note-properties":{"aliases":["Marcus","Ion"],"tags":["StudenteWissen","NPC"],"Template":"[[Persona NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Marcus","Cognome":"[[Ion]]","Specie":"[[Umani]]","Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Marcus Ion.png](/img/user/0-Immagini/Marcus%20Ion.png)"}}
 ---
 
 > [!infobox|right]
 > # Marcus Ion
-> ![Marcus Ion.png\|Marcus Ion.png](/img/user/Marcus%20Ion.png)
+> ![Marcus Ion.png\|Marcus Ion.png](/img/user/0-Immagini/Marcus%20Ion.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|

@@ -7,4 +7,4 @@
 > Se hai idee per cibi da aggiungere al ambientazione non farti scrupoli a suggerirle!!!
 
 ## IppoLippo
-![IppoLippo.png\|right\|250](/img/user/IppoLippo.png)
+![IppoLippo.png\|right\|250](/img/user/0-Immagini/IppoLippo.png)

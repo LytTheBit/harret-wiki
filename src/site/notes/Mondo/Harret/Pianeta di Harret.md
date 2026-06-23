@@ -12,7 +12,7 @@
 Harret è il pianeta al centro del [[Mondo/Cosmo\|Cosmo]]. E' il pianeta più grande per dimensioni, ed anche quello con la più vasta biodiversità
 
 ## Storia
- Si racconta che sia stato creato dagli [[Religioni e Dei/Religione e divinità\|Dei]] nel luogo della loro vittoria sugli [[Arcidraghi\|Arcidraghi]] come simbolo della loro supremazia.
+ Si racconta che sia stato creato dagli [[Lore/Religione e divinità\|Dei]] nel luogo della loro vittoria sugli [[Arcidraghi\|Arcidraghi]] come simbolo della loro supremazia.
 Fu uno sforzo condiviso da tutti gli dei.
 
 ## Habitat

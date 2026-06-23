@@ -8,4 +8,4 @@
 
 
 ## Abeti spezzati
-![Pini spezzati bozza.png\|right\|250](/img/user/Pini%20spezzati%20bozza.png)
+![Pini spezzati bozza.png\|right\|250](/img/user/0-Immagini/Pini%20spezzati%20bozza.png)

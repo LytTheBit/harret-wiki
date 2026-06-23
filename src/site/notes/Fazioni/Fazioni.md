@@ -29,7 +29,7 @@ Una gilda è un organizzazione composta da privati cittadini, riuntiti in confed
 { .block-language-dataview}
 
 ## Religione 
-Culti dedicati a una o più divinità. Ordini monastici o religiosi, con scopi e ruoli differenti nella società. Per maggiori informazioni: [[Religioni e Dei/Religione e divinità\|Religione]]
+Culti dedicati a una o più divinità. Ordini monastici o religiosi, con scopi e ruoli differenti nella società. Per maggiori informazioni: [[Lore/Religione e divinità\|Religione]]
 |   | Fazioni |
 | - | ------- |
 

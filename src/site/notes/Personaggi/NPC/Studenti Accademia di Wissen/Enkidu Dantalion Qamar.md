@@ -14,7 +14,7 @@
 > | Specie | [[Specie/Umani\|Umani]] |
 > | Età | ~20 |
 
-Studente del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]] ed è il figlio primogenito della famiglia [[Fazioni/Famiglie/Qamar\|Qamar]] i duchi del omonimo [[Ducato di Qamar\|Ducato di Qamar]] del [[Regno di Xxx\|Regno di Xxx]]. E' un fervente credente del credo della [[Religioni e Dei/Dea della luna\|Dea della luna]]. 
+Studente del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]] ed è il figlio primogenito della famiglia [[Fazioni/Famiglie/Qamar\|Qamar]] i duchi del omonimo [[Ducato di Qamar\|Ducato di Qamar]] del [[Regno di Xxx\|Regno di Xxx]]. E' un fervente credente del credo della [[Dei/Dea della luna\|Dea della luna]]. 
 
 ## Legami
 La sua famiglia, i [[Fazioni/Famiglie/Qamar\|Qamar]]: Duchi del omonimo [[Ducato di Qamar\|Ducato di Qamar]].
@@ -27,4 +27,4 @@ E' un giovane ragazzo di bel aspetto. Alto, spalle larghe e capelli neri. Vestit
 E' estremamente popolare a scuola ed è sempre gentile con tutti, ma sembra avere un qualche astio nei confronti di [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Gilgamesh]].
 
 ## Capacità
-Sembra essere uno spadaccino molto capace, oltre ad avere le benedizioni della [[Religioni e Dei/Dea della luna\|Dea della luna]]
+Sembra essere uno spadaccino molto capace, oltre ad avere le benedizioni della [[Dei/Dea della luna\|Dea della luna]]

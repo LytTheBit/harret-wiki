@@ -30,7 +30,7 @@ La famiglia Qamar è la seconda più importante famiglia ducale del [[Regno di X
 ## Al giorno d'oggi
 Al giorno d'oggi gli Qamar sono una delle famiglie più ricche ed influenti del regno di [[Xxx\|Xxx]].
 Governano sul ricco [[Ducato di Qamar\|Ducato di Qamar]], produttori di argento e acciaio.
-A differenza della maggior parte delle famiglie del regno, che venerano il [[Religioni e Dei/Dio del sole\|Dio del sole]], loro venerano la [[Religioni e Dei/Dea della luna\|Dea della luna]].
+A differenza della maggior parte delle famiglie del regno, che venerano il [[Dei/Dio del sole\|Dio del sole]], loro venerano la [[Dei/Dea della luna\|Dea della luna]].
 Hanno una storica rivalità con la famiglia [[Fazioni/Famiglie/Aurelian\|Aurelian]].
 .
 .
