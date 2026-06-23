@@ -26,7 +26,7 @@ La famiglia Aurelian è la più importante famiglia ducale del [[Regno di Xxx\|R
 
 ## Al giorno d'oggi
 Al giorno d'oggi gli Aurelian sono una delle famiglie più ricche ed influenti del regno di [[Xxx\|Xxx]], se non addirittura del mondo intero.
-Governano sul ricco [[Ducato di Aurelian\|Ducato di Aurelian]], e venerano il [[Religioni e Dei/6 - Dio del sole/Dio del sole\|Dio del sole]].
+Governano sul ricco [[Ducato di Aurelian\|Ducato di Aurelian]], e venerano il [[Religioni e Dei/Dio del sole\|Dio del sole]].
 Hanno una storica rivalità con la famiglia [[Fazioni/Famiglie/Qamar\|Qamar]]
 .
 .
