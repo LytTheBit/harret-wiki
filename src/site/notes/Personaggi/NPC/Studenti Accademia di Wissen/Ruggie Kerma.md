@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma/","tags":["StudenteWissen","NPC"],"created":"2026-06-19T18:19:59.277+02:00","updated":"2026-06-19T18:27:32.187+02:00","dg-note-properties":{"aliases":["Ruggie"],"tags":["StudenteWissen","NPC"],"Template":"[[Persona NPC]]","Sesso":"Maschio","Stato":"Morto","Nome":"Ruggie","Cognome":"[[Kerma]]","Specie":"[[Specie/Umani\|Umani]]","Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Ruggie Kerma.png](/img/user/0-Immagini/Ruggie%20Kerma.png)"}}
+{"dg-publish":true,"permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma/","tags":["StudenteWissen","NPC"],"created":"2026-06-19T18:19:59.277+02:00","updated":"2026-06-19T18:27:32.187+02:00","dg-note-properties":{"aliases":["Ruggie"],"tags":["StudenteWissen","NPC"],"Template":"[[Persona NPC]]","Sesso":"Maschio","Stato":"Morto","Nome":"Ruggie","Cognome":"[[Kerma]]","Specie":"[[Specie/Umani\|Umani]]","Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Ruggie Kerma.png](/img/user/(0)%20Immagini/Ruggie%20Kerma.png)"}}
 ---
 
 > [!warning] Attenzione
@@ -7,7 +7,7 @@
 
 > [!infobox|right]
 > # Ruggie Kerma
-> ![Ruggie Kerma.png](/img/user/0-Immagini/Ruggie%20Kerma.png)
+> ![Ruggie Kerma.png](/img/user/(0)%20Immagini/Ruggie%20Kerma.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|

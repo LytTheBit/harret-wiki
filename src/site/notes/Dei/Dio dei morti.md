@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Dei/Dio dei morti/","tags":["#dio","Num11"],"created":"2026-05-08T22:41:06.551+02:00","updated":"2026-06-23T17:04:31.746+02:00","dg-note-properties":{"aliases":["Dio della morte","Il senza nome"],"tags":["#dio","Num11"],"Template":"[[Divinità]]","Sesso":"???","Stagione":"[[Stagione Ombrosa\|Stagione Ombrosa]]","Dominio":["Anime","Ombre","Ricordi","Morti"],"Culti":["[[Dei/11 - Dio dei morti/Ordine silente\|Ordine silente]]"],"Mese":"[[11° mese\|11° mese]]","Costellazione":"[[Dei/11 - Dio dei morti/Lume dei defunti\|Lume dei defunti]]","Nome":"-Senza nome-","Immagine":"![Dio dei morti.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/11%20-%20morte/Dio%20dei%20morti.png)"}}
+{"dg-publish":true,"permalink":"/Dei/Dio dei morti/","tags":["#dio","Num11"],"created":"2026-05-08T22:41:06.551+02:00","updated":"2026-06-24T15:40:43.672+02:00","dg-note-properties":{"aliases":["Dio della morte","Il senza nome"],"tags":["#dio","Num11"],"Template":"[[Divinità]]","Sesso":"???","Stagione":"[[Stagione Ombrosa\|Stagione Ombrosa]]","Dominio":["Anime","Ombre","Ricordi","Morti"],"Culti":["[[Dei/11 - Dio dei morti/Ordine silente\|Ordine silente]]"],"Mese":"[[11° mese\|11° mese]]","Costellazione":"[[Dei/11 - Dio dei morti/Lume dei defunti\|Lume dei defunti]]","Nome":"-Senza nome-","Immagine":"![Dio dei morti.png](/img/user/(0)%20Immagini/Costellazioni%20e%20Dei/11%20-%20morte/Dio%20dei%20morti.png)"}}
 ---
-
-# Dio dei morti
 
 > [!infobox|right]
 > # Dio dei morti
-> ![Dio dei morti.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/11%20-%20morte/Dio%20dei%20morti.png)
+> ![Dio dei morti.png](/img/user/(0)%20Immagini/Costellazioni%20e%20Dei/11%20-%20morte/Dio%20dei%20morti.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|

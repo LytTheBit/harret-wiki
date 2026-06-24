@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Specie/Risvegliati/","contentClasses":"dg-cards","tags":["Specie","Senziente","Risvegliato"],"created":"2026-05-11T18:47:45.286+02:00","updated":"2026-05-16T18:56:32.484+02:00","dg-note-properties":{"aliases":["Awoken","Risvegliato"],"tags":["Specie","Senziente","Risvegliato"],"Template":"[[Specie Senziente]]","Immagine":"![Risvegliato.png](/img/user/0-Immagini/Specie%20immagini/Risvegliato.png)","Stirpe":"Quinta stirpe"}}
+{"dg-publish":true,"permalink":"/Specie/Risvegliati/","contentClasses":"dg-cards","tags":["Specie","Senziente","Risvegliato"],"created":"2026-05-11T18:47:45.286+02:00","updated":"2026-05-16T18:56:32.484+02:00","dg-note-properties":{"aliases":["Awoken","Risvegliato"],"tags":["Specie","Senziente","Risvegliato"],"Template":"[[Specie Senziente]]","Immagine":"![Risvegliato.png](/img/user/(0)%20Immagini/Specie%20immagini/Risvegliato.png)","Stirpe":"Quinta stirpe"}}
 ---
 
 # Risvegliati
 > [!infobox|right]
 > # Risvegliato
-> ![Risvegliato.png](/img/user/0-Immagini/Specie%20immagini/Risvegliato.png)
+> ![Risvegliato.png](/img/user/(0)%20Immagini/Specie%20immagini/Risvegliato.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
@@ -36,6 +36,6 @@ Molte persone guardano con sospetto i Risvegliati, alcuni li ritengono una minac
 ## Risvegliati degni di nota
 |                                          | Risvegliati                         |
 | ---------------------------------------- | ----------------------------------- |
-| ![0-Immagini/Extra/Test.png\|Test.png](/img/user/0-Immagini/Extra/Test.png) | [[Personaggi/PG/D1-X0N\|D1-X0N]] |
+| ![[0-Immagini/Extra/Test.png\|Test.png]] | [[Personaggi/PG/D1-X0N\|D1-X0N]] |
 
 { .block-language-dataview}

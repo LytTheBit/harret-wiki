@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Mondo/Harret/Luoghi/Castel Wissen/","contentClasses":"dg-cards","created":"2026-06-17T18:29:20.804+02:00","updated":"2026-06-19T18:11:42.019+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Posto]]","Tipo":"Istituzione","Regione":"[[Mondo/Harret/Geografia/Vette Grigie\|Vette Grigie]]","Affiliazione":"[[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]]","Immagine":"![Accademia di Wissen.png](/img/user/0-Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png)"}}
+{"dg-publish":true,"permalink":"/Mondo/Harret/Luoghi/Castel Wissen/","contentClasses":"dg-cards","created":"2026-06-17T18:29:20.804+02:00","updated":"2026-06-24T15:36:49.392+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Posto]]","Tipo":"Istituzione","Regione":"[[Mondo/Harret/Geografia/Vette Grigie\|Vette Grigie]]","Affiliazione":"[[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]]","Immagine":"![Accademia di Wissen.png](/img/user/(0)%20Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png)"}}
 ---
 
 > [!infobox|right]
 > # Castel Wissen
-> ![0-Immagini/Luoghi immagini/Posti/Accademia di Wissen.png](/img/user/0-Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png)
+> ![Accademia di Wissen.png](/img/user/(0)%20Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|

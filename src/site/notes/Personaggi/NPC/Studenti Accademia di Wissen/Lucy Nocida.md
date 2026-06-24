@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Lucy Nocida/","tags":["StudenteWissen","NPC"],"created":"2026-05-16T18:35:24.704+02:00","updated":"2026-06-17T21:00:30.786+02:00","dg-note-properties":{"aliases":["Lucy"],"tags":["StudenteWissen","NPC"],"Template":"[[Persona NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Lucy","Cognome":"[[Nocida]]","Specie":"[[Specie/Umani\|Umani]]","Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Lucy Nocida.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Lucy%20Nocida.png)"}}
+{"dg-publish":true,"permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Lucy Nocida/","tags":["StudenteWissen","NPC"],"created":"2026-05-16T18:35:24.704+02:00","updated":"2026-06-17T21:00:30.786+02:00","dg-note-properties":{"aliases":["Lucy"],"tags":["StudenteWissen","NPC"],"Template":"[[Persona NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Lucy","Cognome":"[[Nocida]]","Specie":"[[Specie/Umani\|Umani]]","Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Lucy Nocida.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Lucy%20Nocida.png)"}}
 ---
 
 > [!warning] Attenzione
@@ -7,7 +7,7 @@
 
 > [!infobox|right]
 > # Lucy Nocida
-> ![Lucy Nocida.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Lucy%20Nocida.png)
+> ![Lucy Nocida.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Lucy%20Nocida.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|

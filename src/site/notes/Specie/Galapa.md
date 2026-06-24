@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Specie/Galapa/","contentClasses":"dg-cards","tags":["Specie","Senziente","Galapa"],"created":"2026-05-11T11:44:17.194+02:00","updated":"2026-05-23T11:43:36.632+02:00","dg-note-properties":{"aliases":["Tortle"],"tags":["Specie","Senziente","Galapa"],"Template":"[[Specie Senziente]]","Immagine":"![Galapa.png](/img/user/0-Immagini/Specie%20immagini/Galapa.png)","Stirpe":"Terza stirpe"}}
+{"dg-publish":true,"permalink":"/Specie/Galapa/","contentClasses":"dg-cards","tags":["Specie","Senziente","Galapa"],"created":"2026-05-11T11:44:17.194+02:00","updated":"2026-05-23T11:43:36.632+02:00","dg-note-properties":{"aliases":["Tortle"],"tags":["Specie","Senziente","Galapa"],"Template":"[[Specie Senziente]]","Immagine":"![Galapa.png](/img/user/(0)%20Immagini/Specie%20immagini/Galapa.png)","Stirpe":"Terza stirpe"}}
 ---
 
 # GALAPA
 > [!infobox|right]
 > # Galapa
-> ![Galapa.png](/img/user/0-Immagini/Specie%20immagini/Galapa.png)
+> ![Galapa.png](/img/user/(0)%20Immagini/Specie%20immagini/Galapa.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
@@ -38,7 +38,7 @@ Sono tendenzialmente ben visti. Alcuni li temono per via della loro natura da re
 ## Galapa degni di nota
 |                                                                                  | Galapa                                                                                |
 | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| ![0-Immagini/Personaggi immagini/PG/Matamata.png\|Matamata.png](/img/user/0-Immagini/Personaggi%20immagini/PG/Matamata.png)                | [[Personaggi/PG/Mata Mata\|Mata Mata]]                                             |
-| ![0-Immagini/Personaggi immagini/NPC/Ryukyu Geoemyda.png\|Ryukyu Geoemyda.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Ryukyu%20Geoemyda.png) | [[Personaggi/NPC/Professori Accademia di Wissen/Ryukyu Geoemyda\|Ryukyu Geoemyda]] |
+| ![[0-Immagini/Personaggi immagini/PG/Matamata.png\|Matamata.png]]                | [[Personaggi/PG/Mata Mata\|Mata Mata]]                                             |
+| ![[0-Immagini/Personaggi immagini/NPC/Ryukyu Geoemyda.png\|Ryukyu Geoemyda.png]] | [[Personaggi/NPC/Professori Accademia di Wissen/Ryukyu Geoemyda\|Ryukyu Geoemyda]] |
 
 { .block-language-dataview}

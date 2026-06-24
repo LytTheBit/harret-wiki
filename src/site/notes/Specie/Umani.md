@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Specie/Umani/","contentClasses":"dg-cards","tags":["Specie","Senziente","Umano"],"created":"2026-05-11T21:42:02.514+02:00","updated":"2026-05-16T18:56:02.169+02:00","dg-note-properties":{"aliases":["Tallman"],"tags":["Specie","Senziente","Umano"],"Template":"[[Specie Senziente]]","Immagine":"![Umani.jpg](/img/user/0-Immagini/Specie%20immagini/Umani.jpg)","Stirpe":"Quarta stirpe"}}
+{"dg-publish":true,"permalink":"/Specie/Umani/","contentClasses":"dg-cards","tags":["Specie","Senziente","Umano"],"created":"2026-05-11T21:42:02.514+02:00","updated":"2026-05-16T18:56:02.169+02:00","dg-note-properties":{"aliases":["Tallman"],"tags":["Specie","Senziente","Umano"],"Template":"[[Specie Senziente]]","Immagine":"![Umani.jpg](/img/user/(0)%20Immagini/Specie%20immagini/Umani.jpg)","Stirpe":"Quarta stirpe"}}
 ---
 
 # Umani
 > [!infobox|right]
 > # Umani
-> ![Umani.jpg](/img/user/0-Immagini/Specie%20immagini/Umani.jpg)
+> ![Umani.jpg](/img/user/(0)%20Immagini/Specie%20immagini/Umani.jpg)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
@@ -36,15 +36,16 @@ Il rapporto con le altre specie varia molto da persona a persona. Sono molto dif
 ## Umani degni di nota
 |                                                                                                           | Umani                                                                                             |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| ![0-Immagini/Personaggi immagini/NPC/Amity Dumar.png\|Amity Dumar.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Amity%20Dumar.png)                                  | [[Personaggi/NPC/Studenti Accademia di Wissen/Amity Dumar\|Amity Dumar]]                       |
-| ![0-Immagini/Personaggi immagini/NPC/Enkidu Qamar 1.png\|Enkidu Qamar 1.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Enkidu%20Qamar%201.png)                            | [[Personaggi/NPC/Studenti Accademia di Wissen/Enkidu Dantalion Qamar\|Enkidu Dantalion Qamar]] |
-| ![0-Immagini/Personaggi immagini/NPC/Gianpiero Arcangeli.png\|Gianpiero Arcangeli.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Gianpiero%20Arcangeli.png)                  | [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Gianpiero Arcangeli]]     |
-| ![0-Immagini/Personaggi immagini/NPC/Lucy Nocida.png\|Lucy Nocida.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Lucy%20Nocida.png)                                  | [[Personaggi/NPC/Studenti Accademia di Wissen/Lucy Nocida\|Lucy Nocida]]                       |
-| ![0-Immagini/Personaggi immagini/PG/Lugalin Gilgamesh d’Aurelian.png\|Lugalin Gilgamesh d’Aurelian.png](/img/user/0-Immagini/Personaggi%20immagini/PG/Lugalin%20Gilgamesh%20d%E2%80%99Aurelian.png) | [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]]                   |
-| ![Marcus Ion.png\|Marcus Ion.png](/img/user/0-Immagini/Marcus%20Ion.png)                                                                       | [[Personaggi/NPC/Studenti Accademia di Wissen/Marcus Ion\|Marcus Ion]]                         |
-| ![0-Immagini/Marcus Ion.png\|Marcus Ion.png](/img/user/0-Immagini/Marcus%20Ion.png)                                                            | [[Personaggi/NPC/Studenti Accademia di Wissen/Marcus Ion old\|Marcus Ion old]]                 |
-| ![0-Immagini/Personaggi immagini/NPC/Pearl Violet.png\|Pearl Violet.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Pearl%20Violet.png)                                | [[Personaggi/NPC/Professori Accademia di Wissen/Pearl Violet\|Pearl Violet]]                   |
-| ![0-Immagini/Ruggie Kerma.png\|Ruggie Kerma.png](/img/user/0-Immagini/Ruggie%20Kerma.png)                                                        | [[Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma\|Ruggie Kerma]]                     |
+| ![[0-Immagini/Personaggi immagini/NPC/Amity Dumar.png\|Amity Dumar.png]]                                  | [[Personaggi/NPC/Studenti Accademia di Wissen/Amity Dumar\|Amity Dumar]]                       |
+| ![[0-Immagini/Personaggi immagini/NPC/Enkidu Qamar 1.png\|Enkidu Qamar 1.png]]                            | [[Personaggi/NPC/Studenti Accademia di Wissen/Enkidu Dantalion Qamar\|Enkidu Dantalion Qamar]] |
+| ![[0-Immagini/Personaggi immagini/NPC/Gianpiero Arcangeli.png\|Gianpiero Arcangeli.png]]                  | [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Gianpiero Arcangeli]]     |
+| ![[0-Immagini/Personaggi immagini/NPC/Lucy Nocida.png\|Lucy Nocida.png]]                                  | [[Personaggi/NPC/Studenti Accademia di Wissen/Lucy Nocida\|Lucy Nocida]]                       |
+| ![[0-Immagini/Personaggi immagini/PG/Lugalin Gilgamesh d’Aurelian.png\|Lugalin Gilgamesh d’Aurelian.png]] | [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]]                   |
+| ![(0) Immagini/Marcus Ion.png\|Marcus Ion.png](/img/user/(0)%20Immagini/Marcus%20Ion.png)                                                          | [[Personaggi/NPC/Studenti Accademia di Wissen/Marcus Ion\|Marcus Ion]]                         |
+| ![[0-Immagini/Personaggi immagini/NPC/Pearl Violet.png\|Pearl Violet.png]]                                | [[Personaggi/NPC/Professori Accademia di Wissen/Pearl Violet\|Pearl Violet]]                   |
+| ![[0-Immagini/Ruggie Kerma.png\|Ruggie Kerma.png]]                                                        | [[Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma\|Ruggie Kerma]]                     |
+| ![(0) Immagini/Personaggi immagini/NPC/Sarah Strong.png\|Sarah Strong.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Sarah%20Strong.png)                              | [[Personaggi/NPC/Studenti Accademia di Wissen/Sarah Strong\|Sarah Strong]]                     |
+| ![(0) Immagini/Personaggi immagini/NPC/Uta Napish.png\|Uta Napish.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Uta%20Napish.png)                                  | [[Personaggi/NPC/Studenti Accademia di Wissen/Uta Napish\|Uta Napish]]                         |
 
 { .block-language-dataview}
 

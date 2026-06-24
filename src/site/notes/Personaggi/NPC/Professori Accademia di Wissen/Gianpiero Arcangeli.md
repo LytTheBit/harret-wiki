@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli/","tags":["NPC","ProfessoriWissen"],"created":"2026-05-16T18:35:31.209+02:00","updated":"2026-06-17T21:01:12.322+02:00","dg-note-properties":{"aliases":["Gianpiero","Piero"],"tags":["NPC","ProfessoriWissen"],"Template":"[[Persona NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Gianpiero","Cognome":"[[Arcangeli]]","Specie":"[[Specie/Umani\|Umani]]","Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Gianpiero Arcangeli.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Gianpiero%20Arcangeli.png)"}}
+{"dg-publish":true,"permalink":"/Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli/","tags":["NPC","ProfessoriWissen"],"created":"2026-05-16T18:35:31.209+02:00","updated":"2026-06-17T21:01:12.322+02:00","dg-note-properties":{"aliases":["Gianpiero","Piero"],"tags":["NPC","ProfessoriWissen"],"Template":"[[Persona NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Gianpiero","Cognome":"[[Arcangeli]]","Specie":"[[Specie/Umani\|Umani]]","Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Gianpiero Arcangeli.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Gianpiero%20Arcangeli.png)"}}
 ---
 
 # Gianpiero Arcangeli
 
 > [!infobox|right]
 > # Gianpiero Arcangeli
-> ![Gianpiero Arcangeli.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Gianpiero%20Arcangeli.png)
+> ![Gianpiero Arcangeli.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Gianpiero%20Arcangeli.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|

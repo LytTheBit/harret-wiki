@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Personaggi/NPC/Professori Accademia di Wissen/Ryukyu Geoemyda/","tags":["NPC","ProfessoriWissen"],"created":"2026-05-17T10:48:43.637+02:00","updated":"2026-06-23T19:21:21.659+02:00","dg-note-properties":{"aliases":["Ryukyu","Professor Geoemyda"],"tags":["NPC","ProfessoriWissen"],"Template":"[[Persona NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Ryukyu","Cognome":"[[Geoemyda]]","Specie":"[[Specie/Galapa\|Galapa]]","Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Ryukyu Geoemyda.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Ryukyu%20Geoemyda.png)"}}
+{"dg-publish":true,"permalink":"/Personaggi/NPC/Professori Accademia di Wissen/Ryukyu Geoemyda/","tags":["NPC","ProfessoriWissen"],"created":"2026-05-17T10:48:43.637+02:00","updated":"2026-06-23T19:45:23.793+02:00","dg-note-properties":{"aliases":["Ryukyu","Professor Geoemyda"],"tags":["NPC","ProfessoriWissen"],"Template":"[[Persona NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Ryukyu","Cognome":"[[Geoemyda]]","Specie":"[[Specie/Galapa\|Galapa]]","Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Ryukyu Geoemyda.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Ryukyu%20Geoemyda.png)"}}
 ---
-
-# Ryukyu Geoemyda
 
 > [!infobox|right]
 > # Ryukyu Geoemyda
-> ![Ryukyu Geoemyda.png](/img/user/0-Immagini/Personaggi%20immagini/NPC/Ryukyu%20Geoemyda.png)
+> ![Ryukyu Geoemyda.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Ryukyu%20Geoemyda.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
@@ -14,7 +12,7 @@
 > | Cognome | Geoemyda |
 > | Sesso | Maschio |
 > | Specie | [[Specie/Galapa\|Galapa]] |
-> | Età | ~60 |
+> | Età | ~80 |
 
 Vice preside del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]]. 
 Vista la rarità delle volte in cui il preside si fa effettivamente vivo, de facto si comporta come preside della scuola.

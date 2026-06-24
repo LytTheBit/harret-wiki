@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Campagne/Tales of the Accademy/Sessioni/Sessione 1 - Riassunto/","created":"2026-06-23T18:52:42.693+02:00","updated":"2026-06-19T18:19:16.134+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Sessione - riassunto]]","Campagna":"[[Tales of the Accademy]]","Data sessione":"13/06/2026","Players":["[[(Extra) Persone/Lorenzo Camuso\|Lorenzo Camuso]]","[[(Extra) Persone/Lorenzo Grassi\|Lorenzo Grassi]]","[[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]]"],"PG":["[[Personaggi/PG/Mata Mata\|Mata Mata]]","[[Personaggi/PG/D1-X0N\|D1-X0N]]","[[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Gilgamesh]]"],"Sessione numero":"1","Immagine":"![Icona Tales of the Academy.png](/img/user/0-Immagini/Icona%20Tales%20of%20the%20Academy.png)"}}
+{"dg-publish":true,"permalink":"/Campagne/Tales of the Accademy/Sessioni/Sessione 1 - Riassunto/","created":"2026-05-07T12:25:58.539+02:00","updated":"2026-06-24T15:26:39.266+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Sessione - riassunto]]","Campagna":"[[Tales of the Accademy]]","Data sessione":"13/06/2026","Players":["[[(Extra) Persone/Lorenzo Camuso\|Lorenzo Camuso]]","[[(Extra) Persone/Lorenzo Grassi\|Lorenzo Grassi]]","[[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]]","[[(Extra) Persone/Luisa Seres\|Luisa Seres]]"],"PG":["[[Personaggi/PG/Mata Mata\|Mata Mata]]","[[Personaggi/PG/D1-X0N\|D1-X0N]]","[[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Gilgamesh]]"],"Sessione numero":"1","Immagine":"![Icona Tales of the Academy.png](/img/user/(0)%20Immagini/Icona%20Tales%20of%20the%20Academy.png)"}}
 ---
+
+Ad assistere la sessione è venuta anche [[(Extra) Persone/Luisa Seres\|Luisa Seres]].
 
 Siamo nel [[9° mese\|9° mese]], nella [[Lore/Stagioni su Harret#Stagione Ventosa\|Stagione Ventosa]].
 
@@ -32,13 +34,21 @@ Inizia la prima lezione. Lezione di magia con la professoressa [[Personaggi/NPC/
 
 Dopo di che i tre si recano in [[Mondo/Harret/Luoghi/Castel Wissen#Biblioteca\|Biblioteca]]. 
 - [[Personaggi/PG/D1-X0N\|D1-X0N]] trova un libro sui fondamenti della [[Geomanzia\|Geomanzia]], cominciando a decifrare i suoi [[Campagne/Tales of the Accademy/Quest e misteri/Documenti da decifrare\|Documenti da decifrare]]
+> [!quote] Pagina 1 parte 1
+Ripasso sulla natura dei Golem.
+I golem per come li conosciamo oggi sono diventati comuni circa II secoli fa. I primi esemplari risalgono a III secoli fa, e i primissimi esperimenti di marionette (i precursori dei golem) anche più vecchie.
+Un golem può tecnicamente essere di qualsiasi materiale e avere qualsiasi forma. Ma tanto più un golem ha una forma umanoide e tanto più è facile che la magia per animarli attacchi.
+Materiali come Legno, Ferro, e Pietra sono spesso i più usati. Quest’ultima, la pietra, è il più comune in assoluto. Motivo per cui col tempo i costruttori di golem hanno preso il nome di “Geomanti”.
+Geomanti diversi hanno stili diversi. Alcuni tipi famosi di golem sono: Marionette, Gargoil, Spaventapasseri Animati, Statue d’argilla, alcuni tipi di Armature Animate, e le più comuni: Statue di pietra.
 - [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Gilgamesh]] mette assieme alcune informazioni sulla famiglia [[Strong\|Strong]]. Pare che derivi dal cavaliere che ha fondato l'[[Fazioni/Organizazioni/Accademia di Wissen#Storia\|Accademia di Wissen]] secoli addietro.
-- [[Fazioni/Famiglie/Mata\|Mata]] prova ad esplorare l'accademia... ma `fallisce il tiro` e rischia di cadere di sotto
+  Una parte della famiglia (quella delle due sorelle) ha mantenuto il titolo di Cavalieri, mentre l'altra è salita al titolo di Conti.
+- [[Fazioni/Famiglie/Mata\|Mata]] prova ad esplorare l'accademia... ma `fallisce il tiro` e rischia di cadere di sotto. 
+  Il [[Personaggi/NPC/Professori Accademia di Wissen/Bidello Thom Laamp\|Il Bidello]] aveva provato a sabotare la scala...
 
 Il gruppo torna nelle loro camere. E durante la notte ricevono tutti un biglietto che li invita ad un [[Campagne/Tales of the Accademy/Quest e misteri/Rito di iniziazione\|Rito di iniziazione]] il mese prossimo.
 
 ## Immagini
 Foto by [[(Extra) Persone/Lorenzo Camuso\|Camiu]]:
-![Pasted image 20260617215633.png\|325](/img/user/0-Immagini/Campagne/Accademy/Sessione%201/Pasted%20image%2020260617215633.png) ![Pasted image 20260617215638.png\|325](/img/user/0-Immagini/Campagne/Accademy/Sessione%201/Pasted%20image%2020260617215638.png)![Pasted image 20260617215647.png\|325](/img/user/0-Immagini/Campagne/Accademy/Sessione%201/Pasted%20image%2020260617215647.png) ![Pasted image 20260617215653.png\|325](/img/user/0-Immagini/Campagne/Accademy/Sessione%201/Pasted%20image%2020260617215653.png) 
-![Pasted image 20260617215658.png\|325](/img/user/0-Immagini/Campagne/Accademy/Sessione%201/Pasted%20image%2020260617215658.png) ![Pasted image 20260617215709.png\|325](/img/user/0-Immagini/Campagne/Accademy/Sessione%201/Pasted%20image%2020260617215709.png) 
-![Rito di iniziazione.png\|651](/img/user/0-Immagini/Campagne/Accademy/Sessione%201/Rito%20di%20iniziazione.png)
+![Pasted image 20260617215633.png\|325](/img/user/(0)%20Immagini/Campagne/Accademy/Sessione%201/Pasted%20image%2020260617215633.png) ![Pasted image 20260617215638.png\|325](/img/user/(0)%20Immagini/Campagne/Accademy/Sessione%201/Pasted%20image%2020260617215638.png)![Pasted image 20260617215647.png\|325](/img/user/(0)%20Immagini/Campagne/Accademy/Sessione%201/Pasted%20image%2020260617215647.png) ![Pasted image 20260617215653.png\|325](/img/user/(0)%20Immagini/Campagne/Accademy/Sessione%201/Pasted%20image%2020260617215653.png) 
+![Pasted image 20260617215658.png\|325](/img/user/(0)%20Immagini/Campagne/Accademy/Sessione%201/Pasted%20image%2020260617215658.png) ![Pasted image 20260617215709.png\|325](/img/user/(0)%20Immagini/Campagne/Accademy/Sessione%201/Pasted%20image%2020260617215709.png) 
+![Rito di iniziazione.png\|651](/img/user/(0)%20Immagini/Campagne/Accademy/Sessione%201/Rito%20di%20iniziazione.png)

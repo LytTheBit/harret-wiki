@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Dei/Dio del sole/","tags":["#dio","Num6"],"created":"2026-05-11T19:07:40.401+02:00","updated":"2026-06-23T16:04:48.363+02:00","dg-note-properties":{"aliases":["Dio della luce","Aurelius","Re degli dei"],"tags":["#dio","Num6"],"Template":"[[Divinità]]","Sesso":"Maschio","Stagione":"[[Stagione Radiosa\|Stagione Radiosa]]","Dominio":["Sole","Luce","Gloria","Onore"],"Culti":null,"Mese":"[[6° mese\|6° mese]]","Costellazione":"[[Sole del mattino\|Sole del mattino]]","Nome":"Aurelius","Immagine":"![Dio del sole.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/6%20-%20sole/Dio%20del%20sole.png)"}}
+{"dg-publish":true,"permalink":"/Dei/Dio del sole/","tags":["#dio","Num6"],"created":"2026-05-11T19:07:40.401+02:00","updated":"2026-06-24T15:40:41.176+02:00","dg-note-properties":{"aliases":["Dio della luce","Aurelius","Re degli dei"],"tags":["#dio","Num6"],"Template":"[[Divinità]]","Sesso":"Maschio","Stagione":"[[Stagione Radiosa\|Stagione Radiosa]]","Dominio":["Sole","Luce","Gloria","Onore"],"Culti":null,"Mese":"[[6° mese\|6° mese]]","Costellazione":"[[Sole del mattino\|Sole del mattino]]","Nome":"Aurelius","Immagine":"![Dio del sole.png](/img/user/(0)%20Immagini/Costellazioni%20e%20Dei/6%20-%20sole/Dio%20del%20sole.png)"}}
 ---
-
-# Dio del sole
 
 > [!infobox|right]
 > # Dio del sole
-> ![Dio del sole.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/6%20-%20sole/Dio%20del%20sole.png)
+> ![Dio del sole.png](/img/user/(0)%20Immagini/Costellazioni%20e%20Dei/6%20-%20sole/Dio%20del%20sole.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|

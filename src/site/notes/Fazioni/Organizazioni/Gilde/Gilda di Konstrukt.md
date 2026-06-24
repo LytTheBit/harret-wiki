@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/Fazioni/Organizazioni/Gilde/Gilda di Konstrukt/","contentClasses":"dg-cards","tags":["#Gilda","#Fazione","Konstrukt"],"created":"2026-05-11T21:06:32.232+02:00","updated":"2026-06-22T12:22:11.040+02:00","dg-note-properties":{"aliases":null,"tags":["#Gilda","#Fazione","Konstrukt"],"Template":"[[Gilda]]","Sede":"[[Posto]]","Capo":null,"Tipo di gilda":"Gilda di costruttori","Immagine":"![Gilda di Konstrukt.png](/img/user/0-Immagini/Stendardi%20immagini/Gilde%20immagini/Gilda%20di%20Konstrukt.png)"}}
+{"dg-publish":true,"permalink":"/Fazioni/Organizazioni/Gilde/Gilda di Konstrukt/","contentClasses":"dg-cards","tags":["#Gilda","#Fazione","Konstrukt"],"created":"2026-05-11T21:06:32.232+02:00","updated":"2026-06-22T12:22:11.040+02:00","dg-note-properties":{"aliases":null,"tags":["#Gilda","#Fazione","Konstrukt"],"Template":"[[Gilda]]","Sede":"[[Posto]]","Capo":null,"Tipo di gilda":"Gilda di costruttori","Immagine":"![Gilda di Konstrukt.png](/img/user/(0)%20Immagini/Stendardi%20immagini/Gilde%20immagini/Gilda%20di%20Konstrukt.png)"}}
 ---
 
 
 # Gilda di Konstrukt
 > [!infobox|right]
 > # Gilda di Konstrukt
-> ![Gilda di Konstrukt.png](/img/user/0-Immagini/Stendardi%20immagini/Gilde%20immagini/Gilda%20di%20Konstrukt.png)
+> ![Gilda di Konstrukt.png](/img/user/(0)%20Immagini/Stendardi%20immagini/Gilde%20immagini/Gilda%20di%20Konstrukt.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
@@ -27,6 +27,6 @@ La gilda gode di grande influenza politica e accademica, avendo rapporti diretti
 ## Membri della Gilda di Konstrukt
 |                                          | Membri della Gilda di Konstrukt     |
 | ---------------------------------------- | ----------------------------------- |
-| ![0-Immagini/Extra/Test.png\|Test.png](/img/user/0-Immagini/Extra/Test.png) | [[Personaggi/PG/D1-X0N\|D1-X0N]] |
+| ![[0-Immagini/Extra/Test.png\|Test.png]] | [[Personaggi/PG/D1-X0N\|D1-X0N]] |
 
 { .block-language-dataview}

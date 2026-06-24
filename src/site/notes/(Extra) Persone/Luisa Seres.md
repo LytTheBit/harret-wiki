@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/(Extra) Persone/Luisa Seres/","tags":["Player"],"created":"2026-05-07T18:08:17.035+02:00","updated":"2026-05-12T14:12:28.539+02:00","dg-note-properties":{"aliases":["Luisa","Lu"],"tags":["Player"],"Template":"[[Persona Reale]]","Sesso":"Maschio","Nascita":"04/05/2001","Immagine":"![Luisa Seres.png](/img/user/0-Immagini/Persone%20foto/Luisa%20Seres.png)"}}
+{"dg-publish":true,"permalink":"/(Extra) Persone/Luisa Seres/","tags":["Player"],"created":"2026-05-07T18:08:17.035+02:00","updated":"2026-05-12T14:12:28.539+02:00","dg-note-properties":{"aliases":["Luisa","Lu"],"tags":["Player"],"Template":"[[Persona Reale]]","Sesso":"Maschio","Nascita":"04/05/2001","Immagine":"![Luisa Seres.png](/img/user/(0)%20Immagini/Persone%20foto/Luisa%20Seres.png)"}}
 ---
 
 # Luisa Seres
 
 > [!infobox|right]
 > # Luisa Seres
-> ![Luisa Seres.png](/img/user/0-Immagini/Persone%20foto/Luisa%20Seres.png)
+> ![Luisa Seres.png](/img/user/(0)%20Immagini/Persone%20foto/Luisa%20Seres.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|

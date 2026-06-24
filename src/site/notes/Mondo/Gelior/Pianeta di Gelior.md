@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Mondo/Gelior/Pianeta di Gelior/","contentClasses":"dg-cards","created":"2026-05-15T19:48:50.401+02:00","updated":"2026-06-17T22:25:15.291+02:00","dg-note-properties":{"aliases":["Gelior","Luna del acqua","Piano del acqua"],"tags":null,"Template":"[[Corpo Celeste]]","Immagine":"![Gelior.png](/img/user/0-Immagini/Luoghi%20immagini/Pianeti/Gelior.png)"}}
+{"dg-publish":true,"permalink":"/Mondo/Gelior/Pianeta di Gelior/","contentClasses":"dg-cards","created":"2026-05-15T19:48:50.401+02:00","updated":"2026-06-17T22:25:15.291+02:00","dg-note-properties":{"aliases":["Gelior","Luna del acqua","Piano del acqua"],"tags":null,"Template":"[[Corpo Celeste]]","Immagine":"![Gelior.png](/img/user/(0)%20Immagini/Luoghi%20immagini/Pianeti/Gelior.png)"}}
 ---
 
 > [!infobox|right]
 > # Pianeta di Harret
-> ![Gelior.png](/img/user/0-Immagini/Luoghi%20immagini/Pianeti/Gelior.png)
+> ![Gelior.png](/img/user/(0)%20Immagini/Luoghi%20immagini/Pianeti/Gelior.png)
 > ## Dettagli
 > *Il piano del acqua. Dove onde bollenti e ghiacci perenni si incontrano.*
 

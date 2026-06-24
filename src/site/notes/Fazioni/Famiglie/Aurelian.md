@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Fazioni/Famiglie/Aurelian/","contentClasses":"dg-cards","tags":["#Famiglia","#Fazione","Aurelian"],"created":"2026-05-12T13:49:21.401+02:00","updated":"2026-06-18T11:04:55.399+02:00","dg-note-properties":{"aliases":null,"tags":["#Famiglia","#Fazione","Aurelian"],"Template":"[[Famiglia]]","Motto":"*\"Il sole non tramonta mai sulla Casata Aurelion.\"*","Capofamiglia":"[[Persona NPC]]","Regno":"[[Ducato di Aurelian\|Ducato di Aurelian]]","Sede":"[[Posto]]","Rango nobiliare":"Duchi","Immagine":"![Aurelian.png](/img/user/0-Immagini/Stendardi%20immagini/Gilde%20immagini/Aurelian.png)"}}
+{"dg-publish":true,"permalink":"/Fazioni/Famiglie/Aurelian/","contentClasses":"dg-cards","tags":["#Famiglia","#Fazione","Aurelian"],"created":"2026-05-12T13:49:21.401+02:00","updated":"2026-06-18T11:04:55.399+02:00","dg-note-properties":{"aliases":null,"tags":["#Famiglia","#Fazione","Aurelian"],"Template":"[[Famiglia]]","Motto":"*\"Il sole non tramonta mai sulla Casata Aurelion.\"*","Capofamiglia":"[[Persona NPC]]","Regno":"[[Ducato di Aurelian\|Ducato di Aurelian]]","Sede":"[[Posto]]","Rango nobiliare":"Duchi","Immagine":"![Aurelian.png](/img/user/(0)%20Immagini/Stendardi%20immagini/Gilde%20immagini/Aurelian.png)"}}
 ---
 
 > [!infobox|right]
 > # ...
-> ![Aurelian.png](/img/user/0-Immagini/Stendardi%20immagini/Gilde%20immagini/Aurelian.png)
+> ![Aurelian.png](/img/user/(0)%20Immagini/Stendardi%20immagini/Gilde%20immagini/Aurelian.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
@@ -35,7 +35,7 @@ Hanno una storica rivalità con la famiglia [[Fazioni/Famiglie/Qamar\|Qamar]]
 ## Membri della Famiglia ...
 |                                                                                                           | Membri della Famiglia Aurelian                                                  |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| ![0-Immagini/Personaggi immagini/PG/Lugalin Gilgamesh d’Aurelian.png\|Lugalin Gilgamesh d’Aurelian.png](/img/user/0-Immagini/Personaggi%20immagini/PG/Lugalin%20Gilgamesh%20d%E2%80%99Aurelian.png) | [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]] |
+| ![[0-Immagini/Personaggi immagini/PG/Lugalin Gilgamesh d’Aurelian.png\|Lugalin Gilgamesh d’Aurelian.png]] | [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]] |
 
 { .block-language-dataview}
 

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/(Extra) Persone/Lorenzo Grassi/","tags":["Player"],"created":"2026-05-07T18:06:28.400+02:00","updated":"2026-06-23T19:13:06.847+02:00","dg-note-properties":{"aliases":["Lore","Grassi"],"tags":["Player"],"Template":"[[Persona Reale]]","Sesso":"Maschio","Nascita":"05/09/2002","Immagine":"![Lorenzo Grassi.png](/img/user/0-Immagini/Persone%20foto/Lorenzo%20Grassi.png)"}}
+{"dg-publish":true,"permalink":"/(Extra) Persone/Lorenzo Grassi/","tags":["Player"],"created":"2026-05-07T18:06:28.400+02:00","updated":"2026-06-23T19:13:06.847+02:00","dg-note-properties":{"aliases":["Lore","Grassi"],"tags":["Player"],"Template":"[[Persona Reale]]","Sesso":"Maschio","Nascita":"05/09/2002","Immagine":"![Lorenzo Grassi.png](/img/user/(0)%20Immagini/Persone%20foto/Lorenzo%20Grassi.png)"}}
 ---
 
 
 > [!infobox|right]
 > # Lorenzo Grassi
-> ![Lorenzo Grassi.png](/img/user/0-Immagini/Persone%20foto/Lorenzo%20Grassi.png)
+> ![Lorenzo Grassi.png](/img/user/(0)%20Immagini/Persone%20foto/Lorenzo%20Grassi.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
