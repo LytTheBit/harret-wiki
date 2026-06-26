@@ -30,7 +30,8 @@ La gilda gode di grande influenza politica e accademica, avendo rapporti diretti
 .
 
 ## Membri
-|   | Membri |
-| - | ------ |
+|                                            | Membri                              |
+| ------------------------------------------ | ----------------------------------- |
+| ![(0) Immagini/Extra/Test.png\|Test.png](/img/user/(0)%20Immagini/Extra/Test.png) | [[Personaggi/PG/D1-X0N\|D1-X0N]] |
 
 { .block-language-dataview}

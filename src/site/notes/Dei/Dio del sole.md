@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Dei/Dio del sole/","tags":["V2"],"created":"2026-05-11T19:07:40.401+02:00","updated":"2026-06-25T00:14:27.749+02:00","dg-note-properties":{"aliases":["Dio della luce","Aurelius","Re degli dei"],"tags":["V2"],"Template":"[[Divinità]]","Nome":"Aurelius","Sesso":"Maschio","Numero":6,"Stagione":"[[Stagione Radiosa]]","Mese":"[[Lore/Mesi#6° Mese\|6° Mese]]","Costellazione":"[[Sole del mattino\|Sole del mattino]]","Dominio":["Sole","Luce","Gloria","Onore"],"Culti":["[[(TODO) Ordine Radioso]]"],"Immagine":"![Dio del sole.png](/img/user/(0)%20Immagini/Costellazioni%20e%20Dei/6%20-%20sole/Dio%20del%20sole.png)"}}
+{"dg-publish":true,"permalink":"/Dei/Dio del sole/","tags":["V2"],"created":"2026-05-11T19:07:40.401+02:00","updated":"2026-06-26T14:59:04.496+02:00","dg-note-properties":{"aliases":["Dio della luce","Aurelius","Re degli dei"],"tags":["V2"],"Template":"[[Divinità]]","Nome":"Aurelius","Sesso":"Maschio","Numero":6,"Stagione":"[[Stagione Radiosa]]","Mese":"[[Lore/Mesi#6° Mese\|6° Mese]]","Costellazione":"[[Sole del mattino\|Sole del mattino]]","Dominio":["Sole","Luce","Gloria","Onore"],"Culti":["[[Religione Solariana]]"],"Immagine":"![Dio del sole.png](/img/user/(0)%20Immagini/Costellazioni%20e%20Dei/6%20-%20sole/Dio%20del%20sole.png)"}}
 ---
 
 > [!infobox|right]
@@ -14,7 +14,7 @@
 > | Mese | [[Lore/Mesi#6 Mese\|6° Mese]] |
 > | Costellazione | [[Sole del mattino\|Sole del mattino]] |
 > | Dominio | Sole,Luce,Gloria,Onore |
-> | Culti | [[Fazioni/Religioni/(TODO) Ordine Radioso\|(TODO) Ordine Radioso]] |
+> | Culti | [[Fazioni/Religioni/Religione Solariana\|Religione Solariana]] |
 
 Aurelius è il dio del sole, della luce e della gloria.
 E' anche detto *"L'autoproclamato Re degli dei"*. I suoi fedeli sono fermamente convinti che sia il dio a capo degli dei. Mentre gli altri credi tendono a smentire o sminuire queste affermazioni.
@@ -44,4 +44,4 @@ Si dice che chi sia nato sotto questa costellazione destinato ad essere un leade
 Sia coraggioso e onorevole.
 
 ## Fedeli
-<p><span>Nessun fedele conosciuto.</span></p>
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">1</span></th><th class="table-view-th"><span>Fedele</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><img alt="(0) Immagini/Personaggi immagini/PG/Lugalin Gilgamesh d’Aurelian.png" src="app://53190647bbf96d996a594e70b1a6171f53e6/C:/Users/Utente/OneDrive/Obsidian/Harret/(0)%20Immagini/Personaggi%20immagini/PG/Lugalin%20Gilgamesh%20d%E2%80%99Aurelian.png?1778677431530"></td><td><span><a data-tooltip-position="top" aria-label="Personaggi/PG/Lugalin Gilgamesh d’Aurelian.md" data-href="Personaggi/PG/Lugalin Gilgamesh d’Aurelian.md" href="Personaggi/PG/Lugalin Gilgamesh d’Aurelian.md" class="internal-link" target="_blank" rel="noopener nofollow">Lugalin Gilgamesh d’Aurelian</a> (Religione Solariana)</span></td></tr></tbody></table></div>
