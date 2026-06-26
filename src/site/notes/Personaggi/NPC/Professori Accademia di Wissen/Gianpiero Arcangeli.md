@@ -1,20 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli/","tags":["NPC","ProfessoriWissen"],"created":"2026-05-16T18:35:31.209+02:00","updated":"2026-06-17T21:01:12.322+02:00","dg-note-properties":{"aliases":["Gianpiero","Piero"],"tags":["NPC","ProfessoriWissen"],"Template":"[[Persona NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Gianpiero","Cognome":"[[Arcangeli]]","Specie":"[[Specie/Umani\|Umani]]","Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Gianpiero Arcangeli.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Gianpiero%20Arcangeli.png)"}}
+{"dg-publish":true,"permalink":"/Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli/","tags":["NPC","V2"],"created":"2026-05-16T18:35:31.209+02:00","updated":"2026-06-25T18:03:32.924+02:00","dg-note-properties":{"aliases":["Gianpiero","Piero"],"tags":["NPC","V2"],"Template":"[[NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Gianpiero","Cognome":"[[Arcangeli]]","Specie":"[[Umani]]","Anno di nascita":1154,"Affiliazioni":["[[Accademia di Wissen#Professori]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Gianpiero Arcangeli.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Gianpiero%20Arcangeli.png)"}}
 ---
-
-# Gianpiero Arcangeli
 
 > [!infobox|right]
 > # Gianpiero Arcangeli
-> ![Gianpiero Arcangeli.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Gianpiero%20Arcangeli.png)
+> ![(0) Immagini/Personaggi immagini/NPC/Gianpiero Arcangeli.png\|Gianpiero Arcangeli.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Gianpiero%20Arcangeli.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
-> | Nome | Gianpiero  |
-> | Cognome | Arcangeli |
+> | Nome | Gianpiero |
+> | Cognome | [[Arcangeli\|Arcangeli]] |
 > | Sesso | Maschio |
 > | Specie | [[Specie/Umani\|Umani]] |
-> | Età | ~70 |
+> | Età | 73 |
+> | Affiliato | [[Fazioni/Organizazioni/Accademia di Wissen#Professori\|Accademia di Wissen > Professori]]|
 
 Vice preside del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]]. 
 Vista la rarità delle volte in cui il preside si fa effettivamente vivo, de facto si comporta come preside della scuola.
@@ -25,9 +24,7 @@ Ed è una delle poche persone che può parlare con il [[Il Preside\|preside]]
 
 ## Aspetto e carattere
 E' un uomo sulla settantina, abbastanza atletico per la sua età. Ha i capelli al insù e un monocolo al occhio destro.
-
 E' sempre vestito con abiti lunghi, abbastanza comodi. Anche se lo stile cambia ogni giorno, a volte veste abiti del nord, a volte tuniche del sud o turbanti del est.
-
 Ha un carattere allegro e gentile. Anche se sa essere molto severo quando non ascoltato. Tende a preoccuparsi facilmente.
 
 ## Capacità

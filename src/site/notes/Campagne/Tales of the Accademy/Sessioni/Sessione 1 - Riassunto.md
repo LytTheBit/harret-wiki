@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Campagne/Tales of the Accademy/Sessioni/Sessione 1 - Riassunto/","created":"2026-05-07T12:25:58.539+02:00","updated":"2026-06-24T15:26:39.266+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Sessione - riassunto]]","Campagna":"[[Tales of the Accademy]]","Data sessione":"13/06/2026","Players":["[[(Extra) Persone/Lorenzo Camuso\|Lorenzo Camuso]]","[[(Extra) Persone/Lorenzo Grassi\|Lorenzo Grassi]]","[[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]]","[[(Extra) Persone/Luisa Seres\|Luisa Seres]]"],"PG":["[[Personaggi/PG/Mata Mata\|Mata Mata]]","[[Personaggi/PG/D1-X0N\|D1-X0N]]","[[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Gilgamesh]]"],"Sessione numero":"1","Immagine":"![Icona Tales of the Academy.png](/img/user/(0)%20Immagini/Icona%20Tales%20of%20the%20Academy.png)"}}
+{"dg-publish":true,"permalink":"/Campagne/Tales of the Accademy/Sessioni/Sessione 1 - Riassunto/","created":"2026-05-07T12:25:58.539+02:00","updated":"2026-06-25T10:44:16.490+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Sessione - riassunto]]","Campagna":"[[Tales of the Accademy]]","Data sessione":"13/06/2026","Players":["[[(Extra) Persone/Lorenzo Camuso\|Lorenzo Camuso]]","[[(Extra) Persone/Lorenzo Grassi\|Lorenzo Grassi]]","[[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]]","[[(Extra) Persone/Luisa Seres\|Luisa Seres]]"],"PG":["[[Personaggi/PG/Mata Mata\|Mata Mata]]","[[Personaggi/PG/D1-X0N\|D1-X0N]]","[[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Gilgamesh]]"],"Sessione numero":"1","Immagine":"![Icona Tales of the Academy.png](/img/user/(0)%20Immagini/Icona%20Tales%20of%20the%20Academy.png)"}}
 ---
 
 Ad assistere la sessione è venuta anche [[(Extra) Persone/Luisa Seres\|Luisa Seres]].
@@ -8,7 +8,7 @@ Siamo nel [[9° mese\|9° mese]], nella [[Lore/Stagioni su Harret#Stagione Vento
 
 La sessione inizia con i giocatori che descrivono l'arrivo dei loro personaggi nel [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]].
 
-- [[(Extra) Persone/Lorenzo Grassi\|Lorenzo Grassi]] racconta di come [[Personaggi/PG/D1-X0N\|D1-X0N]] sia arrivato accompagnato da golem e geomanti della [[Fazioni/Organizazioni/Gilde/Gilda di Konstrukt\|Gilda di Konstrukt]], che sono venuti ad aiutare a portare le sue cose nel accademia.
+- [[(Extra) Persone/Lorenzo Grassi\|Lorenzo Grassi]] racconta di come [[Personaggi/PG/D1-X0N\|D1-X0N]] sia arrivato accompagnato da golem e geomanti della [[Fazioni/Organizazioni/Gilda di Konstrukt\|Gilda di Konstrukt]], che sono venuti ad aiutare a portare le sue cose nel accademia.
 - [[(Extra) Persone/Lorenzo Camuso\|Lorenzo Camuso]] racconta di come [[Personaggi/PG/Mata Mata\|Mata Mata]] sia arrivato via nave dal mare, per poi cambiare ad un imbarcazione più piccola per risalire il fiume fino alle pendici della montagna.
 - [[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]] invece racconta di come [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]] sia arrivato nella sua carrozza dorata trainata da sei paia di [[pegasi\|pegasi]]. Mentre il suo maggiordomo, [[Alfred\|Alfred]], lo avverte di tenere alto l'onore della casata.
 
@@ -21,7 +21,7 @@ Si tratta del [[Personaggi/NPC/Professori Accademia di Wissen/Bidello Thom Laamp
 
 Arrivano cosi nel aula magna, dove [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Gianpiero Arcangeli]] fa il discorso di apertura e distribuisce le chiavi.
 Nel frattempo [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Gilgamesh]] incontra [[Personaggi/NPC/Studenti Accademia di Wissen/Enkidu Dantalion Qamar\|Enkidu]], altro studente del [[Regno di Xxx\|Regno di Xxx]], e suo storico rivale.
-[[Personaggi/PG/D1-X0N\|D1-X0N]] invece parla con [[Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma\|Ruggie Kerma]], figlio di un membro della [[Fazioni/Organizazioni/Gilde/Gilda di Konstrukt\|Gilda di Konstrukt]]. 
+[[Personaggi/PG/D1-X0N\|D1-X0N]] invece parla con [[Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma\|Ruggie Kerma]], figlio di un membro della [[Fazioni/Organizazioni/Gilda di Konstrukt\|Gilda di Konstrukt]]. 
 [[Fazioni/Famiglie/Mata\|Mata]] invece parla con [[Personaggi/NPC/Studenti Accademia di Wissen/Stephany Strong\|Stephany Strong]], sorella minore di [[Personaggi/NPC/Studenti Accademia di Wissen/Sarah Strong\|Sarah Strong]], capa del consiglio studentesco (che ha fortemente lottato per impedire l'ingresso di [[Personaggi/PG/D1-X0N\|D1-X0N]] nel accademia)
 
 [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Gilgamesh]] ha una camera privata.

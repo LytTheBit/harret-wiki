@@ -1,20 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/Personaggi/NPC/Professori Accademia di Wissen/Pearl Violet/","tags":["NPC","ProfessoriWissen"],"created":"2026-05-17T10:42:08.251+02:00","updated":"2026-06-17T21:01:02.543+02:00","dg-note-properties":{"aliases":["Professoressa Violet","Pearl"],"tags":["NPC","ProfessoriWissen"],"Template":"[[Persona NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Pearl","Cognome":"[[Violet]]","Specie":"[[Specie/Umani\|Umani]]","Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Pearl Violet.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Pearl%20Violet.png)"}}
+{"dg-publish":true,"permalink":"/Personaggi/NPC/Professori Accademia di Wissen/Pearl Violet/","tags":["NPC","V2"],"created":"2026-05-17T10:42:08.251+02:00","updated":"2026-06-26T11:17:12.072+02:00","dg-note-properties":{"aliases":["Professoressa Violet","Pearl"],"tags":["NPC","V2"],"Template":"[[NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Pearl","Cognome":"[[Violet]]","Specie":"[[Umani]]","Anno di nascita":1191,"Affiliazioni":["[[Accademia di Wissen#Professori]]","[[Ordine dei maghi di torre storta\|Ordine dei maghi di torre storta]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Pearl Violet.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Pearl%20Violet.png)"}}
 ---
-
-# Pearl Violet
 
 > [!infobox|right]
 > # Pearl Violet
-> ![Pearl Violet.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Pearl%20Violet.png)
+> ![(0) Immagini/Personaggi immagini/NPC/Pearl Violet.png\|Pearl Violet.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Pearl%20Violet.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
 > | Nome | Pearl |
-> | Cognome | Violet |
+> | Cognome | [[Violet\|Violet]] |
 > | Sesso | Femmina |
 > | Specie | [[Specie/Umani\|Umani]] |
-> | Età | ~35 |
+> | Età | 36 |
+> | Affiliato | [[Fazioni/Organizazioni/Accademia di Wissen#Professori\|Accademia di Wissen > Professori]],[[Ordine dei maghi di torre storta\|Ordine dei maghi di torre storta]]|
 
 Professoressa del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]] e membro del [[Ordine dei maghi di torre storta\|Ordine dei maghi di torre storta]]. 
 Insegna Magia e dei Misteri, ha un particolare focus sulle magie di divinazione e di controllo delle marionette

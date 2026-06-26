@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Lucy Nocida/","tags":["StudenteWissen","NPC"],"created":"2026-05-16T18:35:24.704+02:00","updated":"2026-06-17T21:00:30.786+02:00","dg-note-properties":{"aliases":["Lucy"],"tags":["StudenteWissen","NPC"],"Template":"[[Persona NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Lucy","Cognome":"[[Nocida]]","Specie":"[[Specie/Umani\|Umani]]","Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Lucy Nocida.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Lucy%20Nocida.png)"}}
+{"dg-publish":true,"permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Lucy Nocida/","tags":["NPC","V2"],"created":"2026-05-16T18:35:24.704+02:00","updated":"2026-06-25T10:44:16.500+02:00","dg-note-properties":{"aliases":["Lucy"],"tags":["NPC","V2"],"Template":"[[NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Lucy","Cognome":"[[Nocida]]","Specie":"[[Umani]]","Anno di nascita":1206,"Affiliazioni":["[[Accademia di Wissen#Studenti]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Lucy Nocida.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Lucy%20Nocida.png)"}}
 ---
 
 > [!warning] Attenzione
 > Questa nota è ancora in fase di creazione, potrebbe essere incompleta o errata!
-
 > [!infobox|right]
 > # Lucy Nocida
-> ![Lucy Nocida.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Lucy%20Nocida.png)
+> ![(0) Immagini/Personaggi immagini/NPC/Lucy Nocida.png\|Lucy Nocida.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Lucy%20Nocida.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
-> | Nome | Lucy  |
-> | Cognome | Nocida |
+> | Nome | Lucy |
+> | Cognome | [[Nocida\|Nocida]] |
 > | Sesso | Femmina |
 > | Specie | [[Specie/Umani\|Umani]] |
-> | Età | ~20 |
+> | Età | 21 |
+> | Affiliato | [[Fazioni/Organizazioni/Accademia di Wissen#Studenti\|Accademia di Wissen > Studenti]]|
 
 Studentessa del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]] e cameriera di [[Personaggi/NPC/Studenti Accademia di Wissen/Amity Dumar\|Amity Dumar]]. In qualche modo è stata ammessa nel accademia anche senza particolare talenti o senza essere di origine nobile. Probabilmente per meritò del amica... che forse voleva solo portarsi dietro una cameriera....
 
@@ -23,9 +23,10 @@ Studentessa del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen
 Lei e la sua famiglia lavorano alla [[Magione Dumar\|Magione Dumar]]. 
 Motivo per il quale ha finito per per formare un forte legame con [[Personaggi/NPC/Studenti Accademia di Wissen/Amity Dumar\|Amity Dumar]], secondogenita della famiglia... Non si capisce se è servilismo, amicizia o qualcos'altro... ma a loro modo sembrano molto legate.
 
+Oltre ad essere ovviamente una studentessa del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]]
+
 ## Aspetto e carattere
 E' un una giovane ragazza dal aspetto e dal carattere modesto. Veste meglio di come vestirebbe una normale cameriera, ma niente di che.
-
 E' molto organizzata e sempre disposta a dare una mano.
 
 ## Capacità

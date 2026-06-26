@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/(0) Template/Gruppi/Famiglia/","tags":["V2"],"created":"2026-06-24T15:35:11.447+02:00","updated":"2026-06-24T17:39:06.420+02:00","dg-note-properties":{"contentClasses":"dg-cards","tags":["V2"],"Template":"[[Famiglia]]","Capo":null,"Sede":null,"Data di fondazione":null,"Motto":null,"Regno":null,"Rango nobiliare":null,"Immagine":null}}
+{"dg-publish":true,"permalink":"/(0) Template/Gruppi/Famiglia/","tags":["V2"],"created":"2026-06-24T15:35:11.447+02:00","updated":"2026-06-24T18:37:00.910+02:00","dg-note-properties":{"contentClasses":"dg-cards","tags":["V2"],"Template":"[[Famiglia]]","Capo":null,"Sede Principale":null,"Data di fondazione":null,"Motto":null,"Regno":null,"Rango nobiliare":null,"Immagine":null}}
 ---
 
 > [!infobox|right]
