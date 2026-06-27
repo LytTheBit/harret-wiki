@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fazioni/Organizazioni/Accademia di Wissen/","tags":["V2"],"created":"2026-05-07T11:56:30.769+02:00","updated":"2026-06-25T00:20:43.224+02:00","dg-note-properties":{"contentClasses":"dg-cards","aliases":["Wissen","l'Accademia"],"tags":["V2"],"Template":"[[Organizzazione]]","Capo":"[[Adam Wissen|Preside]]","Sede Principale":"[[Mondo/Harret/Luoghi/Castel Wissen\|Castel Wissen]]","Data di fondazione":625,"Motto":"*\"Eroi si diventa.\"*","Tipo di Organizzazione":"Istituto accademico","Immagine":"![Bandiera Accademia di Wissen.png](/img/user/(0)%20Immagini/Stendardi%20immagini/Bandiera%20Accademia%20di%20Wissen.png)"}}
+{"dg-publish":true,"permalink":"/Fazioni/Organizazioni/Accademia di Wissen/","contentClasses":"dg-cards","tags":["V2"],"created":"2026-05-07T11:56:30.769+02:00","updated":"2026-06-26T19:40:24.438+02:00","dg-note-properties":{"aliases":["Wissen","l'Accademia"],"tags":["V2"],"Template":"[[Organizzazione]]","Capo":"[[Adam Wissen|Preside]]","Sede Principale":"[[Mondo/Harret/Luoghi/Castel Wissen\|Castel Wissen]]","Data di fondazione":625,"Motto":"*\"Eroi si diventa.\"*","Tipo di Organizzazione":"Istituto accademico","Immagine":"![Bandiera Accademia di Wissen.png](/img/user/(0)%20Immagini/Stendardi%20immagini/Bandiera%20Accademia%20di%20Wissen.png)"}}
 ---
 
 > [!infobox|right]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fazioni/Organizazioni/Gilda di Konstrukt/","tags":["V2"],"created":"2026-05-11T21:06:32.232+02:00","updated":"2026-06-25T00:16:58.782+02:00","dg-note-properties":{"contentClasses":"dg-cards","tags":["V2"],"Template":"[[Organizzazione]]","Capo":null,"Sede Principale":null,"Data di fondazione":1026,"Motto":null,"Tipo di Organizzazione":"Gilda di costruttori","Immagine":"![Gilda di Konstrukt.png](/img/user/(0)%20Immagini/Stendardi%20immagini/Gilde%20immagini/Gilda%20di%20Konstrukt.png)"}}
+{"dg-publish":true,"permalink":"/Fazioni/Organizazioni/Gilda di Konstrukt/","contentClasses":"dg-cards","tags":["V2"],"created":"2026-05-11T21:06:32.232+02:00","updated":"2026-06-26T19:40:23.177+02:00","dg-note-properties":{"tags":["V2"],"Template":"[[Organizzazione]]","Capo":null,"Sede Principale":null,"Data di fondazione":1026,"Motto":null,"Tipo di Organizzazione":"Gilda di costruttori","Immagine":"![Gilda di Konstrukt.png](/img/user/(0)%20Immagini/Stendardi%20immagini/Gilde%20immagini/Gilda%20di%20Konstrukt.png)"}}
 ---
 
 > [!infobox|right]

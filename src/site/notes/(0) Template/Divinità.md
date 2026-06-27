@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/(0) Template/Divinità/","tags":["V2"],"created":"2026-06-24T22:56:08.028+02:00","updated":"2026-06-24T23:27:13.779+02:00","dg-note-properties":{"aliases":[null],"tags":["V2"],"Template":"[[Divinità]]","Nome":null,"Sesso":null,"Numero":null,"Stagione":null,"Mese":null,"Costellazione":null,"Dominio":[null],"Culti":[null],"Immagine":null}}
+{"dg-publish":true,"permalink":"/(0) Template/Divinità/","contentClasses":"dg-cards","tags":["V2"],"created":"2026-06-24T22:56:08.028+02:00","updated":"2026-06-26T19:41:06.469+02:00","dg-note-properties":{"aliases":[null],"tags":["V2"],"Template":"[[Divinità]]","Nome":null,"Sesso":null,"Numero":null,"Stagione":null,"Mese":null,"Costellazione":null,"Dominio":[null],"Culti":[null],"Immagine":null}}
 ---
 
 > [!infobox|right]
