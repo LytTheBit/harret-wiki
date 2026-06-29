@@ -23,7 +23,7 @@ Lista dei giocatori che hanno partecipato alle campagne.
 | ![(0) Immagini/Persone foto/Lorenzo Camuso.png\|Lorenzo Camuso.png](/img/user/(0)%20Immagini/Persone%20foto/Lorenzo%20Camuso.png)         | [[(Extra) Persone/Lorenzo Camuso\|Lorenzo Camuso]]         |
 | ![(0) Immagini/Persone foto/Lorenzo Grassi.png\|Lorenzo Grassi.png](/img/user/(0)%20Immagini/Persone%20foto/Lorenzo%20Grassi.png)         | [[(Extra) Persone/Lorenzo Grassi\|Lorenzo Grassi]]         |
 | ![(0) Immagini/Persone foto/Luisa Seres.png\|Luisa Seres.png](/img/user/(0)%20Immagini/Persone%20foto/Luisa%20Seres.png)               | [[(Extra) Persone/Luisa Seres\|Luisa Seres]]               |
-| ![Martina Schirone.png\|Martina Schirone.png](/img/user/Martina%20Schirone.png)                               | [[(Extra) Persone/Martina Schirone\|Martina Schirone]]     |
+| ![(0) Immagini/Martina Schirone.png\|Martina Schirone.png](/img/user/(0)%20Immagini/Martina%20Schirone.png)                  | [[(Extra) Persone/Martina Schirone\|Martina Schirone]]     |
 | ![(0) Immagini/Persone foto/Nodar Varazashvili.png\|Nodar Varazashvili.png](/img/user/(0)%20Immagini/Persone%20foto/Nodar%20Varazashvili.png) | [[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]] |
 
 { .block-language-dataview}
