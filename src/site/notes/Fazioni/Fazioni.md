@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fazioni/Fazioni/","contentClasses":"dg-cards","tags":["#Lore","Fazione","Gilda","Famiglia","Religione"],"created":"2026-05-12T22:17:57.743+02:00","updated":"2026-06-24T15:41:50.091+02:00","dg-note-properties":{"aliases":null,"tags":["#Lore","Fazione","Gilda","Famiglia","Religione"],"Template":"[[Info]]","Argomento":"Fazioni su Harret"}}
+{"dg-publish":true,"permalink":"/Fazioni/Fazioni/","contentClasses":"dg-cards","tags":["#Lore","Fazione","Gilda","Famiglia","Religione"],"created":"2026-05-12T22:17:57.743+02:00","updated":"2026-06-29T16:36:24.209+02:00","dg-note-properties":{"aliases":null,"tags":["#Lore","Fazione","Gilda","Famiglia","Religione"],"Template":"[[Info]]","Argomento":"Fazioni su Harret"}}
 ---
 
 > [!warning] Attenzione
@@ -12,27 +12,20 @@ In questa pagina elenchiamo e spieghiamo alcuni tipi di fazione per facilitarne 
 ## Famiglia nobile
 Sono qui riportate la lista delle famiglie nobili esplorate nel ambientazione. Ogni regno elenca e cataloga le famiglie in modo diverso, con ranghi e titoli diversi. Per maggiori informazioni: [[Lore/(TODO) Nobiltà\|(TODO) Nobiltà]]
 
-|   | Famiglie |
-| - | -------- |
+|                                                                                | Famiglie                                   |
+| ------------------------------------------------------------------------------ | ------------------------------------------ |
+| ![(0) Immagini/Stendardi immagini/Gilde immagini/Aurelian.png\|Aurelian.png](/img/user/(0)%20Immagini/Stendardi%20immagini/Gilde%20immagini/Aurelian.png) | [[Fazioni/Famiglie/Aurelian\|Aurelian]] |
+| ![(0) Immagini/Stendardi immagini/Clan Mata.png\|Clan Mata.png](/img/user/(0)%20Immagini/Stendardi%20immagini/Clan%20Mata.png)              | [[Fazioni/Famiglie/Mata\|Mata]]         |
+| ![(0) Immagini/Stendardi immagini/Qamar.png\|Qamar.png](/img/user/(0)%20Immagini/Stendardi%20immagini/Qamar.png)                      | [[Fazioni/Famiglie/Qamar\|Qamar]]       |
 
 { .block-language-dataview}
 
-## Gilda
-Una gilda è un organizzazione composta da privati cittadini, riuntiti in confederazioni e unioni di diverso tipo e scopo. Per maggiori informazioni: [[Gilde\|Gilde]]
-|   | Gilde |
-| - | ----- |
+## Organizzazioni
+Un Organizzazione è un gruppo composta da privati cittadini, riuntiti in confederazioni e unioni di diverso tipo e scopo. 
+|                                                                                                         | Gilde                                                                 |
+| ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| ![(0) Immagini/Stendardi immagini/Bandiera Accademia di Wissen.png\|Bandiera Accademia di Wissen.png](/img/user/(0)%20Immagini/Stendardi%20immagini/Bandiera%20Accademia%20di%20Wissen.png) | [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]] |
+| ![(0) Immagini/Stendardi immagini/Gilde immagini/Gilda di Konstrukt.png\|Gilda di Konstrukt.png](/img/user/(0)%20Immagini/Stendardi%20immagini/Gilde%20immagini/Gilda%20di%20Konstrukt.png)      | [[Fazioni/Organizazioni/Gilda di Konstrukt\|Gilda di Konstrukt]]   |
 
 { .block-language-dataview}
 
-## Religione 
-Culti dedicati a una o più divinità. Ordini monastici o religiosi, con scopi e ruoli differenti nella società. Per maggiori informazioni: [[Lore/Religione e divinità\|Religione]]
-|   | Fazioni |
-| - | ------- |
-
-{ .block-language-dataview}
-
-## Tutte le fazioni
-|   | Fazioni |
-| - | ------- |
-
-{ .block-language-dataview}

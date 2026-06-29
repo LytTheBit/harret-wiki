@@ -14,7 +14,7 @@
 > | Mese | [[Lore/Mesi#6 Mese\|6° Mese]] |
 > | Costellazione | [[Sole del mattino\|Sole del mattino]] |
 > | Dominio | Sole,Luce,Gloria,Onore |
-> | Culti | [[Fazioni/Religioni/Religione Solariana\|Religione Solariana]] |
+> | Culti | [[Religione Solariana\|Religione Solariana]] |
 
 Aurelius è il dio del sole, della luce e della gloria.
 E' anche detto *"L'autoproclamato Re degli dei"*. I suoi fedeli sono fermamente convinti che sia il dio a capo degli dei. Mentre gli altri credi tendono a smentire o sminuire queste affermazioni.
