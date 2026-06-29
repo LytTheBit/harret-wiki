@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Campagne/Tales of the Accademy/Tales of the Accademy/","contentClasses":"dg-cards","tags":["Campagna","Daggerheart"],"created":"2026-05-07T11:36:31.432+02:00","updated":"2026-06-29T17:16:57.367+02:00","dg-note-properties":{"aliases":null,"tags":["Campagna","Daggerheart"],"Template":"[[0-Template/Off game/Campagna]]","Generi":["Fantasy","Slice of life","Mistero"],"Data di inizio":"13/06/2026","Data di fine":null,"Players":["[[(Extra) Persone/Lorenzo Grassi\|Lorenzo Grassi]]","[[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]]","[[(Extra) Persone/Lorenzo Camuso\|Lorenzo Camuso]]"],"PG":"[[Persona PG]]","Sistema":"[[Daggerheart]]","Immagine":"![Accademia di Wissen.png](/img/user/(0)%20Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png)"}}
+{"dg-publish":true,"permalink":"/Campagne/Tales of the Accademy/Tales of the Accademy/","contentClasses":"dg-cards","tags":["Campagna","Daggerheart"],"created":"2026-05-07T11:36:31.432+02:00","updated":"2026-06-29T18:21:29.767+02:00","dg-note-properties":{"aliases":null,"tags":["Campagna","Daggerheart"],"Template":"[[0-Template/Off game/Campagna]]","Generi":["Fantasy","Slice of life","Mistero"],"Data di inizio":"13/06/2026","Data di fine":null,"Players":["[[(Extra) Persone/Lorenzo Grassi\|Lorenzo Grassi]]","[[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]]","[[(Extra) Persone/Lorenzo Camuso\|Lorenzo Camuso]]"],"PG":"[[Persona PG]]","Sistema":"[[Daggerheart]]","Immagine":"![Accademia di Wissen.png](/img/user/(0)%20Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png)"}}
 ---
 
 > [!infobox|right]
@@ -41,16 +41,16 @@ Harry Potter, Persona, Percy Jackson, Fire Emblem: Three Houses, The Owl House, 
 
 ## Sessioni
 
-|                                                                                  | Sessioni                                                                                      |
-| -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| ![[(0) Immagini/Icona Tales of the Academy.png\|Icona Tales of the Academy.png]] | [[Campagne/Tales of the Accademy/Sessioni/Sessione 1 - Riassunto\|Sessione 1 - Riassunto]] |
-| ![[(0) Immagini/Icona Tales of the Academy.png\|Icona Tales of the Academy.png]] | [[Campagne/Tales of the Accademy/Sessioni/Sessione 2 - Riassunto\|Sessione 2 - Riassunto]] |
-| ![[(0) Immagini/Icona Tales of the Academy.png\|Icona Tales of the Academy.png]] | [[Campagne/Tales of the Accademy/Sessioni/Sessione 3 - Riassunto\|Sessione 3 - Riassunto]] |
+|                                                                                             | Quest                                                                                         |
+| ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| ![(0) Immagini/Sito Icone/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/(0)%20Immagini/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 1 - Riassunto\|Sessione 1 - Riassunto]] |
+| ![(0) Immagini/Sito Icone/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/(0)%20Immagini/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 2 - Riassunto\|Sessione 2 - Riassunto]] |
+| ![(0) Immagini/Sito Icone/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/(0)%20Immagini/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 3 - Riassunto\|Sessione 3 - Riassunto]] |
 
 { .block-language-dataview}
 
 ## Quest e misteri
-|                                                               | Sessioni                                                                                             |
+|                                                               | Quest                                                                                                |
 | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | ![(0) Immagini/Sito Icone/Icona Quest.png\|Icona Quest.png](/img/user/(0)%20Immagini/Sito%20Icone/Icona%20Quest.png) | [[Campagne/Tales of the Accademy/Quest e misteri/Documenti da decifrare\|Documenti da decifrare]] |
 | ![(0) Immagini/Sito Icone/Icona Quest.png\|Icona Quest.png](/img/user/(0)%20Immagini/Sito%20Icone/Icona%20Quest.png) | [[Campagne/Tales of the Accademy/Quest e misteri/Rito di iniziazione\|Rito di iniziazione]]       |
