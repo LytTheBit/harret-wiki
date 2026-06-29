@@ -26,4 +26,4 @@ Si teorizza che abbia dato origine al mito della Kizune nelle terre orientali.
 Le colorazioni del suo manto variano dal rosso al giallo, passando per tutte le sfumature di arancione e marrone.
 
 ## Capibufo
-![Capigufo.jpg\|right\|250](/img/user/(0)%20Immagini/Capigufo.jpg) Curioso mix tra un capibara e un gufo
+![Capigufo.jpg\|right\|250](/img/user/(0)%20Immagini/Personaggi%20immagini/Capigufo.jpg) Curioso mix tra un capibara e un gufo
