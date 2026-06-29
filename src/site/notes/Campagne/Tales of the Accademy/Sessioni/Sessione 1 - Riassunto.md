@@ -20,7 +20,7 @@ Ma mentre salgono vedono dei barili rotolare. Barili che cominciano ad esplodere
 Si tratta del [[Personaggi/NPC/Professori Accademia di Wissen/Bidello Thom Laamp\|Bidello Thom Laamp]], che non ha intenzione di permettere ad altri studenti di arrivare a scuola, e a detta sua *"sporcarla e rovinarla"*. Inizia cosi un fight che gli eroi superano abbastanza facilmente.
 
 Arrivano cosi nel aula magna, dove [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Gianpiero Arcangeli]] fa il discorso di apertura e distribuisce le chiavi.
-Nel frattempo [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Gilgamesh]] incontra [[Personaggi/NPC/Studenti Accademia di Wissen/Enkidu Dantalion Qamar\|Enkidu]], altro studente del [[Regno di Xxx\|Regno di Xxx]], e suo storico rivale.
+Nel frattempo [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Gilgamesh]] incontra [[Personaggi/NPC/Studenti Accademia di Wissen/Enkidu Dantalion Qamar\|Enkidu]], altro studente del [[Mondo/Harret/Nazioni/Regno di Xxx\|Regno di Xxx]], e suo storico rivale.
 [[Personaggi/PG/D1-X0N\|D1-X0N]] invece parla con [[Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma\|Ruggie Kerma]], figlio di un membro della [[Fazioni/Organizazioni/Gilda di Konstrukt\|Gilda di Konstrukt]]. 
 [[Fazioni/Famiglie/Mata\|Mata]] invece parla con [[Personaggi/NPC/Studenti Accademia di Wissen/Stephany Strong\|Stephany Strong]], sorella minore di [[Personaggi/NPC/Studenti Accademia di Wissen/Sarah Strong\|Sarah Strong]], capa del consiglio studentesco (che ha fortemente lottato per impedire l'ingresso di [[Personaggi/PG/D1-X0N\|D1-X0N]] nel accademia)
 
