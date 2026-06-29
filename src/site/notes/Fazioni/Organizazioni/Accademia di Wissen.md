@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fazioni/Organizazioni/Accademia di Wissen/","contentClasses":"dg-cards","tags":["V2"],"created":"2026-05-07T11:56:30.769+02:00","updated":"2026-06-29T17:06:06.478+02:00","dg-note-properties":{"aliases":["Wissen","l'Accademia"],"tags":["V2"],"Template":"[[Organizzazione]]","Capo":"[[Adam Wissen|Preside]]","Sede Principale":"[[Mondo/Harret/Luoghi/Castel Wissen\|Castel Wissen]]","Data di fondazione":625,"Motto":"*\"Eroi si diventa.\"*","Tipo di Organizzazione":"Istituto accademico","Immagine":"![Bandiera Accademia di Wissen.png](/img/user/(0)%20Immagini/Stendardi%20immagini/Bandiera%20Accademia%20di%20Wissen.png)"}}
+{"dg-publish":true,"permalink":"/Fazioni/Organizazioni/Accademia di Wissen/","contentClasses":"dg-cards","tags":["V2"],"created":"2026-05-07T11:56:30.769+02:00","updated":"2026-06-29T17:06:27.287+02:00","dg-note-properties":{"aliases":["Wissen","l'Accademia"],"tags":["V2"],"Template":"[[Organizzazione]]","Capo":"[[Adam Wissen|Preside]]","Sede Principale":"[[Mondo/Harret/Luoghi/Castel Wissen\|Castel Wissen]]","Data di fondazione":625,"Motto":"*\"Eroi si diventa.\"*","Tipo di Organizzazione":"Istituto accademico","Immagine":"![Bandiera Accademia di Wissen.png](/img/user/(0)%20Immagini/Stendardi%20immagini/Bandiera%20Accademia%20di%20Wissen.png)"}}
 ---
 
 > [!infobox|right]
@@ -13,17 +13,7 @@
 > | Data di fondazione | 625 |
 > | Motto | *"Eroi si diventa."* |
 > | Tipo | Istituto accademico |
-> ## Corpo insegnanti
-> | Ruolo | Insegnante |
-> |------|---------|
-> | Preside | [[Il Preside\|Il Preside]] *(sconosciuto)* |
-> | Vicepreside | [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Gianpiero Arcangeli]] |
-> | Insegnante di regalità |  [[Personaggi/NPC/Professori Accademia di Wissen/Ser Leon Rammer\|Ser Leon Rammer]] |
-> | Insegnante di cavalleria | [[Personaggi/NPC/Professori Accademia di Wissen/Ziegel Granit\|Ziegel Granit]] |
-> | Insegnante di magia | [[Personaggi/NPC/Professori Accademia di Wissen/Pearl Violet\|Pearl Violet]] |
-> | Insegnante di arte | [[Personaggi/NPC/Professori Accademia di Wissen/Miss Teodora Cost\|Miss Teodora Cost]] |
-> | Insegnante di religione | [[Personaggi/NPC/Professori Accademia di Wissen/Padre Lucas Mimer\|Padre Lucas Mimer]] |
-> | Insegnante di natura | [[Personaggi/NPC/Professori Accademia di Wissen/Ryukyu Geoemyda\|Ryukyu Geoemyda]] |
+
 
 L'Accademia di Wissen è una prestigiosa università per eroi. Ha sede nel omonimo [[Mondo/Harret/Luoghi/Castel Wissen\|Castel Wissen]], in zona neutrale sulla catena montuosa delle [[Mondo/Harret/Geografia/Vette Grigie\|Vette Grigie]]. Fu fondata seicento anni fa da tre valorosi eroi dopo aver sconfitto un antico drago, e oggi conta sei percorsi di studi.
 
