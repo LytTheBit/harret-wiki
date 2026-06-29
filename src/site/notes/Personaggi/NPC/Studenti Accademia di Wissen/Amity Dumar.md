@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Amity Dumar/","tags":["NPC","V2"],"created":"2026-05-16T18:58:15.963+02:00","updated":"2026-06-25T10:34:45.988+02:00","dg-note-properties":{"aliases":["Amity"],"tags":["NPC","V2"],"Template":"[[NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Amity","Cognome":"[[Dumar\|Dumar]]","Specie":"[[Umani]]","Anno di nascita":1206,"Affiliazioni":["[[Accademia di Wissen#Studenti]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Amity Dumar.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Amity%20Dumar.png)"}}
+{"dg-publish":true,"permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Amity Dumar/","tags":["NPC","V2"],"created":"2026-05-16T18:58:15.963+02:00","updated":"2026-06-28T09:38:54.163+02:00","dg-note-properties":{"aliases":["Amity"],"tags":["NPC","V2"],"Template":"[[NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Amity","Cognome":"[[Dumar\|Dumar]]","Specie":"[[Umani]]","Anno di nascita":1206,"Affiliazioni":["[[Accademia di Wissen#Studenti]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Amity Dumar.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Amity%20Dumar.png)","Fede":null}}
 ---
 
 > [!warning] Attenzione
@@ -23,8 +23,6 @@ Studentessa del primo anno del [[Fazioni/Organizazioni/Accademia di Wissen\|Acca
 E' stata ammessa nel accademia per lo più per il suo cognome. E ha insistito per portarsi con se l'*"amica"* e cameriera [[Personaggi/NPC/Studenti Accademia di Wissen/Lucy Nocida\|Lucy]].
 
 ## Legami
-Affiliato ad [[Fazioni/Organizazioni/Accademia di Wissen#Studenti\|Accademia di Wissen > Studenti]]
-
 Ha un [[Conte Dumar\|padre]], e un fratello maggiore.
 Ha anche un forte legame con [[Personaggi/NPC/Studenti Accademia di Wissen/Lucy Nocida\|Lucy Nocida]], sua cameriera e amica d'infanzia. Non si capisce se è servilismo, amicizia o qualcos'altro... ma a loro modo sembrano molto legate.
 Ha insistito cosi tanto che alla fine la scuola ha esteso l'invito anche a lei.
@@ -32,8 +30,6 @@ Ha insistito cosi tanto che alla fine la scuola ha esteso l'invito anche a lei.
 Oltre ad essere ovviamente una studentessa del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]]
 
 ## Aspetto e carattere
-è un Femmina
-
 E' un una giovane ragazza di bel aspetto. Bionda e aggraziata.
 Ha sempre addosso un vestito e un abito diverso, spesso cambiandoli anche a metà giornata. 
 Bisogna ammettere che ha stile.

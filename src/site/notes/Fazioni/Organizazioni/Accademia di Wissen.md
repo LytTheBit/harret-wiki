@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fazioni/Organizazioni/Accademia di Wissen/","contentClasses":"dg-cards","tags":["V2"],"created":"2026-05-07T11:56:30.769+02:00","updated":"2026-06-26T19:40:24.438+02:00","dg-note-properties":{"aliases":["Wissen","l'Accademia"],"tags":["V2"],"Template":"[[Organizzazione]]","Capo":"[[Adam Wissen|Preside]]","Sede Principale":"[[Mondo/Harret/Luoghi/Castel Wissen\|Castel Wissen]]","Data di fondazione":625,"Motto":"*\"Eroi si diventa.\"*","Tipo di Organizzazione":"Istituto accademico","Immagine":"![Bandiera Accademia di Wissen.png](/img/user/(0)%20Immagini/Stendardi%20immagini/Bandiera%20Accademia%20di%20Wissen.png)"}}
+{"dg-publish":true,"permalink":"/Fazioni/Organizazioni/Accademia di Wissen/","contentClasses":"dg-cards","tags":["V2"],"created":"2026-05-07T11:56:30.769+02:00","updated":"2026-06-29T13:17:03.391+02:00","dg-note-properties":{"aliases":["Wissen","l'Accademia"],"tags":["V2"],"Template":"[[Organizzazione]]","Capo":"[[Adam Wissen|Preside]]","Sede Principale":"[[Mondo/Harret/Luoghi/Castel Wissen\|Castel Wissen]]","Data di fondazione":625,"Motto":"*\"Eroi si diventa.\"*","Tipo di Organizzazione":"Istituto accademico","Immagine":"![Bandiera Accademia di Wissen.png](/img/user/(0)%20Immagini/Stendardi%20immagini/Bandiera%20Accademia%20di%20Wissen.png)"}}
 ---
 
 > [!infobox|right]
@@ -57,11 +57,17 @@ Nel corso degli anni scolastici le lezioni di specializzazione diventano sempre 
 ## I Club
 Lo Studentato ospita numerosi club, alcuni ufficiali e altri tollerati a malapena dall'amministrazione:
 #### Consiglio Studentesco
-Il [[Consiglio Studentesco\|Consiglio Studentesco]]
+.
+.
+.
 #### Club di Teatro
-[[Club di Teatro\|Club di Teatro]]
+.
+.
+.
 #### Club dei Misteri
-[[Club dei Misteri\|Club dei Misteri]]
+.
+.
+.
 
 #### Club sportivo: BowBall
 Variante del dodgeball con palle da bowling magicamente alleggerite che rimbalzano in modo imprevedibile sulle pareti dello Stadio.
@@ -75,6 +81,7 @@ Al momento l'accademia conta più di mille studenti. Anche se è curioso notare 
 | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
 | ![(0) Immagini/Bidello Thom Laamp.png\|Bidello Thom Laamp.png](/img/user/(0)%20Immagini/Bidello%20Thom%20Laamp.png)                           | [[Personaggi/NPC/Professori Accademia di Wissen/Bidello Thom Laamp\|Bidello Thom Laamp]]   |
 | ![(0) Immagini/Personaggi immagini/NPC/Gianpiero Arcangeli.png\|Gianpiero Arcangeli.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Gianpiero%20Arcangeli.png) | [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Gianpiero Arcangeli]] |
+| ![(0) Immagini/Personaggi immagini/NPC/Padre Lucas Mimer.png\|Padre Lucas Mimer.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Padre%20Lucas%20Mimer.png)     | [[Personaggi/NPC/Professori Accademia di Wissen/Padre Lucas Mimer\|Padre Lucas Mimer]]     |
 | ![(0) Immagini/Personaggi immagini/NPC/Pearl Violet.png\|Pearl Violet.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Pearl%20Violet.png)               | [[Personaggi/NPC/Professori Accademia di Wissen/Pearl Violet\|Pearl Violet]]               |
 | ![(0) Immagini/Personaggi immagini/NPC/Ryukyu Geoemyda.png\|Ryukyu Geoemyda.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Ryukyu%20Geoemyda.png)         | [[Personaggi/NPC/Professori Accademia di Wissen/Ryukyu Geoemyda\|Ryukyu Geoemyda]]         |
 
@@ -93,6 +100,7 @@ Al momento l'accademia conta più di mille studenti. Anche se è curioso notare 
 | ![(0) Immagini/Personaggi immagini/NPC/Poul.png\|Poul.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Poul.png)                                                | [[Personaggi/NPC/Studenti Accademia di Wissen/Poooooooooooooo...\|Poooooooooooooo...]]         |
 | ![(0) Immagini/Ruggie Kerma.png\|Ruggie Kerma.png](/img/user/(0)%20Immagini/Ruggie%20Kerma.png)                                                        | [[Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma\|Ruggie Kerma]]                     |
 | ![(0) Immagini/Personaggi immagini/NPC/Sarah Strong.png\|Sarah Strong.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Sarah%20Strong.png)                                | [[Personaggi/NPC/Studenti Accademia di Wissen/Sarah Strong\|Sarah Strong]]                     |
+| ![(0) Immagini/Personaggi immagini/NPC/Stephany Strong.png\|Stephany Strong.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Stephany%20Strong.png)                          | [[Personaggi/NPC/Studenti Accademia di Wissen/Stephany Strong\|Stephany Strong]]               |
 | ![(0) Immagini/Personaggi immagini/NPC/Uta Napish.png\|Uta Napish.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Uta%20Napish.png)                                    | [[Personaggi/NPC/Studenti Accademia di Wissen/Uta Napish\|Uta Napish]]                         |
 
 { .block-language-dataview}

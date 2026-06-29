@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Sarah Strong/","tags":["NPC","V2"],"created":"2026-05-28T12:34:41.109+02:00","updated":"2026-06-25T10:47:54.522+02:00","dg-note-properties":{"aliases":["Sarah","Presidentessa"],"tags":["NPC","V2"],"Template":"[[NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Sarah","Cognome":"[[Strong\|Strong]]","Specie":"[[Umani]]","Anno di nascita":1201,"Affiliazioni":["[[Accademia di Wissen#Studenti]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Sarah Strong.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Sarah%20Strong.png)"}}
+{"dg-publish":true,"permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Sarah Strong/","tags":["NPC","V2"],"created":"2026-05-28T12:34:41.109+02:00","updated":"2026-06-28T09:39:55.661+02:00","dg-note-properties":{"aliases":["Sarah","Presidentessa"],"tags":["NPC","V2"],"Template":"[[NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Sarah","Cognome":"[[Strong\|Strong]]","Specie":"[[Umani]]","Anno di nascita":1201,"Affiliazioni":["[[Accademia di Wissen#Studenti]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Sarah Strong.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Sarah%20Strong.png)","Fede":"[[Dio del sole#Fedeli]]"}}
 ---
 
 > [!warning] Attenzione
@@ -22,7 +22,7 @@
 Studentessa del quinto anno del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]], a capo del [[Fazioni/Organizazioni/Accademia di Wissen#Consiglio Studentesco\|Consiglio Studentesco]], e membro della famiglia di cavalieri [[Strong\|Strong]], delle terre del sud.
 
 ## Legami
-Sua sorella minore [[Personaggi/NPC/Studenti Accademia di Wissen/Stephany Strong\|Stephany Strong]] è anche essa una studentessa del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]], al primo anno.
+Sua sorella (sorellastra) minore è [[Personaggi/NPC/Studenti Accademia di Wissen/Stephany Strong\|Stephany Strong]] è anche essa una studentessa del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]], al primo anno.
 
 ## Aspetto e carattere
 E' un una giovane ragazza di bel aspetto, tendenzialmente ben curata.

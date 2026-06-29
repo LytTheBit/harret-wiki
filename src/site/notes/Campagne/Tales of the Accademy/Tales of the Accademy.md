@@ -45,6 +45,7 @@ Harry Potter, Persona, Percy Jackson, Fire Emblem: Three Houses, The Owl House, 
 | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | ![(0) Immagini/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/(0)%20Immagini/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 1 - Riassunto\|Sessione 1 - Riassunto]] |
 | ![(0) Immagini/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/(0)%20Immagini/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 2 - Riassunto\|Sessione 2 - Riassunto]] |
+| ![(0) Immagini/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/(0)%20Immagini/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 3 - Riassunto\|Sessione 3 - Riassunto]] |
 
 { .block-language-dataview}
 
@@ -53,7 +54,7 @@ Harry Potter, Persona, Percy Jackson, Fire Emblem: Three Houses, The Owl House, 
 | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | ![(0) Immagini/Sito Icone/Icona Quest.png\|Icona Quest.png](/img/user/(0)%20Immagini/Sito%20Icone/Icona%20Quest.png) | [[Campagne/Tales of the Accademy/Quest e misteri/Documenti da decifrare\|Documenti da decifrare]] |
 | ![(0) Immagini/Sito Icone/Icona Quest.png\|Icona Quest.png](/img/user/(0)%20Immagini/Sito%20Icone/Icona%20Quest.png) | [[Campagne/Tales of the Accademy/Quest e misteri/Lettera dal padre 1\|Lettera dal padre 1]]       |
-| ![[0-Immagini/Sito Icone/Icona Quest.png\|Icona Quest.png]]   | [[Campagne/Tales of the Accademy/Quest e misteri/Lettera dal padre 2\|Lettera dal padre 2]]       |
+| ![(0) Immagini/Sito Icone/Icona Quest.png\|Icona Quest.png](/img/user/(0)%20Immagini/Sito%20Icone/Icona%20Quest.png) | [[Campagne/Tales of the Accademy/Quest e misteri/Lettera dal padre 2\|Lettera dal padre 2]]       |
 | ![(0) Immagini/Sito Icone/Icona Quest.png\|Icona Quest.png](/img/user/(0)%20Immagini/Sito%20Icone/Icona%20Quest.png) | [[Campagne/Tales of the Accademy/Quest e misteri/Rito di iniziazione\|Rito di iniziazione]]       |
 
 { .block-language-dataview}

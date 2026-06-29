@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Campagne/Tales of the Accademy/Quest e misteri/Rito di iniziazione/","created":"2026-05-07T13:09:46.979+02:00","updated":"2026-06-24T18:23:33.920+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Quest]]","Campagna":"[[Tales of the Accademy]]","Mandante":"[[Persona NPC]]","Completata":true,"Immagine":"![Icona Quest.png](/img/user/(0)%20Immagini/Sito%20Icone/Icona%20Quest.png)"}}
+{"dg-publish":true,"permalink":"/Campagne/Tales of the Accademy/Quest e misteri/Rito di iniziazione/","created":"2026-05-07T13:09:46.979+02:00","updated":"2026-06-29T12:33:02.852+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Quest]]","Campagna":"[[Tales of the Accademy]]","Mandante":"[[Persona NPC]]","Completata":true,"Immagine":"![Icona Quest.png](/img/user/(0)%20Immagini/Sito%20Icone/Icona%20Quest.png)"}}
 ---
 
 
-# Quest
+## Quest
 Avete ricevuto tutti un bigliettino, lasciato sotto la porta durante la notte. Vi invita al rito l'iniziazione delle matricole il mese prossimo.
 ![Rito di iniziazione.png](/img/user/(0)%20Immagini/Campagne/Accademy/Sessione%201/Rito%20di%20iniziazione.png)
 ## Informazioni

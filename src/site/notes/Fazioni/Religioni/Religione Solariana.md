@@ -37,9 +37,8 @@
 
 { .block-language-dataview}
 ### Fedeli
-|                                                                                                             | Fedeli                                                                          |
-| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| ![(0) Immagini/Personaggi immagini/PG/Lugalin Gilgamesh d’Aurelian.png\|Lugalin Gilgamesh d’Aurelian.png](/img/user/(0)%20Immagini/Personaggi%20immagini/PG/Lugalin%20Gilgamesh%20d%E2%80%99Aurelian.png) | [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]] |
+|   | Fedeli |
+| - | ------ |
 
 { .block-language-dataview}
 

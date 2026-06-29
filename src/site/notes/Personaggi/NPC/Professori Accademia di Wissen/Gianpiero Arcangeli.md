@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli/","tags":["NPC","V2"],"created":"2026-05-16T18:35:31.209+02:00","updated":"2026-06-25T18:03:32.924+02:00","dg-note-properties":{"aliases":["Gianpiero","Piero"],"tags":["NPC","V2"],"Template":"[[NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Gianpiero","Cognome":"[[Arcangeli]]","Specie":"[[Umani]]","Anno di nascita":1154,"Affiliazioni":["[[Accademia di Wissen#Professori]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Gianpiero Arcangeli.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Gianpiero%20Arcangeli.png)"}}
+{"dg-publish":true,"permalink":"/Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli/","tags":["NPC","V2"],"created":"2026-05-16T18:35:31.209+02:00","updated":"2026-06-29T14:46:11.859+02:00","dg-note-properties":{"aliases":["Gianpiero","Piero","Il vicepreside"],"tags":["NPC","V2"],"Template":"[[NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Gianpiero","Cognome":"[[Arcangeli]]","Specie":"[[Umani]]","Anno di nascita":1154,"Affiliazioni":["[[Accademia di Wissen#Professori]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Gianpiero Arcangeli.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Gianpiero%20Arcangeli.png)","Fede":"[[Dio della conoscenza#Fedeli]]"}}
 ---
 
 > [!infobox|right]

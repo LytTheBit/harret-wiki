@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Dei/Dio della conoscenza/","contentClasses":"dg-cards","tags":["V2"],"created":"2026-05-08T22:51:08.113+02:00","updated":"2026-06-26T19:41:38.038+02:00","dg-note-properties":{"aliases":["Memor","Dio della conoscenza"],"tags":["V2"],"Template":"[[Divinità]]","Nome":"Memor","Sesso":"Maschio","Numero":5,"Stagione":"[[Stagione Ombrosa]]","Mese":"[[5° mese\|5° mese]]","Costellazione":"[[Tomo dei sapienti\|Tomo dei sapienti]]","Dominio":["Libri","Conoscenze","Mente"],"Culti":["[[Ordine dei sapienti\|Ordine dei sapienti]]"],"Immagine":"![Dio della conoscenza.png](/img/user/(0)%20Immagini/Costellazioni%20e%20Dei/5%20-%20conoscenza/Dio%20della%20conoscenza.png)"}}
+{"dg-publish":true,"permalink":"/Dei/Dio della conoscenza/","contentClasses":"dg-cards","tags":["V2"],"created":"2026-05-08T22:51:08.113+02:00","updated":"2026-06-29T12:48:03.952+02:00","dg-note-properties":{"aliases":["Memor","Dio della conoscenza"],"tags":["V2"],"Template":"[[Dio]]","Nome":"Memor","Sesso":"Maschio","Numero":5,"Stagione":"[[Stagione Ombrosa]]","Mese":"[[5° mese\|5° mese]]","Costellazione":"[[Tomo dei sapienti\|Tomo dei sapienti]]","Dominio":["Libri","Conoscenze","Mente"],"Immagine":"![Dio della conoscenza.png](/img/user/(0)%20Immagini/Costellazioni%20e%20Dei/5%20-%20conoscenza/Dio%20della%20conoscenza.png)"}}
 ---
 
 > [!infobox|right]
@@ -14,7 +14,7 @@
 > | Mese | [[5° mese\|5° mese]] |
 > | Costellazione | [[Tomo dei sapienti\|Tomo dei sapienti]] |
 > | Dominio | Libri,Conoscenze,Mente |
-> | Culti | [[Ordine dei sapienti\|Ordine dei sapienti]] |
+> | Culti | `= this.Culti` |
 
 Memor è il dio della conoscenza, della mente e dei libri (tutte le forme del sapere in generale). E' spesso visto come il patrono degli studiosi e dei ricercatori.
 
@@ -25,9 +25,6 @@ Memor è spesso raffigurato con un volto da bestia e un corpo fatto di fogli e c
 - Nel est invece si tende a darli il volto di una volpe, con un corpo fatto di kanji incisi su lastre di bambu
 
 La rappresentazione più comune è spesso quella del sud, visto che è in quelle zone in cui il suo culto è più diffuso
-
-## Religione
-L'ordine religioso più influente che lo venera è l'[[Ordine dei sapienti\|Ordine dei sapienti]]. Un ordine di tipo monastico che si specializza sul ricercare libri antichi e o perduti, tradurli e copiarli e distribuirli per il mondo tra le loro sedi.
 
 ## Miti e tradizioni
 #### Funerali
@@ -46,5 +43,19 @@ Il [[Tomo dei sapienti\|Tomo dei sapienti]] è la costellazione legata a [[Dei/D
 #### Credenze
 Si dice che chi sia nato sotto questa costellazione sia calmo e riflessivo, e che sia portato per lo studio.
 
-## Fedeli
-<p><span>Nessun fedele conosciuto.</span></p>
+## Religione: 
+
+### Clero
+|                                                                                        | Clero                                                                                     |
+| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| ![(0) Immagini/Personaggi immagini/NPC/Padre Lucas Mimer.png\|Padre Lucas Mimer.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Padre%20Lucas%20Mimer.png) | [[Personaggi/NPC/Professori Accademia di Wissen/Padre Lucas Mimer\|Padre Lucas Mimer]] |
+
+{ .block-language-dataview}
+
+### Fedeli
+|                                                                                            | Fedeli                                                                                        |
+| ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
+| ![(0) Immagini/Personaggi immagini/NPC/Gianpiero Arcangeli.png\|Gianpiero Arcangeli.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Gianpiero%20Arcangeli.png) | [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Gianpiero Arcangeli]] |
+| ![(0) Immagini/Ruggie Kerma.png\|Ruggie Kerma.png](/img/user/(0)%20Immagini/Ruggie%20Kerma.png)                                       | [[Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma\|Ruggie Kerma]]                 |
+
+{ .block-language-dataview}

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mondo/Harret/Luoghi/Castel Wissen/","contentClasses":"dg-cards","created":"2026-06-17T18:29:20.804+02:00","updated":"2026-06-24T15:36:49.392+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Posto]]","Tipo":"Istituzione","Regione":"[[Mondo/Harret/Geografia/Vette Grigie\|Vette Grigie]]","Affiliazione":"[[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]]","Immagine":"![Accademia di Wissen.png](/img/user/(0)%20Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png)"}}
+{"dg-publish":true,"permalink":"/Mondo/Harret/Luoghi/Castel Wissen/","contentClasses":"dg-cards","created":"2026-06-17T18:29:20.804+02:00","updated":"2026-06-29T13:19:39.736+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Posto]]","Tipo":"Istituzione","Regione":"[[Mondo/Harret/Geografia/Vette Grigie\|Vette Grigie]]","Affiliazione":"[[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]]","Immagine":"![Accademia di Wissen.png](/img/user/(0)%20Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png)"}}
 ---
 
 > [!infobox|right]
@@ -27,15 +27,25 @@ Il castello fu costruita seicento anni fa dai tre valorosi eroi che salvarono il
 
 Nel corso degli anni, l'istituto ha espanso il palazzo aggiungendoci giardini, edifici e dormitori.
 
-## Gli Edifici
+## Edifici
+### Primo altopiano
+#### Biblioteca
+Strana biblioteca, di giorno è normale, ma di notte per una singola ora si apre una [[Lore/(TODO) Faglia\|(TODO) Faglia]]. L'interno della biblioteca si allarga tutto ciò che è scritto nei libri aperti prende vita.
+Viene usata dagli studenti per i [[Campagne/Tales of the Accademy/Quest e misteri/Rito di iniziazione\|riti di iniziazione delle primine]].
+#### Scuola
+Dove si tiene la maggior parte delle lezioni. Comprende anche la mensa.
+#### Palestra
+#### Dormitori
+Divisi in 3 strutture, vi è un dormitorio maschile, uno femminile e uno per i docenti e il corpo insegnanti.
+### Secondo altopiano
+#### Stalle
+#### Guferia
+### Terzo altopiano
+#### Giardino delle vette
+### Quarto altopiano
+#### Cappella di Memor
+Piccola cappella dedicata a [[Dei/Dio della conoscenza\|Memor]] [[Dei/Dio della conoscenza\|Dio della conoscenza]].
+Vi sono delle vetrate che raffigurano tutte e 12 le divinità
 
-Il complesso è distribuito su cinque altopiani collegati da scale e ponti soprelevati.
-
-| Altopiano | Contenuto                                                                                  |
-| --------- | ------------------------------------------------------------------------------------------ |
-| Primo     | Edificio principale, Torre dell'Orologio, Biblioteca, Palestra, Stadio, Dormitori, Cortile |
-| Secondo   | Stalle, Guferia                                                                            |
-| Terzo     | Studentato, Sede dei club                                                                  |
-| Quarto    | Cappella di Memor, Monastero                                                               |
-| Quinto    | Giardino delle Vette                                                                       |
-### Biblioteca
+#### Monastero
+Piccolo monastero di [[Dei/Dio della conoscenza\|Memor]], i monaci creano molte delle copie dei libri che vengono poi usati dagli studenti.

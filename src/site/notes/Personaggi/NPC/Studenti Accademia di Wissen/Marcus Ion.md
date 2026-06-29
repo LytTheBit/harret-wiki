@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Marcus Ion/","tags":["NPC","V2"],"created":"2026-06-22T19:08:44.926+02:00","updated":"2026-06-25T10:36:12.620+02:00","dg-note-properties":{"aliases":[null],"tags":["NPC","V2"],"Template":"[[NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Marcus","Cognome":"[[Ion]]","Specie":"[[Umani]]","Anno di nascita":1206,"Affiliazioni":["[[Fazioni/Organizazioni/Ordine della lancia bianca\|Ordine della lancia bianca]]","[[Accademia di Wissen#Studenti]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Marcus Ion.png](/img/user/(0)%20Immagini/Marcus%20Ion.png)"}}
+{"dg-publish":true,"permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Marcus Ion/","tags":["NPC","V2"],"created":"2026-06-22T19:08:44.926+02:00","updated":"2026-06-29T14:30:10.162+02:00","dg-note-properties":{"aliases":["Marcus"],"tags":["NPC","V2"],"Template":"[[NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Marcus","Cognome":"[[Ion]]","Specie":"[[Umani]]","Anno di nascita":1206,"Affiliazioni":["[[Fazioni/Organizazioni/Ordine della lancia bianca\|Ordine della lancia bianca]]","[[Accademia di Wissen#Studenti]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Marcus Ion.png](/img/user/(0)%20Immagini/Marcus%20Ion.png)","Fede":"[[Dio del sole#Fedeli]]"}}
 ---
+
+> [!warning] Attenzione
+> Questa nota è ancora in fase di creazione, potrebbe essere incompleta o errata!
 
 > [!infobox|right]
 > # Marcus Ion

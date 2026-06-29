@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Dei/Dio del sole/","contentClasses":"dg-cards","tags":["V2"],"created":"2026-05-11T19:07:40.401+02:00","updated":"2026-06-26T19:41:32.501+02:00","dg-note-properties":{"aliases":["Dio della luce","Aurelius","Re degli dei"],"tags":["V2"],"Template":"[[Divinità]]","Nome":"Aurelius","Sesso":"Maschio","Numero":6,"Stagione":"[[Stagione Radiosa]]","Mese":"[[Lore/Mesi#6° Mese\|6° Mese]]","Costellazione":"[[Sole del mattino\|Sole del mattino]]","Dominio":["Sole","Luce","Gloria","Onore"],"Culti":["[[Religione Solariana]]"],"Immagine":"![Dio del sole.png](/img/user/(0)%20Immagini/Costellazioni%20e%20Dei/6%20-%20sole/Dio%20del%20sole.png)"}}
+{"dg-publish":true,"permalink":"/Dei/Dio del sole/","contentClasses":"dg-cards","tags":["V2"],"created":"2026-05-11T19:07:40.401+02:00","updated":"2026-06-29T12:48:03.936+02:00","dg-note-properties":{"aliases":["Dio della luce","Aurelius","Re degli dei"],"tags":["V2"],"Template":"[[Dio]]","Nome":"Aurelius","Sesso":"Maschio","Numero":6,"Stagione":"[[Stagione Radiosa]]","Mese":"[[Lore/Mesi#6° Mese\|6° Mese]]","Costellazione":"[[Sole del mattino\|Sole del mattino]]","Dominio":["Sole","Luce","Gloria","Onore"],"Culti":["[[Religione Solariana]]"],"Immagine":"![Dio del sole.png](/img/user/(0)%20Immagini/Costellazioni%20e%20Dei/6%20-%20sole/Dio%20del%20sole.png)"}}
 ---
 
 > [!infobox|right]
@@ -23,9 +23,6 @@ Su questo argomento in passato sono stata combattute guerre intere.
 ## Aspetto
 Aurelius è rappresentato come un uomo alto e muscoloso, con barba e capelli di fuoco. Ha spesso indosso indumenti da nobile o generale, che variano da paese a paese.
 
-## Religione
-La religione più diffusa del dio della luce è l'[[Ordine dei radianti\|Ordine dei radianti]]. E' una religione molto diffusa e con una struttura gerarchica ben definita. 
-
 ## Miti e tradizioni
 #### Funerali
 ...
@@ -43,5 +40,20 @@ Il [[Sole del mattino\|Sole del mattino]] è la costellazione legata a [[Dei/Dio
 Si dice che chi sia nato sotto questa costellazione destinato ad essere un leader. A guidare la folla e le genti.
 Sia coraggioso e onorevole.
 
-## Fedeli
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">1</span></th><th class="table-view-th"><span>Fedele</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><img alt="(0) Immagini/Personaggi immagini/PG/Lugalin Gilgamesh d’Aurelian.png" src="app://53190647bbf96d996a594e70b1a6171f53e6/C:/Users/Utente/OneDrive/Obsidian/Harret/(0)%20Immagini/Personaggi%20immagini/PG/Lugalin%20Gilgamesh%20d%E2%80%99Aurelian.png?1778677431530"></td><td><span><a data-tooltip-position="top" aria-label="Personaggi/PG/Lugalin Gilgamesh d’Aurelian.md" data-href="Personaggi/PG/Lugalin Gilgamesh d’Aurelian.md" href="Personaggi/PG/Lugalin Gilgamesh d’Aurelian.md" class="internal-link" target="_blank" rel="noopener nofollow">Lugalin Gilgamesh d’Aurelian</a> (Religione Solariana)</span></td></tr></tbody></table></div>
+## Religione: 
+
+### Clero
+|   | Clero |
+| - | ----- |
+
+{ .block-language-dataview}
+
+### Fedeli
+|                                                                                                             | Fedeli                                                                              |
+| ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| ![(0) Immagini/Personaggi immagini/PG/Lugalin Gilgamesh d’Aurelian.png\|Lugalin Gilgamesh d’Aurelian.png](/img/user/(0)%20Immagini/Personaggi%20immagini/PG/Lugalin%20Gilgamesh%20d%E2%80%99Aurelian.png) | [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]]     |
+| ![(0) Immagini/Marcus Ion.png\|Marcus Ion.png](/img/user/(0)%20Immagini/Marcus%20Ion.png)                                                            | [[Personaggi/NPC/Studenti Accademia di Wissen/Marcus Ion\|Marcus Ion]]           |
+| ![(0) Immagini/Personaggi immagini/NPC/Sarah Strong.png\|Sarah Strong.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Sarah%20Strong.png)                                | [[Personaggi/NPC/Studenti Accademia di Wissen/Sarah Strong\|Sarah Strong]]       |
+| ![(0) Immagini/Personaggi immagini/NPC/Stephany Strong.png\|Stephany Strong.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Stephany%20Strong.png)                          | [[Personaggi/NPC/Studenti Accademia di Wissen/Stephany Strong\|Stephany Strong]] |
+
+{ .block-language-dataview}

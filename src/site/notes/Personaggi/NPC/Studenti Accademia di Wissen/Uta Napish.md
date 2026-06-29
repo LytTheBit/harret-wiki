@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Uta Napish/","tags":["NPC","V2"],"created":"2026-05-28T12:06:07.006+02:00","updated":"2026-06-25T10:47:59.699+02:00","dg-note-properties":{"aliases":["Uta"],"tags":["NPC","V2"],"Template":"[[NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Uta","Cognome":"[[Napish\|Napish]]","Specie":"[[Umani]]","Anno di nascita":1206,"Affiliazioni":["[[Accademia di Wissen#Studenti]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Uta Napish.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Uta%20Napish.png)"}}
+{"dg-publish":true,"permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Uta Napish/","tags":["NPC","V2"],"created":"2026-05-28T12:06:07.006+02:00","updated":"2026-06-28T09:40:13.473+02:00","dg-note-properties":{"aliases":["Uta"],"tags":["NPC","V2"],"Template":"[[NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Uta","Cognome":"[[Napish\|Napish]]","Specie":"[[Umani]]","Anno di nascita":1206,"Affiliazioni":["[[Accademia di Wissen#Studenti]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Uta Napish.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Uta%20Napish.png)","Fede":"Atea"}}
 ---
 
 > [!warning] Attenzione
