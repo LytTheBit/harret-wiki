@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fazioni/Organizazioni/Accademia di Wissen/","contentClasses":"dg-cards","tags":["V2"],"created":"2026-05-07T11:56:30.769+02:00","updated":"2026-06-29T13:17:03.391+02:00","dg-note-properties":{"aliases":["Wissen","l'Accademia"],"tags":["V2"],"Template":"[[Organizzazione]]","Capo":"[[Adam Wissen|Preside]]","Sede Principale":"[[Mondo/Harret/Luoghi/Castel Wissen\|Castel Wissen]]","Data di fondazione":625,"Motto":"*\"Eroi si diventa.\"*","Tipo di Organizzazione":"Istituto accademico","Immagine":"![Bandiera Accademia di Wissen.png](/img/user/(0)%20Immagini/Stendardi%20immagini/Bandiera%20Accademia%20di%20Wissen.png)"}}
+{"dg-publish":true,"permalink":"/Fazioni/Organizazioni/Accademia di Wissen/","contentClasses":"dg-cards","tags":["V2"],"created":"2026-05-07T11:56:30.769+02:00","updated":"2026-06-29T17:06:06.478+02:00","dg-note-properties":{"aliases":["Wissen","l'Accademia"],"tags":["V2"],"Template":"[[Organizzazione]]","Capo":"[[Adam Wissen|Preside]]","Sede Principale":"[[Mondo/Harret/Luoghi/Castel Wissen\|Castel Wissen]]","Data di fondazione":625,"Motto":"*\"Eroi si diventa.\"*","Tipo di Organizzazione":"Istituto accademico","Immagine":"![Bandiera Accademia di Wissen.png](/img/user/(0)%20Immagini/Stendardi%20immagini/Bandiera%20Accademia%20di%20Wissen.png)"}}
 ---
 
 > [!infobox|right]
@@ -19,7 +19,7 @@
 > | Preside | [[Il Preside\|Il Preside]] *(sconosciuto)* |
 > | Vicepreside | [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Gianpiero Arcangeli]] |
 > | Insegnante di regalità |  [[Personaggi/NPC/Professori Accademia di Wissen/Ser Leon Rammer\|Ser Leon Rammer]] |
-> | Insegnante di cavalleria | [[Personaggi/NPC/Professori Accademia di Wissen/Tomoe Gozen\|Tomoe Gozen]] |
+> | Insegnante di cavalleria | [[Personaggi/NPC/Professori Accademia di Wissen/Ziegel Granit\|Ziegel Granit]] |
 > | Insegnante di magia | [[Personaggi/NPC/Professori Accademia di Wissen/Pearl Violet\|Pearl Violet]] |
 > | Insegnante di arte | [[Personaggi/NPC/Professori Accademia di Wissen/Miss Teodora Cost\|Miss Teodora Cost]] |
 > | Insegnante di religione | [[Personaggi/NPC/Professori Accademia di Wissen/Padre Lucas Mimer\|Padre Lucas Mimer]] |
@@ -43,12 +43,29 @@ Nessuno sa da dove derivi il nome Wissen. I fondatori della scuola non lo hanno 
 ## Le Facoltà
 Ogni studente può scegliere una facoltà in cui specializzarsi. 
 
-- **Scienze Politiche e Reali** — economia, arte militare, burocrazia, etichetta
-- **Cavalleria e Coraggio** — combattimento, disciplina militare, armi e combattimento
-- **Magia e dei Misteri** — leggi arcane, evocazione, divinazione, invocazione
-- **Arte e Musica** — canto, pittura, recitazione, scultura
-- **Stelle e Religione** — astrologia, divinità, piani dell'esistenza, testi sacri
-- **Bestie e Natura** — sopravvivenza, comunicazione con gli animali, druidi
+### Scienze Politiche e Reali
+Corso di: economia, arte militare, burocrazia, e etichetta
+Tenuto da [[Personaggi/NPC/Professori Accademia di Wissen/Ser Leon Rammer\|Ser Leon Rammer]]
+
+### Cavalleria e Coraggio
+Corso di: combattimento, disciplina militare, armi e combattimento
+Tenuto da [[Personaggi/NPC/Professori Accademia di Wissen/Ziegel Granit\|Ziegel Granit]]
+
+### Magia e dei Misteri
+Corso di: leggi arcane, evocazione, divinazione, e invocazione
+Tenuto da [[Personaggi/NPC/Professori Accademia di Wissen/Pearl Violet\|Pearl Violet]]
+
+###  Arte e Musica
+Corso di: canto, pittura, recitazione, e scultura
+Tenuto da [[Personaggi/NPC/Professori Accademia di Wissen/Miss Teodora Cost\|Miss Teodora Cost]]
+
+### Stelle e Religione
+Corso di: astrologia, divinità, piani dell'esistenza, e testi sacri
+Tenuto da [[Personaggi/NPC/Professori Accademia di Wissen/Padre Lucas Mimer\|Padre Lucas Mimer]]
+
+### Bestie e Natura
+Corso di: sopravvivenza, comunicazione con gli animali, addomesticazione, e piante
+Tenuto da [[Personaggi/NPC/Professori Accademia di Wissen/Ryukyu Geoemyda\|Ryukyu Geoemyda]]
 
 Nel corso degli anni scolastici le lezioni di specializzazione diventano sempre più importanti, e agli studenti viene chiesto di scegliere una seconda specializzazione. 
 
