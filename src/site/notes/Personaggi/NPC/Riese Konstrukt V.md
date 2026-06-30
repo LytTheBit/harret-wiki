@@ -4,7 +4,7 @@
 
 > [!infobox|right]
 > # Riese Konstrukt V
-> ![Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Persona%20Placeholder.png)
+> ![(0) Immagini/Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Persona%20Placeholder.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|

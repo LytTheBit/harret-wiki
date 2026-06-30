@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Dei/Dea della luna/","contentClasses":"dg-cards","tags":["V2"],"created":"2026-05-13T22:14:56.791+02:00","updated":"2026-06-29T12:48:03.972+02:00","dg-note-properties":{"aliases":["Regina degli dei","Dea dei misteri","Omeria"],"tags":["V2"],"Template":"[[Dio]]","Nome":"Omeria","Sesso":"Femmina","Numero":12,"Stagione":"[[Stagione Ombrosa]]","Mese":"[[12° mese\|12° mese]]","Costellazione":"[[Luna della sera\|Luna della sera]]","Dominio":["Misteri","Luna","Maree","Notte"],"Immagine":"![Dea della luna.png](/img/user/(0)%20Immagini/Costellazioni%20e%20Dei/12%20-%20luna/Dea%20della%20luna.png)"}}
+{"dg-publish":true,"permalink":"/Dei/Dea della luna/","contentClasses":"dg-cards","tags":["V2"],"created":"2026-05-13T22:14:56.791+02:00","updated":"2026-06-29T19:22:09.480+02:00","dg-note-properties":{"aliases":["Regina degli dei","Dea dei misteri","Omeria"],"tags":["V2"],"Template":"[[Dio]]","Nome":"Omeria","Sesso":"Femmina","Numero":12,"Stagione":"[[Stagione Ombrosa]]","Mese":"[[12° mese\|12° mese]]","Costellazione":"[[Luna della sera\|Luna della sera]]","Dominio":["Misteri","Luna","Maree","Notte"],"Immagine":"![Dea della luna.png](/img/user/(0)%20Immagini/Costellazioni%20e%20Dei/12%20-%20luna/Dea%20della%20luna.png)"}}
 ---
 
 > [!infobox|right]
@@ -30,10 +30,14 @@ In alcune culture si dice che la maschera rappresenti le fasi della luna.
 .
 
 #### Funerali
-...
+.
+.
+.
 
 #### Mito: ...
-...
+.
+.
+.
 
 ## Costellazione
 La [[Luna della sera\|Luna della sera]] è la costellazione legata a [[Dei/Dea della luna\|Omeria]], Dea della luna. Appare in cielo per da circa il [[10° mese\|10° mese]] al [[2° mese\|2° mese]] del anno successivo, ma è durante il [[12° mese\|12° mese]] che risplende di tutta la sua luce e si vedono tutte le sue stelle.

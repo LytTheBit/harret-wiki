@@ -30,11 +30,11 @@ La gilda gode di grande influenza politica e accademica, avendo rapporti diretti
 .
 
 ## Membri
-|                                                       | Membri                                                                        |
-| ----------------------------------------------------- | ----------------------------------------------------------------------------- |
-| ![Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Persona%20Placeholder.png) | [[Personaggi/NPC/Alma Seele\|Alma Seele]]                                  |
-| ![(0) Immagini/Extra/Test.png\|Test.png](/img/user/(0)%20Immagini/Extra/Test.png)            | [[Personaggi/PG/D1-X0N\|D1-X0N]]                                           |
-| ![Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Persona%20Placeholder.png) | [[Personaggi/NPC/Riese Konstrukt V\|Riese Konstrukt V]]                    |
-| ![(0) Immagini/Ruggie Kerma.png\|Ruggie Kerma.png](/img/user/(0)%20Immagini/Ruggie%20Kerma.png)  | [[Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma\|Ruggie Kerma]] |
+|                                                                    | Membri                                                                        |
+| ------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
+| ![(0) Immagini/Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Persona%20Placeholder.png) | [[Personaggi/NPC/Alma Seele\|Alma Seele]]                                  |
+| ![(0) Immagini/Extra/Test.png\|Test.png](/img/user/(0)%20Immagini/Extra/Test.png)                         | [[Personaggi/PG/D1-X0N\|D1-X0N]]                                           |
+| ![(0) Immagini/Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Persona%20Placeholder.png) | [[Personaggi/NPC/Riese Konstrukt V\|Riese Konstrukt V]]                    |
+| ![(0) Immagini/Ruggie Kerma.png\|Ruggie Kerma.png](/img/user/(0)%20Immagini/Ruggie%20Kerma.png)               | [[Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma\|Ruggie Kerma]] |
 
 { .block-language-dataview}
