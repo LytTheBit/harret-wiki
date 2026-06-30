@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Specie/Umani/","contentClasses":"dg-cards","tags":["Specie","Senziente","Umano"],"created":"2026-05-11T21:42:02.514+02:00","updated":"2026-05-16T18:56:02.169+02:00","dg-note-properties":{"aliases":["Tallman"],"tags":["Specie","Senziente","Umano"],"Template":"[[Specie Senziente]]","Immagine":"![Umani.jpg](/img/user/(0)%20Immagini/Specie%20immagini/Umani.jpg)","Stirpe":"Quarta stirpe"}}
+{"dg-publish":true,"permalink":"/Specie/Umani/","contentClasses":"dg-cards","tags":["Specie","Senziente","Umano"],"created":"2026-05-11T21:42:02.514+02:00","updated":"2026-06-30T11:45:15.118+02:00","dg-note-properties":{"aliases":["Tallman"],"tags":["Specie","Senziente","Umano"],"Template":"[[Specie Senziente]]","Immagine":"![Umani.jpg](/img/user/(0)%20Immagini/Specie%20immagini/Umani.jpg)","Stirpe":"Quarta stirpe"}}
 ---
 
-# Umani
 > [!infobox|right]
 > # Umani
 > ![Umani.jpg](/img/user/(0)%20Immagini/Specie%20immagini/Umani.jpg)
