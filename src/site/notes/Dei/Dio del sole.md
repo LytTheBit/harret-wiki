@@ -51,6 +51,7 @@ Sia coraggioso e onorevole.
 ### Fedeli
 |                                                                                                             | Fedeli                                                                              |
 | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| ![(0) Immagini/Personaggi immagini/Mostri/Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Personaggi%20immagini/Mostri/Persona%20Placeholder.png)               | [[Personaggi/NPC/Alfred ...\|Alfred ...]]                                        |
 | ![(0) Immagini/Personaggi immagini/PG/Lugalin Gilgamesh d’Aurelian.png\|Lugalin Gilgamesh d’Aurelian.png](/img/user/(0)%20Immagini/Personaggi%20immagini/PG/Lugalin%20Gilgamesh%20d%E2%80%99Aurelian.png) | [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]]     |
 | ![(0) Immagini/Personaggi immagini/NPC/Marcus Ion.png\|Marcus Ion.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Marcus%20Ion.png)                                    | [[Personaggi/NPC/Studenti Accademia di Wissen/Marcus Ion\|Marcus Ion]]           |
 | ![(0) Immagini/Personaggi immagini/NPC/Sarah Strong.png\|Sarah Strong.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Sarah%20Strong.png)                                | [[Personaggi/NPC/Studenti Accademia di Wissen/Sarah Strong\|Sarah Strong]]       |

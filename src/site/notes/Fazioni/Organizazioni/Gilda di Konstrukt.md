@@ -32,9 +32,9 @@ La gilda gode di grande influenza politica e accademica, avendo rapporti diretti
 ## Membri
 |                                                                                               | Membri                                                                        |
 | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| ![[(0) Immagini/Persona Placeholder.png\|Persona Placeholder.png]]                            | [[Personaggi/NPC/Alma Seele\|Alma Seele]]                                  |
+| ![(0) Immagini/Personaggi immagini/Mostri/Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Personaggi%20immagini/Mostri/Persona%20Placeholder.png) | [[Personaggi/NPC/Alma Seele\|Alma Seele]]                                  |
 | ![(0) Immagini/Personaggi immagini/Mostri/Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Personaggi%20immagini/Mostri/Persona%20Placeholder.png) | [[Personaggi/PG/D1-X0N\|D1-X0N]]                                           |
-| ![[(0) Immagini/Persona Placeholder.png\|Persona Placeholder.png]]                            | [[Personaggi/NPC/Riese Konstrukt III\|Riese Konstrukt III]]                |
+| ![(0) Immagini/Personaggi immagini/Mostri/Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Personaggi%20immagini/Mostri/Persona%20Placeholder.png) | [[Personaggi/NPC/Riese Konstrukt III\|Riese Konstrukt III]]                |
 | ![(0) Immagini/Personaggi immagini/NPC/Ruggie Kerma.png\|Ruggie Kerma.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Ruggie%20Kerma.png)                  | [[Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma\|Ruggie Kerma]] |
 
 { .block-language-dataview}
