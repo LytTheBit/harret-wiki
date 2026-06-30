@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Specie/Galapa/","contentClasses":"dg-cards","tags":["Specie","Senziente","Galapa"],"created":"2026-05-11T11:44:17.194+02:00","updated":"2026-06-30T11:45:08.993+02:00","dg-note-properties":{"aliases":["Tortle"],"tags":["Specie","Senziente","Galapa"],"Template":"[[Specie Senziente]]","Immagine":"![Galapa.png](/img/user/(0)%20Immagini/Specie%20immagini/Galapa.png)","Stirpe":"Terza stirpe"}}
+{"dg-publish":true,"permalink":"/Specie/Galapa/","contentClasses":"dg-cards","tags":["Specie","Senziente","Galapa"],"created":"2026-05-11T11:44:17.194+02:00","updated":"2026-06-30T12:17:04.829+02:00","dg-note-properties":{"aliases":["Tortle"],"tags":["Specie","Senziente","Galapa"],"Template":"[[Specie Senziente]]","Immagine":"![Galapa.png](/img/user/(0)%20Immagini/Specie%20immagini/Galapa.png)","Stirpe":"Terza stirpe"}}
 ---
 
 > [!infobox|right]
@@ -22,7 +22,7 @@ I Galapa sono autoctoni di [[Mondo/Gelior/Pianeta di Gelior\|Pianeta di Gelior]]
 Movimenti migratori hanno portato i Galapa ad abitare anche ad [[Sylvara\|Sylvara]], il pianeta della terra, dove si è è venuta a formare una sottospecie di tartarughe di terra.
 
 ## Origini
-Nessuno sa con sicurezza delle loro origini, alcuni pensano siano stati creati da un dio di nascosto, o che siano legati in qualche modo ai draghi vista la loro natura da rettile. 
+Nessuno sa con sicurezza delle loro origini, alcuni pensano siano stati creati dalla [[Dei/Dea del acqua\|Dea del acqua]], o che siano legati in qualche modo ai draghi vista la loro natura da rettile. 
 Altri ancora credono che si siano evoluti da soli, senza influenze esterne.
 Al giorno d'oggi nessuna di queste teorie è ancora stata confermata o smentita.
 
@@ -38,6 +38,7 @@ Sono tendenzialmente ben visti. Alcuni li temono per via della loro natura da re
 |                                                                                    | Galapa                                                                                |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | ![(0) Immagini/Personaggi immagini/PG/Matamata.png\|Matamata.png](/img/user/(0)%20Immagini/Personaggi%20immagini/PG/Matamata.png)                | [[Personaggi/PG/Mata Mata\|Mata Mata]]                                             |
+| ![(0) Immagini/Personaggi immagini/NPC/Pinta Galapodi.png\|Pinta Galapodi.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Pinta%20Galapodi.png)   | [[Personaggi/NPC/Pinta Galapodi\|Pinta Galapodi]]                                  |
 | ![(0) Immagini/Personaggi immagini/NPC/Ryukyu Geoemyda.png\|Ryukyu Geoemyda.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Ryukyu%20Geoemyda.png) | [[Personaggi/NPC/Professori Accademia di Wissen/Ryukyu Geoemyda\|Ryukyu Geoemyda]] |
 
 { .block-language-dataview}

@@ -56,6 +56,6 @@ Si dice che chi sia nato sotto questa costellazione sia calmo e riflessivo, e ch
 |                                                                                            | Fedeli                                                                                        |
 | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
 | ![(0) Immagini/Personaggi immagini/NPC/Gianpiero Arcangeli.png\|Gianpiero Arcangeli.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Gianpiero%20Arcangeli.png) | [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Gianpiero Arcangeli]] |
-| ![(0) Immagini/Ruggie Kerma.png\|Ruggie Kerma.png](/img/user/(0)%20Immagini/Ruggie%20Kerma.png)                                       | [[Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma\|Ruggie Kerma]]                 |
+| ![(0) Immagini/Personaggi immagini/NPC/Ruggie Kerma.png\|Ruggie Kerma.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Ruggie%20Kerma.png)               | [[Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma\|Ruggie Kerma]]                 |
 
 { .block-language-dataview}

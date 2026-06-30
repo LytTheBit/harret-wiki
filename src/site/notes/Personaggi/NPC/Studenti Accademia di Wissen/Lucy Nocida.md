@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Lucy Nocida/","tags":["NPC","V2"],"created":"2026-05-16T18:35:24.704+02:00","updated":"2026-06-28T09:44:14.725+02:00","dg-note-properties":{"aliases":["Lucy"],"tags":["NPC","V2"],"Template":"[[NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Lucy","Cognome":"[[Nocida]]","Specie":"[[Umani]]","Anno di nascita":1206,"Affiliazioni":["[[Accademia di Wissen#Studenti]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Lucy Nocida.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Lucy%20Nocida.png)"}}
+{"dg-publish":true,"permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Lucy Nocida/","tags":["NPC","V2"],"created":"2026-05-16T18:35:24.704+02:00","updated":"2026-06-30T19:30:41.633+02:00","dg-note-properties":{"aliases":["Lucy"],"tags":["NPC","V2"],"Template":"[[NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Lucy","Cognome":"[[Nocida]]","Specie":"[[Umani]]","Anno di nascita":1206,"Affiliazioni":["[[Accademia di Wissen#Studenti]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Lucy Nocida.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Lucy%20Nocida.png)","Fede":"[[Dea della luna#Fedeli]]"}}
 ---
 
 

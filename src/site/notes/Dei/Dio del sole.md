@@ -52,7 +52,7 @@ Sia coraggioso e onorevole.
 |                                                                                                             | Fedeli                                                                              |
 | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | ![(0) Immagini/Personaggi immagini/PG/Lugalin Gilgamesh d’Aurelian.png\|Lugalin Gilgamesh d’Aurelian.png](/img/user/(0)%20Immagini/Personaggi%20immagini/PG/Lugalin%20Gilgamesh%20d%E2%80%99Aurelian.png) | [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]]     |
-| ![(0) Immagini/Personaggi immagini/Marcus Ion.png\|Marcus Ion.png](/img/user/(0)%20Immagini/Personaggi%20immagini/Marcus%20Ion.png)                                        | [[Personaggi/NPC/Studenti Accademia di Wissen/Marcus Ion\|Marcus Ion]]           |
+| ![(0) Immagini/Personaggi immagini/NPC/Marcus Ion.png\|Marcus Ion.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Marcus%20Ion.png)                                    | [[Personaggi/NPC/Studenti Accademia di Wissen/Marcus Ion\|Marcus Ion]]           |
 | ![(0) Immagini/Personaggi immagini/NPC/Sarah Strong.png\|Sarah Strong.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Sarah%20Strong.png)                                | [[Personaggi/NPC/Studenti Accademia di Wissen/Sarah Strong\|Sarah Strong]]       |
 | ![(0) Immagini/Personaggi immagini/NPC/Stephany Strong.png\|Stephany Strong.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Stephany%20Strong.png)                          | [[Personaggi/NPC/Studenti Accademia di Wissen/Stephany Strong\|Stephany Strong]] |
 

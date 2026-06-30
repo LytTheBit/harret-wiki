@@ -34,7 +34,7 @@ Gli studenti vengono messi alla prova ogni due mesi con una sfida assegnata dall
 ## Personaggi
 |                                                                                                             | Quest                                                                           |
 | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| ![(0) Immagini/Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Persona%20Placeholder.png)                                          | [[Personaggi/PG/D1-X0N\|D1-X0N]]                                             |
+| ![(0) Immagini/Personaggi immagini/Mostri/Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Personaggi%20immagini/Mostri/Persona%20Placeholder.png)               | [[Personaggi/PG/D1-X0N\|D1-X0N]]                                             |
 | ![(0) Immagini/Personaggi immagini/PG/Lugalin Gilgamesh d’Aurelian.png\|Lugalin Gilgamesh d’Aurelian.png](/img/user/(0)%20Immagini/Personaggi%20immagini/PG/Lugalin%20Gilgamesh%20d%E2%80%99Aurelian.png) | [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]] |
 | ![(0) Immagini/Personaggi immagini/PG/Matamata.png\|Matamata.png](/img/user/(0)%20Immagini/Personaggi%20immagini/PG/Matamata.png)                                         | [[Personaggi/PG/Mata Mata\|Mata Mata]]                                       |
 

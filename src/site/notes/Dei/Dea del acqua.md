@@ -63,6 +63,7 @@ La costellazione legata ad [[Dei/Dea del acqua\|Kaitani]] è il [[Mulinello\|Mul
 |                                                                                    | Fedeli                                                                                |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | ![(0) Immagini/Personaggi immagini/PG/Matamata.png\|Matamata.png](/img/user/(0)%20Immagini/Personaggi%20immagini/PG/Matamata.png)                | [[Personaggi/PG/Mata Mata\|Mata Mata]]                                             |
+| ![(0) Immagini/Personaggi immagini/NPC/Pinta Galapodi.png\|Pinta Galapodi.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Pinta%20Galapodi.png)   | [[Personaggi/NPC/Pinta Galapodi\|Pinta Galapodi]]                                  |
 | ![(0) Immagini/Personaggi immagini/NPC/Ryukyu Geoemyda.png\|Ryukyu Geoemyda.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Ryukyu%20Geoemyda.png) | [[Personaggi/NPC/Professori Accademia di Wissen/Ryukyu Geoemyda\|Ryukyu Geoemyda]] |
 
 { .block-language-dataview}

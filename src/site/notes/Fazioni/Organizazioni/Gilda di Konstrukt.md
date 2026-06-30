@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fazioni/Organizazioni/Gilda di Konstrukt/","contentClasses":"dg-cards","tags":["V2"],"created":"2026-05-11T21:06:32.232+02:00","updated":"2026-06-30T10:55:33.105+02:00","dg-note-properties":{"tags":["V2"],"Template":"[[Organizzazione]]","Capo":"[[Riese Konstrukt V]]","Sede Principale":null,"Data di fondazione":1026,"Motto":null,"Tipo di Organizzazione":"Gilda di costruttori","Immagine":"![Gilda di Konstrukt.png](/img/user/(0)%20Immagini/Stendardi%20immagini/Gilde%20immagini/Gilda%20di%20Konstrukt.png)"}}
+{"dg-publish":true,"permalink":"/Fazioni/Organizazioni/Gilda di Konstrukt/","contentClasses":"dg-cards","tags":["V2"],"created":"2026-05-11T21:06:32.232+02:00","updated":"2026-06-30T19:30:02.647+02:00","dg-note-properties":{"tags":["V2"],"Template":"[[Organizzazione]]","Capo":"[[Riese Konstrukt III]]","Sede Principale":null,"Data di fondazione":1026,"Motto":null,"Tipo di Organizzazione":"Gilda di costruttori","Immagine":"![Gilda di Konstrukt.png](/img/user/(0)%20Immagini/Stendardi%20immagini/Gilde%20immagini/Gilda%20di%20Konstrukt.png)"}}
 ---
 
 > [!infobox|right]
@@ -8,7 +8,7 @@
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
-> | Capo | [[Personaggi/NPC/Riese Konstrukt V\|Riese Konstrukt V]] |
+> | Capo | [[Personaggi/NPC/Riese Konstrukt III\|Riese Konstrukt III]] |
 > | Sede | `= this["Sede Principale"]` |
 > | Data di fondazione | 1026 |
 > | Motto | `= this.Motto` |
@@ -30,11 +30,11 @@ La gilda gode di grande influenza politica e accademica, avendo rapporti diretti
 .
 
 ## Membri
-|                                                                    | Membri                                                                        |
-| ------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
-| ![(0) Immagini/Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Persona%20Placeholder.png) | [[Personaggi/NPC/Alma Seele\|Alma Seele]]                                  |
-| ![(0) Immagini/Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Persona%20Placeholder.png) | [[Personaggi/PG/D1-X0N\|D1-X0N]]                                           |
-| ![(0) Immagini/Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Persona%20Placeholder.png) | [[Personaggi/NPC/Riese Konstrukt V\|Riese Konstrukt V]]                    |
-| ![(0) Immagini/Ruggie Kerma.png\|Ruggie Kerma.png](/img/user/(0)%20Immagini/Ruggie%20Kerma.png)               | [[Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma\|Ruggie Kerma]] |
+|                                                                                               | Membri                                                                        |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| ![[(0) Immagini/Persona Placeholder.png\|Persona Placeholder.png]]                            | [[Personaggi/NPC/Alma Seele\|Alma Seele]]                                  |
+| ![(0) Immagini/Personaggi immagini/Mostri/Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Personaggi%20immagini/Mostri/Persona%20Placeholder.png) | [[Personaggi/PG/D1-X0N\|D1-X0N]]                                           |
+| ![[(0) Immagini/Persona Placeholder.png\|Persona Placeholder.png]]                            | [[Personaggi/NPC/Riese Konstrukt III\|Riese Konstrukt III]]                |
+| ![(0) Immagini/Personaggi immagini/NPC/Ruggie Kerma.png\|Ruggie Kerma.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Ruggie%20Kerma.png)                  | [[Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma\|Ruggie Kerma]] |
 
 { .block-language-dataview}
