@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Campagne/Tales of the Accademy/Tales of the Accademy/","contentClasses":"dg-cards","tags":["Campagna","Daggerheart"],"created":"2026-05-07T11:36:31.432+02:00","updated":"2026-06-30T11:15:09.799+02:00","dg-note-properties":{"aliases":null,"tags":["Campagna","Daggerheart"],"Template":"[[0-Template/Off game/Campagna]]","Generi":["Fantasy","Slice of life","Mistero"],"Data di inizio":"13/06/2026","Data di fine":null,"Players":["[[(Extra) Persone/Lorenzo Grassi\|Lorenzo Grassi]]","[[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]]","[[(Extra) Persone/Lorenzo Camuso\|Lorenzo Camuso]]"],"PG":"[[Persona PG]]","Sistema":"[[Daggerheart]]","Immagine":"![Accademia di Wissen.png](/img/user/(0)%20Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png)"}}
+{"dg-publish":true,"permalink":"/Campagne/Tales of the Accademy/Tales of the Accademy/","contentClasses":"dg-cards","tags":["Campagna","Daggerheart"],"created":"2026-05-07T11:36:31.432+02:00","updated":"2026-06-30T11:22:51.478+02:00","dg-note-properties":{"aliases":null,"tags":["Campagna","Daggerheart"],"Template":"[[0-Template/Off game/Campagna]]","Generi":["Fantasy","Slice of life","Mistero"],"Data di inizio":"13/06/2026","Data di fine":null,"Players":["[[(Extra) Persone/Lorenzo Grassi\|Lorenzo Grassi]]","[[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]]","[[(Extra) Persone/Lorenzo Camuso\|Lorenzo Camuso]]"],"PG":"[[Persona PG]]","Sistema":"[[Daggerheart]]","Immagine":"![Accademia di Wissen.png](/img/user/(0)%20Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png)"}}
 ---
 
 > [!infobox|right]
@@ -20,7 +20,12 @@
 > | [[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]] | [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]] |
 
 
-*Tales of the Academy* è una campagna ambientata su Harret iniziata nel Maggio del 2026. Ha come giocatori [[(Extra) Persone/Lorenzo Grassi\|Lorenzo Grassi]], [[(Extra) Persone/Lorenzo Camuso\|Lorenzo Camuso]] e [[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]]. E' ambientata nel [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]] situata nel [[Mondo/Harret/Luoghi/Castel Wissen\|omonimo castello]], e ha come protagonisti un gruppo di studenti del primo anno.
+*Tales of the Academy* è una campagna ambientata su Harret iniziata nel Maggio del 2026. Ha come giocatori [[(Extra) Persone/Lorenzo Grassi\|Lorenzo Grassi]], [[(Extra) Persone/Lorenzo Camuso\|Lorenzo Camuso]] e [[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]]. 
+E' ambientata nel [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]] situata nel [[Mondo/Harret/Luoghi/Castel Wissen\|omonimo castello]], e ha come protagonisti un gruppo di studenti del primo anno:
+- [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]] giovane umano di nobili origini intento a tenere alto il nome della sua casata.
+- [[Personaggi/PG/Mata Mata\|Mata Mata]] muscoloso tortle proveniente da [[Mondo/Gelior/Pianeta di Gelior\|Gelior]] per uno scambio studentesco.
+- E [[Personaggi/PG/D1-X0N\|D1-X0N]] un Risvegliato di nuova generazione, spedito al accademia per scoprire i limiti e potenzialità di questa nuova specie.
+
 ## Premessa
 C'è un detto sull'Accademia di Wissen. Tutti coloro che ne escono diventano grandi eroi... se ne escono vivi.
 
