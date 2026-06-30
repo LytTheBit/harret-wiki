@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Home/","contentClasses":"dg-cards","tags":["gardenEntry"],"created":"2026-04-24T14:36:59.227+02:00","updated":"2026-06-29T17:20:36.225+02:00","dg-note-properties":{"cssclasses":null}}
+{"dg-publish":true,"permalink":"/Home/","contentClasses":"dg-cards","tags":["gardenEntry"],"created":"2026-04-24T14:36:59.227+02:00","updated":"2026-06-30T11:15:37.102+02:00","dg-note-properties":{"cssclasses":null}}
 ---
 
 Benvenuti su [[Mondo/Harret/Pianeta di Harret\|Pianeta di Harret]]... non c'è niente qui per ora... 
@@ -14,7 +14,14 @@ Lista delle campagne della ambientazione.
 
 
 
----
+## Personaggi
+|                                                                                                             | Quest                                                                           |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| ![(0) Immagini/Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Persona%20Placeholder.png)                                          | [[Personaggi/PG/D1-X0N\|D1-X0N]]                                             |
+| ![(0) Immagini/Personaggi immagini/PG/Lugalin Gilgamesh d’Aurelian.png\|Lugalin Gilgamesh d’Aurelian.png](/img/user/(0)%20Immagini/Personaggi%20immagini/PG/Lugalin%20Gilgamesh%20d%E2%80%99Aurelian.png) | [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]] |
+| ![(0) Immagini/Personaggi immagini/PG/Matamata.png\|Matamata.png](/img/user/(0)%20Immagini/Personaggi%20immagini/PG/Matamata.png)                                         | [[Personaggi/PG/Mata Mata\|Mata Mata]]                                       |
+
+{ .block-language-dataview}
 ## Giocatori
 Lista dei giocatori che hanno partecipato alle campagne.
 |                                                                               | Giocatori                                                     |

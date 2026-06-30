@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Campagne/Tales of the Accademy/Tales of the Accademy/","contentClasses":"dg-cards","tags":["Campagna","Daggerheart"],"created":"2026-05-07T11:36:31.432+02:00","updated":"2026-06-29T18:21:29.767+02:00","dg-note-properties":{"aliases":null,"tags":["Campagna","Daggerheart"],"Template":"[[0-Template/Off game/Campagna]]","Generi":["Fantasy","Slice of life","Mistero"],"Data di inizio":"13/06/2026","Data di fine":null,"Players":["[[(Extra) Persone/Lorenzo Grassi\|Lorenzo Grassi]]","[[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]]","[[(Extra) Persone/Lorenzo Camuso\|Lorenzo Camuso]]"],"PG":"[[Persona PG]]","Sistema":"[[Daggerheart]]","Immagine":"![Accademia di Wissen.png](/img/user/(0)%20Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png)"}}
+{"dg-publish":true,"permalink":"/Campagne/Tales of the Accademy/Tales of the Accademy/","contentClasses":"dg-cards","tags":["Campagna","Daggerheart"],"created":"2026-05-07T11:36:31.432+02:00","updated":"2026-06-30T11:15:09.799+02:00","dg-note-properties":{"aliases":null,"tags":["Campagna","Daggerheart"],"Template":"[[0-Template/Off game/Campagna]]","Generi":["Fantasy","Slice of life","Mistero"],"Data di inizio":"13/06/2026","Data di fine":null,"Players":["[[(Extra) Persone/Lorenzo Grassi\|Lorenzo Grassi]]","[[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]]","[[(Extra) Persone/Lorenzo Camuso\|Lorenzo Camuso]]"],"PG":"[[Persona PG]]","Sistema":"[[Daggerheart]]","Immagine":"![Accademia di Wissen.png](/img/user/(0)%20Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png)"}}
 ---
 
 > [!infobox|right]
@@ -22,22 +22,18 @@
 
 *Tales of the Academy* è una campagna ambientata su Harret iniziata nel Maggio del 2026. Ha come giocatori [[(Extra) Persone/Lorenzo Grassi\|Lorenzo Grassi]], [[(Extra) Persone/Lorenzo Camuso\|Lorenzo Camuso]] e [[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]]. E' ambientata nel [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]] situata nel [[Mondo/Harret/Luoghi/Castel Wissen\|omonimo castello]], e ha come protagonisti un gruppo di studenti del primo anno.
 ## Premessa
-
 C'è un detto sull'Accademia di Wissen. Tutti coloro che ne escono diventano grandi eroi... se ne escono vivi.
 
 Gli studenti vengono messi alla prova ogni due mesi con una sfida assegnata dalla scuola. Alcune si svolgono tra le mura dell'Accademia. Altre portano fuori, nel mondo.
 
-## Tono e Atmosfera
-Stravagante, Spensierato, Misterioso, Eroico, Magico, Comico, Avventuroso
+## Personaggi
+|                                                                                                             | Quest                                                                           |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| ![(0) Immagini/Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Persona%20Placeholder.png)                                          | [[Personaggi/PG/D1-X0N\|D1-X0N]]                                             |
+| ![(0) Immagini/Personaggi immagini/PG/Lugalin Gilgamesh d’Aurelian.png\|Lugalin Gilgamesh d’Aurelian.png](/img/user/(0)%20Immagini/Personaggi%20immagini/PG/Lugalin%20Gilgamesh%20d%E2%80%99Aurelian.png) | [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]] |
+| ![(0) Immagini/Personaggi immagini/PG/Matamata.png\|Matamata.png](/img/user/(0)%20Immagini/Personaggi%20immagini/PG/Matamata.png)                                         | [[Personaggi/PG/Mata Mata\|Mata Mata]]                                       |
 
-## Temi
-- Imparare dagli errori
-- La cooperazione è necessaria
-- Scoprire l'eroe che è in noi
-- Crescere
-
-## Riferimenti
-Harry Potter, Persona, Percy Jackson, Fire Emblem: Three Houses, The Owl House, Pokémon Academy
+{ .block-language-dataview}
 
 ## Sessioni
 
@@ -58,7 +54,18 @@ Harry Potter, Persona, Percy Jackson, Fire Emblem: Three Houses, The Owl House, 
 { .block-language-dataview}
 
 
-# Campaign Frame
+## Campaign Frame
+### Tono e Atmosfera
+Stravagante, Spensierato, Misterioso, Eroico, Magico, Comico, Avventuroso
+
+### Temi
+- Imparare dagli errori
+- La cooperazione è necessaria
+- Scoprire l'eroe che è in noi
+- Crescere
+
+### Riferimenti
+Harry Potter, Persona, Percy Jackson, Fire Emblem: Three Houses, The Owl House, Pokémon Academy
 <iframe src="https://1drv.ms/b/c/27bbecfab8705da6/IQREsiREef2rSIkSDKIEqJpJAUSHXXQ7GDWaHODPmvhv83g" width="100%" height="900vh" frameborder="0" scrolling="no">
 </iframe>
 

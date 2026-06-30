@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Personaggi/PG/D1-X0N/","tags":["PG","V2"],"created":"2026-05-12T21:18:22.470+02:00","updated":"2026-06-27T19:40:38.964+02:00","dg-note-properties":{"aliases":[null],"tags":["PG","V2"],"Template":"[[PG]]","Sesso":"Assessuato","Stato":"Vivo","Nome":"D1-X0N","Cognome":null,"Affiliazioni":["[[Accademia di Wissen#Studenti]]","[[Fazioni/Organizazioni/Gilda di Konstrukt\|Gilda di Konstrukt]]"],"Fede":"???","Specie":"[[Specie/Risvegliati\|Risvegliati]]","Anno di nascita":1222,"Compleanno":"13/11","Capelli":"-Non ne ha-","Carnagione":null,"Cibo preferito":null,"Giocatore":"[[Lorenzo Grassi]]","Campagna":["[[Tales of the Accademy]]"],"Immagine":"![Test.png](/img/user/(0)%20Immagini/Extra/Test.png)"}}
+{"dg-publish":true,"permalink":"/Personaggi/PG/D1-X0N/","tags":["PG","V2"],"created":"2026-05-12T21:18:22.470+02:00","updated":"2026-06-30T11:16:33.880+02:00","dg-note-properties":{"aliases":[null],"tags":["PG","V2"],"Template":"[[PG]]","Sesso":"Assessuato","Stato":"Vivo","Nome":"D1-X0N","Cognome":null,"Affiliazioni":["[[Accademia di Wissen#Studenti]]","[[Fazioni/Organizazioni/Gilda di Konstrukt\|Gilda di Konstrukt]]"],"Fede":"???","Specie":"[[Specie/Risvegliati\|Risvegliati]]","Anno di nascita":1222,"Compleanno":"13/11","Capelli":"-Non ne ha-","Carnagione":"Legno, metallo e pietra","Cibo preferito":null,"Giocatore":"[[Lorenzo Grassi]]","Campagna":["[[Tales of the Accademy]]"],"Immagine":"![Persona Placeholder.png](/img/user/(0)%20Immagini/Persona%20Placeholder.png)"}}
 ---
 
 > [!infobox|right]
 > # D1-X0N
-> ![(0) Immagini/Extra/Test.png\|Test.png](/img/user/(0)%20Immagini/Extra/Test.png)
+> ![(0) Immagini/Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Persona%20Placeholder.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
@@ -21,7 +21,7 @@ Membro della seconda generazione di [[Specie/Risvegliati\|Risvegliati]] della [[
 
 ## Legami
 Conosciuto di vista da [[Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma\|Ruggie Kerma]], figlio di un geomante della Gilda, per via del comune legame con [[Fazioni/Organizazioni/Gilda di Konstrukt\|Gilda di Konstrukt]].
-[[Personaggi/NPC/Studenti Accademia di Wissen/Sarah Strong\|Sarah Strong]] sembra avercela a morte con lui, per motivi ancora poco chiari.
+[[Personaggi/NPC/Studenti Accademia di Wissen/Sarah Strong\|Sarah Strong]] sembra avercela a morte con lui, per via di un trauma passato.
 .
 .
 .
