@@ -711,15 +711,18 @@ module.exports = function(eleventyConfig) {
     return content;
   });
 
-  eleventyConfig.addPassthroughCopy("src/site/img");
-  eleventyConfig.addPassthroughCopy("src/site/scripts");
-  eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
-  eleventyConfig.addPassthroughCopy({ "src/site/logo.*": "/" });
-  eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
-  eleventyConfig.addPlugin(tocPlugin, {
-    ul: true,
-    tags: ["h1", "h2", "h3", "h4", "h5", "h6"],
-  });
+    eleventyConfig.addPassthroughCopy("src/site/img");
+    eleventyConfig.addPassthroughCopy("src/site/scripts");
+    eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
+    eleventyConfig.addPassthroughCopy({ "src/site/logo.*": "/" });
+    eleventyConfig.addPassthroughCopy("src/site/mapMarkers.json");
+    eleventyConfig.addPassthroughCopy("src/site/mapRegions.json");
+    eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
+    eleventyConfig.addPlugin(tocPlugin, {
+      ul: true,
+      tags: ["h1", "h2", "h3", "h4", "h5", "h6"],
+    });
+
 
   // Canvas files are pre-compiled HTML by the plugin - don't process as markdown
   eleventyConfig.addExtension("canvas", {
