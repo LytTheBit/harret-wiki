@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Esempio: Territorio di Wissen",
+    "link": "/notes/wissen",
+    "note": "Sostituisci con una regione vera - usa coord-picker.html, modalita' Regione",
+    "points": [
+      { "x": 350, "y": 700 },
+      { "x": 500, "y": 650 },
+      { "x": 520, "y": 850 },
+      { "x": 380, "y": 880 }
+    ]
+  }
+]
