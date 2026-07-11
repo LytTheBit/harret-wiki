@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Fazioni/Famiglie/Qamar/","contentClasses":"dg-cards","tags":["V2"],"created":"2026-05-16T18:45:53.923+02:00","updated":"2026-06-29T16:33:56.504+02:00","dg-note-properties":{"tags":["V2"],"Template":"[[Famiglia]]","Capo":"[[Duca Qamar]]","Sede Principale":"[[Ducato di Qamar\|Ducato di Qamar]]","Data di fondazione":null,"Motto":"*\"La luna splende divina.\"*","Regno":"[[Mondo/Harret/Nazioni/Regno di Xxx\|Regno di Xxx]]","Rango nobiliare":"Duchi","Immagine":"![Qamar.png](/img/user/(0)%20Immagini/Stendardi%20immagini/Qamar.png)"}}
+{"dg-publish":true,"permalink":"/Fazioni/Famiglie/Qamar/","contentClasses":"dg-cards","tags":["V2"],"created":"2026-05-16T18:45:53.923+02:00","updated":"2026-06-29T16:33:56.504+02:00","dg-note-properties":{"tags":["V2"],"Template":"[[Famiglia]]","Capo":"[[Duca Qamar]]","Sede Principale":"[[Ducato di Qamar\|Ducato di Qamar]]","Data di fondazione":null,"Motto":"*\"La luna splende divina.\"*","Regno":"[[Mondo/Harret/Nazioni/Regno di Xxx\|Regno di Xxx]]","Rango nobiliare":"Duchi","Immagine":"![Qamar.png](/img/user/(0)%20Immagini/Stendardi%20immagini/Famiglie/Qamar.png)"}}
 ---
 
 > [!infobox|right]
 > # Qamar
-> ![(0) Immagini/Stendardi immagini/Qamar.png\|Qamar.png](/img/user/(0)%20Immagini/Stendardi%20immagini/Qamar.png)
+> ![[(0) Immagini/Stendardi immagini/Qamar.png\|Qamar.png]]
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|

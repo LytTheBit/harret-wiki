@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mondo/Harret/Luoghi/Castel Wissen/","contentClasses":"dg-cards","created":"2026-06-17T18:29:20.804+02:00","updated":"2026-06-29T13:19:39.736+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Posto]]","Tipo":"Istituzione","Regione":"[[Mondo/Harret/Geografia/Vette Grigie\|Vette Grigie]]","Affiliazione":"[[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]]","Immagine":"![Accademia di Wissen.png](/img/user/(0)%20Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png)"}}
+{"dg-publish":true,"permalink":"/Mondo/Harret/Luoghi/Castel Wissen/","contentClasses":"dg-cards","created":"2026-06-17T18:29:20.804+02:00","updated":"2026-07-07T11:37:27.034+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Posto]]","Tipo":"Istituzione","Regione":"[[Mondo/Harret/Geografia/Vette Grigie\|Vette Grigie]]","Affiliazione":"[[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]]","Immagine":"![Accademia di Wissen.png](/img/user/(0)%20Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png)"}}
 ---
 
 > [!infobox|right]
@@ -30,7 +30,7 @@ Nel corso degli anni, l'istituto ha espanso il palazzo aggiungendoci giardini, e
 ## Edifici
 ### Primo altopiano
 #### Biblioteca
-Strana biblioteca, di giorno è normale, ma di notte per una singola ora si apre una [[Lore/(TODO) Faglia\|(TODO) Faglia]]. L'interno della biblioteca si allarga tutto ciò che è scritto nei libri aperti prende vita.
+Strana biblioteca, di giorno è normale, ma di notte per una singola ora si apre una [[Lore/(TODO) Faglie\|(TODO) Faglie]]. L'interno della biblioteca si allarga tutto ciò che è scritto nei libri aperti prende vita.
 Viene usata dagli studenti per i [[Campagne/Tales of the Accademy/Quest e misteri/Rito di iniziazione\|riti di iniziazione delle primine]].
 #### Scuola
 Dove si tiene la maggior parte delle lezioni. Comprende anche la mensa.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Campagne/Tales of the Accademy/Quest e misteri/Rito di iniziazione/","created":"2026-05-07T13:09:46.979+02:00","updated":"2026-06-29T12:33:02.852+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Quest]]","Campagna":"[[Tales of the Accademy]]","Mandante":"[[Persona NPC]]","Completata":true,"Immagine":"![Icona Quest.png](/img/user/(0)%20Immagini/Sito%20Icone/Icona%20Quest.png)"}}
+{"dg-publish":true,"permalink":"/Campagne/Tales of the Accademy/Quest e misteri/Rito di iniziazione/","created":"2026-05-07T13:09:46.979+02:00","updated":"2026-07-07T11:37:27.000+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Quest]]","Campagna":"[[Tales of the Accademy]]","Mandante":"[[Persona NPC]]","Completata":true,"Immagine":"![Icona Quest.png](/img/user/(0)%20Immagini/Sito%20Icone/Icona%20Quest.png)"}}
 ---
 
 
@@ -12,4 +12,4 @@ Ma non sembrano esserci altre informazioni utili.
 
 ## Completamento
 Il rito consisteva nel esplorare la [[Mondo/Harret/Luoghi/Castel Wissen#Biblioteca\|Biblioteca]] del accademia di notte.
-Durante la notte infatti nella biblioteca si apre una [[Lore/(TODO) Faglia\|(TODO) Faglia]], che rende reale tutto quello scritto nei libi che vengono aperti.
+Durante la notte infatti nella biblioteca si apre una [[Lore/(TODO) Faglie\|(TODO) Faglie]], che rende reale tutto quello scritto nei libi che vengono aperti.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mondo/Harret/Pianeta di Harret/","contentClasses":"dg-cards","created":"2026-05-15T19:48:16.855+02:00","updated":"2026-06-24T18:23:33.930+02:00","dg-note-properties":{"aliases":["Harret","Terra"],"tags":null,"Template":"[[Corpo Celeste]]","Immagine":"![Harret.png](/img/user/(0)%20Immagini/Luoghi%20immagini/Pianeti/Harret.png)"}}
+{"dg-publish":true,"permalink":"/Mondo/Harret/Pianeta di Harret/","contentClasses":"dg-cards","created":"2026-05-15T19:48:16.855+02:00","updated":"2026-07-07T11:37:27.044+02:00","dg-note-properties":{"aliases":["Harret","Terra"],"tags":null,"Template":"[[Corpo Celeste]]","Immagine":"![Harret.png](/img/user/(0)%20Immagini/Luoghi%20immagini/Pianeti/Harret.png)"}}
 ---
 
 
@@ -20,7 +20,7 @@ Harret è il pianeta con la più ampia biodiversità, sia in termini di fauna ch
 
 In termini di Habitat i più comuni sono senz'altro foreste, pianure, montagne, oceani e deserti. Ma non mancano vulcani, taighe, altopiani e molto altro.
 
-Aiuta il fatto che la maggior parte delle [[Lore/(TODO) Faglia\|(TODO) Faglia]] passano da qui. Cosa che ha permesso molti movimenti migratori sia di specie senzienti che di quelle animali.
+Aiuta il fatto che la maggior parte delle [[Lore/(TODO) Faglie\|(TODO) Faglie]] passano da qui. Cosa che ha permesso molti movimenti migratori sia di specie senzienti che di quelle animali.
 
 La popolazione senziente più diffusa su Harret sono senz'altro gli [[Specie/Umani\|Umani]].
 
