@@ -1,0 +1,98 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script>
+(function () {
+  // Dimensioni in pixel della TUA immagine ottimizzata per il web
+  // (originale 2480x3508 -> ridimensionata a 1200px di larghezza).
+  var IMAGE_WIDTH = 1200;
+  var IMAGE_HEIGHT = 1697;
+
+  // Percorsi delle immagini: mettile in src/site/img/user/(0) Immagini/Mappa/
+  // Digital Garden le serve normalmente come qualsiasi altra immagine del wiki.
+  // Per ora hai solo la versione "geografica" (la bozza a matita) - il
+  // controllo per cambiare layer viene aggiunto automaticamente solo se
+  // in questo oggetto ci sono 2 o piu' voci. Quando avrai la versione
+  // politica, aggiungi semplicemente una seconda riga qui sotto.
+  var LAYERS = {
+    "Geografica": "/img/user/(0) Immagini/Mappa/harret-geografica.png"
+  };
+
+  // URL dei JSON con marker e regioni (vedi coord-picker.html per generarli)
+  var MARKERS_URL = "/mapMarkers.json";
+  var REGIONS_URL = "/mapRegions.json";
+
+  function initMap() {
+    var container = document.getElementById("harret-map");
+    if (!container) return;
+
+    var bounds = [[0, 0], [IMAGE_HEIGHT, IMAGE_WIDTH]];
+    var map = L.map(container, { crs: L.CRS.Simple, minZoom: -3, maxZoom: 2 });
+
+    var overlays = {};
+    var first = true;
+    Object.keys(LAYERS).forEach(function (label) {
+      var layer = L.imageOverlay(LAYERS[label], bounds);
+      overlays[label] = layer;
+      if (first) { layer.addTo(map); first = false; }
+    });
+    map.fitBounds(bounds);
+
+    if (Object.keys(overlays).length > 1) {
+      L.control.layers(overlays, {}, { collapsed: false }).addTo(map);
+    }
+
+    fetch(MARKERS_URL)
+      .then(function (r) { return r.json(); })
+      .then(function (markers) {
+        markers.forEach(function (m) {
+          var latlng = [IMAGE_HEIGHT - m.y, m.x];
+          var popupHtml = "<strong>" + m.name + "</strong>";
+          if (m.link) {
+            popupHtml += '<br><a href="' + m.link + '">apri la nota</a>';
+          }
+          if (m.note) {
+            popupHtml += '<br><span style="font-size:12px;">' + m.note + "</span>";
+          }
+          L.marker(latlng).addTo(map).bindPopup(popupHtml);
+        });
+      })
+      .catch(function (err) {
+        console.warn("Impossibile caricare i marker della mappa:", err);
+      });
+
+    fetch(REGIONS_URL)
+      .then(function (r) { return r.json(); })
+      .then(function (regions) {
+        regions.forEach(function (reg) {
+          var latlngs = reg.points.map(function (p) {
+            return [IMAGE_HEIGHT - p.y, p.x];
+          });
+          var popupHtml = "<strong>" + reg.name + "</strong>";
+          if (reg.link) {
+            popupHtml += '<br><a href="' + reg.link + '">apri la nota</a>';
+          }
+          if (reg.note) {
+            popupHtml += '<br><span style="font-size:12px;">' + reg.note + "</span>";
+          }
+          var poly = L.polygon(latlngs, {
+            color: "#a8854f",
+            weight: 2,
+            fillColor: "#c9a227",
+            fillOpacity: 0.15
+          }).addTo(map).bindPopup(popupHtml);
+          poly.on("mouseover", function () { this.setStyle({ fillOpacity: 0.35 }); });
+          poly.on("mouseout", function () { this.setStyle({ fillOpacity: 0.15 }); });
+        });
+      })
+      .catch(function (err) {
+        console.warn("Impossibile caricare le regioni della mappa:", err);
+      });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initMap);
+  } else {
+    initMap();
+  }
+})();
+</script>
