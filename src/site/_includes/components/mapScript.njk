@@ -7,14 +7,9 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script>
 (function () {
-  // --- Configurazione letta dal frontmatter della nota (vedi esempio) ---
+  // --- Uniche cose lette dal frontmatter: due numeri semplici, Obsidian li gestisce senza problemi ---
   var IMAGE_WIDTH = {{ mapWidth }};
   var IMAGE_HEIGHT = {{ mapHeight }};
-  var LAYERS = {
-    {% for layer in mapLayers %}
-    "{{ layer.label }}": "{{ layer.url }}"{% if not loop.last %},{% endif %}
-    {% endfor %}
-  };
 
   var DEFAULT_MARKER_COLOR = "#c9302c";
   var DEFAULT_REGION_COLOR = "#a8854f";
@@ -36,15 +31,24 @@
     if (!container) return;
     container.classList.add("leaflet-map-container");
 
+    // --- Tutto il resto (layer, marker, regioni) viene dal blocco
+    // <script type="application/json" id="map-data"> nel corpo della nota ---
+    var dataEl = document.getElementById("map-data");
+    var mapData = { layers: [], markers: [], regions: [] };
+    if (dataEl) {
+      try { mapData = JSON.parse(dataEl.textContent); }
+      catch (err) { console.error("JSON della mappa non valido, controlla la sintassi:", err); return; }
+    }
+
     var bounds = [[0, 0], [IMAGE_HEIGHT, IMAGE_WIDTH]];
     var map = L.map(container, { crs: L.CRS.Simple });
 
     var overlays = {};
     var first = true;
-    Object.keys(LAYERS).forEach(function (label) {
-      var layer = L.imageOverlay(LAYERS[label], bounds);
-      overlays[label] = layer;
-      if (first) { layer.addTo(map); first = false; }
+    (mapData.layers || []).forEach(function (layer) {
+      var l = L.imageOverlay(layer.url, bounds);
+      overlays[layer.label] = l;
+      if (first) { l.addTo(map); first = false; }
     });
     map.fitBounds(bounds);
 
@@ -57,15 +61,6 @@
 
     if (Object.keys(overlays).length > 1) {
       L.control.layers(overlays, {}, { collapsed: false }).addTo(map);
-    }
-
-    // --- Dati marker/regioni: letti dal blocco <script type="application/json">
-    // presente nel corpo della STESSA nota (nessun file esterno da tenere sincronizzato) ---
-    var dataEl = document.getElementById("map-data");
-    var mapData = { markers: [], regions: [] };
-    if (dataEl) {
-      try { mapData = JSON.parse(dataEl.textContent); }
-      catch (err) { console.warn("JSON della mappa non valido:", err); }
     }
 
     (mapData.markers || []).forEach(function (m) {
