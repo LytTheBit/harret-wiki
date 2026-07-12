@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Lore/Religione e divinità/","contentClasses":"dg-cards","tags":["#Lore"],"created":"2026-05-08T23:17:28.534+02:00","updated":"2026-07-09T21:36:43.458+02:00","dg-note-properties":{"aliases":["Divinità","Religioni","Dei"],"tags":["#Lore"],"Template":"[[Info]]","Argomento":"Divinità su Harret"}}
+{"dg-publish":true,"aliases":["Divinità","Religioni","Dei"],"tags":["#Lore"],"dg-note-icon":"Info","Template":"[[Info]]","Argomento":"Divinità su Harret","dg-content-classes":"dg-cards","permalink":"/Lore/Religione e divinità/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-08T23:17:28.534+02:00","updated":"2026-07-09T21:36:43.458+02:00","dg-note-properties":{"aliases":["Divinità","Religioni","Dei"],"tags":["#Lore"],"Template":"[[Info]]","Argomento":"Divinità su Harret"}}
 ---
 
 Gli dei sono coloro che hanno plasmato il mondo dal [[caos primordiale\|caos primordiale]] per creare il [[Mondo/Cosmo\|Cosmo]] per come lo conosciamo. Vi sono 12 divinità, ognuna associata ad una costellazione e ad un mese diverso.

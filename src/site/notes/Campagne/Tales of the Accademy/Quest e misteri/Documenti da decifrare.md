@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Campagne/Tales of the Accademy/Quest e misteri/Documenti da decifrare/","created":"2026-06-14T19:19:41.765+02:00","updated":"2026-06-29T18:20:41.076+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Quest]]","Campagna":"[[Tales of the Accademy]]","Mandante":"[[Personaggi/PG/D1-X0N\|D1-X0N]]","Completata":false,"Immagine":"![Icona Quest.png](/img/user/(0)%20Immagini/Sito%20Icone/Icona%20Quest.png)"}}
+{"dg-publish":true,"aliases":null,"tags":null,"dg-note-icon":"Quest","Template":"[[Quest]]","Campagna":"[[Tales of the Accademy]]","Mandante":"[[Personaggi/PG/D1-X0N\|D1-X0N]]","Completata":false,"Immagine":"![Icona Quest.png](/img/user/(0)%20Immagini/Sito%20Icone/Icona%20Quest.png)","permalink":"/Campagne/Tales of the Accademy/Quest e misteri/Documenti da decifrare/","dgPassFrontmatter":true,"created":"2026-06-14T19:19:41.765+02:00","updated":"2026-06-29T18:20:41.076+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Quest]]","Campagna":"[[Tales of the Accademy]]","Mandante":"[[Personaggi/PG/D1-X0N\|D1-X0N]]","Completata":false,"Immagine":"![Icona Quest.png](/img/user/(0)%20Immagini/Sito%20Icone/Icona%20Quest.png)"}}
 ---
 
 ## Quest

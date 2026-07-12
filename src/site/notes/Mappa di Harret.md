@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Mappa di Harret/","contentClasses":"map-page","dgShowInlineTitle":true,"created":"2026-07-11T20:55:25.814+02:00","updated":"2026-07-12T12:10:52.549+02:00","dg-note-properties":{"Template":"Mappa","mapWidth":1200,"mapHeight":1697}}
+{"dg-publish":true,"Template":"Mappa","dg-content-classes":"map-page","dg-show-inline-title":true,"mapWidth":1200,"mapHeight":1697,"permalink":"/Mappa di Harret/","contentClasses":"map-page","dgShowInlineTitle":true,"dgPassFrontmatter":true,"created":"2026-07-11T20:55:25.814+02:00","updated":"2026-07-12T12:24:14.148+02:00","dg-note-properties":{"Template":"Mappa","mapWidth":1200,"mapHeight":1697}}
 ---
 
-Test numero bho
+Test numero `bho v2 bho`
   
 
 Mappa interattiva del continente. Trascina per muoverti, scorri per zoomare.

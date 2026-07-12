@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mondo/Harret/Pianeta di Harret/","contentClasses":"dg-cards","created":"2026-05-15T19:48:16.855+02:00","updated":"2026-07-07T11:37:27.044+02:00","dg-note-properties":{"aliases":["Harret","Terra"],"tags":null,"Template":"[[Corpo Celeste]]","Immagine":"![Harret.png](/img/user/(0)%20Immagini/Luoghi%20immagini/Pianeti/Harret.png)"}}
+{"dg-publish":true,"aliases":["Harret","Terra"],"tags":null,"dg-note-icon":"CorpoCeleste","Template":"[[Corpo Celeste]]","Immagine":"![Harret.png](/img/user/(0)%20Immagini/Luoghi%20immagini/Pianeti/Harret.png)","dg-content-classes":"dg-cards","permalink":"/Mondo/Harret/Pianeta di Harret/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-15T19:48:16.855+02:00","updated":"2026-07-07T11:37:27.044+02:00","dg-note-properties":{"aliases":["Harret","Terra"],"tags":null,"Template":"[[Corpo Celeste]]","Immagine":"![Harret.png](/img/user/(0)%20Immagini/Luoghi%20immagini/Pianeti/Harret.png)"}}
 ---
 
 

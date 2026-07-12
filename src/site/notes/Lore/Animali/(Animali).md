@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Lore/Animali/(Animali)/","created":"2026-06-21T11:32:07.115+02:00","updated":"2026-06-30T19:24:17.442+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Lore]]","Immagine":"![[Stagioni su Harret.png]]"}}
+{"dg-publish":true,"aliases":null,"tags":null,"dg-note-icon":"Lore","Template":"[[Lore]]","Immagine":"![[Stagioni su Harret.png]]","permalink":"/Lore/Animali/(Animali)/","dgPassFrontmatter":true,"created":"2026-06-21T11:32:07.115+02:00","updated":"2026-06-30T19:24:17.442+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Lore]]","Immagine":"![[Stagioni su Harret.png]]"}}
 ---
 
 > [!question] In sviluppo

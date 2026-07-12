@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fazioni/Fazioni/","contentClasses":"dg-cards","tags":["#Lore","Fazione","Gilda","Famiglia","Religione"],"created":"2026-05-12T22:17:57.743+02:00","updated":"2026-06-29T16:36:24.209+02:00","dg-note-properties":{"aliases":null,"tags":["#Lore","Fazione","Gilda","Famiglia","Religione"],"Template":"[[Info]]","Argomento":"Fazioni su Harret"}}
+{"dg-publish":true,"aliases":null,"tags":["#Lore","Fazione","Gilda","Famiglia","Religione"],"dg-note-icon":"Info","Template":"[[Info]]","Argomento":"Fazioni su Harret","dg-content-classes":"dg-cards","permalink":"/Fazioni/Fazioni/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-12T22:17:57.743+02:00","updated":"2026-06-29T16:36:24.209+02:00","dg-note-properties":{"aliases":null,"tags":["#Lore","Fazione","Gilda","Famiglia","Religione"],"Template":"[[Info]]","Argomento":"Fazioni su Harret"}}
 ---
 
 > [!warning] Attenzione

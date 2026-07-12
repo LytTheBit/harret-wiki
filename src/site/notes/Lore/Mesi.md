@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Lore/Mesi/","created":"2026-06-24T22:49:03.987+02:00","updated":"2026-06-24T22:51:26.758+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Lore]]","Immagine":"![[Stagioni su Harret.png]]"}}
+{"dg-publish":true,"aliases":null,"tags":null,"dg-note-icon":"Lore","Template":"[[Lore]]","Immagine":"![[Stagioni su Harret.png]]","permalink":"/Lore/Mesi/","dgPassFrontmatter":true,"created":"2026-06-24T22:49:03.987+02:00","updated":"2026-06-24T22:51:26.758+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Lore]]","Immagine":"![[Stagioni su Harret.png]]"}}
 ---
 
 > [!warning] Attenzione

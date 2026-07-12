@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Lore/Stagioni su Harret/","created":"2026-06-06T11:41:07.839+02:00","updated":"2026-06-24T15:42:14.318+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Lore]]","Immagine":"![[Stagioni su Harret.png]]"}}
+{"dg-publish":true,"aliases":null,"tags":null,"dg-note-icon":"Lore","Template":"[[Lore]]","Immagine":"![[Stagioni su Harret.png]]","permalink":"/Lore/Stagioni su Harret/","dgPassFrontmatter":true,"created":"2026-06-06T11:41:07.839+02:00","updated":"2026-06-24T15:42:14.318+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Lore]]","Immagine":"![[Stagioni su Harret.png]]"}}
 ---
 
 > [!warning] Attenzione

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Lore/Città Libere/","created":"2026-06-08T15:12:50.528+02:00","updated":"2026-06-24T15:42:14.298+02:00","dg-note-properties":{"aliases":["Città Stato","Città Indipendenti","Città Indipendente","Città Libera"],"tags":null,"Template":"[[Info]]","Immagine":"![Concept Città Libera.png](/img/user/(0)%20Immagini/Luoghi%20immagini/Concept%20Citt%C3%A0%20Libera.png)"}}
+{"dg-publish":true,"aliases":["Città Stato","Città Indipendenti","Città Indipendente","Città Libera"],"tags":null,"dg-note-icon":"Info","Template":"[[Info]]","Immagine":"![Concept Città Libera.png](/img/user/(0)%20Immagini/Luoghi%20immagini/Concept%20Citt%C3%A0%20Libera.png)","permalink":"/Lore/Città Libere/","dgPassFrontmatter":true,"created":"2026-06-08T15:12:50.528+02:00","updated":"2026-06-24T15:42:14.298+02:00","dg-note-properties":{"aliases":["Città Stato","Città Indipendenti","Città Indipendente","Città Libera"],"tags":null,"Template":"[[Info]]","Immagine":"![Concept Città Libera.png](/img/user/(0)%20Immagini/Luoghi%20immagini/Concept%20Citt%C3%A0%20Libera.png)"}}
 ---
 
 Le città libere sono un insieme di insediamenti indipendenti situati nelle [[Terre di nessuno\|Terre di nessuno]], terre reclamate da nessun regno.

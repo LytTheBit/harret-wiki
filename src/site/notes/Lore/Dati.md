@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Lore/Dati/","tags":["Lore"],"created":"2026-06-23T10:37:19.816+02:00","updated":"2026-06-23T18:30:24.176+02:00","dg-note-properties":{"tags":["Lore"],"Anno corrente":1227}}
+{"dg-publish":true,"tags":["Lore"],"Anno corrente":1227,"permalink":"/Lore/Dati/","dgPassFrontmatter":true,"created":"2026-06-23T10:37:19.816+02:00","updated":"2026-06-23T18:30:24.176+02:00","dg-note-properties":{"tags":["Lore"],"Anno corrente":1227}}
 ---
 
 > [!infobox|right]
