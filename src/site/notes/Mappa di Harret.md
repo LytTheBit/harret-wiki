@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mappa di Harret/","contentClasses":"map-page","dgShowInlineTitle":true,"created":"2026-07-11T20:55:25.814+02:00","updated":"2026-07-12T12:08:20.170+02:00","dg-note-properties":{"Template":"Mappa","mapWidth":1200,"mapHeight":1697,"mapLayers":[{"label":"Geografica","url":"/img/user/(0) Immagini/Mappa/harret-geografica.png"},{"label":"Politica","url":"/img/user/(0) Immagini/Mappa/harret-geografica.png"}]}}
+{"dg-publish":true,"permalink":"/Mappa di Harret/","contentClasses":"map-page","dgShowInlineTitle":true,"created":"2026-07-11T20:55:25.814+02:00","updated":"2026-07-12T12:09:59.747+02:00","dg-note-properties":{"Template":"Mappa","mapWidth":1200,"mapHeight":1697}}
 ---
 
 
@@ -16,6 +16,12 @@ Mappa interattiva del continente. Trascina per muoverti, scorri per zoomare.
 <script type="application/json" id="map-data">
 
 {
+
+  "layers": [
+
+    { "label": "Geografica", "url": "/img/user/(0) Immagini/Mappa/harret-geografica.png" }
+
+  ],
 
   "markers": [
 
