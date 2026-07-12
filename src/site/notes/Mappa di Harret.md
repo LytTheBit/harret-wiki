@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"Template":"Mappa","dg-content-classes":"map-page","dg-show-inline-title":true,"mapWidth":1200,"mapHeight":1697,"permalink":"/Mappa di Harret/","contentClasses":"map-page","dgShowInlineTitle":true,"dgPassFrontmatter":true,"created":"2026-07-11T20:55:25.814+02:00","updated":"2026-07-12T15:30:04.839+02:00","dg-note-properties":{"Template":"Mappa","mapWidth":1200,"mapHeight":1697}}
+{"dg-publish":true,"Template":"Mappa","dg-content-classes":"map-page","dg-show-inline-title":true,"mapWidth":1200,"mapHeight":1697,"permalink":"/Mappa di Harret/","contentClasses":"map-page","dgShowInlineTitle":true,"dgPassFrontmatter":true,"created":"2026-07-11T20:55:25.814+02:00","updated":"2026-07-12T15:33:23.581+02:00","dg-note-properties":{"Template":"Mappa","mapWidth":1200,"mapHeight":1697}}
 ---
 
-Test 4
+Test 5
   
 
 Mappa interattiva del continente. Trascina per muoverti, scorri per zoomare.
@@ -25,7 +25,7 @@ Mappa interattiva del continente. Trascina per muoverti, scorri per zoomare.
       "x": 596,
       "y": 691,
       "color": "#5a96dc",
-      "link": null,
+      "link": [[Mondo/Harret/Luoghi/Castel Wissen\|Castel Wissen]],
       "note": "Scuola per avventurieri di Wissen"
     }
   ],
@@ -81,7 +81,7 @@ Mappa interattiva del continente. Trascina per muoverti, scorri per zoomare.
     {
       "name": "Vette Grigie",
       "color": "#7f8c8d",
-      "link": null,
+      "link": [[Mondo/Harret/Geografia/Vette Grigie\|Vette Grigie]],
       "note": "Montagne",
       "points": [
         { "x": 389, "y": 700 }, { "x": 410, "y": 715 }, { "x": 435, "y": 707 },
