@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mappa di Harret/","contentClasses":"map-page","dgShowInlineTitle":true,"created":"2026-07-11T20:55:25.814+02:00","updated":"2026-07-12T11:53:14.946+02:00","dg-note-properties":{"Template":"Mappa","mapWidth":1200,"mapHeight":1697,"mapLayers":null,"  - label":"Geografica","    url":"/img/user/(0) Immagini/Mappa/harret-geografica.png"}}
+{"dg-publish":true,"permalink":"/Mappa di Harret/","contentClasses":"map-page","dgShowInlineTitle":true,"created":"2026-07-11T20:55:25.814+02:00","updated":"2026-07-12T11:56:01.983+02:00","dg-note-properties":{"Template":"Mappa","mapWidth":1200,"mapHeight":1697,"mapLayers":null,"  - label":"Geografica","    url":"/img/user/(0) Immagini/Mappa/harret-geografica.png"}}
 ---
 
 
@@ -66,3 +66,6 @@ Mappa interattiva del continente. Trascina per muoverti, scorri per zoomare.
 }
 
 </script>
+
+
+![harret-geografica.png](/img/user/(0)%20Immagini/Mappa/harret-geografica.png)
