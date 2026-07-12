@@ -1,32 +1,25 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <style>
-  /* Sfondo "pergamena" invece del grigio di default quando si vede oltre i bordi dell'immagine */
-  #harret-map.leaflet-container {
+  .leaflet-map-container {
     background: #e8dcc0;
   }
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script>
 (function () {
-  // Dimensioni in pixel della TUA immagine ottimizzata per il web
-  var IMAGE_WIDTH = 1200;
-  var IMAGE_HEIGHT = 1697;
-
+  // --- Configurazione letta dal frontmatter della nota (vedi esempio) ---
+  var IMAGE_WIDTH = {{ mapWidth }};
+  var IMAGE_HEIGHT = {{ mapHeight }};
   var LAYERS = {
-    "Geografica": "/img/user/(0) Immagini/Mappa/harret-geografica.png"
+    {% for layer in mapLayers %}
+    "{{ layer.label }}": "{{ layer.url }}"{% if not loop.last %},{% endif %}
+    {% endfor %}
   };
 
-  var MARKERS_URL = "/mapMarkers.json";
-  var REGIONS_URL = "/mapRegions.json";
-
-  // Colori di default (tema del sito) - usati quando un marker/regione
-  // non specifica un campo "color" proprio nel JSON.
   var DEFAULT_MARKER_COLOR = "#c9302c";
   var DEFAULT_REGION_COLOR = "#a8854f";
   var DEFAULT_REGION_FILL = "#c9a227";
 
-  // Crea un'icona a goccia colorata (SVG) per il marker, al posto
-  // dell'icona blu di default di Leaflet.
   function pinIcon(color) {
     var svg = ''
       + '<svg xmlns="http://www.w3.org/2000/svg" width="26" height="38" viewBox="0 0 26 38">'
@@ -34,17 +27,14 @@
       + '<circle cx="13" cy="13" r="5" fill="#fff"/>'
       + '</svg>';
     return L.divIcon({
-      html: svg,
-      className: '',
-      iconSize: [26, 38],
-      iconAnchor: [13, 38],
-      popupAnchor: [0, -34]
+      html: svg, className: '', iconSize: [26, 38], iconAnchor: [13, 38], popupAnchor: [0, -34]
     });
   }
 
   function initMap() {
-    var container = document.getElementById("harret-map");
+    var container = document.getElementById("map-canvas");
     if (!container) return;
+    container.classList.add("leaflet-map-container");
 
     var bounds = [[0, 0], [IMAGE_HEIGHT, IMAGE_WIDTH]];
     var map = L.map(container, { crs: L.CRS.Simple });
@@ -58,73 +48,47 @@
     });
     map.fitBounds(bounds);
 
-    // Non permettere di dezoomare oltre il punto in cui la mappa
-    // riempie gia' tutto il riquadro disponibile.
     var fitZoom = map.getBoundsZoom(bounds);
     map.setMinZoom(fitZoom);
     map.setMaxZoom(fitZoom + 5);
 
-    // Tiene un margine morbido: si puo' trascinare leggermente oltre
-    // i bordi ma la mappa "rimbalza" indietro invece di andare nel vuoto.
     var pad = Math.max(IMAGE_WIDTH, IMAGE_HEIGHT) * 0.15;
-    map.setMaxBounds([
-      [-pad, -pad],
-      [IMAGE_HEIGHT + pad, IMAGE_WIDTH + pad]
-    ]);
+    map.setMaxBounds([[-pad, -pad], [IMAGE_HEIGHT + pad, IMAGE_WIDTH + pad]]);
 
     if (Object.keys(overlays).length > 1) {
       L.control.layers(overlays, {}, { collapsed: false }).addTo(map);
     }
 
-    fetch(MARKERS_URL)
-      .then(function (r) { return r.json(); })
-      .then(function (markers) {
-        markers.forEach(function (m) {
-          var latlng = [IMAGE_HEIGHT - m.y, m.x];
-          var popupHtml = "<strong>" + m.name + "</strong>";
-          if (m.link) {
-            popupHtml += '<br><a href="' + m.link + '">apri la nota</a>';
-          }
-          if (m.note) {
-            popupHtml += '<br><span style="font-size:12px;">' + m.note + "</span>";
-          }
-          var color = m.color || DEFAULT_MARKER_COLOR;
-          L.marker(latlng, { icon: pinIcon(color) }).addTo(map).bindPopup(popupHtml);
-        });
-      })
-      .catch(function (err) {
-        console.warn("Impossibile caricare i marker della mappa:", err);
-      });
+    // --- Dati marker/regioni: letti dal blocco <script type="application/json">
+    // presente nel corpo della STESSA nota (nessun file esterno da tenere sincronizzato) ---
+    var dataEl = document.getElementById("map-data");
+    var mapData = { markers: [], regions: [] };
+    if (dataEl) {
+      try { mapData = JSON.parse(dataEl.textContent); }
+      catch (err) { console.warn("JSON della mappa non valido:", err); }
+    }
 
-    fetch(REGIONS_URL)
-      .then(function (r) { return r.json(); })
-      .then(function (regions) {
-        regions.forEach(function (reg) {
-          var latlngs = reg.points.map(function (p) {
-            return [IMAGE_HEIGHT - p.y, p.x];
-          });
-          var popupHtml = "<strong>" + reg.name + "</strong>";
-          if (reg.link) {
-            popupHtml += '<br><a href="' + reg.link + '">apri la nota</a>';
-          }
-          if (reg.note) {
-            popupHtml += '<br><span style="font-size:12px;">' + reg.note + "</span>";
-          }
-          var borderColor = reg.color || DEFAULT_REGION_COLOR;
-          var fillColor = reg.fillColor || reg.color || DEFAULT_REGION_FILL;
-          var poly = L.polygon(latlngs, {
-            color: borderColor,
-            weight: 2,
-            fillColor: fillColor,
-            fillOpacity: 0.15
-          }).addTo(map).bindPopup(popupHtml);
-          poly.on("mouseover", function () { this.setStyle({ fillOpacity: 0.35 }); });
-          poly.on("mouseout", function () { this.setStyle({ fillOpacity: 0.15 }); });
-        });
-      })
-      .catch(function (err) {
-        console.warn("Impossibile caricare le regioni della mappa:", err);
-      });
+    (mapData.markers || []).forEach(function (m) {
+      var latlng = [IMAGE_HEIGHT - m.y, m.x];
+      var popupHtml = "<strong>" + m.name + "</strong>";
+      if (m.link) popupHtml += '<br><a href="' + m.link + '">apri la nota</a>';
+      if (m.note) popupHtml += '<br><span style="font-size:12px;">' + m.note + "</span>";
+      var color = m.color || DEFAULT_MARKER_COLOR;
+      L.marker(latlng, { icon: pinIcon(color) }).addTo(map).bindPopup(popupHtml);
+    });
+
+    (mapData.regions || []).forEach(function (reg) {
+      var latlngs = reg.points.map(function (p) { return [IMAGE_HEIGHT - p.y, p.x]; });
+      var popupHtml = "<strong>" + reg.name + "</strong>";
+      if (reg.link) popupHtml += '<br><a href="' + reg.link + '">apri la nota</a>';
+      if (reg.note) popupHtml += '<br><span style="font-size:12px;">' + reg.note + "</span>";
+      var borderColor = reg.color || DEFAULT_REGION_COLOR;
+      var fillColor = reg.fillColor || reg.color || DEFAULT_REGION_FILL;
+      var poly = L.polygon(latlngs, { color: borderColor, weight: 2, fillColor: fillColor, fillOpacity: 0.15 })
+        .addTo(map).bindPopup(popupHtml);
+      poly.on("mouseover", function () { this.setStyle({ fillOpacity: 0.35 }); });
+      poly.on("mouseout", function () { this.setStyle({ fillOpacity: 0.15 }); });
+    });
   }
 
   if (document.readyState === "loading") {
