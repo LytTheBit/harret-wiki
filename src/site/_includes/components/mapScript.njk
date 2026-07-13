@@ -7,9 +7,14 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script>
 (function () {
-  // --- Uniche cose lette dal frontmatter: due numeri semplici, Obsidian li gestisce senza problemi ---
+  // --- Uniche cose lette dal frontmatter: numeri semplici, Obsidian li gestisce senza problemi ---
   var IMAGE_WIDTH = {{ mapWidth }};
   var IMAGE_HEIGHT = {{ mapHeight }};
+  // Quanti livelli di zoom in più permettere oltre alla vista "adatta allo schermo".
+  // 0 = comportamento attuale (non si puo' dezoomare oltre il fit).
+  // Ogni unita' raddoppia l'area visibile; valori frazionari (es. 0.5) sono ammessi.
+  // Se non presente nel frontmatter della nota, usa 0.
+  var ZOOM_OUT_LEVELS = {{ mapZoomOut or 0 }};
 
   var DEFAULT_MARKER_COLOR = "#c9302c";
   var DEFAULT_REGION_COLOR = "#a8854f";
@@ -31,8 +36,6 @@
     if (!container) return;
     container.classList.add("leaflet-map-container");
 
-    // --- Tutto il resto (layer, marker, regioni) viene dal blocco
-    // <script type="application/json" id="map-data"> nel corpo della nota ---
     var dataEl = document.getElementById("map-data");
     var mapData = { layers: [], markers: [], regions: [] };
     if (dataEl) {
@@ -53,10 +56,14 @@
     map.fitBounds(bounds);
 
     var fitZoom = map.getBoundsZoom(bounds);
-    map.setMinZoom(fitZoom);
+    var minZoom = fitZoom - ZOOM_OUT_LEVELS;
+    map.setMinZoom(minZoom);
     map.setMaxZoom(fitZoom + 5);
 
-    var pad = Math.max(IMAGE_WIDTH, IMAGE_HEIGHT) * 0.15;
+    // Il margine "elastico" oltre i bordi dell'immagine si allarga automaticamente
+    // in proporzione a quanto dezoom e' permesso, cosi' non serve ritoccarlo a mano
+    // ogni volta che cambi mapZoomOut.
+    var pad = Math.max(IMAGE_WIDTH, IMAGE_HEIGHT) * (0.15 + 0.5 * Math.max(0, ZOOM_OUT_LEVELS));
     map.setMaxBounds([[-pad, -pad], [IMAGE_HEIGHT + pad, IMAGE_WIDTH + pad]]);
 
     if (Object.keys(overlays).length > 1) {
