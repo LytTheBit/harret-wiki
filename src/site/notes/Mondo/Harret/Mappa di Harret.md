@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"Template":"Mappa","dg-content-classes":"map-page","dg-show-inline-title":true,"mapWidth":1600,"mapHeight":2263,"permalink":"/Mondo/Harret/Mappa di Harret/","contentClasses":"map-page","dgShowInlineTitle":true,"dgPassFrontmatter":true,"created":"2026-07-11T20:55:25.814+02:00","updated":"2026-07-13T22:29:23.303+02:00","dg-note-properties":{"Template":"Mappa","mapWidth":1600,"mapHeight":2263}}
+{"dg-publish":true,"Template":"Mappa","dg-content-classes":"map-page","dg-show-inline-title":true,"mapWidth":1600,"mapHeight":2263,"mapZoomOut":"1","permalink":"/Mondo/Harret/Mappa di Harret/","contentClasses":"map-page","dgShowInlineTitle":true,"dgPassFrontmatter":true,"created":"2026-07-11T20:55:25.814+02:00","updated":"2026-07-13T22:37:33.516+02:00","dg-note-properties":{"Template":"Mappa","mapWidth":1600,"mapHeight":2263,"mapZoomOut":"1"}}
 ---
 
+Update: Dezoom extra
 Mappa interattiva del continente. Trascina per muoverti, scorri per zoomare.
 
-<div id="map-canvas" style="width:100%; height:800px; border-radius:8px; border:1px solid var(--interactive-accent);"></div>
+<div id="map-canvas" style="width:100%; height:850px; border-radius:8px; border:1px solid var(--interactive-accent);"></div>
 <script type="application/json" id="map-data">
 {
   "layers": [
