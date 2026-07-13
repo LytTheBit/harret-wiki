@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Template":"Mappa","dg-content-classes":"map-page","dg-show-inline-title":true,"mapWidth":1200,"mapHeight":1697,"permalink":"/Mondo/Harret/Mappa di Harret/","contentClasses":"map-page","dgShowInlineTitle":true,"dgPassFrontmatter":true,"created":"2026-07-11T20:55:25.814+02:00","updated":"2026-07-12T18:17:50.039+02:00","dg-note-properties":{"Template":"Mappa","mapWidth":1200,"mapHeight":1697}}
+{"dg-publish":true,"Template":"Mappa","dg-content-classes":"map-page","dg-show-inline-title":true,"mapWidth":1200,"mapHeight":1697,"permalink":"/Mondo/Harret/Mappa di Harret/","contentClasses":"map-page","dgShowInlineTitle":true,"dgPassFrontmatter":true,"created":"2026-07-11T20:55:25.814+02:00","updated":"2026-07-13T14:24:21.352+02:00","dg-note-properties":{"Template":"Mappa","mapWidth":1200,"mapHeight":1697}}
 ---
 
 Test finale
@@ -7,7 +7,7 @@ Test finale
 
 Mappa interattiva del continente. Trascina per muoverti, scorri per zoomare.
 
-<div id="map-canvas" style="width:100%; height:700px; border-radius:8px; border:1px solid var(--interactive-accent);"></div> <script type="application/json" id="map-data"> {
+<div id="map-canvas" style="width:100%; height:800px; border-radius:8px; border:1px solid var(--interactive-accent);"></div> <script type="application/json" id="map-data"> {
   "layers": [
     { "label": "Neutra", "url": "/img/user/(0) Immagini/Mappa/harret-neutra.png" },
     { "label": "Geografica", "url": "/img/user/(0) Immagini/Mappa/harret-geografica.png" },
