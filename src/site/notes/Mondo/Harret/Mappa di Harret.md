@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Template":"Mappa","dg-content-classes":"map-page","dg-show-inline-title":true,"mapWidth":1600,"mapHeight":2263,"permalink":"/Mondo/Harret/Mappa di Harret/","contentClasses":"map-page","dgShowInlineTitle":true,"dgPassFrontmatter":true,"created":"2026-07-11T20:55:25.814+02:00","updated":"2026-07-13T21:53:33.450+02:00","dg-note-properties":{"Template":"Mappa","mapWidth":1600,"mapHeight":2263}}
+{"dg-publish":true,"Template":"Mappa","dg-content-classes":"map-page","dg-show-inline-title":true,"mapWidth":1600,"mapHeight":2263,"permalink":"/Mondo/Harret/Mappa di Harret/","contentClasses":"map-page","dgShowInlineTitle":true,"dgPassFrontmatter":true,"created":"2026-07-11T20:55:25.814+02:00","updated":"2026-07-13T22:29:23.303+02:00","dg-note-properties":{"Template":"Mappa","mapWidth":1600,"mapHeight":2263}}
 ---
 
 Mappa interattiva del continente. Trascina per muoverti, scorri per zoomare.
@@ -113,7 +113,4 @@ Mappa interattiva del continente. Trascina per muoverti, scorri per zoomare.
 }
 </script>
 
-![Mappa-Harret-Completa.png\|160](/img/user/(0)%20Immagini/Mappa/Mappa-Harret-Completa.png) ![Mappa-Harret-Vecchia.png\|160](/img/user/(0)%20Immagini/Mappa/Mappa-Harret-Vecchia.png) ![Mappa-Harret-Geografica.png\|160](/img/user/(0)%20Immagini/Mappa/Mappa-Harret-Geografica.png) ![Mappa-Harret-Climatica.png\|160](/img/user/(0)%20Immagini/Mappa/Mappa-Harret-Climatica.png)
-
-
-![harret-geografica.png\|225](/img/user/(0)%20Immagini/Mappa/harret-geografica.png)![harret-climatica.png\|225](/img/user/(0)%20Immagini/Mappa/harret-climatica.png)![harret-neutra.png\|225](/img/user/(0)%20Immagini/Mappa/harret-neutra.png)
+![Mappa-Harret-Completa.png\|175](/img/user/(0)%20Immagini/Mappa/Mappa-Harret-Completa.png)![Mappa-Harret-Vecchia.png\|175](/img/user/(0)%20Immagini/Mappa/Mappa-Harret-Vecchia.png)![Mappa-Harret-Geografica.png\|175](/img/user/(0)%20Immagini/Mappa/Mappa-Harret-Geografica.png)![Mappa-Harret-Climatica.png\|175](/img/user/(0)%20Immagini/Mappa/Mappa-Harret-Climatica.png)
