@@ -57,6 +57,7 @@ Si dice che chi sia nato sotto questa costellazione sia calmo e riflessivo, e ch
 | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | ![(0) Immagini/Personaggi immagini/Mostri/Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Personaggi%20immagini/Mostri/Persona%20Placeholder.png) | [[Personaggi/NPC/Alma Seele\|Alma Seele]]                                                  |
 | ![(0) Immagini/Personaggi immagini/NPC/Gianpiero Arcangeli.png\|Gianpiero Arcangeli.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Gianpiero%20Arcangeli.png)    | [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Gianpiero Arcangeli]] |
+| ![(0) Immagini/Lucas Yoshiie.png\|Lucas Yoshiie.png](/img/user/(0)%20Immagini/Lucas%20Yoshiie.png)                                        | [[Personaggi/NPC/Studenti Accademia di Wissen/Lucas Yoshiie\|Lucas Yoshiie]]               |
 | ![(0) Immagini/Personaggi immagini/NPC/Ruggie Kerma.png\|Ruggie Kerma.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Ruggie%20Kerma.png)                  | [[Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma\|Ruggie Kerma]]                 |
 
 { .block-language-dataview}

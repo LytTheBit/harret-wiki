@@ -11,7 +11,7 @@
 > | Nome | Alfred |
 > | Cognome | `= this.Cognome` |
 > | Sesso | Maschio |
-> | Specie | [[Specie/Umani\|Umano]] |
+> | Specie | [[Bestiario/Specie Senzienti/Umani\|Umano]] |
 > | Età | ??? |
 > | Affiliato | [[Fazioni/Famiglie/Aurelian\|Aurelian]]|
 

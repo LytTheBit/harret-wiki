@@ -42,7 +42,7 @@
 .
 
 #### Mito: La nascita dei Tortle
-Esistono un sacco di leggende sulla nascita dei [[Specie/Galapa\|Tortle]]. Molte delle quali prevedono proprio la Dea del acqua.
+Esistono un sacco di leggende sulla nascita dei [[Bestiario/Specie Senzienti/Galapa\|Tortle]]. Molte delle quali prevedono proprio la Dea del acqua.
 In una delle versioni più comuni del mito, la dea, ispirata dalla possenza dei draghi, decise di provare ad emularli. Nacquero cosi i Tortle, non dotati di fiamme per attaccare, ma di un carapace per proteggersi e proteggere gli altri.
 Secondo un altra versione del mito la dea rubò il sangue di un drago marino per creare i tortle. 
 

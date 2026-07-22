@@ -30,14 +30,14 @@ Lista delle campagne della ambientazione.
 { .block-language-dataview}
 ## Giocatori
 Lista dei giocatori che hanno partecipato alle campagne.
-|                                                                               | Giocatori                                                     |
-| ----------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| ![(0) Immagini/Persone foto/Andrea Gufarelli.png\|Andrea Gufarelli.png](/img/user/(0)%20Immagini/Persone%20foto/Andrea%20Gufarelli.png)     | [[(Extra) Persone/Andrea Gufarelli\|Andrea Gufarelli]]     |
-| ![(0) Immagini/Persone foto/Lorenzo Camuso.png\|Lorenzo Camuso.png](/img/user/(0)%20Immagini/Persone%20foto/Lorenzo%20Camuso.png)         | [[(Extra) Persone/Lorenzo Camuso\|Lorenzo Camuso]]         |
-| ![(0) Immagini/Persone foto/Lorenzo Grassi.png\|Lorenzo Grassi.png](/img/user/(0)%20Immagini/Persone%20foto/Lorenzo%20Grassi.png)         | [[(Extra) Persone/Lorenzo Grassi\|Lorenzo Grassi]]         |
-| ![(0) Immagini/Persone foto/Luisa Seres.png\|Luisa Seres.png](/img/user/(0)%20Immagini/Persone%20foto/Luisa%20Seres.png)               | [[(Extra) Persone/Luisa Seres\|Luisa Seres]]               |
-| ![(0) Immagini/Persone foto/Martina Schirone.png\|Martina Schirone.png](/img/user/(0)%20Immagini/Persone%20foto/Martina%20Schirone.png)     | [[(Extra) Persone/Martina Schirone\|Martina Schirone]]     |
-| ![(0) Immagini/Persone foto/Nodar Varazashvili.png\|Nodar Varazashvili.png](/img/user/(0)%20Immagini/Persone%20foto/Nodar%20Varazashvili.png) | [[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]] |
+|                                                                               | Giocatori                                               |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------- |
+| ![(0) Immagini/Persone foto/Andrea Gufarelli.png\|Andrea Gufarelli.png](/img/user/(0)%20Immagini/Persone%20foto/Andrea%20Gufarelli.png)     | [[Giocatori/Andrea Gufarelli\|Andrea Gufarelli]]     |
+| ![(0) Immagini/Persone foto/Lorenzo Camuso.png\|Lorenzo Camuso.png](/img/user/(0)%20Immagini/Persone%20foto/Lorenzo%20Camuso.png)         | [[Giocatori/Lorenzo Camuso\|Lorenzo Camuso]]         |
+| ![(0) Immagini/Persone foto/Lorenzo Grassi.png\|Lorenzo Grassi.png](/img/user/(0)%20Immagini/Persone%20foto/Lorenzo%20Grassi.png)         | [[Giocatori/Lorenzo Grassi\|Lorenzo Grassi]]         |
+| ![(0) Immagini/Persone foto/Luisa Seres.png\|Luisa Seres.png](/img/user/(0)%20Immagini/Persone%20foto/Luisa%20Seres.png)               | [[Giocatori/Luisa Seres\|Luisa Seres]]               |
+| ![(0) Immagini/Persone foto/Martina Schirone.png\|Martina Schirone.png](/img/user/(0)%20Immagini/Persone%20foto/Martina%20Schirone.png)     | [[Giocatori/Martina Schirone\|Martina Schirone]]     |
+| ![(0) Immagini/Persone foto/Nodar Varazashvili.png\|Nodar Varazashvili.png](/img/user/(0)%20Immagini/Persone%20foto/Nodar%20Varazashvili.png) | [[Giocatori/Nodar Varazashvili\|Nodar Varazashvili]] |
 
 { .block-language-dataview}
 

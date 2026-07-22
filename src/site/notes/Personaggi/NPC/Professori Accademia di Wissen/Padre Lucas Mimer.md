@@ -11,7 +11,7 @@
 > | Nome | Lucas |
 > | Cognome | [[Mimer\|Mimer]] |
 > | Sesso | Maschio |
-> | Specie | [[Specie/Umani\|Umani]] |
+> | Specie | [[Bestiario/Specie Senzienti/Umani\|Umani]] |
 > | Età | 71 |
 > | Affiliato | [[Fazioni/Organizazioni/Accademia di Wissen#Professori\|Accademia di Wissen > Professori]],[[Dei/Dio della conoscenza#Fedeli\|Dio della conoscenza > Fedeli]]|
 

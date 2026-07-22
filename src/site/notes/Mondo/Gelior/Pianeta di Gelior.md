@@ -19,7 +19,7 @@ Purtroppo molta di questa vive nelle profondità, per cui è quasi totalmente sc
 
 In termini di Habitat i più comuni sono senz'altro mari, e oceani. Interrotti da isole tropicali, ghiacciai. Non mancano isole con climi unici, soprattutto attorno al equatore, come vulcani o taighe.
 
-Alcune delle popolazioni senziente più diffusa su Gelior sono senz'altro i [[Specie/Galapa\|Galapa]].
+Alcune delle popolazioni senziente più diffusa su Gelior sono senz'altro i [[Bestiario/Specie Senzienti/Galapa\|Galapa]].
 
 ###### Nord
 Il nord è per lo più ricoperto di ghiacci, i venti sono freddi e le giornate sono corte. Non è però disabitato. Diverse popolazioni hanno adottato abitudini eschimesi o simili per resistere al freddo. Cacciando Foche testure o balene delle profondità per sopravvivere.

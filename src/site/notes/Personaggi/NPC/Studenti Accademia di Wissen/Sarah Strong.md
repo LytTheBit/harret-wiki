@@ -15,7 +15,7 @@
 > | Nome | Sarah |
 > | Cognome | [[Strong\|Strong]] |
 > | Sesso | Femmina |
-> | Specie | [[Specie/Umani\|Umani]] |
+> | Specie | [[Bestiario/Specie Senzienti/Umani\|Umani]] |
 > | Età | 26 |
 > | Affiliato | [[Fazioni/Organizazioni/Accademia di Wissen#Studenti\|Accademia di Wissen > Studenti]]|
 

@@ -14,7 +14,7 @@
 > | Nome | Marcus |
 > | Cognome | [[Ion\|Ion]] |
 > | Sesso | Maschio |
-> | Specie | [[Specie/Umani\|Umani]] |
+> | Specie | [[Bestiario/Specie Senzienti/Umani\|Umani]] |
 > | Età | 21 |
 > | Affiliato | [[Fazioni/Organizazioni/Ordine della lancia bianca\|Ordine della lancia bianca]],[[Fazioni/Organizazioni/Accademia di Wissen#Studenti\|Accademia di Wissen > Studenti]]|
 

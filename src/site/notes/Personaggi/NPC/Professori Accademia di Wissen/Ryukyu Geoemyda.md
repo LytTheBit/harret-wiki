@@ -12,18 +12,18 @@
 > | Nome | Ryukyu |
 > | Cognome | [[Geoemyda\|Geoemyda]] |
 > | Sesso | Maschio |
-> | Specie | [[Specie/Galapa\|Galapa]] |
+> | Specie | [[Bestiario/Specie Senzienti/Galapa\|Galapa]] |
 > | Età | 81 |
 > | Affiliato | [[Fazioni/Organizazioni/Accademia di Wissen#Professori\|Accademia di Wissen > Professori]]|
 
 Professore di Bestie e Natura al [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]]. 
-E' un [[Specie/Galapa\|Tortle]] proveniente dal [[Pianeta di Sylvara\|Pianeta di Sylvara]]
+E' un [[Bestiario/Specie Senzienti/Galapa\|Tortle]] proveniente dal [[Pianeta di Sylvara\|Pianeta di Sylvara]]
 
 ## Legami
 Per quanto risaputo, non ha ne moglie ne figli.
 
 ## Aspetto e carattere
-E' un [[Specie/Galapa\|Tortle]] sul centinaio di anni. Questo significa che è abbastanza anziano.
+E' un [[Bestiario/Specie Senzienti/Galapa\|Tortle]] sul centinaio di anni. Questo significa che è abbastanza anziano.
 
 Ha lasciato che sul suo guscio crescessero muschi e piccole erbette per permetterli di avvicinarsi meglio agli animali.
 

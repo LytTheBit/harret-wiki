@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"dg-note-icon":"Sessione - riassunto","Template":"[[Sessione - riassunto]]","Campagna":"[[Tales of the Accademy]]","Data sessione":"13/06/2026","Players":["[[(Extra) Persone/Lorenzo Camuso\|Lorenzo Camuso]]","[[(Extra) Persone/Lorenzo Grassi\|Lorenzo Grassi]]","[[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]]","[[(Extra) Persone/Luisa Seres\|Luisa Seres]]"],"PG":["[[Personaggi/PG/Mata Mata\|Mata Mata]]","[[Personaggi/PG/D1-X0N\|D1-X0N]]","[[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Gilgamesh]]"],"Sessione numero":"1","Immagine":"![Icona Tales of the Academy.png](/img/user/(0)%20Immagini/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png)","permalink":"/Campagne/Tales of the Accademy/Sessioni/Sessione 1 - Riassunto/","dgPassFrontmatter":true,"created":"2026-05-07T12:25:58.539+02:00","updated":"2026-06-30T22:40:25.175+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Sessione - riassunto]]","Campagna":"[[Tales of the Accademy]]","Data sessione":"13/06/2026","Players":["[[(Extra) Persone/Lorenzo Camuso\|Lorenzo Camuso]]","[[(Extra) Persone/Lorenzo Grassi\|Lorenzo Grassi]]","[[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]]","[[(Extra) Persone/Luisa Seres\|Luisa Seres]]"],"PG":["[[Personaggi/PG/Mata Mata\|Mata Mata]]","[[Personaggi/PG/D1-X0N\|D1-X0N]]","[[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Gilgamesh]]"],"Sessione numero":"1","Immagine":"![Icona Tales of the Academy.png](/img/user/(0)%20Immagini/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png)"}}
+{"dg-publish":true,"aliases":null,"tags":null,"dg-note-icon":"Sessione - riassunto","Template":"[[Sessione - riassunto]]","Campagna":"[[Tales of the Accademy]]","Data sessione":"13/06/2026","Players":["[[Giocatori/Lorenzo Camuso\|Lorenzo Camuso]]","[[Giocatori/Lorenzo Grassi\|Lorenzo Grassi]]","[[Giocatori/Nodar Varazashvili\|Nodar Varazashvili]]","[[Giocatori/Luisa Seres\|Luisa Seres]]"],"PG":["[[Personaggi/PG/Mata Mata\|Mata Mata]]","[[Personaggi/PG/D1-X0N\|D1-X0N]]","[[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Gilgamesh]]"],"Sessione numero":"1","Immagine":"![Icona Tales of the Academy.png](/img/user/(0)%20Immagini/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png)","permalink":"/Campagne/Tales of the Accademy/Sessioni/Sessione 1 - Riassunto/","dgPassFrontmatter":true,"created":"2026-05-07T12:25:58.539+02:00","updated":"2026-07-21T22:48:20.253+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Sessione - riassunto]]","Campagna":"[[Tales of the Accademy]]","Data sessione":"13/06/2026","Players":["[[Giocatori/Lorenzo Camuso\|Lorenzo Camuso]]","[[Giocatori/Lorenzo Grassi\|Lorenzo Grassi]]","[[Giocatori/Nodar Varazashvili\|Nodar Varazashvili]]","[[Giocatori/Luisa Seres\|Luisa Seres]]"],"PG":["[[Personaggi/PG/Mata Mata\|Mata Mata]]","[[Personaggi/PG/D1-X0N\|D1-X0N]]","[[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Gilgamesh]]"],"Sessione numero":"1","Immagine":"![Icona Tales of the Academy.png](/img/user/(0)%20Immagini/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png)"}}
 ---
 
-Ad assistere la sessione è venuta anche [[(Extra) Persone/Luisa Seres\|Luisa Seres]].
+Ad assistere la sessione è venuta anche [[Giocatori/Luisa Seres\|Luisa Seres]].
 
 Siamo nel [[9° mese\|9° mese]], nella [[Lore/Stagioni su Harret#Stagione Ventosa\|Stagione Ventosa]].
 
 La sessione inizia con i giocatori che descrivono l'arrivo dei loro personaggi nel [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]].
 
-- [[(Extra) Persone/Lorenzo Grassi\|Lorenzo Grassi]] racconta di come [[Personaggi/PG/D1-X0N\|D1-X0N]] sia arrivato accompagnato da golem e geomanti della [[Fazioni/Organizazioni/Gilda di Konstrukt\|Gilda di Konstrukt]], che sono venuti ad aiutare a portare le sue cose nel accademia.
-- [[(Extra) Persone/Lorenzo Camuso\|Lorenzo Camuso]] racconta di come [[Personaggi/PG/Mata Mata\|Mata Mata]] sia arrivato via nave dal mare, per poi cambiare ad un imbarcazione più piccola per risalire il fiume fino alle pendici della montagna.
-- [[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]] invece racconta di come [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]] sia arrivato nella sua carrozza dorata trainata da sei paia di [[pegasi\|pegasi]]. Mentre il suo maggiordomo, [[Personaggi/NPC/Alfred ...\|Alfred ...]], lo avverte di tenere alto l'onore della casata.
+- [[Giocatori/Lorenzo Grassi\|Lorenzo Grassi]] racconta di come [[Personaggi/PG/D1-X0N\|D1-X0N]] sia arrivato accompagnato da golem e geomanti della [[Fazioni/Organizazioni/Gilda di Konstrukt\|Gilda di Konstrukt]], che sono venuti ad aiutare a portare le sue cose nel accademia.
+- [[Giocatori/Lorenzo Camuso\|Lorenzo Camuso]] racconta di come [[Personaggi/PG/Mata Mata\|Mata Mata]] sia arrivato via nave dal mare, per poi cambiare ad un imbarcazione più piccola per risalire il fiume fino alle pendici della montagna.
+- [[Giocatori/Nodar Varazashvili\|Nodar Varazashvili]] invece racconta di come [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]] sia arrivato nella sua carrozza dorata trainata da sei paia di [[Bestiario/Celestiali/Pegasi\|Pegasi]]. Mentre il suo maggiordomo, [[Personaggi/NPC/Alfred ...\|Alfred ...]], lo avverte di tenere alto l'onore della casata.
 
-I [[Golem del Accademia\|Golem del Accademia]] prendono i loro bagagli, e per i tre inizia la scalata verso la scuola. 
+I [[Bestiario/Golem/Golem Prefetto\|Golem del Accademia]] prendono i loro bagagli, e per i tre inizia la scalata verso la scuola. 
 
 Durante la salita incontrano due studentesse, [[Personaggi/NPC/Studenti Accademia di Wissen/Amity Dumar\|Amity Dumar]] e la sua amica [[Personaggi/NPC/Studenti Accademia di Wissen/Lucy Nocida\|Lucy Nocida]], intente a portare su grandi casse di bagagli. [[Fazioni/Famiglie/Mata\|Mata]] e [[Personaggi/PG/D1-X0N\|D1-X0N]] decidono di aiutarle mentre [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Gilgamesh]] se ne vola per i fatti suoi.
 
@@ -33,7 +33,7 @@ Mentre [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Gilgamesh]] riceve una le
 Inizia la prima lezione. Lezione di magia con la professoressa [[Personaggi/NPC/Professori Accademia di Wissen/Pearl Violet\|Pearl Violet]], che [[Personaggi/PG/D1-X0N\|D1-X0N]] prende subito in antipatia poiché usa un golem come corpo mentre è in DAD (didattica arcana distanziata).
 
 Dopo di che i tre si recano in [[Mondo/Harret/Luoghi/Castel Wissen#Biblioteca\|Biblioteca]]. 
-- [[Personaggi/PG/D1-X0N\|D1-X0N]] trova un libro sui fondamenti della [[Geomanzia\|Geomanzia]], cominciando a decifrare i suoi [[Campagne/Tales of the Accademy/Quest e misteri/Documenti da decifrare\|Documenti da decifrare]]
+- [[Personaggi/PG/D1-X0N\|D1-X0N]] trova un libro sui fondamenti della [[Geomanzia\|Geomanzia]], cominciando a decifrare i suoi [[Campagne/Tales of the Accademy/Quest e misteri/Decifrare i documenti\|Decifrare i documenti]]
 > [!quote] Pagina 1 parte 1
 Ripasso sulla natura dei Golem.
 I golem per come li conosciamo oggi sono diventati comuni circa II secoli fa. I primi esemplari risalgono a III secoli fa, e i primissimi esperimenti di marionette (i precursori dei golem) anche più vecchie.
@@ -48,7 +48,7 @@ Geomanti diversi hanno stili diversi. Alcuni tipi famosi di golem sono: Marionet
 Il gruppo torna nelle loro camere. E durante la notte ricevono tutti un biglietto che li invita ad un [[Campagne/Tales of the Accademy/Quest e misteri/Rito di iniziazione\|Rito di iniziazione]] il mese prossimo.
 
 ## Immagini
-Foto by [[(Extra) Persone/Lorenzo Camuso\|Camiu]]:
+Foto by [[Giocatori/Lorenzo Camuso\|Camiu]]:
 ![Pasted image 20260617215633.png\|325](/img/user/(0)%20Immagini/Campagne/Accademy/Sessione%201/Pasted%20image%2020260617215633.png) ![Pasted image 20260617215638.png\|325](/img/user/(0)%20Immagini/Campagne/Accademy/Sessione%201/Pasted%20image%2020260617215638.png)![Pasted image 20260617215647.png\|325](/img/user/(0)%20Immagini/Campagne/Accademy/Sessione%201/Pasted%20image%2020260617215647.png) ![Pasted image 20260617215653.png\|325](/img/user/(0)%20Immagini/Campagne/Accademy/Sessione%201/Pasted%20image%2020260617215653.png) 
 ![Pasted image 20260617215658.png\|325](/img/user/(0)%20Immagini/Campagne/Accademy/Sessione%201/Pasted%20image%2020260617215658.png) ![Pasted image 20260617215709.png\|325](/img/user/(0)%20Immagini/Campagne/Accademy/Sessione%201/Pasted%20image%2020260617215709.png) 
 ![Rito di iniziazione.png\|651](/img/user/(0)%20Immagini/Campagne/Accademy/Sessione%201/Rito%20di%20iniziazione.png)

@@ -15,7 +15,7 @@
 > | Nome | Ruggie |
 > | Cognome | [[Kerma\|Kerma]] |
 > | Sesso | Maschio |
-> | Specie | [[Specie/Umani\|Umani]] |
+> | Specie | [[Bestiario/Specie Senzienti/Umani\|Umani]] |
 > | Età | ??? |
 > | Affiliato | [[Fazioni/Organizazioni/Accademia di Wissen#Studenti\|Accademia di Wissen > Studenti]],[[Fazioni/Organizazioni/Gilda di Konstrukt\|Gilda di Konstrukt]]|
 

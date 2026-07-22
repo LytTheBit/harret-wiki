@@ -11,7 +11,7 @@
 > | Nome | Pearl |
 > | Cognome | [[Violet\|Violet]] |
 > | Sesso | Femmina |
-> | Specie | [[Specie/Umani\|Umani]] |
+> | Specie | [[Bestiario/Specie Senzienti/Umani\|Umani]] |
 > | Età | 36 |
 > | Affiliato | [[Fazioni/Organizazioni/Accademia di Wissen#Professori\|Accademia di Wissen > Professori]],[[Ordine dei maghi di torre storta\|Ordine dei maghi di torre storta]]|
 

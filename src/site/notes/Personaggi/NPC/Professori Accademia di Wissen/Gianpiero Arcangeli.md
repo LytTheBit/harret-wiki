@@ -11,7 +11,7 @@
 > | Nome | Gianpiero |
 > | Cognome | [[Arcangeli\|Arcangeli]] |
 > | Sesso | Maschio |
-> | Specie | [[Specie/Umani\|Umani]] |
+> | Specie | [[Bestiario/Specie Senzienti/Umani\|Umani]] |
 > | Età | 73 |
 > | Affiliato | [[Fazioni/Organizazioni/Accademia di Wissen#Professori\|Accademia di Wissen > Professori]]|
 

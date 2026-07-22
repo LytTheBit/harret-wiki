@@ -11,10 +11,10 @@
 > | Nome | Mata |
 > | Cognome | [[Fazioni/Famiglie/Mata\|Mata]] |
 > | Sesso | Maschio |
-> | Specie | [[Specie/Galapa\|Galapa]] |
+> | Specie | [[Bestiario/Specie Senzienti/Galapa\|Galapa]] |
 > | Compleanno | 10/10 |
 > | Età | 21 |
-> | Giocatore | [[(Extra) Persone/Lorenzo Camuso\|Lorenzo Camuso]] |
+> | Giocatore | [[Giocatori/Lorenzo Camuso\|Lorenzo Camuso]] |
 > | Affiliato | [[Fazioni/Organizazioni/Accademia di Wissen#Studenti\|Accademia di Wissen > Studenti]],[[Arcipelago Tangata\|Arcipelago Tangata]] |
 
 Studente Galapa dell'[[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]], raccomandato dal suo vecchio insegnante [[Personaggi/NPC/Pinta Galapodi\|Pinta Galapodi]] presso la [[Scuola militare testuggine\|Scuola militare testuggine]] dell'[[Arcipelago Tangata\|Arcipelago Tangata]]. Condivide la stanza con [[Poul\|Poul]] e [[Personaggi/PG/D1-X0N\|D1-X0N]].

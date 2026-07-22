@@ -11,7 +11,7 @@
 > | Nome | Pinta |
 > | Cognome | [[Galapodi\|Galapodi]] |
 > | Sesso | Maschio |
-> | Specie | [[Specie/Galapa\|Tortle]] |
+> | Specie | [[Bestiario/Specie Senzienti/Galapa\|Tortle]] |
 > | Età | 104 |
 > | Affiliato | [[Scuola militare testuggine\|Scuola militare testuggine]],[[Arcipelago Tangata\|Arcipelago Tangata]]|
 

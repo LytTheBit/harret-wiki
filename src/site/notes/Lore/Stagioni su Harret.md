@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"dg-note-icon":"Lore","Template":"[[Lore]]","Immagine":"![[Stagioni su Harret.png]]","permalink":"/Lore/Stagioni su Harret/","dgPassFrontmatter":true,"created":"2026-06-06T11:41:07.839+02:00","updated":"2026-06-24T15:42:14.318+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Lore]]","Immagine":"![[Stagioni su Harret.png]]"}}
+{"dg-publish":true,"aliases":null,"tags":null,"dg-note-icon":"Lore","Template":"[[Lore]]","Immagine":"![[Stagioni su Harret.png]]","permalink":"/Lore/Stagioni su Harret/","dgPassFrontmatter":true,"created":"2026-06-06T11:41:07.839+02:00","updated":"2026-07-18T11:23:35.300+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Lore]]","Immagine":"![[Stagioni su Harret.png]]"}}
 ---
 
 > [!warning] Attenzione
@@ -76,7 +76,7 @@ Durante questa stagione le notti solo lunghe e le giornate corte. In alcune zone
 
 Anche la luce di candele e incantesimi è più debole e meno efficace, eccezion fatta per le magie divine.
 
-In questa stagione i [[Lore/(TODO) Mostri\|mostri]] appaiono con molta più facilità e si dimostrano essere più aggressivi. Nessuno ha ancora capito il perché. 
+In questa stagione i [[Bestiario/(Mostri)\|mostri]] appaiono con molta più facilità e si dimostrano essere più aggressivi. Nessuno ha ancora capito il perché. 
 
 
 > [!tip] Nota

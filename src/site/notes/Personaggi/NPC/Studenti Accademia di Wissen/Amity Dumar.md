@@ -15,11 +15,11 @@
 > | Nome | Amity |
 > | Cognome | [[Dumar\|Dumar]] |
 > | Sesso | Femmina |
-> | Specie | [[Specie/Umani\|Umani]] |
+> | Specie | [[Bestiario/Specie Senzienti/Umani\|Umani]] |
 > | Età | 21 |
 > | Affiliato | [[Fazioni/Organizazioni/Accademia di Wissen#Studenti\|Accademia di Wissen > Studenti]]|
 
-Studentessa del primo anno del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]] e figlia secondogenita del [[Gran Conte Dumar\|Gran Conte Dumar]], del omonima famiglia [[Dumar\|Dumar]], signori della piccola ma ricca [[Città di Dumar\|Città di Dumar]]. 
+Studentessa del primo anno del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]] e figlia secondogenita del [[Gran Conte Dumar\|Gran Conte Dumar]], del omonima famiglia [[Dumar\|Dumar]], signori della piccola ma ricca [[Mondo/Harret/Nazioni/Città di Dumar\|Città di Dumar]]. 
 E' stata ammessa nel accademia per lo più per il suo cognome. E ha insistito per portarsi con se l'*"amica"* e cameriera [[Personaggi/NPC/Studenti Accademia di Wissen/Lucy Nocida\|Lucy]].
 
 ## Legami

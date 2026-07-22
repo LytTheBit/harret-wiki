@@ -11,10 +11,10 @@
 > | Nome | Lugalin Gilgamesh |
 > | Cognome | [[Fazioni/Famiglie/Aurelian\|Aurelian]] |
 > | Sesso | Maschio |
-> | Specie | [[Specie/Umani\|Umani]] |
+> | Specie | [[Bestiario/Specie Senzienti/Umani\|Umani]] |
 > | Compleanno | 01/06 |
 > | Età | 21 |
-> | Giocatore | [[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]] |
+> | Giocatore | [[Giocatori/Nodar Varazashvili\|Nodar Varazashvili]] |
 > | Affiliato | [[Fazioni/Organizazioni/Accademia di Wissen#Studenti\|Accademia di Wissen > Studenti]],[[Mondo/Harret/Nazioni/Regno di Xxx\|Regno di Xxx]] |
 
 Membro della famiglia ducale [[Fazioni/Famiglie/Aurelian\|Aurelian]] del [[Mondo/Harret/Nazioni/Regno di Xxx\|Regno di Xxx]]. Cresciuto nella fede del [[Dei/Dio del sole\|Dio del sole]]. Studente dell'[[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]], è promesso sposo di [[Personaggi/NPC/Studenti Accademia di Wissen/Uta Napish\|Uta Napish]] per volere delle rispettive famiglie.

@@ -15,7 +15,7 @@
 > | Nome | Poul |
 > | Cognome | [[Fazioni/Organizazioni/Accademia di Wissen\|Wissen]] |
 > | Sesso | Maschio |
-> | Specie | [[Specie/Umani\|Umani]] |
+> | Specie | [[Bestiario/Specie Senzienti/Umani\|Umani]] |
 > | Età | 21 |
 > | Affiliato | [[Fazioni/Organizazioni/Accademia di Wissen#Studenti\|Accademia di Wissen > Studenti]]|
 

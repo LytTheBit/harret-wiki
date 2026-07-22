@@ -12,7 +12,7 @@
 > | Nome | Enkidu |
 > | Cognome | [[Fazioni/Famiglie/Qamar\|Qamar]] |
 > | Sesso | Maschio |
-> | Specie | [[Specie/Umani\|Umani]] |
+> | Specie | [[Bestiario/Specie Senzienti/Umani\|Umani]] |
 > | Età | 21 |
 > | Affiliato | [[Fazioni/Organizazioni/Accademia di Wissen#Studenti\|Accademia di Wissen > Studenti]],[[Mondo/Harret/Nazioni/Regno di Xxx\|Regno di Xxx]]|
 

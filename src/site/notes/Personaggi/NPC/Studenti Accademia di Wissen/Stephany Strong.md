@@ -15,12 +15,12 @@
 > | Nome | Stephany |
 > | Cognome | [[Strong\|Strong]] |
 > | Sesso | Femmina |
-> | Specie | [[Specie/Umani\|Umani]] |
+> | Specie | [[Bestiario/Specie Senzienti/Umani\|Umani]] |
 > | Età | 21 |
 > | Affiliato | [[Fazioni/Organizazioni/Accademia di Wissen#Studenti\|Accademia di Wissen > Studenti]]|
 
 Studentessa del primo anno del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]] e membro della famiglia di cavalieri [[Strong\|Strong]], delle terre del sud.
-Da piccola i suoi genitori, e il suo villaggio è stato distrutto da dei [[Golem\|Golem]], da allora è traumatizzata da quest'ultimi. Ha anche sviluppato un astio nei confronti dei [[Specie/Risvegliati\|Risvegliati]].
+Da piccola i suoi genitori, e il suo villaggio è stato distrutto da dei [[Golem\|Golem]], da allora è traumatizzata da quest'ultimi. Ha anche sviluppato un astio nei confronti dei [[Bestiario/Specie Senzienti/Risvegliati\|Risvegliati]].
 
 ## Legami
 Sua sorella (sorellastra) maggiore è [[Personaggi/NPC/Studenti Accademia di Wissen/Sarah Strong\|Sarah Strong]] è anche essa una studentessa del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]]. In particolare è al quinto anno e a capo del [[Fazioni/Organizazioni/Accademia di Wissen#Consiglio Studentesco\|Consiglio Studentesco]].

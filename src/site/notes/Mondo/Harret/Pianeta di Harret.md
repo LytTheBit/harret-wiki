@@ -22,7 +22,7 @@ In termini di Habitat i più comuni sono senz'altro foreste, pianure, montagne, 
 
 Aiuta il fatto che la maggior parte delle [[Lore/(TODO) Faglie\|(TODO) Faglie]] passano da qui. Cosa che ha permesso molti movimenti migratori sia di specie senzienti che di quelle animali.
 
-La popolazione senziente più diffusa su Harret sono senz'altro gli [[Specie/Umani\|Umani]].
+La popolazione senziente più diffusa su Harret sono senz'altro gli [[Bestiario/Specie Senzienti/Umani\|Umani]].
 
 ## Peculiarità
 #### Stagioni
