@@ -1,12 +1,7 @@
 ---
-{"dg-publish":true,"aliases":["Lettera"],"tags":null,"dg-note-icon":"Lettere","Template":"[[Lettere]]","Campagna":"[[Tales of the Accademy]]","Sessione":"[[Sessione 1 - Riassunto]]","Fonte":["[[Gilda di Konstrukt]]"],"Immagine":"![Circolare sul primo esame.png](/img/user/(0)%20Immagini/Circolare%20sul%20primo%20esame.png)","permalink":"/Archivio/Documenti progetto Nuova Fiamma/","dgPassFrontmatter":true,"created":"2026-07-21T22:48:50.978+02:00","updated":"2026-07-21T22:55:56.610+02:00","dg-note-properties":{"aliases":["Lettera"],"tags":null,"Template":"[[Lettere]]","Campagna":"[[Tales of the Accademy]]","Sessione":"[[Sessione 1 - Riassunto]]","Fonte":["[[Gilda di Konstrukt]]"],"Immagine":"![Circolare sul primo esame.png](/img/user/(0)%20Immagini/Circolare%20sul%20primo%20esame.png)"}}
+{"dg-publish":true,"aliases":null,"tags":null,"dg-note-icon":"Documento","Template":"[[Documento]]","Campagna":"[[Tales of the Accademy]]","Sessione":"[[Sessione 1 - Riassunto]]","Fonte":["[[Gilda di Konstrukt]]"],"Immagine":"![Documenti progetto Nuova Fiamma.png](/img/user/(0)%20Immagini/Oggetti/Documenti%20progetto%20Nuova%20Fiamma.png)","permalink":"/Archivio/Documenti progetto Nuova Fiamma/","dgPassFrontmatter":true,"created":"2026-07-21T22:48:50.978+02:00","updated":"2026-07-23T09:25:18.919+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Documento]]","Campagna":"[[Tales of the Accademy]]","Sessione":"[[Sessione 1 - Riassunto]]","Fonte":["[[Gilda di Konstrukt]]"],"Immagine":"![Documenti progetto Nuova Fiamma.png](/img/user/(0)%20Immagini/Oggetti/Documenti%20progetto%20Nuova%20Fiamma.png)"}}
 ---
 
-## Originali
-[[Documenti.pdf|PDF too large to embed]]
-
-
-## Decifrati
 > [!quote] Pagina 1 
 Ripasso sulla natura dei Golem.
 I golem per come li conosciamo oggi sono diventati comuni circa II secoli fa. I primi esemplari risalgono a III secoli fa, e i primissimi esperimenti di marionette (i precursori dei golem) anche più vecchie.
@@ -29,3 +24,5 @@ In altre parole, se una spada viene tramandata dalla famiglia Shin per molte gen
 Ma non ho cento anni da aspettare, quindi userò un trucco. Il secondo metodo. Se la Memoria è collegata dalla Rete Mentale, che deriva dal Piano Onirico... potrei provare a creare un portale per il Piano Onirico DENTRO il golem. Non una faglia vera e propria, una cosa più piccola... una crepa tra i mondi.  
 Questo potrebbe rendere l'anima del golem più instabile. Potrebbe consumarsi più in fretta... accorciarli la durata vitale... ma potrebbe anche darli la capacità di lanciare magie...
 Se poi cambiassi la faglia di riferimento potrei darli la capacità di lanciare altri tipi di magie, non solo arcane... Magari una faglia verso luma potrebbe darli poteri divini, o una verso Sylvana potrebbe darli poteri druidici... Per ora mi limiterò ad una faglia verticale.
+
+![Documenti progetto Nuova Fiamma.png](/img/user/(0)%20Immagini/Oggetti/Documenti%20progetto%20Nuova%20Fiamma.png)
