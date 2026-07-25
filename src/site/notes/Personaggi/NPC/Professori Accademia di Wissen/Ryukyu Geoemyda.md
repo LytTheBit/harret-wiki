@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"aliases":["Ryukyu","Professor Geoemyda"],"tags":["NPC","V2"],"dg-note-icon":"NPC","Template":"[[NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Ryukyu","Cognome":"[[Geoemyda]]","Specie":"[[Galapa]]","Anno di nascita":1146,"Affiliazioni":["[[Accademia di Wissen#Professori]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Ryukyu Geoemyda.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Ryukyu%20Geoemyda.png)","Fede":"[[Dea del acqua#Fedeli]]","permalink":"/Personaggi/NPC/Professori Accademia di Wissen/Ryukyu Geoemyda/","dgPassFrontmatter":true,"created":"2026-05-17T10:48:43.637+02:00","updated":"2026-06-29T12:28:53.437+02:00","dg-note-properties":{"aliases":["Ryukyu","Professor Geoemyda"],"tags":["NPC","V2"],"Template":"[[NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Ryukyu","Cognome":"[[Geoemyda]]","Specie":"[[Galapa]]","Anno di nascita":1146,"Affiliazioni":["[[Accademia di Wissen#Professori]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Ryukyu Geoemyda.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Ryukyu%20Geoemyda.png)","Fede":"[[Dea del acqua#Fedeli]]"}}
+{"dg-publish":true,"aliases":["Ryukyu","Professor Geoemyda"],"tags":["NPC","V2"],"dg-note-icon":"NPC","Template":"[[NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Ryukyu","Cognome":"[[Geoemyda]]","Specie":"[[Galapa]]","Anno di nascita":1146,"Affiliazioni":["[[Accademia di Wissen#Professori]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Ryukyu Geoemyda.png](/img/user/(0)%20Immagini/Personaggi/NPC/Ryukyu%20Geoemyda.png)","Fede":"[[Dea del acqua#Fedeli]]","permalink":"/Personaggi/NPC/Professori Accademia di Wissen/Ryukyu Geoemyda/","dgPassFrontmatter":true,"created":"2026-05-17T10:48:43.637+02:00","updated":"2026-06-29T12:28:53.437+02:00","dg-note-properties":{"aliases":["Ryukyu","Professor Geoemyda"],"tags":["NPC","V2"],"Template":"[[NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Ryukyu","Cognome":"[[Geoemyda]]","Specie":"[[Galapa]]","Anno di nascita":1146,"Affiliazioni":["[[Accademia di Wissen#Professori]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Ryukyu Geoemyda.png](/img/user/(0)%20Immagini/Personaggi/NPC/Ryukyu%20Geoemyda.png)","Fede":"[[Dea del acqua#Fedeli]]"}}
 ---
 
 
 > [!infobox|right]
 > # Ryukyu Geoemyda
-> ![(0) Immagini/Personaggi immagini/NPC/Ryukyu Geoemyda.png\|Ryukyu Geoemyda.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Ryukyu%20Geoemyda.png)
+> ![[(0) Immagini/Personaggi immagini/NPC/Ryukyu Geoemyda.png\|Ryukyu Geoemyda.png]]
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|

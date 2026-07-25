@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"aliases":["Caotici"],"tags":null,"dg-note-icon":"Lore","Template":"[[Lore]]","Immagine":"![Concept Caotici.png](/img/user/(0)%20Immagini/Abbellimenti/Concept%20Caotici.png)","dg-content-classes":"dg-cards","permalink":"/Bestiario/Caotici/(Caotici)/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-07-18T10:41:42.403+02:00","updated":"2026-07-18T15:37:32.255+02:00","dg-note-properties":{"aliases":["Caotici"],"tags":null,"Template":"[[Lore]]","Immagine":"![Concept Caotici.png](/img/user/(0)%20Immagini/Abbellimenti/Concept%20Caotici.png)"}}
+{"dg-publish":true,"aliases":["Caotici"],"tags":null,"dg-note-icon":"Lore","Template":"[[Lore]]","Immagine":"![Concept Caotici.png](/img/user/(0)%20Immagini/Bestiario/Concept%20Caotici.png)","dg-content-classes":"dg-cards","permalink":"/Bestiario/Caotici/(Caotici)/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-07-18T10:41:42.403+02:00","updated":"2026-07-18T15:37:32.255+02:00","dg-note-properties":{"aliases":["Caotici"],"tags":null,"Template":"[[Lore]]","Immagine":"![Concept Caotici.png](/img/user/(0)%20Immagini/Bestiario/Concept%20Caotici.png)"}}
 ---
 
 > [!infobox|right]
 > # Caotici
-> ![Concept Caotici.png](/img/user/(0)%20Immagini/Abbellimenti/Concept%20Caotici.png)
+> ![Concept Caotici.png](/img/user/(0)%20Immagini/Bestiario/Concept%20Caotici.png)
 > ## Dettagli
 > *Mostri senza anima o cuore. Guidati solo dalla sete di sangue e volontà di distruggere*
 
@@ -23,6 +23,6 @@ Nascono quando un animale viene colpito da una di queste gemme, e comincia lenta
 Questo processo di corruzione avviene tutto l'anno, ma è più comune durante la [[Lore/Stagioni su Harret#Stagione Ombrosa\|Stagione Ombrosa]]
 |                                                                         | Caotici                                     |
 | ----------------------------------------------------------------------- | ------------------------------------------- |
-| ![(0) Immagini/Personaggi immagini/Mostri/Wendingo.png\|Wendingo.png](/img/user/(0)%20Immagini/Personaggi%20immagini/Mostri/Wendingo.png) | [[Bestiario/Caotici/Wendingo\|Wendingo]] |
+| ![[(0) Immagini/Personaggi immagini/Mostri/Wendingo.png\|Wendingo.png]] | [[Bestiario/Caotici/Wendingo\|Wendingo]] |
 
 { .block-language-dataview}

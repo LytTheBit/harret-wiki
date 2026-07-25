@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"aliases":["Harret","Terra"],"tags":null,"dg-note-icon":"CorpoCeleste","Template":"[[Corpo Celeste]]","Immagine":"![Harret.png](/img/user/(0)%20Immagini/Luoghi%20immagini/Pianeti/Harret.png)","dg-content-classes":"dg-cards","permalink":"/Mondo/Harret/Pianeta di Harret/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-15T19:48:16.855+02:00","updated":"2026-07-07T11:37:27.044+02:00","dg-note-properties":{"aliases":["Harret","Terra"],"tags":null,"Template":"[[Corpo Celeste]]","Immagine":"![Harret.png](/img/user/(0)%20Immagini/Luoghi%20immagini/Pianeti/Harret.png)"}}
+{"dg-publish":true,"aliases":["Harret","Terra"],"tags":null,"dg-note-icon":"CorpoCeleste","Template":"[[Corpo Celeste]]","Immagine":"![Harret.png](/img/user/(0)%20Immagini/Mondo/Pianeti/Harret.png)","dg-content-classes":"dg-cards","permalink":"/Mondo/Harret/Pianeta di Harret/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-15T19:48:16.855+02:00","updated":"2026-07-07T11:37:27.044+02:00","dg-note-properties":{"aliases":["Harret","Terra"],"tags":null,"Template":"[[Corpo Celeste]]","Immagine":"![Harret.png](/img/user/(0)%20Immagini/Mondo/Pianeti/Harret.png)"}}
 ---
 
 
 > [!infobox|right]
 > # Pianeta di Harret
-> ![Harret.png](/img/user/(0)%20Immagini/Luoghi%20immagini/Pianeti/Harret.png)
+> ![Harret.png](/img/user/(0)%20Immagini/Mondo/Pianeti/Harret.png)
 > ## Dettagli
 > *Il centro del cosmo, il primo pianeta forgiato dagli dei. Attorno a cui ruota il sole, la luna, le stelle e gli altri pianeti.*
 
@@ -39,8 +39,8 @@ Per saperne di più: [[Lore/Stagioni su Harret\|Stagioni su Harret]]
 
 #### Luoghi di Harret
 
-|                                                                                          | Luoghi                                                  |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| ![(0) Immagini/Luoghi immagini/Posti/Accademia di Wissen.png\|Accademia di Wissen.png](/img/user/(0)%20Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png) | [[Mondo/Harret/Luoghi/Castel Wissen\|Castel Wissen]] |
+|                                                                                | Luoghi                                                  |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------- |
+| ![(0) Immagini/Mondo/Posti/Accademia di Wissen.png\|Accademia di Wissen.png](/img/user/(0)%20Immagini/Mondo/Posti/Accademia%20di%20Wissen.png) | [[Mondo/Harret/Luoghi/Castel Wissen\|Castel Wissen]] |
 
 { .block-language-dataview}

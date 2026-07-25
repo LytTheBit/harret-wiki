@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"aliases":["Celestiali"],"tags":null,"dg-note-icon":"Lore","Template":"[[Lore]]","Immagine":"![Concept Celestiali.png](/img/user/(0)%20Immagini/Concept%20Celestiali.png)","dg-content-classes":"dg-cards","permalink":"/Bestiario/Celestiali/(Celestiali)/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-07-18T12:59:58.776+02:00","updated":"2026-07-18T15:03:02.082+02:00","dg-note-properties":{"aliases":["Celestiali"],"tags":null,"Template":"[[Lore]]","Immagine":"![Concept Celestiali.png](/img/user/(0)%20Immagini/Concept%20Celestiali.png)"}}
+{"dg-publish":true,"aliases":["Celestiali"],"tags":null,"dg-note-icon":"Lore","Template":"[[Lore]]","Immagine":"![Concept Celestiali.png](/img/user/(0)%20Immagini/Bestiario/Concept%20Celestiali.png)","dg-content-classes":"dg-cards","permalink":"/Bestiario/Celestiali/(Celestiali)/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-07-18T12:59:58.776+02:00","updated":"2026-07-18T15:03:02.082+02:00","dg-note-properties":{"aliases":["Celestiali"],"tags":null,"Template":"[[Lore]]","Immagine":"![Concept Celestiali.png](/img/user/(0)%20Immagini/Bestiario/Concept%20Celestiali.png)"}}
 ---
 
 > [!infobox|right]
 > # Celestiali
-> ![Concept Celestiali.png](/img/user/(0)%20Immagini/Concept%20Celestiali.png)
+> ![Concept Celestiali.png](/img/user/(0)%20Immagini/Bestiario/Concept%20Celestiali.png)
 > ## Dettagli
 > *Esseri benedetti degli dei e dalla loro volontà. Servitori dei giusti e condanna dei malvagi.*
 

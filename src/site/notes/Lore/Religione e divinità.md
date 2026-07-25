@@ -20,11 +20,11 @@ E infine crearono le loro dimore, le [[Costellazioni\|Costellazioni]], dove ripo
 Esistono 12 divinità su Harret. Come i 12 mesi e le 12 costellazioni.
 |                                                                                                         | Divinità                                              |
 | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| ![(0) Immagini/Costellazioni e Dei/Dea del acqua.png\|Dea del acqua.png](/img/user/(0)%20Immagini/Costellazioni%20e%20Dei/Dea%20del%20acqua.png)                              | [[Dei/Dea del acqua\|Dea del acqua]]               |
-| ![(0) Immagini/Costellazioni e Dei/12 - luna/Dea della luna.png\|Dea della luna.png](/img/user/(0)%20Immagini/Costellazioni%20e%20Dei/12%20-%20luna/Dea%20della%20luna.png)                  | [[Dei/Dea della luna\|Dea della luna]]             |
-| ![(0) Immagini/Costellazioni e Dei/11 - morte/Dio dei morti.png\|Dio dei morti.png](/img/user/(0)%20Immagini/Costellazioni%20e%20Dei/11%20-%20morte/Dio%20dei%20morti.png)                   | [[Dei/Dio dei morti\|Dio dei morti]]               |
-| ![(0) Immagini/Costellazioni e Dei/6 - sole/Dio del sole.png\|Dio del sole.png](/img/user/(0)%20Immagini/Costellazioni%20e%20Dei/6%20-%20sole/Dio%20del%20sole.png)                       | [[Dei/Dio del sole\|Dio del sole]]                 |
-| ![(0) Immagini/Costellazioni e Dei/5 - conoscenza/Dio della conoscenza.png\|Dio della conoscenza.png](/img/user/(0)%20Immagini/Costellazioni%20e%20Dei/5%20-%20conoscenza/Dio%20della%20conoscenza.png) | [[Dei/Dio della conoscenza\|Dio della conoscenza]] |
+| ![[(0) Immagini/Costellazioni e Dei/Dea del acqua.png\|Dea del acqua.png]]                              | [[Dei/Dea del acqua\|Dea del acqua]]               |
+| ![[(0) Immagini/Costellazioni e Dei/12 - luna/Dea della luna.png\|Dea della luna.png]]                  | [[Dei/Dea della luna\|Dea della luna]]             |
+| ![[(0) Immagini/Costellazioni e Dei/11 - morte/Dio dei morti.png\|Dio dei morti.png]]                   | [[Dei/Dio dei morti\|Dio dei morti]]               |
+| ![[(0) Immagini/Costellazioni e Dei/6 - sole/Dio del sole.png\|Dio del sole.png]]                       | [[Dei/Dio del sole\|Dio del sole]]                 |
+| ![[(0) Immagini/Costellazioni e Dei/5 - conoscenza/Dio della conoscenza.png\|Dio della conoscenza.png]] | [[Dei/Dio della conoscenza\|Dio della conoscenza]] |
 
 { .block-language-dataview}
 ## Le costellazioni

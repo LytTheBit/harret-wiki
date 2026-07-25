@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"aliases":["Dio della morte","Il senza nome"],"tags":["V2"],"dg-note-icon":"Divinità","Template":"[[Dio]]","Nome":"-Senza nome-","Sesso":"???","Numero":11,"Stagione":"[[Stagione Ombrosa]]","Mese":"[[11° mese\|11° mese]]","Costellazione":"[[Lume dei defunti\|Lume dei defunti]]","Dominio":["Anime","Ombre","Ricordi","Morti"],"Immagine":"![Dio dei morti.png](/img/user/(0)%20Immagini/Costellazioni%20e%20Dei/11%20-%20morte/Dio%20dei%20morti.png)","dg-content-classes":"dg-cards","permalink":"/Dei/Dio dei morti/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-08T22:41:06.551+02:00","updated":"2026-06-29T12:48:03.921+02:00","dg-note-properties":{"aliases":["Dio della morte","Il senza nome"],"tags":["V2"],"Template":"[[Dio]]","Nome":"-Senza nome-","Sesso":"???","Numero":11,"Stagione":"[[Stagione Ombrosa]]","Mese":"[[11° mese\|11° mese]]","Costellazione":"[[Lume dei defunti\|Lume dei defunti]]","Dominio":["Anime","Ombre","Ricordi","Morti"],"Immagine":"![Dio dei morti.png](/img/user/(0)%20Immagini/Costellazioni%20e%20Dei/11%20-%20morte/Dio%20dei%20morti.png)"}}
+{"dg-publish":true,"aliases":["Dio della morte","Il senza nome"],"tags":["V2"],"dg-note-icon":"Divinità","Template":"[[Dio]]","Nome":"-Senza nome-","Sesso":"???","Numero":11,"Stagione":"[[Stagione Ombrosa]]","Mese":"[[11° mese\|11° mese]]","Costellazione":"[[Lume dei defunti\|Lume dei defunti]]","Dominio":["Anime","Ombre","Ricordi","Morti"],"Immagine":"![Dio dei morti.png](/img/user/(0)%20Immagini/Dei/11%20-%20morte/Dio%20dei%20morti.png)","dg-content-classes":"dg-cards","permalink":"/Dei/Dio dei morti/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-08T22:41:06.551+02:00","updated":"2026-06-29T12:48:03.921+02:00","dg-note-properties":{"aliases":["Dio della morte","Il senza nome"],"tags":["V2"],"Template":"[[Dio]]","Nome":"-Senza nome-","Sesso":"???","Numero":11,"Stagione":"[[Stagione Ombrosa]]","Mese":"[[11° mese\|11° mese]]","Costellazione":"[[Lume dei defunti\|Lume dei defunti]]","Dominio":["Anime","Ombre","Ricordi","Morti"],"Immagine":"![Dio dei morti.png](/img/user/(0)%20Immagini/Dei/11%20-%20morte/Dio%20dei%20morti.png)"}}
 ---
 
 > [!infobox|right]
 > # Dio dei morti
-> ![(0) Immagini/Costellazioni e Dei/11 - morte/Dio dei morti.png\|Dio dei morti.png](/img/user/(0)%20Immagini/Costellazioni%20e%20Dei/11%20-%20morte/Dio%20dei%20morti.png)
+> ![[(0) Immagini/Costellazioni e Dei/11 - morte/Dio dei morti.png\|Dio dei morti.png]]
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":["Poo","Poul"],"tags":["NPC","V2"],"dg-note-icon":"NPC","Template":"[[NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Poul","Cognome":"[[Accademia di Wissen|Wissen]]","Specie":"[[Umani]]","Anno di nascita":1206,"Affiliazioni":["[[Accademia di Wissen#Studenti]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Poul.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Poul.png)","Fede":"[[Dea della luna#Fedeli]]","permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Poooooooooooooo.../","dgPassFrontmatter":true,"created":"2026-06-17T20:57:38.981+02:00","updated":"2026-06-29T11:46:02.561+02:00","dg-note-properties":{"aliases":["Poo","Poul"],"tags":["NPC","V2"],"Template":"[[NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Poul","Cognome":"[[Accademia di Wissen|Wissen]]","Specie":"[[Umani]]","Anno di nascita":1206,"Affiliazioni":["[[Accademia di Wissen#Studenti]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Poul.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Poul.png)","Fede":"[[Dea della luna#Fedeli]]"}}
+{"dg-publish":true,"aliases":["Poo","Poul"],"tags":["NPC","V2"],"dg-note-icon":"NPC","Template":"[[NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Poul","Cognome":"[[Accademia di Wissen|Wissen]]","Specie":"[[Umani]]","Anno di nascita":1206,"Affiliazioni":["[[Accademia di Wissen#Studenti]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Poul.png](/img/user/(0)%20Immagini/Personaggi/NPC/Poul.png)","Fede":"[[Dea della luna#Fedeli]]","permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Poooooooooooooo.../","dgPassFrontmatter":true,"created":"2026-06-17T20:57:38.981+02:00","updated":"2026-06-29T11:46:02.561+02:00","dg-note-properties":{"aliases":["Poo","Poul"],"tags":["NPC","V2"],"Template":"[[NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Poul","Cognome":"[[Accademia di Wissen|Wissen]]","Specie":"[[Umani]]","Anno di nascita":1206,"Affiliazioni":["[[Accademia di Wissen#Studenti]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Poul.png](/img/user/(0)%20Immagini/Personaggi/NPC/Poul.png)","Fede":"[[Dea della luna#Fedeli]]"}}
 ---
 
 > [!warning] Attenzione
@@ -8,7 +8,7 @@
 
 > [!infobox|right]
 > # Poooooooooooooo...
-> ![(0) Immagini/Personaggi immagini/NPC/Poul.png\|Poul.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Poul.png)
+> ![[(0) Immagini/Personaggi immagini/NPC/Poul.png\|Poul.png]]
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|

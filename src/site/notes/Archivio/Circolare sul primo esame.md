@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"dg-note-icon":"Documento","Template":"[[Documento]]","Campagna":"[[Tales of the Accademy]]","Sessione":"[[Sessione 3 - Riassunto]]","Fonte":["[[Accademia di Wissen]]"],"Immagine":"![Circolare sul primo esame.png](/img/user/(0)%20Immagini/Circolare%20sul%20primo%20esame.png)","permalink":"/Archivio/Circolare sul primo esame/","dgPassFrontmatter":true,"created":"2026-07-21T22:42:02.654+02:00","updated":"2026-07-23T09:25:09.726+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Documento]]","Campagna":"[[Tales of the Accademy]]","Sessione":"[[Sessione 3 - Riassunto]]","Fonte":["[[Accademia di Wissen]]"],"Immagine":"![Circolare sul primo esame.png](/img/user/(0)%20Immagini/Circolare%20sul%20primo%20esame.png)"}}
+{"dg-publish":true,"aliases":null,"tags":null,"dg-note-icon":"Documento","Template":"[[Documento]]","Campagna":"[[Tales of the Accademy]]","Sessione":"[[Sessione 3 - Riassunto]]","Fonte":["[[Accademia di Wissen]]"],"Immagine":"![Circolare sul primo esame.png](/img/user/(0)%20Immagini/Archivio/Circolare%20sul%20primo%20esame.png)","permalink":"/Archivio/Circolare sul primo esame/","dgPassFrontmatter":true,"created":"2026-07-21T22:42:02.654+02:00","updated":"2026-07-23T09:25:09.726+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Documento]]","Campagna":"[[Tales of the Accademy]]","Sessione":"[[Sessione 3 - Riassunto]]","Fonte":["[[Accademia di Wissen]]"],"Immagine":"![Circolare sul primo esame.png](/img/user/(0)%20Immagini/Archivio/Circolare%20sul%20primo%20esame.png)"}}
 ---
 
 
@@ -48,4 +48,4 @@
 > 
 > Gianpiero Arcangeli
 
-![Circolare sul primo esame.png](/img/user/(0)%20Immagini/Circolare%20sul%20primo%20esame.png)
+![Circolare sul primo esame.png](/img/user/(0)%20Immagini/Archivio/Circolare%20sul%20primo%20esame.png)

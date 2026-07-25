@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"aliases":["Senzienti","Specie senzienti","Creature senzienti"],"tags":null,"dg-note-icon":"Lore","Template":"[[Lore]]","Immagine":"![Concept Senzienti.png](/img/user/(0)%20Immagini/Concept%20Senzienti.png)","dg-content-classes":"dg-cards","permalink":"/Bestiario/Specie Senzienti/(Senzienti)/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-07-18T15:26:07.810+02:00","updated":"2026-07-18T22:20:45.446+02:00","dg-note-properties":{"aliases":["Senzienti","Specie senzienti","Creature senzienti"],"tags":null,"Template":"[[Lore]]","Immagine":"![Concept Senzienti.png](/img/user/(0)%20Immagini/Concept%20Senzienti.png)"}}
+{"dg-publish":true,"aliases":["Senzienti","Specie senzienti","Creature senzienti"],"tags":null,"dg-note-icon":"Lore","Template":"[[Lore]]","Immagine":"![Concept Senzienti.png](/img/user/(0)%20Immagini/Bestiario/Concept%20Senzienti.png)","dg-content-classes":"dg-cards","permalink":"/Bestiario/Specie Senzienti/(Senzienti)/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-07-18T15:26:07.810+02:00","updated":"2026-07-18T22:20:45.446+02:00","dg-note-properties":{"aliases":["Senzienti","Specie senzienti","Creature senzienti"],"tags":null,"Template":"[[Lore]]","Immagine":"![Concept Senzienti.png](/img/user/(0)%20Immagini/Bestiario/Concept%20Senzienti.png)"}}
 ---
 
 > [!infobox|right]
 > # Specie Senzienti
-> ![Concept Senzienti.png](/img/user/(0)%20Immagini/Concept%20Senzienti.png)
+> ![Concept Senzienti.png](/img/user/(0)%20Immagini/Bestiario/Concept%20Senzienti.png)
 > ## Dettagli
 > *Le creazioni più perfette degli dei. Creature capaci di pensare e volere.*
 
@@ -24,10 +24,10 @@ Non tutte le creature possono essere elevate a Celestiali, e non da tutti i sace
 Sotto molti punti di visti i [[Bestiario/Celestiali/(Celestiali)\|Celestiali]] sono l'opposto del [[Bestiario/Caotici/(Caotici)\|Caotici]].
 
 
-|                                                                    | Celestiali                                                 |
-| ------------------------------------------------------------------ | ---------------------------------------------------------- |
-| ![(0) Immagini/Specie immagini/Galapa.png\|Galapa.png](/img/user/(0)%20Immagini/Specie%20immagini/Galapa.png)           | [[Bestiario/Specie Senzienti/Galapa\|Galapa]]           |
-| ![(0) Immagini/Specie immagini/Risvegliato.png\|Risvegliato.png](/img/user/(0)%20Immagini/Specie%20immagini/Risvegliato.png) | [[Bestiario/Specie Senzienti/Risvegliati\|Risvegliati]] |
-| ![(0) Immagini/Specie immagini/Umani.jpg\|Umani.jpg](/img/user/(0)%20Immagini/Specie%20immagini/Umani.jpg)             | [[Bestiario/Specie Senzienti/Umani\|Umani]]             |
+|                                                                               | Celestiali                                                 |
+| ----------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| ![(0) Immagini/Bestiario/Specie senzienti/Galapa.png\|Galapa.png](/img/user/(0)%20Immagini/Bestiario/Specie%20senzienti/Galapa.png)           | [[Bestiario/Specie Senzienti/Galapa\|Galapa]]           |
+| ![(0) Immagini/Bestiario/Specie senzienti/Risvegliato.png\|Risvegliato.png](/img/user/(0)%20Immagini/Bestiario/Specie%20senzienti/Risvegliato.png) | [[Bestiario/Specie Senzienti/Risvegliati\|Risvegliati]] |
+| ![(0) Immagini/Bestiario/Specie senzienti/Umani.jpg\|Umani.jpg](/img/user/(0)%20Immagini/Bestiario/Specie%20senzienti/Umani.jpg)             | [[Bestiario/Specie Senzienti/Umani\|Umani]]             |
 
 { .block-language-dataview}

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"dg-note-icon":"Geografia","Template":"[[Geografia]]","Tipo":"Catena Montuosa","Regione":"[[Continente X\|Continente X]]","Immagine":"![Vette Grigie.png](/img/user/(0)%20Immagini/Abbellimenti/Vette%20Grigie.png)","dg-content-classes":"dg-cards","permalink":"/Mondo/Harret/Geografia/Vette Grigie/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-06-21T10:06:22.397+02:00","updated":"2026-06-21T11:31:41.476+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Geografia]]","Tipo":"Catena Montuosa","Regione":"[[Continente X\|Continente X]]","Immagine":"![Vette Grigie.png](/img/user/(0)%20Immagini/Abbellimenti/Vette%20Grigie.png)"}}
+{"dg-publish":true,"aliases":null,"tags":null,"dg-note-icon":"Geografia","Template":"[[Geografia]]","Tipo":"Catena Montuosa","Regione":"[[Continente X\|Continente X]]","Immagine":"![Vette Grigie.png](/img/user/(0)%20Immagini/Mondo/Vette%20Grigie.png)","dg-content-classes":"dg-cards","permalink":"/Mondo/Harret/Geografia/Vette Grigie/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-06-21T10:06:22.397+02:00","updated":"2026-06-21T11:31:41.476+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Geografia]]","Tipo":"Catena Montuosa","Regione":"[[Continente X\|Continente X]]","Immagine":"![Vette Grigie.png](/img/user/(0)%20Immagini/Mondo/Vette%20Grigie.png)"}}
 ---
 
 > [!infobox|right]
 > # Vette Grigie
-> ![Vette Grigie.png](/img/user/(0)%20Immagini/Abbellimenti/Vette%20Grigie.png)
+> ![Vette Grigie.png](/img/user/(0)%20Immagini/Mondo/Vette%20Grigie.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|

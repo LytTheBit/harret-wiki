@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"aliases":[null],"tags":["Specie","V2","Animale"],"dg-note-icon":"Mostro","Template":"[[Voce bestiario]]","Nome":"Capigufo","Tipo di creatura":"[[(Animali)]]","Taglia":"Piccola","Pericolosità":"Nulla","Allineamento":"Neutrale-Buono","Habitat":["Foreste"],"Immagine":"![Capigufo.jpg](/img/user/(0)%20Immagini/Personaggi%20immagini/Mostri/Capigufo.jpg)","permalink":"/Bestiario/Animali/Capibufo/","dgPassFrontmatter":true,"created":"2026-07-18T12:59:30.410+02:00","updated":"2026-07-23T11:23:07.414+02:00","dg-note-properties":{"aliases":[null],"tags":["Specie","V2","Animale"],"Template":"[[Voce bestiario]]","Nome":"Capigufo","Tipo di creatura":"[[(Animali)]]","Taglia":"Piccola","Pericolosità":"Nulla","Allineamento":"Neutrale-Buono","Habitat":["Foreste"],"Immagine":"![Capigufo.jpg](/img/user/(0)%20Immagini/Personaggi%20immagini/Mostri/Capigufo.jpg)"}}
+{"dg-publish":true,"aliases":[null],"tags":["Specie","V2","Animale"],"dg-note-icon":"Mostro","Template":"[[Voce bestiario]]","Nome":"Capigufo","Tipo di creatura":"[[(Animali)]]","Taglia":"Piccola","Pericolosità":"Nulla","Allineamento":"Neutrale-Buono","Habitat":["Foreste"],"Immagine":"![Capigufo.jpg](/img/user/(0)%20Immagini/Bestiario/Capigufo.jpg)","permalink":"/Bestiario/Animali/Capibufo/","dgPassFrontmatter":true,"created":"2026-07-18T12:59:30.410+02:00","updated":"2026-07-23T11:23:07.414+02:00","dg-note-properties":{"aliases":[null],"tags":["Specie","V2","Animale"],"Template":"[[Voce bestiario]]","Nome":"Capigufo","Tipo di creatura":"[[(Animali)]]","Taglia":"Piccola","Pericolosità":"Nulla","Allineamento":"Neutrale-Buono","Habitat":["Foreste"],"Immagine":"![Capigufo.jpg](/img/user/(0)%20Immagini/Bestiario/Capigufo.jpg)"}}
 ---
 
 > [!infobox|right]
 > # Capibufo
-> ![(0) Immagini/Personaggi immagini/Mostri/Capigufo.jpg\|Capigufo.jpg](/img/user/(0)%20Immagini/Personaggi%20immagini/Mostri/Capigufo.jpg)
+> ![[(0) Immagini/Personaggi immagini/Mostri/Capigufo.jpg\|Capigufo.jpg]]
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|

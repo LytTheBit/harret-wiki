@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"aliases":[null],"tags":["Specie","Mostro","V2"],"dg-note-icon":"Mostro","Template":"[[Voce bestiario]]","Nome":"Wendingo","Tipo di creatura":"[[(Caotici)]]","Taglia":"Gigante","Pericolosità":"Media","Allineamento":"Caotico-Malvagio","Habitat":["Foreste"],"Immagine":"![Wendingo.png](/img/user/(0)%20Immagini/Personaggi%20immagini/Mostri/Wendingo.png)","permalink":"/Bestiario/Caotici/Wendingo/","dgPassFrontmatter":true,"created":"2026-07-18T10:58:26.975+02:00","updated":"2026-07-18T22:00:13.141+02:00","dg-note-properties":{"aliases":[null],"tags":["Specie","Mostro","V2"],"Template":"[[Voce bestiario]]","Nome":"Wendingo","Tipo di creatura":"[[(Caotici)]]","Taglia":"Gigante","Pericolosità":"Media","Allineamento":"Caotico-Malvagio","Habitat":["Foreste"],"Immagine":"![Wendingo.png](/img/user/(0)%20Immagini/Personaggi%20immagini/Mostri/Wendingo.png)"}}
+{"dg-publish":true,"aliases":[null],"tags":["Specie","Mostro","V2"],"dg-note-icon":"Mostro","Template":"[[Voce bestiario]]","Nome":"Wendingo","Tipo di creatura":"[[(Caotici)]]","Taglia":"Gigante","Pericolosità":"Media","Allineamento":"Caotico-Malvagio","Habitat":["Foreste"],"Immagine":"![Wendingo.png](/img/user/(0)%20Immagini/Bestiario/Wendingo.png)","permalink":"/Bestiario/Caotici/Wendingo/","dgPassFrontmatter":true,"created":"2026-07-18T10:58:26.975+02:00","updated":"2026-07-18T22:00:13.141+02:00","dg-note-properties":{"aliases":[null],"tags":["Specie","Mostro","V2"],"Template":"[[Voce bestiario]]","Nome":"Wendingo","Tipo di creatura":"[[(Caotici)]]","Taglia":"Gigante","Pericolosità":"Media","Allineamento":"Caotico-Malvagio","Habitat":["Foreste"],"Immagine":"![Wendingo.png](/img/user/(0)%20Immagini/Bestiario/Wendingo.png)"}}
 ---
 
 > [!infobox|right]
 > # Wendingo
-> ![(0) Immagini/Personaggi immagini/Mostri/Wendingo.png\|Wendingo.png](/img/user/(0)%20Immagini/Personaggi%20immagini/Mostri/Wendingo.png)
+> ![[(0) Immagini/Personaggi immagini/Mostri/Wendingo.png\|Wendingo.png]]
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"aliases":["Awoken","Risvegliato","Golem senzienti"],"tags":["Specie","Senziente","Risvegliato"],"dg-note-icon":"Specie Senziente","Template":"[[Specie Senziente]]","Immagine":"![Risvegliato.png](/img/user/(0)%20Immagini/Specie%20immagini/Risvegliato.png)","Stirpe":"Quinta stirpe","dg-content-classes":"dg-cards","permalink":"/Bestiario/Specie Senzienti/Risvegliati/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-11T18:47:45.286+02:00","updated":"2026-06-30T11:45:12.690+02:00","dg-note-properties":{"aliases":["Awoken","Risvegliato","Golem senzienti"],"tags":["Specie","Senziente","Risvegliato"],"Template":"[[Specie Senziente]]","Immagine":"![Risvegliato.png](/img/user/(0)%20Immagini/Specie%20immagini/Risvegliato.png)","Stirpe":"Quinta stirpe"}}
+{"dg-publish":true,"aliases":["Awoken","Risvegliato","Golem senzienti"],"tags":["Specie","Senziente","Risvegliato"],"dg-note-icon":"Specie Senziente","Template":"[[Specie Senziente]]","Immagine":"![Risvegliato.png](/img/user/(0)%20Immagini/Bestiario/Specie%20senzienti/Risvegliato.png)","Stirpe":"Quinta stirpe","dg-content-classes":"dg-cards","permalink":"/Bestiario/Specie Senzienti/Risvegliati/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-11T18:47:45.286+02:00","updated":"2026-06-30T11:45:12.690+02:00","dg-note-properties":{"aliases":["Awoken","Risvegliato","Golem senzienti"],"tags":["Specie","Senziente","Risvegliato"],"Template":"[[Specie Senziente]]","Immagine":"![Risvegliato.png](/img/user/(0)%20Immagini/Bestiario/Specie%20senzienti/Risvegliato.png)","Stirpe":"Quinta stirpe"}}
 ---
 
 > [!infobox|right]
 > # Risvegliato
-> ![Risvegliato.png](/img/user/(0)%20Immagini/Specie%20immagini/Risvegliato.png)
+> ![Risvegliato.png](/img/user/(0)%20Immagini/Bestiario/Specie%20senzienti/Risvegliato.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
@@ -35,6 +35,6 @@ Molte persone guardano con sospetto i Risvegliati, alcuni li ritengono una minac
 ## Risvegliati degni di nota
 |                                                                                               | Risvegliati                         |
 | --------------------------------------------------------------------------------------------- | ----------------------------------- |
-| ![(0) Immagini/Personaggi immagini/Mostri/Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Personaggi%20immagini/Mostri/Persona%20Placeholder.png) | [[Personaggi/PG/D1-X0N\|D1-X0N]] |
+| ![[(0) Immagini/Personaggi immagini/Mostri/Persona Placeholder.png\|Persona Placeholder.png]] | [[Personaggi/PG/D1-X0N\|D1-X0N]] |
 
 { .block-language-dataview}

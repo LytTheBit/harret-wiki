@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"aliases":["Regina degli dei","Dea dei misteri","Omeria"],"tags":["V2"],"dg-note-icon":"Divinità","Template":"[[Dio]]","Nome":"Omeria","Sesso":"Femmina","Numero":12,"Stagione":"[[Stagione Ombrosa]]","Mese":"[[12° mese\|12° mese]]","Costellazione":"[[Luna della sera\|Luna della sera]]","Dominio":["Misteri","Luna","Maree","Notte"],"Immagine":"![Dea della luna.png](/img/user/(0)%20Immagini/Costellazioni%20e%20Dei/12%20-%20luna/Dea%20della%20luna.png)","dg-content-classes":"dg-cards","permalink":"/Dei/Dea della luna/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-13T22:14:56.791+02:00","updated":"2026-06-29T19:22:09.480+02:00","dg-note-properties":{"aliases":["Regina degli dei","Dea dei misteri","Omeria"],"tags":["V2"],"Template":"[[Dio]]","Nome":"Omeria","Sesso":"Femmina","Numero":12,"Stagione":"[[Stagione Ombrosa]]","Mese":"[[12° mese\|12° mese]]","Costellazione":"[[Luna della sera\|Luna della sera]]","Dominio":["Misteri","Luna","Maree","Notte"],"Immagine":"![Dea della luna.png](/img/user/(0)%20Immagini/Costellazioni%20e%20Dei/12%20-%20luna/Dea%20della%20luna.png)"}}
+{"dg-publish":true,"aliases":["Regina degli dei","Dea dei misteri","Omeria"],"tags":["V2"],"dg-note-icon":"Divinità","Template":"[[Dio]]","Nome":"Omeria","Sesso":"Femmina","Numero":12,"Stagione":"[[Stagione Ombrosa]]","Mese":"[[12° mese\|12° mese]]","Costellazione":"[[Luna della sera\|Luna della sera]]","Dominio":["Misteri","Luna","Maree","Notte"],"Immagine":"![Dea della luna.png](/img/user/(0)%20Immagini/Dei/12%20-%20luna/Dea%20della%20luna.png)","dg-content-classes":"dg-cards","permalink":"/Dei/Dea della luna/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-13T22:14:56.791+02:00","updated":"2026-06-29T19:22:09.480+02:00","dg-note-properties":{"aliases":["Regina degli dei","Dea dei misteri","Omeria"],"tags":["V2"],"Template":"[[Dio]]","Nome":"Omeria","Sesso":"Femmina","Numero":12,"Stagione":"[[Stagione Ombrosa]]","Mese":"[[12° mese\|12° mese]]","Costellazione":"[[Luna della sera\|Luna della sera]]","Dominio":["Misteri","Luna","Maree","Notte"],"Immagine":"![Dea della luna.png](/img/user/(0)%20Immagini/Dei/12%20-%20luna/Dea%20della%20luna.png)"}}
 ---
 
 > [!infobox|right]
 > # Dea della luna
-> ![(0) Immagini/Costellazioni e Dei/12 - luna/Dea della luna.png\|Dea della luna.png](/img/user/(0)%20Immagini/Costellazioni%20e%20Dei/12%20-%20luna/Dea%20della%20luna.png)
+> ![[(0) Immagini/Costellazioni e Dei/12 - luna/Dea della luna.png\|Dea della luna.png]]
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
@@ -63,10 +63,10 @@ La dea della luna è una delle divinità più venerate.
 ### Fedeli
 |                                                                                  | Fedeli                                                                                            |
 | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| ![(0) Immagini/Personaggi immagini/NPC/Amity Dumar.png\|Amity Dumar.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Amity%20Dumar.png)       | [[Personaggi/NPC/Studenti Accademia di Wissen/Amity Dumar\|Amity Dumar]]                       |
-| ![(0) Immagini/Personaggi immagini/NPC/Enkidu Qamar 1.png\|Enkidu Qamar 1.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Enkidu%20Qamar%201.png) | [[Personaggi/NPC/Studenti Accademia di Wissen/Enkidu Dantalion Qamar\|Enkidu Dantalion Qamar]] |
-| ![(0) Immagini/Personaggi immagini/NPC/Lucy Nocida.png\|Lucy Nocida.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Lucy%20Nocida.png)       | [[Personaggi/NPC/Studenti Accademia di Wissen/Lucy Nocida\|Lucy Nocida]]                       |
-| ![(0) Immagini/Personaggi immagini/NPC/Pearl Violet.png\|Pearl Violet.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Pearl%20Violet.png)     | [[Personaggi/NPC/Professori Accademia di Wissen/Pearl Violet\|Pearl Violet]]                   |
-| ![(0) Immagini/Personaggi immagini/NPC/Poul.png\|Poul.png](/img/user/(0)%20Immagini/Personaggi%20immagini/NPC/Poul.png)                     | [[Personaggi/NPC/Studenti Accademia di Wissen/Poooooooooooooo...\|Poooooooooooooo...]]         |
+| ![[(0) Immagini/Personaggi immagini/NPC/Amity Dumar.png\|Amity Dumar.png]]       | [[Personaggi/NPC/Studenti Accademia di Wissen/Amity Dumar\|Amity Dumar]]                       |
+| ![[(0) Immagini/Personaggi immagini/NPC/Enkidu Qamar 1.png\|Enkidu Qamar 1.png]] | [[Personaggi/NPC/Studenti Accademia di Wissen/Enkidu Dantalion Qamar\|Enkidu Dantalion Qamar]] |
+| ![[(0) Immagini/Personaggi immagini/NPC/Lucy Nocida.png\|Lucy Nocida.png]]       | [[Personaggi/NPC/Studenti Accademia di Wissen/Lucy Nocida\|Lucy Nocida]]                       |
+| ![[(0) Immagini/Personaggi immagini/NPC/Pearl Violet.png\|Pearl Violet.png]]     | [[Personaggi/NPC/Professori Accademia di Wissen/Pearl Violet\|Pearl Violet]]                   |
+| ![[(0) Immagini/Personaggi immagini/NPC/Poul.png\|Poul.png]]                     | [[Personaggi/NPC/Studenti Accademia di Wissen/Poooooooooooooo...\|Poooooooooooooo...]]         |
 
 { .block-language-dataview}

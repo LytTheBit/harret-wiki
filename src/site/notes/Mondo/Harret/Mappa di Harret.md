@@ -114,4 +114,4 @@ Mappa interattiva del continente. Trascina per muoverti, scorri per zoomare.
 }
 </script>
 
-![Mappa-Harret-Completa.png\|175](/img/user/(0)%20Immagini/Mappa/Mappa-Harret-Completa.png)![Mappa-Harret-Vecchia.png\|175](/img/user/(0)%20Immagini/Mappa/Mappa-Harret-Vecchia.png)![Mappa-Harret-Geografica.png\|175](/img/user/(0)%20Immagini/Mappa/Mappa-Harret-Geografica.png)![Mappa-Harret-Climatica.png\|175](/img/user/(0)%20Immagini/Mappa/Mappa-Harret-Climatica.png)
+![Mappa-Harret-Completa.png\|175](/img/user/(0)%20Immagini/Mondo/Mappa-Harret-Completa.png)![Mappa-Harret-Vecchia.png\|175](/img/user/(0)%20Immagini/Mondo/Mappa-Harret-Vecchia.png)![Mappa-Harret-Geografica.png\|175](/img/user/(0)%20Immagini/Mondo/Mappa-Harret-Geografica.png)![Mappa-Harret-Climatica.png\|175](/img/user/(0)%20Immagini/Mondo/Mappa-Harret-Climatica.png)
