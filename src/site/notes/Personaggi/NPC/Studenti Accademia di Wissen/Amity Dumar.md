@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":["Amity"],"tags":["NPC","V2"],"dg-note-icon":"NPC","Template":"[[NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Amity","Cognome":"[[Dumar\|Dumar]]","Specie":"[[Umani]]","Anno di nascita":1206,"Affiliazioni":["[[Accademia di Wissen#Studenti]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Amity Dumar.png](/img/user/(0)%20Immagini/Personaggi/NPC/Amity%20Dumar.png)","Fede":"[[Dea della luna#Fedeli]]","permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Amity Dumar/","dgPassFrontmatter":true,"created":"2026-05-16T18:58:15.963+02:00","updated":"2026-06-30T19:30:57.118+02:00","dg-note-properties":{"aliases":["Amity"],"tags":["NPC","V2"],"Template":"[[NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Amity","Cognome":"[[Dumar\|Dumar]]","Specie":"[[Umani]]","Anno di nascita":1206,"Affiliazioni":["[[Accademia di Wissen#Studenti]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Amity Dumar.png](/img/user/(0)%20Immagini/Personaggi/NPC/Amity%20Dumar.png)","Fede":"[[Dea della luna#Fedeli]]"}}
+{"dg-publish":true,"aliases":["Amity"],"tags":["NPC","V2"],"dg-note-icon":"NPC","Template":"[[NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Amity","Cognome":"[[Dumar\|Dumar]]","Specie":"[[Umani]]","Anno di nascita":1206,"Affiliazioni":["[[Accademia di Wissen#Studenti]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![[Amity Dumar.png]]","Fede":"[[Dea della luna#Fedeli]]","permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Amity Dumar/","dgPassFrontmatter":true,"created":"2026-05-16T18:58:15.963+02:00","updated":"2026-08-13T18:54:50.618+02:00","dg-note-properties":{"aliases":["Amity"],"tags":["NPC","V2"],"Template":"[[(0) Template/Personaggi/NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Amity","Cognome":"[[Dumar\|Dumar]]","Specie":"[[Bestiario/Specie Senzienti/Umani]]","Anno di nascita":1206,"Affiliazioni":["[[Fazioni/Organizazioni/Accademia di Wissen#Studenti]]"],"Campagne":["[[Campagne/Tales of the Accademy/Tales of the Accademy]]"],"Immagine":"![[(0) Immagini/Personaggi/NPC/Amity Dumar.png]]","Fede":"[[Dei/Dea della luna#Fedeli]]"}}
 ---
 
 > [!warning] Attenzione
@@ -8,7 +8,7 @@
 
 > [!infobox|right]
 > # Amity Dumar
-> ![[(0) Immagini/Personaggi immagini/NPC/Amity Dumar.png\|Amity Dumar.png]]
+> ![(0) Immagini/Personaggi/NPC/Amity Dumar.png\|Amity Dumar.png](/img/user/(0)%20Immagini/Personaggi/NPC/Amity%20Dumar.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|

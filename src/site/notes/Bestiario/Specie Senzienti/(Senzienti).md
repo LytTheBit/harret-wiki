@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"aliases":["Senzienti","Specie senzienti","Creature senzienti"],"tags":null,"dg-note-icon":"Lore","Template":"[[Lore]]","Immagine":"![Concept Senzienti.png](/img/user/(0)%20Immagini/Bestiario/Concept%20Senzienti.png)","dg-content-classes":"dg-cards","permalink":"/Bestiario/Specie Senzienti/(Senzienti)/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-07-18T15:26:07.810+02:00","updated":"2026-07-18T22:20:45.446+02:00","dg-note-properties":{"aliases":["Senzienti","Specie senzienti","Creature senzienti"],"tags":null,"Template":"[[Lore]]","Immagine":"![Concept Senzienti.png](/img/user/(0)%20Immagini/Bestiario/Concept%20Senzienti.png)"}}
+{"dg-publish":true,"aliases":["Senzienti","Specie senzienti","Creature senzienti"],"tags":null,"dg-note-icon":"Lore","Template":"[[Lore]]","Immagine":"![[Concept Senzienti.png]]","dg-content-classes":"dg-cards","permalink":"/Bestiario/Specie Senzienti/(Senzienti)/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-07-18T15:26:07.810+02:00","updated":"2026-07-18T22:20:45.446+02:00","dg-note-properties":{"aliases":["Senzienti","Specie senzienti","Creature senzienti"],"tags":null,"Template":"[[Lore]]","Immagine":"![[(0) Immagini/Bestiario/Specie senzienti/Concept Senzienti.png]]"}}
 ---
 
 > [!infobox|right]
 > # Specie Senzienti
-> ![Concept Senzienti.png](/img/user/(0)%20Immagini/Bestiario/Concept%20Senzienti.png)
+> ![Concept Senzienti.png](/img/user/(0)%20Immagini/Bestiario/Specie%20senzienti/Concept%20Senzienti.png)
 > ## Dettagli
 > *Le creazioni più perfette degli dei. Creature capaci di pensare e volere.*
 

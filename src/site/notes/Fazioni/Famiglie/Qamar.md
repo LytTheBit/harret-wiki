@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-content-classes":"dg-cards","tags":["V2"],"Template":"[[Famiglia]]","Capo":"[[Duca Qamar]]","Sede Principale":"[[Ducato di Qamar\|Ducato di Qamar]]","Data di fondazione":null,"Motto":"*\"La luna splende divina.\"*","Regno":"[[Mondo/Harret/Nazioni/Regno di Xxx\|Regno di Xxx]]","Rango nobiliare":"Duchi","Immagine":"![Qamar.png](/img/user/(0)%20Immagini/Fazioni/Famiglie/Qamar.png)","permalink":"/Fazioni/Famiglie/Qamar/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-16T18:45:53.923+02:00","updated":"2026-07-18T15:27:30.239+02:00","dg-note-properties":{"tags":["V2"],"Template":"[[Famiglia]]","Capo":"[[Duca Qamar]]","Sede Principale":"[[Ducato di Qamar\|Ducato di Qamar]]","Data di fondazione":null,"Motto":"*\"La luna splende divina.\"*","Regno":"[[Mondo/Harret/Nazioni/Regno di Xxx\|Regno di Xxx]]","Rango nobiliare":"Duchi","Immagine":"![Qamar.png](/img/user/(0)%20Immagini/Fazioni/Famiglie/Qamar.png)"}}
+{"dg-publish":true,"dg-content-classes":"dg-cards","tags":["V2"],"Template":"[[Famiglia]]","Capo":"[[Duca Qamar]]","Sede Principale":"[[Ducato di Qamar\|Ducato di Qamar]]","Data di fondazione":null,"Motto":"*\"La luna splende divina.\"*","Regno":"[[Mondo/Harret/Nazioni/Regno di Xxx\|Regno di Xxx]]","Rango nobiliare":"Duchi","Immagine":"![[Qamar.png]]","permalink":"/Fazioni/Famiglie/Qamar/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-16T18:45:53.923+02:00","updated":"2026-08-13T18:43:09.803+02:00","dg-note-properties":{"tags":["V2"],"Template":"[[(0) Template/Gruppi/Famiglia]]","Capo":"[[Duca Qamar]]","Sede Principale":"[[Ducato di Qamar\|Ducato di Qamar]]","Data di fondazione":null,"Motto":"*\"La luna splende divina.\"*","Regno":"[[Mondo/Harret/Nazioni/Regno di Xxx]]","Rango nobiliare":"Duchi","Immagine":"![[(0) Immagini/Fazioni/Famiglie/Qamar.png]]"}}
 ---
 
 > [!infobox|right]
 > # Qamar
-> ![[(0) Immagini/Stendardi immagini/Famiglie/Qamar.png\|Qamar.png]]
+> ![(0) Immagini/Fazioni/Famiglie/Qamar.png\|Qamar.png](/img/user/(0)%20Immagini/Fazioni/Famiglie/Qamar.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
@@ -32,8 +32,8 @@ A differenza della maggior parte delle famiglie del regno, che venerano il [[Dei
 Hanno una storica rivalità con la famiglia [[Fazioni/Famiglie/Aurelian\|Aurelian]].
 
 ## Membri
-|                                                                                  | Membri                                                                                            |
-| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| ![[(0) Immagini/Personaggi immagini/NPC/Enkidu Qamar 1.png\|Enkidu Qamar 1.png]] | [[Personaggi/NPC/Studenti Accademia di Wissen/Enkidu Dantalion Qamar\|Enkidu Dantalion Qamar]] |
+|                                                                         | Membri                                                                                            |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| ![(0) Immagini/Personaggi/NPC/Enkidu Qamar 1.png\|Enkidu Qamar 1.png](/img/user/(0)%20Immagini/Personaggi/NPC/Enkidu%20Qamar%201.png) | [[Personaggi/NPC/Studenti Accademia di Wissen/Enkidu Dantalion Qamar\|Enkidu Dantalion Qamar]] |
 
 { .block-language-dataview}

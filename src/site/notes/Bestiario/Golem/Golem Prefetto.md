@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"aliases":["Golem del Accademia"],"tags":["Specie","V2","Golem"],"dg-note-icon":"Mostro","Template":"[[Voce bestiario]]","Nome":"Golem Prefetto","Tipo di mostro":"[[(Golem)]]","Taglia":"Media","Pericolosità":"Bassa","Allineamento":"Legale-Neutrale","Habitat":["Aree Urbane"],"Immagine":"![Golem Accademia 1.png](/img/user/(0)%20Immagini/Bestiario/Golem%20Accademia%201.png)","permalink":"/Bestiario/Golem/Golem Prefetto/","dgPassFrontmatter":true,"created":"2026-07-18T12:44:14.561+02:00","updated":"2026-07-24T09:45:04.370+02:00","dg-note-properties":{"aliases":["Golem del Accademia"],"tags":["Specie","V2","Golem"],"Template":"[[Voce bestiario]]","Nome":"Golem Prefetto","Tipo di mostro":"[[(Golem)]]","Taglia":"Media","Pericolosità":"Bassa","Allineamento":"Legale-Neutrale","Habitat":["Aree Urbane"],"Immagine":"![Golem Accademia 1.png](/img/user/(0)%20Immagini/Bestiario/Golem%20Accademia%201.png)"}}
+{"dg-publish":true,"aliases":["Golem del Accademia"],"tags":["Specie","V2","Golem"],"dg-note-icon":"Mostro","Template":"[[Voce bestiario]]","Nome":"Golem Prefetto","Tipo di mostro":"[[(Golem)]]","Taglia":"Media","Pericolosità":"Bassa","Allineamento":"Legale-Neutrale","Habitat":["Aree Urbane"],"Immagine":"![[Golem Accademia 1.png]]","permalink":"/Bestiario/Golem/Golem Prefetto/","dgPassFrontmatter":true,"created":"2026-07-18T12:44:14.561+02:00","updated":"2026-08-13T18:52:06.842+02:00","dg-note-properties":{"aliases":["Golem del Accademia"],"tags":["Specie","V2","Golem"],"Template":"[[(0) Template/Specie/Voce bestiario]]","Nome":"Golem Prefetto","Tipo di mostro":"[[Bestiario/Golem/(Golem)]]","Taglia":"Media","Pericolosità":"Bassa","Allineamento":"Legale-Neutrale","Habitat":["Aree Urbane"],"Immagine":"![[(0) Immagini/Bestiario/Golem/Golem Accademia 1.png]]"}}
 ---
 
 > [!infobox|right]
 > # Golem Prefetto
-> ![(0) Immagini/Bestiario/Golem Accademia 1.png\|Golem Accademia 1.png](/img/user/(0)%20Immagini/Bestiario/Golem%20Accademia%201.png)
+> ![(0) Immagini/Bestiario/Golem/Golem Accademia 1.png\|Golem Accademia 1.png](/img/user/(0)%20Immagini/Bestiario/Golem/Golem%20Accademia%201.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|

@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"aliases":["Lettera"],"tags":null,"dg-note-icon":"Lettere","Template":"[[Lettere]]","Campagna":"[[Tales of the Accademy]]","Sessione":"[[Sessione 1 - Riassunto]]","Mittente":["[[Pinta Galapodi]]"],"Ricevente":["[[Mata Mata]]"],"Immagine":"![[Lettere Tartarughe.png]]","permalink":"/Archivio/Lettere/Lettera da Pinta Galapodi a Mata Mata - 1/","dgPassFrontmatter":true,"created":"2026-07-21T18:54:42.888+02:00","updated":"2026-07-28T15:28:52.049+02:00","dg-note-properties":{"aliases":["Lettera"],"tags":null,"Template":"[[Lettere]]","Campagna":"[[Campagne/Tales of the Accademy/Tales of the Accademy]]","Sessione":"[[Campagne/Tales of the Accademy/Sessioni/Sessione 1 - Riassunto]]","Mittente":["[[Personaggi/NPC/Pinta Galapodi]]"],"Ricevente":["[[Personaggi/PG/Mata Mata]]"],"Immagine":"![[(0) Immagini/Oggetti/Lettere Tartarughe.png]]"}}
+---
+
+. . .

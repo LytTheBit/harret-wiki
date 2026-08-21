@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":["Ruggie"],"tags":["NPC","V2"],"dg-note-icon":"NPC","Template":"[[NPC]]","Sesso":"Maschio","Stato":"???","Nome":"Ruggie","Cognome":"[[Kerma]]","Specie":"[[Umani]]","Anno di nascita":null,"Affiliazioni":["[[Accademia di Wissen#Studenti]]","[[Fazioni/Organizazioni/Gilda di Konstrukt\|Gilda di Konstrukt]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Ruggie Kerma.png](/img/user/(0)%20Immagini/Personaggi/NPC/Ruggie%20Kerma.png)","Fede":"[[Dio della conoscenza#Fedeli]]","permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma/","dgPassFrontmatter":true,"created":"2026-06-19T18:19:59.277+02:00","updated":"2026-06-30T19:33:38.425+02:00","dg-note-properties":{"aliases":["Ruggie"],"tags":["NPC","V2"],"Template":"[[NPC]]","Sesso":"Maschio","Stato":"???","Nome":"Ruggie","Cognome":"[[Kerma]]","Specie":"[[Umani]]","Anno di nascita":null,"Affiliazioni":["[[Accademia di Wissen#Studenti]]","[[Fazioni/Organizazioni/Gilda di Konstrukt\|Gilda di Konstrukt]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Ruggie Kerma.png](/img/user/(0)%20Immagini/Personaggi/NPC/Ruggie%20Kerma.png)","Fede":"[[Dio della conoscenza#Fedeli]]"}}
+{"dg-publish":true,"aliases":["Ruggie"],"tags":["NPC","V2"],"dg-note-icon":"NPC","Template":"[[NPC]]","Sesso":"Maschio","Stato":"???","Nome":"Ruggie","Cognome":"[[Kerma]]","Specie":"[[Umani]]","Anno di nascita":null,"Affiliazioni":["[[Accademia di Wissen#Studenti]]","[[Fazioni/Organizazioni/Gilda di Konstrukt\|Gilda di Konstrukt]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![[Ruggie Kerma.png]]","Fede":"[[Dio della conoscenza#Fedeli]]","permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma/","dgPassFrontmatter":true,"created":"2026-06-19T18:19:59.277+02:00","updated":"2026-08-13T18:55:37.888+02:00","dg-note-properties":{"aliases":["Ruggie"],"tags":["NPC","V2"],"Template":"[[(0) Template/Personaggi/NPC]]","Sesso":"Maschio","Stato":"???","Nome":"Ruggie","Cognome":"[[Kerma]]","Specie":"[[Bestiario/Specie Senzienti/Umani]]","Anno di nascita":null,"Affiliazioni":["[[Fazioni/Organizazioni/Accademia di Wissen#Studenti]]","[[Fazioni/Organizazioni/Gilda di Konstrukt]]"],"Campagne":["[[Campagne/Tales of the Accademy/Tales of the Accademy]]"],"Immagine":"![[(0) Immagini/Personaggi/NPC/Ruggie Kerma.png]]","Fede":"[[Dei/Dio della conoscenza#Fedeli]]"}}
 ---
 
 > [!warning] Attenzione
@@ -8,7 +8,7 @@
 
 > [!infobox|right]
 > # Ruggie Kerma
-> ![[(0) Immagini/Personaggi immagini/NPC/Ruggie Kerma.png\|Ruggie Kerma.png]]
+> ![(0) Immagini/Personaggi/NPC/Ruggie Kerma.png\|Ruggie Kerma.png](/img/user/(0)%20Immagini/Personaggi/NPC/Ruggie%20Kerma.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|

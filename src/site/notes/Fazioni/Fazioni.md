@@ -12,11 +12,11 @@ In questa pagina elenchiamo e spieghiamo alcuni tipi di fazione per facilitarne 
 ## Famiglia nobile
 Sono qui riportate la lista delle famiglie nobili esplorate nel ambientazione. Ogni regno elenca e cataloga le famiglie in modo diverso, con ranghi e titoli diversi. Per maggiori informazioni: [[Lore/(TODO) Nobiltà\|(TODO) Nobiltà]]
 
-|                                                                                | Famiglie                                   |
-| ------------------------------------------------------------------------------ | ------------------------------------------ |
-| ![[(0) Immagini/Stendardi immagini/Gilde immagini/Aurelian.png\|Aurelian.png]] | [[Fazioni/Famiglie/Aurelian\|Aurelian]] |
-| ![[(0) Immagini/Stendardi immagini/Famiglie/Clan Mata.png\|Clan Mata.png]]     | [[Fazioni/Famiglie/Mata\|Mata]]         |
-| ![[(0) Immagini/Stendardi immagini/Famiglie/Qamar.png\|Qamar.png]]             | [[Fazioni/Famiglie/Qamar\|Qamar]]       |
+|                                                                     | Famiglie                                   |
+| ------------------------------------------------------------------- | ------------------------------------------ |
+| ![(0) Immagini/Fazioni/Gilde immagini/Aurelian.png\|Aurelian.png](/img/user/(0)%20Immagini/Fazioni/Gilde%20immagini/Aurelian.png) | [[Fazioni/Famiglie/Aurelian\|Aurelian]] |
+| ![(0) Immagini/Fazioni/Famiglie/Clan Mata.png\|Clan Mata.png](/img/user/(0)%20Immagini/Fazioni/Famiglie/Clan%20Mata.png)     | [[Fazioni/Famiglie/Mata\|Mata]]         |
+| ![(0) Immagini/Fazioni/Famiglie/Qamar.png\|Qamar.png](/img/user/(0)%20Immagini/Fazioni/Famiglie/Qamar.png)             | [[Fazioni/Famiglie/Qamar\|Qamar]]       |
 
 { .block-language-dataview}
 
@@ -25,7 +25,7 @@ Un Organizzazione è un gruppo composta da privati cittadini, riuntiti in confed
 |                                                                                                        | Gilde                                                                 |
 | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------- |
 | ![(0) Immagini/Fazioni/Accademia/Bandiera Accademia di Wissen.png\|Bandiera Accademia di Wissen.png](/img/user/(0)%20Immagini/Fazioni/Accademia/Bandiera%20Accademia%20di%20Wissen.png) | [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]] |
-| ![[(0) Immagini/Stendardi immagini/Gilde immagini/Gilda di Konstrukt.png\|Gilda di Konstrukt.png]]     | [[Fazioni/Organizazioni/Gilda di Konstrukt\|Gilda di Konstrukt]]   |
+| ![(0) Immagini/Fazioni/Gilde immagini/Gilda di Konstrukt.png\|Gilda di Konstrukt.png](/img/user/(0)%20Immagini/Fazioni/Gilde%20immagini/Gilda%20di%20Konstrukt.png)                | [[Fazioni/Organizazioni/Gilda di Konstrukt\|Gilda di Konstrukt]]   |
 
 { .block-language-dataview}
 

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"aliases":["Memor","Dio della conoscenza"],"tags":["V2"],"dg-note-icon":"Divinità","Template":"[[Dio]]","Nome":"Memor","Sesso":"Maschio","Numero":5,"Stagione":"[[Stagione Ombrosa]]","Mese":"[[5° mese\|5° mese]]","Costellazione":"[[Tomo dei sapienti\|Tomo dei sapienti]]","Dominio":["Libri","Conoscenze","Mente"],"Immagine":"![Dio della conoscenza.png](/img/user/(0)%20Immagini/Dei/5%20-%20conoscenza/Dio%20della%20conoscenza.png)","dg-content-classes":"dg-cards","permalink":"/Dei/Dio della conoscenza/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-08T22:51:08.113+02:00","updated":"2026-06-29T12:48:03.952+02:00","dg-note-properties":{"aliases":["Memor","Dio della conoscenza"],"tags":["V2"],"Template":"[[Dio]]","Nome":"Memor","Sesso":"Maschio","Numero":5,"Stagione":"[[Stagione Ombrosa]]","Mese":"[[5° mese\|5° mese]]","Costellazione":"[[Tomo dei sapienti\|Tomo dei sapienti]]","Dominio":["Libri","Conoscenze","Mente"],"Immagine":"![Dio della conoscenza.png](/img/user/(0)%20Immagini/Dei/5%20-%20conoscenza/Dio%20della%20conoscenza.png)"}}
+{"dg-publish":true,"aliases":["Memor","Dio della conoscenza"],"tags":["V2"],"dg-note-icon":"Divinità","Template":"[[Dio]]","Nome":"Memor","Sesso":"Maschio","Numero":5,"Stagione":"[[Stagione Ombrosa]]","Mese":"[[5° mese\|5° mese]]","Costellazione":"[[Tomo dei sapienti\|Tomo dei sapienti]]","Dominio":["Libri","Conoscenze","Mente"],"Immagine":"![[Dio della conoscenza.png]]","dg-content-classes":"dg-cards","permalink":"/Dei/Dio della conoscenza/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-08T22:51:08.113+02:00","updated":"2026-08-13T18:57:34.262+02:00","dg-note-properties":{"aliases":["Memor","Dio della conoscenza"],"tags":["V2"],"Template":"[[(0) Template/Dio]]","Nome":"Memor","Sesso":"Maschio","Numero":5,"Stagione":"[[Stagione Ombrosa]]","Mese":"[[5° mese\|5° mese]]","Costellazione":"[[Tomo dei sapienti\|Tomo dei sapienti]]","Dominio":["Libri","Conoscenze","Mente"],"Immagine":"![[(0) Immagini/Dei/5 - conoscenza/Dio della conoscenza.png]]"}}
 ---
 
 > [!infobox|right]
 > # Dio della conoscenza
-> ![[(0) Immagini/Costellazioni e Dei/5 - conoscenza/Dio della conoscenza.png\|Dio della conoscenza.png]]
+> ![(0) Immagini/Dei/5 - conoscenza/Dio della conoscenza.png\|Dio della conoscenza.png](/img/user/(0)%20Immagini/Dei/5%20-%20conoscenza/Dio%20della%20conoscenza.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
@@ -46,18 +46,18 @@ Si dice che chi sia nato sotto questa costellazione sia calmo e riflessivo, e ch
 ## Religione: 
 
 ### Clero
-|                                                                                        | Clero                                                                                     |
-| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| ![[(0) Immagini/Personaggi immagini/NPC/Padre Lucas Mimer.png\|Padre Lucas Mimer.png]] | [[Personaggi/NPC/Professori Accademia di Wissen/Padre Lucas Mimer\|Padre Lucas Mimer]] |
+|                                                                               | Clero                                                                                     |
+| ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| ![(0) Immagini/Personaggi/NPC/Padre Lucas Mimer.png\|Padre Lucas Mimer.png](/img/user/(0)%20Immagini/Personaggi/NPC/Padre%20Lucas%20Mimer.png) | [[Personaggi/NPC/Professori Accademia di Wissen/Padre Lucas Mimer\|Padre Lucas Mimer]] |
 
 { .block-language-dataview}
 
 ### Fedeli
-|                                                                                               | Fedeli                                                                                        |
-| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| ![[(0) Immagini/Personaggi immagini/Mostri/Persona Placeholder.png\|Persona Placeholder.png]] | [[Personaggi/NPC/Alma Seele\|Alma Seele]]                                                  |
-| ![[(0) Immagini/Personaggi immagini/NPC/Gianpiero Arcangeli.png\|Gianpiero Arcangeli.png]]    | [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Gianpiero Arcangeli]] |
-| ![[(0) Immagini/Lucas Yoshiie.png\|Lucas Yoshiie.png]]                                        | [[Personaggi/NPC/Studenti Accademia di Wissen/Lucas Yoshiie\|Lucas Yoshiie]]               |
-| ![[(0) Immagini/Personaggi immagini/NPC/Ruggie Kerma.png\|Ruggie Kerma.png]]                  | [[Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma\|Ruggie Kerma]]                 |
+|                                                                                   | Fedeli                                                                                        |
+| --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| ![(0) Immagini/Personaggi/Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Personaggi/Persona%20Placeholder.png)     | [[Personaggi/NPC/Alma Seele\|Alma Seele]]                                                  |
+| ![(0) Immagini/Personaggi/NPC/Gianpiero Arcangeli.png\|Gianpiero Arcangeli.png](/img/user/(0)%20Immagini/Personaggi/NPC/Gianpiero%20Arcangeli.png) | [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Gianpiero Arcangeli]] |
+| ![(0) Immagini/Personaggi/NPC/Lucas Yoshiie.png\|Lucas Yoshiie.png](/img/user/(0)%20Immagini/Personaggi/NPC/Lucas%20Yoshiie.png)             | [[Personaggi/NPC/Studenti Accademia di Wissen/Lucas Yoshiie\|Lucas Yoshiie]]               |
+| ![(0) Immagini/Personaggi/NPC/Ruggie Kerma.png\|Ruggie Kerma.png](/img/user/(0)%20Immagini/Personaggi/NPC/Ruggie%20Kerma.png)               | [[Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma\|Ruggie Kerma]]                 |
 
 { .block-language-dataview}

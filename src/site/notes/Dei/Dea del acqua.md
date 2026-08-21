@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"aliases":["Kaitani"],"tags":["V2"],"dg-note-icon":"Divinità","Template":"[[Dio]]","Nome":"Kaitani","Sesso":"Femmina","Numero":2,"Stagione":"[[Stagioni su Harret#Stagione Piovosa]]","Mese":"[[2° mese\|2° mese]]","Costellazione":"[[Mulinello\|Mulinello]]","Dominio":["Acqua","Onde","Correnti oceaniche","Protettrice dei marinai "],"Immagine":"![Dea del acqua.png](/img/user/(0)%20Immagini/Dei/Dea%20del%20acqua.png)","dg-content-classes":"dg-cards","permalink":"/Dei/Dea del acqua/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-06-29T12:22:45.308+02:00","updated":"2026-06-29T19:29:06.145+02:00","dg-note-properties":{"aliases":["Kaitani"],"tags":["V2"],"Template":"[[Dio]]","Nome":"Kaitani","Sesso":"Femmina","Numero":2,"Stagione":"[[Stagioni su Harret#Stagione Piovosa]]","Mese":"[[2° mese\|2° mese]]","Costellazione":"[[Mulinello\|Mulinello]]","Dominio":["Acqua","Onde","Correnti oceaniche","Protettrice dei marinai "],"Immagine":"![Dea del acqua.png](/img/user/(0)%20Immagini/Dei/Dea%20del%20acqua.png)"}}
+{"dg-publish":true,"aliases":["Kaitani"],"tags":["V2"],"dg-note-icon":"Divinità","Template":"[[Dio]]","Nome":"Kaitani","Sesso":"Femmina","Numero":2,"Stagione":"[[Stagioni su Harret#Stagione Piovosa]]","Mese":"[[2° mese\|2° mese]]","Costellazione":"[[Mulinello\|Mulinello]]","Dominio":["Acqua","Onde","Correnti oceaniche","Protettrice dei marinai "],"Immagine":"![[Dea del acqua.png]]","dg-content-classes":"dg-cards","permalink":"/Dei/Dea del acqua/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-06-29T12:22:45.308+02:00","updated":"2026-08-13T18:57:17.226+02:00","dg-note-properties":{"aliases":["Kaitani"],"tags":["V2"],"Template":"[[(0) Template/Dio]]","Nome":"Kaitani","Sesso":"Femmina","Numero":2,"Stagione":"[[Lore/Stagioni su Harret#Stagione Piovosa]]","Mese":"[[2° mese\|2° mese]]","Costellazione":"[[Mulinello\|Mulinello]]","Dominio":["Acqua","Onde","Correnti oceaniche","Protettrice dei marinai "],"Immagine":"![[(0) Immagini/Dei/Dea del acqua.png]]"}}
 ---
 
 > [!infobox|right]
 > # Dea del acqua
-> ![[(0) Immagini/Costellazioni e Dei/Dea del acqua.png\|Dea del acqua.png]]
+> ![(0) Immagini/Dei/Dea del acqua.png\|Dea del acqua.png](/img/user/(0)%20Immagini/Dei/Dea%20del%20acqua.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
@@ -60,10 +60,10 @@ La costellazione legata ad [[Dei/Dea del acqua\|Kaitani]] è il [[Mulinello\|Mul
 { .block-language-dataview}
 
 ### Fedeli
-|                                                                                    | Fedeli                                                                                |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| ![[(0) Immagini/Personaggi immagini/PG/Matamata.png\|Matamata.png]]                | [[Personaggi/PG/Mata Mata\|Mata Mata]]                                             |
-| ![[(0) Immagini/Personaggi immagini/NPC/Pinta Galapodi.png\|Pinta Galapodi.png]]   | [[Personaggi/NPC/Pinta Galapodi\|Pinta Galapodi]]                                  |
-| ![[(0) Immagini/Personaggi immagini/NPC/Ryukyu Geoemyda.png\|Ryukyu Geoemyda.png]] | [[Personaggi/NPC/Professori Accademia di Wissen/Ryukyu Geoemyda\|Ryukyu Geoemyda]] |
+|                                                                           | Fedeli                                                                                |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| ![(0) Immagini/Personaggi/PG/Matamata.png\|Matamata.png](/img/user/(0)%20Immagini/Personaggi/PG/Matamata.png)                | [[Personaggi/PG/Mata Mata\|Mata Mata]]                                             |
+| ![(0) Immagini/Personaggi/NPC/Pinta Galapodi.png\|Pinta Galapodi.png](/img/user/(0)%20Immagini/Personaggi/NPC/Pinta%20Galapodi.png)   | [[Personaggi/NPC/Pinta Galapodi\|Pinta Galapodi]]                                  |
+| ![(0) Immagini/Personaggi/NPC/Ryukyu Geoemyda.png\|Ryukyu Geoemyda.png](/img/user/(0)%20Immagini/Personaggi/NPC/Ryukyu%20Geoemyda.png) | [[Personaggi/NPC/Professori Accademia di Wissen/Ryukyu Geoemyda\|Ryukyu Geoemyda]] |
 
 { .block-language-dataview}

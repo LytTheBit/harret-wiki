@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":["Luisa","Lu"],"tags":["Player"],"dg-note-icon":"PersonaReale","Template":"[[Persona Reale]]","Sesso":"Maschio","Nascita":"04/05/2001","Immagine":"![Luisa Seres.png](/img/user/(0)%20Immagini/Giocatori/Luisa%20Seres.png)","permalink":"/Giocatori/Luisa Seres/","dgPassFrontmatter":true,"created":"2026-05-07T18:08:17.035+02:00","updated":"2026-06-29T16:39:18.110+02:00","dg-note-properties":{"aliases":["Luisa","Lu"],"tags":["Player"],"Template":"[[Persona Reale]]","Sesso":"Maschio","Nascita":"04/05/2001","Immagine":"![Luisa Seres.png](/img/user/(0)%20Immagini/Giocatori/Luisa%20Seres.png)"}}
+{"dg-publish":true,"aliases":["Luisa","Lu"],"tags":["Player"],"dg-note-icon":"PersonaReale","Template":"[[Persona Reale]]","Sesso":"Maschio","Nascita":"04/05/2001","Immagine":"![[Luisa Seres.png]]","permalink":"/Giocatori/Luisa Seres/","dgPassFrontmatter":true,"created":"2026-05-07T18:08:17.035+02:00","updated":"2026-06-29T16:39:18.110+02:00","dg-note-properties":{"aliases":["Luisa","Lu"],"tags":["Player"],"Template":"[[(0) Template/Persona Reale]]","Sesso":"Maschio","Nascita":"04/05/2001","Immagine":"![[(0) Immagini/Giocatori/Luisa Seres.png]]"}}
 ---
 
 > [!infobox|right]

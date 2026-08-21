@@ -21,11 +21,11 @@ Lista delle campagne della ambientazione.
 
 
 ## Personaggi
-|                                                                                                             | Quest                                                                           |
-| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| ![[(0) Immagini/Personaggi immagini/Mostri/Persona Placeholder.png\|Persona Placeholder.png]]               | [[Personaggi/PG/D1-X0N\|D1-X0N]]                                             |
-| ![[(0) Immagini/Personaggi immagini/PG/Lugalin Gilgamesh d’Aurelian.png\|Lugalin Gilgamesh d’Aurelian.png]] | [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]] |
-| ![[(0) Immagini/Personaggi immagini/PG/Matamata.png\|Matamata.png]]                                         | [[Personaggi/PG/Mata Mata\|Mata Mata]]                                       |
+|                                                                                                    | Quest                                                                           |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| ![(0) Immagini/Personaggi/Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Personaggi/Persona%20Placeholder.png)                      | [[Personaggi/PG/D1-X0N\|D1-X0N]]                                             |
+| ![(0) Immagini/Personaggi/PG/Lugalin Gilgamesh d’Aurelian.png\|Lugalin Gilgamesh d’Aurelian.png](/img/user/(0)%20Immagini/Personaggi/PG/Lugalin%20Gilgamesh%20d%E2%80%99Aurelian.png) | [[Personaggi/PG/Gilgamesh Lugalin d’Aurelian\|Gilgamesh Lugalin d’Aurelian]] |
+| ![(0) Immagini/Personaggi/PG/Matamata.png\|Matamata.png](/img/user/(0)%20Immagini/Personaggi/PG/Matamata.png)                                         | [[Personaggi/PG/Mata Mata\|Mata Mata]]                                       |
 
 { .block-language-dataview}
 ## Giocatori

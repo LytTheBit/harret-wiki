@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"aliases":["Caotici"],"tags":null,"dg-note-icon":"Lore","Template":"[[Lore]]","Immagine":"![Concept Caotici.png](/img/user/(0)%20Immagini/Bestiario/Concept%20Caotici.png)","dg-content-classes":"dg-cards","permalink":"/Bestiario/Caotici/(Caotici)/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-07-18T10:41:42.403+02:00","updated":"2026-07-18T15:37:32.255+02:00","dg-note-properties":{"aliases":["Caotici"],"tags":null,"Template":"[[Lore]]","Immagine":"![Concept Caotici.png](/img/user/(0)%20Immagini/Bestiario/Concept%20Caotici.png)"}}
+{"dg-publish":true,"aliases":["Caotici"],"tags":null,"dg-note-icon":"Lore","Template":"[[Lore]]","Immagine":"![[Concept Caotici.png]]","dg-content-classes":"dg-cards","permalink":"/Bestiario/Caotici/(Caotici)/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-07-18T10:41:42.403+02:00","updated":"2026-07-18T15:37:32.255+02:00","dg-note-properties":{"aliases":["Caotici"],"tags":null,"Template":"[[Lore]]","Immagine":"![[(0) Immagini/Bestiario/Caotici/Concept Caotici.png]]"}}
 ---
 
 > [!infobox|right]
 > # Caotici
-> ![Concept Caotici.png](/img/user/(0)%20Immagini/Bestiario/Concept%20Caotici.png)
+> ![Concept Caotici.png](/img/user/(0)%20Immagini/Bestiario/Caotici/Concept%20Caotici.png)
 > ## Dettagli
 > *Mostri senza anima o cuore. Guidati solo dalla sete di sangue e volontà di distruggere*
 

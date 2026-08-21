@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Template":"Mappa","dg-content-classes":"map-page","dg-show-inline-title":true,"mapWidth":1600,"mapHeight":2263,"mapZoomOut":"1","permalink":"/Mondo/Harret/Mappa di Harret/","contentClasses":"map-page","dgShowInlineTitle":true,"dgPassFrontmatter":true,"created":"2026-07-11T20:55:25.814+02:00","updated":"2026-07-13T22:37:33.516+02:00","dg-note-properties":{"Template":"Mappa","mapWidth":1600,"mapHeight":2263,"mapZoomOut":"1"}}
+{"dg-publish":true,"Template":"Mappa","dg-content-classes":"map-page","dg-show-inline-title":true,"mapWidth":1600,"mapHeight":2263,"mapZoomOut":"1","permalink":"/Mondo/Harret/Mappa di Harret/","contentClasses":"map-page","dgShowInlineTitle":true,"dgPassFrontmatter":true,"created":"2026-07-11T20:55:25.814+02:00","updated":"2026-08-17T14:59:09.659+02:00","dg-note-properties":{"Template":"Mappa","mapWidth":1600,"mapHeight":2263,"mapZoomOut":"1"}}
 ---
 
 Update: Dezoom extra
@@ -9,10 +9,10 @@ Mappa interattiva del continente. Trascina per muoverti, scorri per zoomare.
 <script type="application/json" id="map-data">
 {
   "layers": [
-	{ "label": "Vecchia", "url": "/img/user/(0) Immagini/Mappa/Mappa-Harret-Vecchia.png" },
-    { "label": "Geografica", "url": "/img/user/(0) Immagini/Mappa/Mappa-Harret-Geografica.png" },
-    { "label": "Climatica", "url": "/img/user/(0) Immagini/Mappa/Mappa-Harret-Climatica.png" },
-    { "label": "Completa", "url": "/img/user/(0) Immagini/Mappa/Mappa-Harret-Completa.png" }
+	{ "label": "Vecchia", "url": "/img/user/(0) Immagini/Mondo/Mappe/Mappa-Harret-Vecchia.png" },
+    { "label": "Geografica", "url": "/img/user/(0) Immagini/Mondo/Mappe/Mappa-Harret-Geografica.png" },
+    { "label": "Climatica", "url": "/img/user/(0) Immagini/Mondo/Mappe/Mappa-Harret-Climatica.png" },
+    { "label": "Completa", "url": "/img/user/(0) Immagini/Mondo/Mappe/Mappa-Harret-Completa.png" }
   ],
   "markers": [
     {
@@ -114,4 +114,4 @@ Mappa interattiva del continente. Trascina per muoverti, scorri per zoomare.
 }
 </script>
 
-![Mappa-Harret-Completa.png\|175](/img/user/(0)%20Immagini/Mondo/Mappa-Harret-Completa.png)![Mappa-Harret-Vecchia.png\|175](/img/user/(0)%20Immagini/Mondo/Mappa-Harret-Vecchia.png)![Mappa-Harret-Geografica.png\|175](/img/user/(0)%20Immagini/Mondo/Mappa-Harret-Geografica.png)![Mappa-Harret-Climatica.png\|175](/img/user/(0)%20Immagini/Mondo/Mappa-Harret-Climatica.png)
+![Mappa-Harret-Completa.png\|175](/img/user/(0)%20Immagini/Mondo/Mappe/Mappa-Harret-Completa.png)![Mappa-Harret-Vecchia.png\|175](/img/user/(0)%20Immagini/Mondo/Mappe/Mappa-Harret-Vecchia.png)![Mappa-Harret-Geografica.png\|175](/img/user/(0)%20Immagini/Mondo/Mappe/Mappa-Harret-Geografica.png)![Mappa-Harret-Climatica.png\|175](/img/user/(0)%20Immagini/Mondo/Mappe/Mappa-Harret-Climatica.png)

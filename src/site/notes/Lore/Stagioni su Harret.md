@@ -7,7 +7,7 @@
 
 
 Le stagioni su [[Mondo/Harret/Pianeta di Harret\|Harret]] sono influenzate dai [[pianeti\|pianeti]] che lo circondano. il moto dei pianeti li porta ad avvicinarsi e ad allontanarsi con un ritmo di 12 mesi. Ogni pianeta è quindi il più vicino ad Harret per circa 2 mesi, prima di allontanarsi e lasciare il posto ad un altro. Questo movimento provoca le stagioni.
-![Cosmo.png](/img/user/(0)%20Immagini/0%20(Altro)/Cosmo.png)
+![Cosmo.png](/img/user/(0)%20Immagini/Lore/Cosmo.png)
 
 ## Stagione Piovosa
 ![Stagione Piovosa.png\|right\|200](/img/user/(0)%20Immagini/Lore/Stagione%20Piovosa.png)Stagione associata al [[Mondo/Gelior/Pianeta di Gelior\|Pianeta di Gelior]], al acqua e al ghiaccio.
@@ -76,7 +76,7 @@ Durante questa stagione le notti solo lunghe e le giornate corte. In alcune zone
 
 Anche la luce di candele e incantesimi è più debole e meno efficace, eccezion fatta per le magie divine.
 
-In questa stagione i [[Bestiario/(Mostri)\|mostri]] appaiono con molta più facilità e si dimostrano essere più aggressivi. Nessuno ha ancora capito il perché. 
+In questa stagione i [[(Mostri)\|mostri]] appaiono con molta più facilità e si dimostrano essere più aggressivi. Nessuno ha ancora capito il perché. 
 
 
 > [!tip] Nota

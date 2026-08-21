@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":["Sarah","Presidentessa"],"tags":["NPC","V2"],"dg-note-icon":"NPC","Template":"[[NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Sarah","Cognome":"[[Strong\|Strong]]","Specie":"[[Umani]]","Anno di nascita":1201,"Affiliazioni":["[[Accademia di Wissen#Studenti]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Sarah Strong.png](/img/user/(0)%20Immagini/Personaggi/NPC/Sarah%20Strong.png)","Fede":"[[Dio del sole#Fedeli]]","permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Sarah Strong/","dgPassFrontmatter":true,"created":"2026-05-28T12:34:41.109+02:00","updated":"2026-06-28T09:39:55.661+02:00","dg-note-properties":{"aliases":["Sarah","Presidentessa"],"tags":["NPC","V2"],"Template":"[[NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Sarah","Cognome":"[[Strong\|Strong]]","Specie":"[[Umani]]","Anno di nascita":1201,"Affiliazioni":["[[Accademia di Wissen#Studenti]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Sarah Strong.png](/img/user/(0)%20Immagini/Personaggi/NPC/Sarah%20Strong.png)","Fede":"[[Dio del sole#Fedeli]]"}}
+{"dg-publish":true,"aliases":["Sarah","Presidentessa"],"tags":["NPC","V2"],"dg-note-icon":"NPC","Template":"[[NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Sarah","Cognome":"[[Strong\|Strong]]","Specie":"[[Umani]]","Anno di nascita":1201,"Affiliazioni":["[[Accademia di Wissen#Studenti]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![[Sarah Strong.png]]","Fede":"[[Dio del sole#Fedeli]]","permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Sarah Strong/","dgPassFrontmatter":true,"created":"2026-05-28T12:34:41.109+02:00","updated":"2026-08-13T18:55:43.087+02:00","dg-note-properties":{"aliases":["Sarah","Presidentessa"],"tags":["NPC","V2"],"Template":"[[(0) Template/Personaggi/NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Sarah","Cognome":"[[Strong\|Strong]]","Specie":"[[Bestiario/Specie Senzienti/Umani]]","Anno di nascita":1201,"Affiliazioni":["[[Fazioni/Organizazioni/Accademia di Wissen#Studenti]]"],"Campagne":["[[Campagne/Tales of the Accademy/Tales of the Accademy]]"],"Immagine":"![[(0) Immagini/Personaggi/NPC/Sarah Strong.png]]","Fede":"[[Dei/Dio del sole#Fedeli]]"}}
 ---
 
 > [!warning] Attenzione
@@ -8,7 +8,7 @@
 
 > [!infobox|right]
 > # Sarah Strong
-> ![[(0) Immagini/Personaggi immagini/NPC/Sarah Strong.png\|Sarah Strong.png]]
+> ![(0) Immagini/Personaggi/NPC/Sarah Strong.png\|Sarah Strong.png](/img/user/(0)%20Immagini/Personaggi/NPC/Sarah%20Strong.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|

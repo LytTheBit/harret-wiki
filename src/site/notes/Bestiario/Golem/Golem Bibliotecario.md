@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"aliases":["Golem di libri"],"tags":["Specie","V2","Golem"],"dg-note-icon":"Mostro","Template":"[[Voce bestiario]]","Nome":"Golem Bibliotecario","Tipo di mostro":"[[(Golem)]]","Taglia":"Media","Pericolosità":"Bassa","Allineamento":"Legale-Neutrale","Habitat":["Aree Urbane"],"Immagine":"![Golem Bibliotecario.png](/img/user/(0)%20Immagini/Bestiario/Golem%20Bibliotecario.png)","permalink":"/Bestiario/Golem/Golem Bibliotecario/","dgPassFrontmatter":true,"created":"2026-07-21T16:53:21.118+02:00","updated":"2026-07-24T09:44:48.062+02:00","dg-note-properties":{"aliases":["Golem di libri"],"tags":["Specie","V2","Golem"],"Template":"[[Voce bestiario]]","Nome":"Golem Bibliotecario","Tipo di mostro":"[[(Golem)]]","Taglia":"Media","Pericolosità":"Bassa","Allineamento":"Legale-Neutrale","Habitat":["Aree Urbane"],"Immagine":"![Golem Bibliotecario.png](/img/user/(0)%20Immagini/Bestiario/Golem%20Bibliotecario.png)"}}
+{"dg-publish":true,"aliases":["Golem di libri"],"tags":["Specie","V2","Golem"],"dg-note-icon":"Mostro","Template":"[[Voce bestiario]]","Nome":"Golem Bibliotecario","Tipo di mostro":"[[(Golem)]]","Taglia":"Media","Pericolosità":"Bassa","Allineamento":"Legale-Neutrale","Habitat":["Aree Urbane"],"Immagine":"![[Golem Bibliotecario.png]]","permalink":"/Bestiario/Golem/Golem Bibliotecario/","dgPassFrontmatter":true,"created":"2026-07-21T16:53:21.118+02:00","updated":"2026-08-13T18:51:59.978+02:00","dg-note-properties":{"aliases":["Golem di libri"],"tags":["Specie","V2","Golem"],"Template":"[[(0) Template/Specie/Voce bestiario]]","Nome":"Golem Bibliotecario","Tipo di mostro":"[[Bestiario/Golem/(Golem)]]","Taglia":"Media","Pericolosità":"Bassa","Allineamento":"Legale-Neutrale","Habitat":["Aree Urbane"],"Immagine":"![[(0) Immagini/Bestiario/Golem/Golem Bibliotecario.png]]"}}
 ---
 
 > [!infobox|right]
 > # Golem Bibliotecario
-> ![(0) Immagini/Bestiario/Golem Bibliotecario.png\|Golem Bibliotecario.png](/img/user/(0)%20Immagini/Bestiario/Golem%20Bibliotecario.png)
+> ![(0) Immagini/Bestiario/Golem/Golem Bibliotecario.png\|Golem Bibliotecario.png](/img/user/(0)%20Immagini/Bestiario/Golem/Golem%20Bibliotecario.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|

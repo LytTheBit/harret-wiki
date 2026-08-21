@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"aliases":["Thom Laamp","Thom","Il Bidello"],"tags":["NPC","V2"],"dg-note-icon":"NPC","Template":"[[NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Thom","Cognome":"[[Laamp]]","Specie":"[[Genasi]]","Anno di nascita":1166,"Affiliazioni":["[[Accademia di Wissen#Professori]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Bidello Thom Laamp.png](/img/user/(0)%20Immagini/Personaggi/NPC/Bidello%20Thom%20Laamp.png)","Fede":null,"permalink":"/Personaggi/NPC/Professori Accademia di Wissen/Bidello Thom Laamp/","dgPassFrontmatter":true,"created":"2026-06-19T16:56:24.359+02:00","updated":"2026-06-30T19:33:59.897+02:00","dg-note-properties":{"aliases":["Thom Laamp","Thom","Il Bidello"],"tags":["NPC","V2"],"Template":"[[NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Thom","Cognome":"[[Laamp]]","Specie":"[[Genasi]]","Anno di nascita":1166,"Affiliazioni":["[[Accademia di Wissen#Professori]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![Bidello Thom Laamp.png](/img/user/(0)%20Immagini/Personaggi/NPC/Bidello%20Thom%20Laamp.png)","Fede":null}}
+{"dg-publish":true,"aliases":["Thom Laamp","Thom","Il Bidello"],"tags":["NPC","V2"],"dg-note-icon":"NPC","Template":"[[NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Thom","Cognome":"[[Laamp]]","Specie":"[[Genasi]]","Anno di nascita":1166,"Affiliazioni":["[[Accademia di Wissen#Professori]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![[Bidello Thom Laamp.png]]","Fede":null,"permalink":"/Personaggi/NPC/Professori Accademia di Wissen/Bidello Thom Laamp/","dgPassFrontmatter":true,"created":"2026-06-19T16:56:24.359+02:00","updated":"2026-08-13T18:53:53.513+02:00","dg-note-properties":{"aliases":["Thom Laamp","Thom","Il Bidello"],"tags":["NPC","V2"],"Template":"[[(0) Template/Personaggi/NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Thom","Cognome":"[[Laamp]]","Specie":"[[Genasi]]","Anno di nascita":1166,"Affiliazioni":["[[Fazioni/Organizazioni/Accademia di Wissen#Professori]]"],"Campagne":["[[Campagne/Tales of the Accademy/Tales of the Accademy]]"],"Immagine":"![[(0) Immagini/Personaggi/NPC/Bidello Thom Laamp.png]]","Fede":null}}
 ---
 
 > [!infobox|right]
 > # Bidello Thom Laamp
-> ![[(0) Immagini/Personaggi immagini/NPC/Bidello Thom Laamp.png\|Bidello Thom Laamp.png]]
+> ![(0) Immagini/Personaggi/NPC/Bidello Thom Laamp.png\|Bidello Thom Laamp.png](/img/user/(0)%20Immagini/Personaggi/NPC/Bidello%20Thom%20Laamp.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|

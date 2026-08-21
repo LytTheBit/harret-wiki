@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":["Tortle"],"tags":["Specie","Senziente","Galapa"],"dg-note-icon":"Specie Senziente","Template":"[[Specie Senziente]]","Immagine":"![Galapa.png](/img/user/(0)%20Immagini/Bestiario/Specie%20senzienti/Galapa.png)","Stirpe":"Terza stirpe","dg-content-classes":"dg-cards","permalink":"/Bestiario/Specie Senzienti/Galapa/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-11T11:44:17.194+02:00","updated":"2026-06-30T12:17:04.829+02:00","dg-note-properties":{"aliases":["Tortle"],"tags":["Specie","Senziente","Galapa"],"Template":"[[Specie Senziente]]","Immagine":"![Galapa.png](/img/user/(0)%20Immagini/Bestiario/Specie%20senzienti/Galapa.png)","Stirpe":"Terza stirpe"}}
+{"dg-publish":true,"aliases":["Tortle"],"tags":["Specie","Senziente","Galapa"],"dg-note-icon":"Specie Senziente","Template":"[[Specie Senziente]]","Immagine":"![[Galapa.png]]","Stirpe":"Terza stirpe","dg-content-classes":"dg-cards","permalink":"/Bestiario/Specie Senzienti/Galapa/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-11T11:44:17.194+02:00","updated":"2026-06-30T12:17:04.829+02:00","dg-note-properties":{"aliases":["Tortle"],"tags":["Specie","Senziente","Galapa"],"Template":"[[Specie Senziente]]","Immagine":"![[(0) Immagini/Bestiario/Specie senzienti/Galapa.png]]","Stirpe":"Terza stirpe"}}
 ---
 
 > [!infobox|right]
@@ -35,10 +35,10 @@ Alcuni di loro sono anche ottimi soldati. I loro legionari sono famosi per la lo
 Sono tendenzialmente ben visti. Alcuni li temono per via della loro natura da rettile e possibile collegamento ai draghi. Ma secoli di commerci sicuri hanno portato i Galapa ad essere considerati dai più come brave persone e amici fedeli
 
 ## Galapa degni di nota
-|                                                                                    | Galapa                                                                                |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| ![[(0) Immagini/Personaggi immagini/PG/Matamata.png\|Matamata.png]]                | [[Personaggi/PG/Mata Mata\|Mata Mata]]                                             |
-| ![[(0) Immagini/Personaggi immagini/NPC/Pinta Galapodi.png\|Pinta Galapodi.png]]   | [[Personaggi/NPC/Pinta Galapodi\|Pinta Galapodi]]                                  |
-| ![[(0) Immagini/Personaggi immagini/NPC/Ryukyu Geoemyda.png\|Ryukyu Geoemyda.png]] | [[Personaggi/NPC/Professori Accademia di Wissen/Ryukyu Geoemyda\|Ryukyu Geoemyda]] |
+|                                                                           | Galapa                                                                                |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| ![(0) Immagini/Personaggi/PG/Matamata.png\|Matamata.png](/img/user/(0)%20Immagini/Personaggi/PG/Matamata.png)                | [[Personaggi/PG/Mata Mata\|Mata Mata]]                                             |
+| ![(0) Immagini/Personaggi/NPC/Pinta Galapodi.png\|Pinta Galapodi.png](/img/user/(0)%20Immagini/Personaggi/NPC/Pinta%20Galapodi.png)   | [[Personaggi/NPC/Pinta Galapodi\|Pinta Galapodi]]                                  |
+| ![(0) Immagini/Personaggi/NPC/Ryukyu Geoemyda.png\|Ryukyu Geoemyda.png](/img/user/(0)%20Immagini/Personaggi/NPC/Ryukyu%20Geoemyda.png) | [[Personaggi/NPC/Professori Accademia di Wissen/Ryukyu Geoemyda\|Ryukyu Geoemyda]] |
 
 { .block-language-dataview}
