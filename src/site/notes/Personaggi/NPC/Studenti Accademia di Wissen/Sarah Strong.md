@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":["Sarah","Presidentessa"],"tags":["NPC","V2"],"dg-note-icon":"NPC","Template":"[[NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Sarah","Cognome":"[[Strong\|Strong]]","Specie":"[[Umani]]","Anno di nascita":1201,"Affiliazioni":["[[Accademia di Wissen#Studenti]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![[Sarah Strong.png]]","Fede":"[[Dio del sole#Fedeli]]","permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Sarah Strong/","dgPassFrontmatter":true,"created":"2026-05-28T12:34:41.109+02:00","updated":"2026-08-13T18:55:43.087+02:00","dg-note-properties":{"aliases":["Sarah","Presidentessa"],"tags":["NPC","V2"],"Template":"[[(0) Template/Personaggi/NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Sarah","Cognome":"[[Strong\|Strong]]","Specie":"[[Bestiario/Specie Senzienti/Umani]]","Anno di nascita":1201,"Affiliazioni":["[[Fazioni/Organizazioni/Accademia di Wissen#Studenti]]"],"Campagne":["[[Campagne/Tales of the Accademy/Tales of the Accademy]]"],"Immagine":"![[(0) Immagini/Personaggi/NPC/Sarah Strong.png]]","Fede":"[[Dei/Dio del sole#Fedeli]]"}}
+{"dg-publish":true,"aliases":["Sarah","Presidentessa"],"tags":["NPC","V2"],"dg-note-icon":"NPC","Template":"[[NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Sarah","Cognome":"[[Strong\|Strong]]","Specie":"[[Umani]]","Anno di nascita":1201,"Affiliazioni":["[[Accademia di Wissen#Studenti]]"],"Campagne":["[[Campagne/Tales of the Accademy/Tales of the Accademy\|Tales of the Accademy]]"],"Immagine":"![[Sarah Strong.png]]","Fede":"[[Dio del sole#Fedeli]]","permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Sarah Strong/","dgPassFrontmatter":true,"created":"2026-05-28T12:34:41.109+02:00","updated":"2026-09-01T22:49:56.753+02:00","dg-note-properties":{"aliases":["Sarah","Presidentessa"],"tags":["NPC","V2"],"Template":"[[(0) Template/Personaggi/NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Sarah","Cognome":"[[Strong\|Strong]]","Specie":"[[Bestiario/Specie Senzienti/Umani]]","Anno di nascita":1201,"Affiliazioni":["[[Fazioni/Organizazioni/Accademia di Wissen#Studenti]]"],"Campagne":["[[Campagne/Tales of the Accademy/Tales of the Accademy]]"],"Immagine":"![[(0) Immagini/Personaggi/NPC/Sarah Strong.png]]","Fede":"[[Dei/Dio del sole#Fedeli]]"}}
 ---
 
 > [!warning] Attenzione
@@ -20,6 +20,8 @@
 > | Affiliato | [[Fazioni/Organizazioni/Accademia di Wissen#Studenti\|Accademia di Wissen > Studenti]]|
 
 Studentessa del quinto anno del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]], a capo del [[Fazioni/Organizazioni/Accademia di Wissen#Consiglio Studentesco\|Consiglio Studentesco]], e membro della famiglia di cavalieri [[Strong\|Strong]], delle terre del sud.
+
+è stata rapita nel bel mezzo della campagna [[Campagne/Tales of the Accademy/Tales of the Accademy\|Tales of the Accademy]]
 
 ## Legami
 Sua sorella (sorellastra) minore è [[Personaggi/NPC/Studenti Accademia di Wissen/Stephany Strong\|Stephany Strong]] è anche essa una studentessa del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]], al primo anno.

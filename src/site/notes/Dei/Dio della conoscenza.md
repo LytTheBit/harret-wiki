@@ -48,6 +48,7 @@ Si dice che chi sia nato sotto questa costellazione sia calmo e riflessivo, e ch
 ### Clero
 |                                                                               | Clero                                                                                     |
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| ![(0) Immagini/Personaggi/NPC/Daniel Dup.png\|Daniel Dup.png](/img/user/(0)%20Immagini/Personaggi/NPC/Daniel%20Dup.png)               | [[Personaggi/NPC/Studenti Accademia di Wissen/Daniel Dup\|Daniel Dup]]                 |
 | ![(0) Immagini/Personaggi/NPC/Padre Lucas Mimer.png\|Padre Lucas Mimer.png](/img/user/(0)%20Immagini/Personaggi/NPC/Padre%20Lucas%20Mimer.png) | [[Personaggi/NPC/Professori Accademia di Wissen/Padre Lucas Mimer\|Padre Lucas Mimer]] |
 
 { .block-language-dataview}
@@ -57,6 +58,7 @@ Si dice che chi sia nato sotto questa costellazione sia calmo e riflessivo, e ch
 | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | ![(0) Immagini/Personaggi/Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Personaggi/Persona%20Placeholder.png)     | [[Personaggi/NPC/Alma Seele\|Alma Seele]]                                                  |
 | ![(0) Immagini/Personaggi/NPC/Gianpiero Arcangeli.png\|Gianpiero Arcangeli.png](/img/user/(0)%20Immagini/Personaggi/NPC/Gianpiero%20Arcangeli.png) | [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Gianpiero Arcangeli]] |
+| ![(0) Immagini/Personaggi/NPC/Jake Gulpert.png\|Jake Gulpert.png](/img/user/(0)%20Immagini/Personaggi/NPC/Jake%20Gulpert.png)               | [[Personaggi/NPC/Studenti Accademia di Wissen/Jake Gulpert\|Jake Gulpert]]                 |
 | ![(0) Immagini/Personaggi/NPC/Lucas Yoshiie.png\|Lucas Yoshiie.png](/img/user/(0)%20Immagini/Personaggi/NPC/Lucas%20Yoshiie.png)             | [[Personaggi/NPC/Studenti Accademia di Wissen/Lucas Yoshiie\|Lucas Yoshiie]]               |
 | ![(0) Immagini/Personaggi/NPC/Ruggie Kerma.png\|Ruggie Kerma.png](/img/user/(0)%20Immagini/Personaggi/NPC/Ruggie%20Kerma.png)               | [[Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma\|Ruggie Kerma]]                 |
 

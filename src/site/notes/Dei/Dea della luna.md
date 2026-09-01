@@ -63,7 +63,7 @@ La dea della luna è una delle divinità più venerate.
 ### Fedeli
 |                                                                         | Fedeli                                                                                            |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| ![(0) Immagini/Personaggi/NPC/Amity Dumar.png\|Amity Dumar.png](/img/user/(0)%20Immagini/Personaggi/NPC/Amity%20Dumar.png)       | [[Personaggi/NPC/Studenti Accademia di Wissen/Amity Dumar\|Amity Dumar]]                       |
+| ![(0) Immagini/Personaggi/NPC/Amity Dumar.png\|Amity Dumar.png](/img/user/(0)%20Immagini/Personaggi/NPC/Amity%20Dumar.png)       | [[Personaggi/NPC/Studenti Accademia di Wissen/Amity Drusilla Dumar\|Amity Drusilla Dumar]]     |
 | ![(0) Immagini/Personaggi/NPC/Enkidu Qamar 1.png\|Enkidu Qamar 1.png](/img/user/(0)%20Immagini/Personaggi/NPC/Enkidu%20Qamar%201.png) | [[Personaggi/NPC/Studenti Accademia di Wissen/Enkidu Dantalion Qamar\|Enkidu Dantalion Qamar]] |
 | ![(0) Immagini/Personaggi/NPC/Lucy Nocida.png\|Lucy Nocida.png](/img/user/(0)%20Immagini/Personaggi/NPC/Lucy%20Nocida.png)       | [[Personaggi/NPC/Studenti Accademia di Wissen/Lucy Nocida\|Lucy Nocida]]                       |
 | ![(0) Immagini/Personaggi/NPC/Pearl Violet.png\|Pearl Violet.png](/img/user/(0)%20Immagini/Personaggi/NPC/Pearl%20Violet.png)     | [[Personaggi/NPC/Professori Accademia di Wissen/Pearl Violet\|Pearl Violet]]                   |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":["Enkidu"],"tags":["NPC","V2"],"dg-note-icon":"NPC","Template":"[[NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Enkidu","Cognome":"[[Fazioni/Famiglie/Qamar\|Qamar]]","Specie":"[[Umani]]","Anno di nascita":1206,"Affiliazioni":["[[Accademia di Wissen#Studenti]]","[[Mondo/Harret/Nazioni/Regno di Xxx\|Regno di Xxx]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![[Enkidu Qamar 1.png]]","Fede":"[[Dea della luna#Fedeli]]","permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Enkidu Dantalion Qamar/","dgPassFrontmatter":true,"created":"2026-05-16T18:20:49.496+02:00","updated":"2026-08-13T18:54:57.826+02:00","dg-note-properties":{"aliases":["Enkidu"],"tags":["NPC","V2"],"Template":"[[(0) Template/Personaggi/NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Enkidu","Cognome":"[[Fazioni/Famiglie/Qamar]]","Specie":"[[Bestiario/Specie Senzienti/Umani]]","Anno di nascita":1206,"Affiliazioni":["[[Fazioni/Organizazioni/Accademia di Wissen#Studenti]]","[[Mondo/Harret/Nazioni/Regno di Xxx]]"],"Campagne":["[[Campagne/Tales of the Accademy/Tales of the Accademy]]"],"Immagine":"![[(0) Immagini/Personaggi/NPC/Enkidu Qamar 1.png]]","Fede":"[[Dei/Dea della luna#Fedeli]]"}}
+{"dg-publish":true,"aliases":["Enkidu"],"tags":["NPC","V2"],"dg-note-icon":"NPC","Template":"[[NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Enkidu","Cognome":"[[Fazioni/Famiglie/Qamar\|Qamar]]","Specie":"[[Umani]]","Anno di nascita":null,"Affiliazioni":["[[Accademia di Wissen#Studenti]]","[[Mondo/Harret/Nazioni/Regno di Xxx\|Regno di Xxx]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![[Enkidu Qamar 1.png]]","Fede":"[[Dea della luna#Fedeli]]","permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Enkidu Dantalion Qamar/","dgPassFrontmatter":true,"created":"2026-05-16T18:20:49.496+02:00","updated":"2026-08-31T19:35:03.912+02:00","dg-note-properties":{"aliases":["Enkidu"],"tags":["NPC","V2"],"Template":"[[(0) Template/Personaggi/NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Enkidu","Cognome":"[[Fazioni/Famiglie/Qamar]]","Specie":"[[Bestiario/Specie Senzienti/Umani]]","Anno di nascita":null,"Affiliazioni":["[[Fazioni/Organizazioni/Accademia di Wissen#Studenti]]","[[Mondo/Harret/Nazioni/Regno di Xxx]]"],"Campagne":["[[Campagne/Tales of the Accademy/Tales of the Accademy]]"],"Immagine":"![[(0) Immagini/Personaggi/NPC/Enkidu Qamar 1.png]]","Fede":"[[Dei/Dea della luna#Fedeli]]"}}
 ---
 
 
@@ -13,7 +13,7 @@
 > | Cognome | [[Fazioni/Famiglie/Qamar\|Qamar]] |
 > | Sesso | Maschio |
 > | Specie | [[Bestiario/Specie Senzienti/Umani\|Umani]] |
-> | Età | 21 |
+> | Età | ??? |
 > | Affiliato | [[Fazioni/Organizazioni/Accademia di Wissen#Studenti\|Accademia di Wissen > Studenti]],[[Mondo/Harret/Nazioni/Regno di Xxx\|Regno di Xxx]]|
 
 Studente del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]] ed è il figlio primogenito della famiglia [[Fazioni/Famiglie/Qamar\|Qamar]] i duchi del omonimo [[Ducato di Qamar\|Ducato di Qamar]] del [[Mondo/Harret/Nazioni/Regno di Xxx\|Regno di Xxx]]. E' un fervente credente del credo della [[Dei/Dea della luna\|Dea della luna]]. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":["Kaitani"],"tags":["V2"],"dg-note-icon":"Divinità","Template":"[[Dio]]","Nome":"Kaitani","Sesso":"Femmina","Numero":2,"Stagione":"[[Stagioni su Harret#Stagione Piovosa]]","Mese":"[[2° mese\|2° mese]]","Costellazione":"[[Mulinello\|Mulinello]]","Dominio":["Acqua","Onde","Correnti oceaniche","Protettrice dei marinai "],"Immagine":"![[Dea del acqua.png]]","dg-content-classes":"dg-cards","permalink":"/Dei/Dea del acqua/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-06-29T12:22:45.308+02:00","updated":"2026-08-13T18:57:17.226+02:00","dg-note-properties":{"aliases":["Kaitani"],"tags":["V2"],"Template":"[[(0) Template/Dio]]","Nome":"Kaitani","Sesso":"Femmina","Numero":2,"Stagione":"[[Lore/Stagioni su Harret#Stagione Piovosa]]","Mese":"[[2° mese\|2° mese]]","Costellazione":"[[Mulinello\|Mulinello]]","Dominio":["Acqua","Onde","Correnti oceaniche","Protettrice dei marinai "],"Immagine":"![[(0) Immagini/Dei/Dea del acqua.png]]"}}
+{"dg-publish":true,"aliases":["Kaitani"],"tags":["V2"],"dg-note-icon":"Divinità","Template":"[[Dio]]","Nome":"Kaitani","Sesso":"Femmina","Numero":2,"Stagione":"[[Stagioni su Harret#Stagione Piovosa]]","Mese":"[[2° mese\|2° mese]]","Costellazione":"[[Mulinello\|Mulinello]]","Dominio":["Acqua","Onde","Correnti oceaniche","Protettrice dei marinai "],"Immagine":"![[Dea del acqua.png]]","dg-content-classes":"dg-cards","permalink":"/Dei/Dea del acqua/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-06-29T12:22:45.308+02:00","updated":"2026-08-13T18:57:17.226+02:00","dg-note-properties":{"aliases":["Kaitani"],"tags":["V2"],"Template":"[[(0) Template/Dio]]","Nome":"Kaitani","Sesso":"Femmina","Numero":2,"Stagione":"[[Lore/Tempo/Stagioni su Harret#Stagione Piovosa]]","Mese":"[[2° mese\|2° mese]]","Costellazione":"[[Mulinello\|Mulinello]]","Dominio":["Acqua","Onde","Correnti oceaniche","Protettrice dei marinai "],"Immagine":"![[(0) Immagini/Dei/Dea del acqua.png]]"}}
 ---
 
 > [!infobox|right]
@@ -10,7 +10,7 @@
 > |------|---------|
 > | Nome | Kaitani |
 > | Sesso | Femmina |
-> | Stagione | [[Lore/Stagioni su Harret#Stagione Piovosa\|Stagioni su Harret > Stagione Piovosa]] |
+> | Stagione | [[Lore/Tempo/Stagioni su Harret#Stagione Piovosa\|Stagioni su Harret > Stagione Piovosa]] |
 > | Mese | [[2° mese\|2° mese]] |
 > | Costellazione | [[Mulinello\|Mulinello]] |
 > | Dominio | Acqua,Onde,Correnti oceaniche,Protettrice dei marinai  |

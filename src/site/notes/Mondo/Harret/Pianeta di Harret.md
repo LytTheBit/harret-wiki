@@ -27,7 +27,7 @@ La popolazione senziente più diffusa su Harret sono senz'altro gli [[Bestiario/
 ## Peculiarità
 #### Stagioni
 Vista la sua posizione centrale nel [[Mondo/Cosmo\|Cosmo]], Harret subisce gli effetti degli altri pianeti, portando al esistenza di sei stagioni molto distinte tra di loro.
-Per saperne di più: [[Lore/Stagioni su Harret\|Stagioni su Harret]]
+Per saperne di più: [[Lore/Tempo/Stagioni su Harret\|Stagioni su Harret]]
 
 ## Cosa c'è ad Harret?
 

@@ -28,6 +28,7 @@ Sono qui conservate lettere e altri documenti apparsi nel corso delle campagne.
 |                                                                          | Caotici                                                                                                      |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
 | ![(0) Immagini/Oggetti/Lettere Tartarughe.png\|Lettere Tartarughe.png](/img/user/(0)%20Immagini/Oggetti/Lettere%20Tartarughe.png) | [[Archivio/Lettere/Lettera da Pinta Galapodi a Mata Mata - 1\|Lettera da Pinta Galapodi a Mata Mata - 1]] |
+| ![(0) Immagini/Oggetti/Lettere Konstruct.png\|Lettere Konstruct.png](/img/user/(0)%20Immagini/Oggetti/Lettere%20Konstruct.png)   | [[Archivio/Lettere/Lettere di D1-X0N ai suoi fratelli\|Lettere di D1-X0N ai suoi fratelli]]               |
 
 { .block-language-dataview}
 
@@ -36,6 +37,6 @@ Sono qui conservate lettere e altri documenti apparsi nel corso delle campagne.
 | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | ![(0) Immagini/Archivio/Circolare sul primo esame.png\|Circolare sul primo esame.png](/img/user/(0)%20Immagini/Archivio/Circolare%20sul%20primo%20esame.png)            | [[Archivio/Circolare sul primo esame\|Circolare sul primo esame]]             |
 | ![(0) Immagini/Oggetti/Documenti progetto Nuova Fiamma.png\|Documenti progetto Nuova Fiamma.png](/img/user/(0)%20Immagini/Oggetti/Documenti%20progetto%20Nuova%20Fiamma.png) | [[Archivio/Documenti progetto Nuova Fiamma\|Documenti progetto Nuova Fiamma]] |
-| ![[(0) Immagini/Circolare sul primo esame.png\|Circolare sul primo esame.png]]                     | [[Archivio/Invito rito di inizazione\|Invito rito di inizazione]]             |
+| ![(0) Immagini/Archivio/Circolare sul primo esame.png\|Circolare sul primo esame.png](/img/user/(0)%20Immagini/Archivio/Circolare%20sul%20primo%20esame.png)            | [[Archivio/Invito rito di iniziazione\|Invito rito di iniziazione]]           |
 
 { .block-language-dataview}

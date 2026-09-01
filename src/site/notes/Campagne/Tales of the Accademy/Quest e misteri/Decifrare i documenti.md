@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"dg-note-icon":"Quest","Template":"[[Quest]]","Campagna":"[[Tales of the Accademy]]","Mandante":"[[Personaggi/PG/D1-X0N\|D1-X0N]]","Completata":false,"Immagine":"![[Icona Quest.png]]","permalink":"/Campagne/Tales of the Accademy/Quest e misteri/Decifrare i documenti/","dgPassFrontmatter":true,"created":"2026-06-14T19:19:41.765+02:00","updated":"2026-06-29T18:20:41.076+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Quest]]","Campagna":"[[Campagne/Tales of the Accademy/Tales of the Accademy]]","Mandante":"[[Personaggi/PG/D1-X0N]]","Completata":false,"Immagine":"![[(0) Immagini/0 (Altro)/Sito Icone/Icona Quest.png]]"}}
+{"dg-publish":true,"aliases":null,"tags":null,"dg-note-icon":"Quest","Template":"[[Quest]]","Campagna":"[[Tales of the Accademy]]","Mandante":"[[Personaggi/PG/D1-X0N\|D1-X0N]]","Completata":false,"Immagine":"![[Icona Quest.png]]","permalink":"/Campagne/Tales of the Accademy/Quest e misteri/Decifrare i documenti/","dgPassFrontmatter":true,"created":"2026-06-14T19:19:41.765+02:00","updated":"2026-09-01T22:56:50.677+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Quest]]","Campagna":"[[Campagne/Tales of the Accademy/Tales of the Accademy]]","Mandante":"[[Personaggi/PG/D1-X0N]]","Completata":false,"Immagine":"![[(0) Immagini/0 (Altro)/Sito Icone/Icona Quest.png]]"}}
 ---
 
 ## Quest
 [[Personaggi/PG/D1-X0N\|D1-X0N]] ha rubato, prima di andare alla [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]] dei documenti confidenziali appartenenti alla [[Fazioni/Organizazioni/Gilda di Konstrukt\|Gilda di Konstrukt]] sui segreti dietro la creazione dei [[Bestiario/Specie Senzienti/Risvegliati\|Risvegliati]]. 
 Con lo scopo di scoprire l'origine del anima di quest'ultimi.
+
+Ma anche qualcun altro sembra interessato ai documenti...
 
 ## Informazioni
 > [!quote] Pagina 1 parte 1

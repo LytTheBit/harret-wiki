@@ -32,10 +32,10 @@ Ognuno di questi animali potrebbe essere magico, ma non avere poteri divini o ca
 .
 
 
-|                                                                                                                       | Animali                                                                                   |
-| --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| ![[(0) Immagini/Personaggi immagini/Mostri/Capigufo.jpg\|Capigufo.jpg]]                                               | [[Bestiario/Animali/Capibufo\|Capibufo]]                                               |
-| ![[(0) Immagini/Personaggi immagini/Mostri/Scoiattolo dai denti a sciabola.png\|Scoiattolo dai denti a sciabola.png]] | [[Bestiario/Animali/Scoiattoli dai denti a sciabola\|Scoiattoli dai denti a sciabola]] |
-| ![[(0) Immagini/Personaggi immagini/Mostri/Volpe Multipla.png\|Volpe Multipla.png]]                                   | [[Bestiario/Animali/Volpi multiple\|Volpi multiple]]                                   |
+|                                                                                                              | Animali                                                                                   |
+| ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
+| ![(0) Immagini/Bestiario/Animali/Capigufo.jpg\|Capigufo.jpg](/img/user/(0)%20Immagini/Bestiario/Animali/Capigufo.jpg)                                               | [[Bestiario/Animali/Capibufo\|Capibufo]]                                               |
+| ![(0) Immagini/Bestiario/Animali/Scoiattolo dai denti a sciabola.png\|Scoiattolo dai denti a sciabola.png](/img/user/(0)%20Immagini/Bestiario/Animali/Scoiattolo%20dai%20denti%20a%20sciabola.png) | [[Bestiario/Animali/Scoiattoli dai denti a sciabola\|Scoiattoli dai denti a sciabola]] |
+| ![(0) Immagini/Bestiario/Animali/Volpe Multipla.png\|Volpe Multipla.png](/img/user/(0)%20Immagini/Bestiario/Animali/Volpe%20Multipla.png)                                   | [[Bestiario/Animali/Volpi multiple\|Volpi multiple]]                                   |
 
 { .block-language-dataview}

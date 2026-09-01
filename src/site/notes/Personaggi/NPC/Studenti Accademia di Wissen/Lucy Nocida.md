@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":["Lucy"],"tags":["NPC","V2"],"dg-note-icon":"NPC","Template":"[[NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Lucy","Cognome":"[[Nocida]]","Specie":"[[Umani]]","Anno di nascita":1206,"Affiliazioni":["[[Accademia di Wissen#Studenti]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![[Lucy Nocida.png]]","Fede":"[[Dea della luna#Fedeli]]","permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Lucy Nocida/","dgPassFrontmatter":true,"created":"2026-05-16T18:35:24.704+02:00","updated":"2026-08-13T18:55:20.872+02:00","dg-note-properties":{"aliases":["Lucy"],"tags":["NPC","V2"],"Template":"[[(0) Template/Personaggi/NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Lucy","Cognome":"[[Nocida]]","Specie":"[[Bestiario/Specie Senzienti/Umani]]","Anno di nascita":1206,"Affiliazioni":["[[Fazioni/Organizazioni/Accademia di Wissen#Studenti]]"],"Campagne":["[[Campagne/Tales of the Accademy/Tales of the Accademy]]"],"Immagine":"![[(0) Immagini/Personaggi/NPC/Lucy Nocida.png]]","Fede":"[[Dei/Dea della luna#Fedeli]]"}}
+{"dg-publish":true,"aliases":["Lucy"],"tags":["NPC","V2"],"dg-note-icon":"NPC","Template":"[[NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Lucy","Cognome":"[[Nocida]]","Specie":"[[Umani]]","Anno di nascita":1206,"Affiliazioni":["[[Accademia di Wissen#Studenti]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![[Lucy Nocida.png]]","Fede":"[[Dea della luna#Fedeli]]","permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/Lucy Nocida/","dgPassFrontmatter":true,"created":"2026-05-16T18:35:24.704+02:00","updated":"2026-08-22T14:35:39.704+02:00","dg-note-properties":{"aliases":["Lucy"],"tags":["NPC","V2"],"Template":"[[(0) Template/Personaggi/NPC]]","Sesso":"Femmina","Stato":"Vivo","Nome":"Lucy","Cognome":"[[Nocida]]","Specie":"[[Bestiario/Specie Senzienti/Umani]]","Anno di nascita":1206,"Affiliazioni":["[[Fazioni/Organizazioni/Accademia di Wissen#Studenti]]"],"Campagne":["[[Campagne/Tales of the Accademy/Tales of the Accademy]]"],"Immagine":"![[(0) Immagini/Personaggi/NPC/Lucy Nocida.png]]","Fede":"[[Dei/Dea della luna#Fedeli]]"}}
 ---
 
 
@@ -17,11 +17,11 @@
 > | Età | 21 |
 > | Affiliato | [[Fazioni/Organizazioni/Accademia di Wissen#Studenti\|Accademia di Wissen > Studenti]]|
 
-Studentessa del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]] e cameriera di [[Personaggi/NPC/Studenti Accademia di Wissen/Amity Dumar\|Amity Dumar]]. In qualche modo è stata ammessa nel accademia anche senza particolare talenti o senza essere di origine nobile. Probabilmente per meritò del amica... che forse voleva solo portarsi dietro una cameriera....
+Studentessa del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]] e cameriera di [[Personaggi/NPC/Studenti Accademia di Wissen/Amity Drusilla Dumar\|Amity Drusilla Dumar]]. In qualche modo è stata ammessa nel accademia anche senza particolare talenti o senza essere di origine nobile. Probabilmente per meritò del amica... che forse voleva solo portarsi dietro una cameriera....
 
 ## Legami
 Lei e la sua famiglia lavorano alla [[Magione Dumar\|Magione Dumar]]. 
-Motivo per il quale ha finito per per formare un forte legame con [[Personaggi/NPC/Studenti Accademia di Wissen/Amity Dumar\|Amity Dumar]], secondogenita della famiglia... Non si capisce se è servilismo, amicizia o qualcos'altro... ma a loro modo sembrano molto legate.
+Motivo per il quale ha finito per per formare un forte legame con [[Personaggi/NPC/Studenti Accademia di Wissen/Amity Drusilla Dumar\|Amity Drusilla Dumar]], secondogenita della famiglia... Non si capisce se è servilismo, amicizia o qualcos'altro... ma a loro modo sembrano molto legate.
 
 Oltre ad essere ovviamente una studentessa del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]]
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"dg-note-icon":"Quest","Template":"[[Quest]]","Campagna":"[[Tales of the Accademy]]","Mandante":"[[Persona NPC]]","Completata":true,"Immagine":"![[Icona Quest.png]]","permalink":"/Campagne/Tales of the Accademy/Quest e misteri/Rito di iniziazione/","dgPassFrontmatter":true,"created":"2026-05-07T13:09:46.979+02:00","updated":"2026-07-07T11:37:27.000+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Quest]]","Campagna":"[[Campagne/Tales of the Accademy/Tales of the Accademy]]","Mandante":"[[Persona NPC]]","Completata":true,"Immagine":"![[(0) Immagini/0 (Altro)/Sito Icone/Icona Quest.png]]"}}
+{"dg-publish":true,"aliases":null,"tags":null,"dg-note-icon":"Quest","Template":"[[Quest]]","Campagna":"[[Tales of the Accademy]]","Mandante":"[[Persona NPC]]","Completata":true,"Immagine":"![[Icona Quest.png]]","permalink":"/Campagne/Tales of the Accademy/Quest e misteri/Rito di iniziazione/","dgPassFrontmatter":true,"created":"2026-05-07T13:09:46.979+02:00","updated":"2026-09-01T22:57:12.936+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Quest]]","Campagna":"[[Campagne/Tales of the Accademy/Tales of the Accademy]]","Mandante":"[[Persona NPC]]","Completata":true,"Immagine":"![[(0) Immagini/0 (Altro)/Sito Icone/Icona Quest.png]]"}}
 ---
 
 

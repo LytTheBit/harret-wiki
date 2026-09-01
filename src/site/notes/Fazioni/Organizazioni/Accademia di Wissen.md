@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-content-classes":"dg-cards","aliases":["Wissen","l'Accademia"],"tags":["V2"],"Template":"[[Organizzazione]]","Capo":"[[Adam Wissen|Preside]]","Sede Principale":"[[Mondo/Harret/Luoghi/Castel Wissen\|Castel Wissen]]","Data di fondazione":625,"Motto":"*\"Eroi si diventa.\"*","Tipo di Organizzazione":"Istituto accademico","Immagine":"![[Bandiera Accademia di Wissen.png]]","permalink":"/Fazioni/Organizazioni/Accademia di Wissen/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-07T11:56:30.769+02:00","updated":"2026-07-18T15:27:40.852+02:00","dg-note-properties":{"aliases":["Wissen","l'Accademia"],"tags":["V2"],"Template":"[[(0) Template/Gruppi/Organizzazione]]","Capo":"[[Personaggi/NPC/Professori Accademia di Wissen/Adam Wissen|Preside]]","Sede Principale":"[[Mondo/Harret/Luoghi/Castel Wissen]]","Data di fondazione":625,"Motto":"*\"Eroi si diventa.\"*","Tipo di Organizzazione":"Istituto accademico","Immagine":"![[(0) Immagini/Fazioni/Accademia/Bandiera Accademia di Wissen.png]]"}}
+{"dg-publish":true,"dg-content-classes":"dg-cards","aliases":["Wissen","l'Accademia"],"tags":["V2"],"Template":"[[Organizzazione]]","Capo":"[[Adam Wissen|Preside]]","Sede Principale":"[[Mondo/Harret/Luoghi/Castel Wissen\|Castel Wissen]]","Data di fondazione":625,"Motto":"*\"Eroi si diventa.\"*","Tipo di Organizzazione":"Istituto accademico","Immagine":"![[Bandiera Accademia di Wissen.png]]","permalink":"/Fazioni/Organizazioni/Accademia di Wissen/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-07T11:56:30.769+02:00","updated":"2026-09-01T22:55:38.338+02:00","dg-note-properties":{"aliases":["Wissen","l'Accademia"],"tags":["V2"],"Template":"[[(0) Template/Gruppi/Organizzazione]]","Capo":"[[Personaggi/NPC/Professori Accademia di Wissen/Adam Wissen|Preside]]","Sede Principale":"[[Mondo/Harret/Luoghi/Castel Wissen]]","Data di fondazione":625,"Motto":"*\"Eroi si diventa.\"*","Tipo di Organizzazione":"Istituto accademico","Immagine":"![[(0) Immagini/Fazioni/Accademia/Bandiera Accademia di Wissen.png]]"}}
 ---
 
 > [!infobox|right]
@@ -24,7 +24,7 @@ L'accademia fu fondata seicento anni fa da tre valorosi eroi che, dopo aver salv
 loro gesta. I fondatori furono:
 - [[Re Rodrick Rammer\|Re Rodrick Rammer]]. Sovrano del regno di [[Mondo/Harret/Nazioni/Regno di Rumiria\|Regno di Rumiria]], che fondò l'*Accademia di Scienze Politiche e Reali.*
 - [[Ser Steven Strong\|Ser Steven Strong]]. Cavaliere delle Terre del Sud, che fondò l'*Accademia di Cavalleria e Coraggio.*
-- [[Maestro Morgan Maitre\|Maestro Morgan Maitre]]. Mago della [[Torre Storta\|Torre Storta]], che fondò l'*Accademia della Magia e dei Misteri.*
+- [[Maestra Morgan Maitre\|Maestra Morgan Maitre]]. Maga della [[Torre Storta\|Torre Storta]], che fondò l'*Accademia della Magia e dei Misteri.*
 
 Nel corso degli anni, altri eroi ed eroine si unirono ed espansero l'accademia, che oggi conta sei percorsi di studi.
 
@@ -64,9 +64,8 @@ Nel corso degli anni scolastici le lezioni di specializzazione diventano sempre 
 ## I Club
 Lo Studentato ospita numerosi club, alcuni ufficiali e altri tollerati a malapena dall'amministrazione:
 #### Consiglio Studentesco
-.
-.
-.
+Consiglio composto dagli studenti che si assicura il corretto svolgimento delle lezioni a scuola e del corretto comportamento dei nuovi studenti.
+
 #### Club di Teatro
 .
 .
@@ -91,6 +90,7 @@ Al momento l'accademia conta più di mille studenti. Anche se è curioso notare 
 | ![(0) Immagini/Personaggi/NPC/Padre Lucas Mimer.png\|Padre Lucas Mimer.png](/img/user/(0)%20Immagini/Personaggi/NPC/Padre%20Lucas%20Mimer.png)     | [[Personaggi/NPC/Professori Accademia di Wissen/Padre Lucas Mimer\|Padre Lucas Mimer]]     |
 | ![(0) Immagini/Personaggi/NPC/Pearl Violet.png\|Pearl Violet.png](/img/user/(0)%20Immagini/Personaggi/NPC/Pearl%20Violet.png)               | [[Personaggi/NPC/Professori Accademia di Wissen/Pearl Violet\|Pearl Violet]]               |
 | ![(0) Immagini/Personaggi/NPC/Ryukyu Geoemyda.png\|Ryukyu Geoemyda.png](/img/user/(0)%20Immagini/Personaggi/NPC/Ryukyu%20Geoemyda.png)         | [[Personaggi/NPC/Professori Accademia di Wissen/Ryukyu Geoemyda\|Ryukyu Geoemyda]]         |
+| ![(0) Immagini/Personaggi/NPC/Leon Rammer.png\|Leon Rammer.png](/img/user/(0)%20Immagini/Personaggi/NPC/Leon%20Rammer.png)                 | [[Personaggi/NPC/Professori Accademia di Wissen/Ser Leon Rammer\|Ser Leon Rammer]]         |
 | ![(0) Immagini/Personaggi/NPC/Ziegel Granit.png\|Ziegel Granit.png](/img/user/(0)%20Immagini/Personaggi/NPC/Ziegel%20Granit.png)             | [[Personaggi/NPC/Professori Accademia di Wissen/Ziegel Granit\|Ziegel Granit]]             |
 
 { .block-language-dataview}
@@ -98,15 +98,21 @@ Al momento l'accademia conta più di mille studenti. Anche se è curioso notare 
 ### Studenti
 |                                                                                                    | Studenti                                                                                          |
 | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| ![(0) Immagini/Personaggi/NPC/Amity Dumar.png\|Amity Dumar.png](/img/user/(0)%20Immagini/Personaggi/NPC/Amity%20Dumar.png)                                  | [[Personaggi/NPC/Studenti Accademia di Wissen/Amity Dumar\|Amity Dumar]]                       |
+| ![(0) Immagini/Personaggi/NPC/Amity Dumar.png\|Amity Dumar.png](/img/user/(0)%20Immagini/Personaggi/NPC/Amity%20Dumar.png)                                  | [[Personaggi/NPC/Studenti Accademia di Wissen/Amity Drusilla Dumar\|Amity Drusilla Dumar]]     |
 | ![(0) Immagini/Personaggi/Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Personaggi/Persona%20Placeholder.png)                      | [[Personaggi/PG/D1-X0N\|D1-X0N]]                                                               |
+| ![(0) Immagini/Personaggi/NPC/Daniel Dup.png\|Daniel Dup.png](/img/user/(0)%20Immagini/Personaggi/NPC/Daniel%20Dup.png)                                    | [[Personaggi/NPC/Studenti Accademia di Wissen/Daniel Dup\|Daniel Dup]]                         |
 | ![(0) Immagini/Personaggi/NPC/Enkidu Qamar 1.png\|Enkidu Qamar 1.png](/img/user/(0)%20Immagini/Personaggi/NPC/Enkidu%20Qamar%201.png)                            | [[Personaggi/NPC/Studenti Accademia di Wissen/Enkidu Dantalion Qamar\|Enkidu Dantalion Qamar]] |
+| ![(0) Immagini/Personaggi/NPC/G0-P1T.png\|G0-P1T.png](/img/user/(0)%20Immagini/Personaggi/NPC/G0-P1T.png)                                            | [[Personaggi/NPC/Studenti Accademia di Wissen/G0-P1-T\|G0-P1-T]]                               |
 | ![(0) Immagini/Personaggi/PG/Lugalin Gilgamesh d’Aurelian.png\|Lugalin Gilgamesh d’Aurelian.png](/img/user/(0)%20Immagini/Personaggi/PG/Lugalin%20Gilgamesh%20d%E2%80%99Aurelian.png) | [[Personaggi/PG/Gilgamesh Lugalin d’Aurelian\|Gilgamesh Lugalin d’Aurelian]]                   |
+| ![(0) Immagini/Personaggi/NPC/Jake Gulpert.png\|Jake Gulpert.png](/img/user/(0)%20Immagini/Personaggi/NPC/Jake%20Gulpert.png)                                | [[Personaggi/NPC/Studenti Accademia di Wissen/Jake Gulpert\|Jake Gulpert]]                     |
+| ![(0) Immagini/Personaggi/NPC/John Clayton.png\|John Clayton.png](/img/user/(0)%20Immagini/Personaggi/NPC/John%20Clayton.png)                                | [[Personaggi/NPC/Studenti Accademia di Wissen/John Clayton\|John Clayton]]                     |
 | ![(0) Immagini/Personaggi/NPC/Lucas Yoshiie.png\|Lucas Yoshiie.png](/img/user/(0)%20Immagini/Personaggi/NPC/Lucas%20Yoshiie.png)                              | [[Personaggi/NPC/Studenti Accademia di Wissen/Lucas Yoshiie\|Lucas Yoshiie]]                   |
 | ![(0) Immagini/Personaggi/NPC/Lucy Nocida.png\|Lucy Nocida.png](/img/user/(0)%20Immagini/Personaggi/NPC/Lucy%20Nocida.png)                                  | [[Personaggi/NPC/Studenti Accademia di Wissen/Lucy Nocida\|Lucy Nocida]]                       |
 | ![(0) Immagini/Personaggi/NPC/Marcus Ion.png\|Marcus Ion.png](/img/user/(0)%20Immagini/Personaggi/NPC/Marcus%20Ion.png)                                    | [[Personaggi/NPC/Studenti Accademia di Wissen/Marcus Ion\|Marcus Ion]]                         |
 | ![(0) Immagini/Personaggi/PG/Matamata.png\|Matamata.png](/img/user/(0)%20Immagini/Personaggi/PG/Matamata.png)                                         | [[Personaggi/PG/Mata Mata\|Mata Mata]]                                                         |
 | ![(0) Immagini/Personaggi/NPC/Poul.png\|Poul.png](/img/user/(0)%20Immagini/Personaggi/NPC/Poul.png)                                                | [[Personaggi/NPC/Studenti Accademia di Wissen/Poooooooooooooo...\|Poooooooooooooo...]]         |
+| ![(0) Immagini/Personaggi/NPC/Railey Hota.png\|Railey Hota.png](/img/user/(0)%20Immagini/Personaggi/NPC/Railey%20Hota.png)                                  | [[Personaggi/NPC/Studenti Accademia di Wissen/Railey Hota\|Railey Hota]]                       |
+| ![(0) Immagini/Personaggi/NPC/Rodeus Hota.png\|Rodeus Hota.png](/img/user/(0)%20Immagini/Personaggi/NPC/Rodeus%20Hota.png)                                  | [[Personaggi/NPC/Studenti Accademia di Wissen/Rodeus Hota\|Rodeus Hota]]                       |
 | ![(0) Immagini/Personaggi/NPC/Ruggie Kerma.png\|Ruggie Kerma.png](/img/user/(0)%20Immagini/Personaggi/NPC/Ruggie%20Kerma.png)                                | [[Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma\|Ruggie Kerma]]                     |
 | ![(0) Immagini/Personaggi/NPC/Sarah Strong.png\|Sarah Strong.png](/img/user/(0)%20Immagini/Personaggi/NPC/Sarah%20Strong.png)                                | [[Personaggi/NPC/Studenti Accademia di Wissen/Sarah Strong\|Sarah Strong]]                     |
 | ![(0) Immagini/Personaggi/NPC/Stephany Strong.png\|Stephany Strong.png](/img/user/(0)%20Immagini/Personaggi/NPC/Stephany%20Strong.png)                          | [[Personaggi/NPC/Studenti Accademia di Wissen/Stephany Strong\|Stephany Strong]]               |

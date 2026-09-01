@@ -20,7 +20,7 @@ Hanno un nucleo, un **Cuore caotico**, una gemma simile a vetro dalle tonalità 
 I cacciatori di mostri più esperti sanno a memoria il posizionamento di queste gemme per ogni specie di Caotico
 
 Nascono quando un animale viene colpito da una di queste gemme, e comincia lentamente a trasformarsi. Assumendo fattezze e comportamenti mostruosi. Parti del loro corpo cominciano a crescere e a diventare nere come la pece.
-Questo processo di corruzione avviene tutto l'anno, ma è più comune durante la [[Lore/Stagioni su Harret#Stagione Ombrosa\|Stagione Ombrosa]]
+Questo processo di corruzione avviene tutto l'anno, ma è più comune durante la [[Lore/Tempo/Stagioni su Harret#Stagione Ombrosa\|Stagione Ombrosa]]
 |                                                                         | Caotici                                     |
 | ----------------------------------------------------------------------- | ------------------------------------------- |
 | ![[(0) Immagini/Personaggi immagini/Mostri/Wendingo.png\|Wendingo.png]] | [[Bestiario/Caotici/Wendingo\|Wendingo]] |
