@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":["Tortle"],"tags":["Specie","Senziente","Galapa"],"dg-note-icon":"Specie Senziente","Template":"[[Specie Senziente]]","Immagine":"![[Galapa.png]]","Stirpe":"Terza stirpe","dg-content-classes":"dg-cards","permalink":"/Bestiario/Specie Senzienti/Galapa/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-11T11:44:17.194+02:00","updated":"2026-06-30T12:17:04.829+02:00","dg-note-properties":{"aliases":["Tortle"],"tags":["Specie","Senziente","Galapa"],"Template":"[[Specie Senziente]]","Immagine":"![[(0) Immagini/Bestiario/Specie senzienti/Galapa.png]]","Stirpe":"Terza stirpe"}}
+{"dg-publish":true,"aliases":["Tortle"],"tags":["Specie","Senziente","Galapa"],"dg-note-icon":"Specie Senziente","Template":"[[Specie Senziente]]","Immagine":"![[Galapa.png]]","Stirpe":"Terza stirpe","dg-content-classes":"dg-cards","permalink":"/Bestiario/Specie Senzienti/Galapa/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-11T11:44:17.194+02:00","updated":"2026-09-02T22:04:29.660+02:00","dg-note-properties":{"aliases":["Tortle"],"tags":["Specie","Senziente","Galapa"],"Template":"[[Specie Senziente]]","Immagine":"![[(0) Immagini/Bestiario/Specie senzienti/Galapa.png]]","Stirpe":"Terza stirpe"}}
 ---
 
 > [!infobox|right]
@@ -19,7 +19,7 @@ I Galapa sono una specie di tartarughe antropomorfe.
 
 ## Habitat
 I Galapa sono autoctoni di [[Mondo/Gelior/Pianeta di Gelior\|Pianeta di Gelior]], il pianeta del acqua. Ed per questo somigliano spesso a tartarughe di terra. In particolare abitano le zone più sud del pianeta, con un clima più mite e tropicale. 
-Movimenti migratori hanno portato i Galapa ad abitare anche ad [[Sylvara\|Sylvara]], il pianeta della terra, dove si è è venuta a formare una sottospecie di tartarughe di terra.
+Movimenti migratori hanno portato i Galapa ad abitare anche ad [[Pianeta di Sylvara\|Pianeta di Sylvara]], il pianeta della terra, dove si è è venuta a formare una sottospecie di tartarughe di terra.
 
 ## Origini
 Nessuno sa con sicurezza delle loro origini, alcuni pensano siano stati creati dalla [[Dei/Dea del acqua\|Dea del acqua]], o che siano legati in qualche modo ai draghi vista la loro natura da rettile. 
