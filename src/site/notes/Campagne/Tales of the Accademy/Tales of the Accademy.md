@@ -42,13 +42,14 @@ Gli studenti vengono messi alla prova ogni due mesi con una sfida assegnata dall
 
 ## Sessioni
 
-|                                                                                                       | Quest                                                                                         |
-| ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| ![(0) Immagini/0 (Altro)/Sito Icone/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 1 - Riassunto\|Sessione 1 - Riassunto]] |
-| ![(0) Immagini/0 (Altro)/Sito Icone/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 2 - Riassunto\|Sessione 2 - Riassunto]] |
-| ![(0) Immagini/0 (Altro)/Sito Icone/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 3 - Riassunto\|Sessione 3 - Riassunto]] |
-| ![(0) Immagini/0 (Altro)/Sito Icone/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 4 - Riassunto\|Sessione 4 - Riassunto]] |
-| ![(0) Immagini/0 (Altro)/Sito Icone/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 5 - Riassunto\|Sessione 5 - Riassunto]] |
+|                                                                                                       | Quest                                                                                               |
+| ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| ![(0) Immagini/0 (Altro)/Sito Icone/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 1 - Riassunto\|Sessione 1 - Riassunto]]       |
+| ![(0) Immagini/0 (Altro)/Sito Icone/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 2 - Riassunto\|Sessione 2 - Riassunto]]       |
+| ![(0) Immagini/0 (Altro)/Sito Icone/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 3 - Riassunto\|Sessione 3 - Riassunto]]       |
+| ![(0) Immagini/0 (Altro)/Sito Icone/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 4 - Riassunto\|Sessione 4 - Riassunto]]       |
+| ![(0) Immagini/0 (Altro)/Sito Icone/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 5 - Riassunto\|Sessione 5 - Riassunto]]       |
+| ![(0) Immagini/0 (Altro)/Sito Icone/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 5 - Trascrizione\|Sessione 5 - Trascrizione]] |
 
 { .block-language-dataview}
 
