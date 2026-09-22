@@ -8,7 +8,7 @@
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
-> | Pianeti | [[Mondo/Gelior/Pianeta di Gelior\|Pianeta di Gelior]], [[Sylvara\|Sylvara]] |
+> | Pianeti | [[Mondo/Erranti/Gelior/Pianeta di Gelior\|Pianeta di Gelior]], [[Sylvara\|Sylvara]] |
 > | Altezza tipica | dai 1,2 ai 1,8m |
 > | Longevità | ~150 anni |
 > ## Regolamento
@@ -18,8 +18,8 @@
 I Galapa sono una specie di tartarughe antropomorfe.
 
 ## Habitat
-I Galapa sono autoctoni di [[Mondo/Gelior/Pianeta di Gelior\|Pianeta di Gelior]], il pianeta del acqua. Ed per questo somigliano spesso a tartarughe di terra. In particolare abitano le zone più sud del pianeta, con un clima più mite e tropicale. 
-Movimenti migratori hanno portato i Galapa ad abitare anche ad [[Pianeta di Sylvara\|Pianeta di Sylvara]], il pianeta della terra, dove si è è venuta a formare una sottospecie di tartarughe di terra.
+I Galapa sono autoctoni di [[Mondo/Erranti/Gelior/Pianeta di Gelior\|Pianeta di Gelior]], il pianeta del acqua. Ed per questo somigliano spesso a tartarughe di terra. In particolare abitano le zone più sud del pianeta, con un clima più mite e tropicale. 
+Movimenti migratori hanno portato i Galapa ad abitare anche ad [[Mondo/Erranti/Sylvara/Pianeta di Sylvara\|Pianeta di Sylvara]], il pianeta della terra, dove si è è venuta a formare una sottospecie di tartarughe di terra.
 
 ## Origini
 Nessuno sa con sicurezza delle loro origini, alcuni pensano siano stati creati dalla [[Dei/Dea del acqua\|Dea del acqua]], o che siano legati in qualche modo ai draghi vista la loro natura da rettile. 

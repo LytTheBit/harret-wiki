@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-content-classes":["dg-cards"],"cssclasses":null,"dg-page-title":"","permalink":"/Home/","contentClasses":"dg-cards","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2026-04-24T14:36:59.227+02:00","updated":"2026-08-30T17:17:26.616+02:00","dg-note-properties":{"cssclasses":null}}
+{"dg-home":true,"dg-publish":true,"dg-content-classes":["dg-cards"],"cssclasses":null,"dg-page-title":"","permalink":"/Home/","contentClasses":"dg-cards","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2026-04-24T14:36:59.227+02:00","updated":"2026-09-04T19:37:23.747+02:00","dg-note-properties":{"cssclasses":null}}
 ---
 
 ![Cosmonido logo.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Cosmonido%20logo.png)
@@ -10,7 +10,6 @@ Harret è un [[Mondo/Harret/Pianeta di Harret\|pianeta]] sospeso tra epoche e cu
 
 ## Esplora il mondo
 - [[Mondo/Harret/Pianeta di Harret\|Pianeta di Harret]] — panoramica del pianeta e delle sue regioni
-- [[Mondo/Harret/Mappa di Harret\|Mappa di Harret]] — mappa interattiva del mondo
 
 ---
 

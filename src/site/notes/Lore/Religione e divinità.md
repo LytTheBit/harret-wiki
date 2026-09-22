@@ -12,7 +12,7 @@ Alla fine del conflitto, che a seconda del mito ha durate differenti, gli Dei vi
 
 Gli Dei iniziarono quindi a ricostruire il [[Mondo/Cosmo\|Cosmo]]:
 Nel luogo della loro vittoria, crearono il nuovo centro del Cosmo, e il pianeta più grande: [[Mondo/Harret/Pianeta di Harret\|Harret]].
-Crearono il [[sole\|sole]] e la [[luna\|luna]] per alternare il giorno e la notte.
+Crearono il [[Mondo/Astri/Sole\|sole]] e la [[Mondo/Astri/Luna\|luna]] per alternare il giorno e la notte.
 Crearono poi sei pianeti minori per mantenere l'equilibrio tra i piani di esistenza, e alternare le stagioni.
 E infine crearono le loro dimore, le [[Costellazioni\|Costellazioni]], dove riposare e guardare il mondo da loro creato.
 

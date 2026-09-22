@@ -2,7 +2,7 @@
 {"dg-publish":true,"aliases":["Muschio verde","Muschio rosso","Muschio blu","Muschio magico"],"tags":null,"dg-note-icon":"Info","Template":"[[Info]]","Immagine":"![[Muschio magico.png]]","permalink":"/Bestiario/Piante/(TODO) Muschio/","dgPassFrontmatter":true,"created":"2026-09-01T23:29:08.789+02:00","updated":"2026-09-02T22:27:26.570+02:00","dg-note-properties":{"aliases":["Muschio verde","Muschio rosso","Muschio blu","Muschio magico"],"tags":null,"Template":"[[Info]]","Immagine":"![[(0) Immagini/Bestiario/Piante/Muschio magico.png]]"}}
 ---
 
-Il muschio è una pianta tossica che può creare dipendenza se consumata in grandi quantità. E' originaria di [[Pianeta di Sylvara\|Sylvara]] ma è stata diffusa un po' in tutto il cosmo. 
+Il muschio è una pianta tossica che può creare dipendenza se consumata in grandi quantità. E' originaria di [[Mondo/Erranti/Sylvara/Pianeta di Sylvara\|Sylvara]] ma è stata diffusa un po' in tutto il cosmo. 
 E' particolarmente diffusa soprattutto grazie alle sue proprietà inibitorie e allucinogene. 
 
 

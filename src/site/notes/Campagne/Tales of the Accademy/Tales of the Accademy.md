@@ -23,7 +23,7 @@
 *Tales of the Academy* è una campagna ambientata su Harret iniziata nel Maggio del 2026. Ha come giocatori [[Giocatori/Lorenzo Grassi\|Lorenzo Grassi]], [[Giocatori/Lorenzo Camuso\|Lorenzo Camuso]] e [[Giocatori/Nodar Varazashvili\|Nodar Varazashvili]]. 
 E' ambientata nel [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]] situata nel [[Mondo/Harret/Luoghi/Castel Wissen\|omonimo castello]], e ha come protagonisti un gruppo di studenti del primo anno:
 - [[Personaggi/PG/Gilgamesh Lugalin d’Aurelian\|Gilgamesh Lugalin d’Aurelian]] giovane umano di nobili origini intento a tenere alto il nome della sua casata.
-- [[Personaggi/PG/Mata Mata\|Mata Mata]] muscoloso tortle proveniente da [[Mondo/Gelior/Pianeta di Gelior\|Gelior]] per uno scambio studentesco.
+- [[Personaggi/PG/Mata Mata\|Mata Mata]] muscoloso tortle proveniente da [[Mondo/Erranti/Gelior/Pianeta di Gelior\|Gelior]] per uno scambio studentesco.
 - E [[Personaggi/PG/D1-X0N\|D1-X0N]] un Risvegliato di nuova generazione, spedito al accademia per scoprire i limiti e potenzialità di questa nuova specie.
 
 ## Premessa
@@ -50,6 +50,8 @@ Gli studenti vengono messi alla prova ogni due mesi con una sfida assegnata dall
 | ![(0) Immagini/0 (Altro)/Sito Icone/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 4 - Riassunto\|Sessione 4 - Riassunto]]       |
 | ![(0) Immagini/0 (Altro)/Sito Icone/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 5 - Riassunto\|Sessione 5 - Riassunto]]       |
 | ![(0) Immagini/0 (Altro)/Sito Icone/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 5 - Trascrizione\|Sessione 5 - Trascrizione]] |
+| ![(0) Immagini/0 (Altro)/Sito Icone/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 6 - Riassunto\|Sessione 6 - Riassunto]]       |
+| ![(0) Immagini/0 (Altro)/Sito Icone/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 6 - Trascrizione\|Sessione 6 - Trascrizione]] |
 
 { .block-language-dataview}
 

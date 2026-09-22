@@ -17,7 +17,7 @@
 > | Affiliato | [[Fazioni/Organizazioni/Accademia di Wissen#Professori\|Accademia di Wissen > Professori]]|
 
 Professore di Bestie e Natura al [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]]. 
-E' un [[Bestiario/Specie Senzienti/Galapa\|Tortle]] proveniente dal [[Pianeta di Sylvara\|Pianeta di Sylvara]]
+E' un [[Bestiario/Specie Senzienti/Galapa\|Tortle]] proveniente dal [[Mondo/Erranti/Sylvara/Pianeta di Sylvara\|Pianeta di Sylvara]]
 
 ## Legami
 Per quanto risaputo, non ha ne moglie ne figli.

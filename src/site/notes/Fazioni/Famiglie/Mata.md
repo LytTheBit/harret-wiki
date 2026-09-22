@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-content-classes":"dg-cards","tags":["V2"],"Template":"[[Famiglia]]","Capo":"[[Moto Mata]]","Sede Principale":"[[Mondo/Gelior/Luoghi/Isola di Matamoto\|Isola di Matamoto]]","Data di fondazione":null,"Motto":"*\"...\"*","Regno":"[[Arcipelago Tangata\|Arcipelago Tangata]]","Rango nobiliare":"Rangatita","Immagine":"![[Clan Mata.png]]","permalink":"/Fazioni/Famiglie/Mata/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-18T14:19:12.206+02:00","updated":"2026-08-13T18:42:38.345+02:00","dg-note-properties":{"tags":["V2"],"Template":"[[(0) Template/Gruppi/Famiglia]]","Capo":"[[Moto Mata]]","Sede Principale":"[[Mondo/Gelior/Luoghi/Isola di Matamoto]]","Data di fondazione":null,"Motto":"*\"...\"*","Regno":"[[Arcipelago Tangata\|Arcipelago Tangata]]","Rango nobiliare":"Rangatita","Immagine":"![[(0) Immagini/Fazioni/Famiglie/Clan Mata.png]]"}}
+{"dg-publish":true,"dg-content-classes":"dg-cards","tags":["V2"],"Template":"[[Famiglia]]","Capo":"[[Moto Mata]]","Sede Principale":"[[Mondo/Erranti/Gelior/Luoghi/Isola di Matamoto\|Isola di Matamoto]]","Data di fondazione":null,"Motto":"*\"...\"*","Regno":"[[Arcipelago Tangata\|Arcipelago Tangata]]","Rango nobiliare":"Rangatita","Immagine":"![[Clan Mata.png]]","permalink":"/Fazioni/Famiglie/Mata/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-18T14:19:12.206+02:00","updated":"2026-08-13T18:42:38.345+02:00","dg-note-properties":{"tags":["V2"],"Template":"[[(0) Template/Gruppi/Famiglia]]","Capo":"[[Moto Mata]]","Sede Principale":"[[Mondo/Erranti/Gelior/Luoghi/Isola di Matamoto]]","Data di fondazione":null,"Motto":"*\"...\"*","Regno":"[[Arcipelago Tangata\|Arcipelago Tangata]]","Rango nobiliare":"Rangatita","Immagine":"![[(0) Immagini/Fazioni/Famiglie/Clan Mata.png]]"}}
 ---
 
 > [!infobox|right]
@@ -9,13 +9,13 @@
 > | Voce | Valore |
 > |------|---------|
 > | Capo | [[Moto Mata\|Moto Mata]] |
-> | Sede | [[Mondo/Gelior/Luoghi/Isola di Matamoto\|Isola di Matamoto]] |
+> | Sede | [[Mondo/Erranti/Gelior/Luoghi/Isola di Matamoto\|Isola di Matamoto]] |
 > | Data di fondazione | `= this["Data di fondazione"]` |
 > | Motto | *"..."* |
 > | Regno | [[Arcipelago Tangata\|Arcipelago Tangata]] |
 > | Rango nobiliare | Rangatita |
 
-Piccola famiglia nobile del [[Arcipelago Tangata\|Arcipelago Tangata]], governano sul [[Mondo/Gelior/Luoghi/Isola di Matamoto\|Isola di Matamoto]] col titolo di *"rangatita"* (signori del isola)
+Piccola famiglia nobile del [[Arcipelago Tangata\|Arcipelago Tangata]], governano sul [[Mondo/Erranti/Gelior/Luoghi/Isola di Matamoto\|Isola di Matamoto]] col titolo di *"rangatita"* (signori del isola)
 
 ## Storia
 .

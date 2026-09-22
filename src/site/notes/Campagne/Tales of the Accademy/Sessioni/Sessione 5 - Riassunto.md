@@ -3,7 +3,7 @@
 ---
 
 
-Siamo nel [[1° mese\|1° mese]], nella [[Lore/Tempo/Stagioni su Harret#Stagione Piovosa\|Stagione Piovosa]]. La neve continua ma comincia ad alternarsi alla pioggia e al fango. Il sole è raro, e di notte si intravede appena il pianeta di [[Mondo/Gelior/Pianeta di Gelior\|Gelior]] attraverso le nuvole.
+Siamo nel [[1° mese\|1° mese]], nella [[Lore/Tempo/Stagioni su Harret#Stagione Piovosa\|Stagione Piovosa]]. La neve continua ma comincia ad alternarsi alla pioggia e al fango. Il sole è raro, e di notte si intravede appena il pianeta di [[Mondo/Erranti/Gelior/Pianeta di Gelior\|Gelior]] attraverso le nuvole.
 
 ---
 

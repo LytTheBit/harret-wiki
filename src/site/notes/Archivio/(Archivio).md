@@ -25,13 +25,15 @@ Sono qui conservate lettere e altri documenti apparsi nel corso delle campagne.
 
 ## Lettere
 
-|                                                                          | Caotici                                                                                                      |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
-| ![(0) Immagini/Oggetti/Lettere Konstruct.png\|Lettere Konstruct.png](/img/user/(0)%20Immagini/Oggetti/Lettere%20Konstruct.png)   | [[Archivio/Lettere/Lettera da Alma Seele a D1X0N - 1\|Lettera da Alma Seele a D1X0N - 1]]                 |
-| ![(0) Immagini/Oggetti/Lettere Tartarughe.png\|Lettere Tartarughe.png](/img/user/(0)%20Immagini/Oggetti/Lettere%20Tartarughe.png) | [[Archivio/Lettere/Lettera da Mata Moto a Mata Mata - 1\|Lettera da Mata Moto a Mata Mata - 1]]           |
-| ![(0) Immagini/Oggetti/Lettere Tartarughe.png\|Lettere Tartarughe.png](/img/user/(0)%20Immagini/Oggetti/Lettere%20Tartarughe.png) | [[Archivio/Lettere/Lettera da Pinta Galapodi a Mata Mata - 1\|Lettera da Pinta Galapodi a Mata Mata - 1]] |
-| ![(0) Immagini/Oggetti/Lettere Konstruct.png\|Lettere Konstruct.png](/img/user/(0)%20Immagini/Oggetti/Lettere%20Konstruct.png)   | [[Archivio/Lettere/Lettera da Rise Konstrukt a D1X0N - 1\|Lettera da Rise Konstrukt a D1X0N - 1]]         |
-| ![(0) Immagini/Oggetti/Lettere Konstruct.png\|Lettere Konstruct.png](/img/user/(0)%20Immagini/Oggetti/Lettere%20Konstruct.png)   | [[Archivio/Lettere/Lettere di D1-X0N ai suoi fratelli\|Lettere di D1-X0N ai suoi fratelli]]               |
+|                                                                          | Caotici                                                                                              |
+| ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| ![(0) Immagini/Oggetti/Lettere Konstruct.png\|Lettere Konstruct.png](/img/user/(0)%20Immagini/Oggetti/Lettere%20Konstruct.png)   | [[Archivio/Lettere/Lettera da Alma Seele a D1X0N\|Lettera da Alma Seele a D1X0N]]                 |
+| ![(0) Immagini/Oggetti/Lettere Konstruct.png\|Lettere Konstruct.png](/img/user/(0)%20Immagini/Oggetti/Lettere%20Konstruct.png)   | [[Archivio/Lettere/Lettera da M2-X8-N a D1-X0N\|Lettera da M2-X8-N a D1-X0N]]                     |
+| ![(0) Immagini/Oggetti/Lettere Tartarughe.png\|Lettere Tartarughe.png](/img/user/(0)%20Immagini/Oggetti/Lettere%20Tartarughe.png) | [[Archivio/Lettere/Lettera da Mata Moto a Mata Mata\|Lettera da Mata Moto a Mata Mata]]           |
+| ![(0) Immagini/Oggetti/Lettere Tartarughe.png\|Lettere Tartarughe.png](/img/user/(0)%20Immagini/Oggetti/Lettere%20Tartarughe.png) | [[Archivio/Lettere/Lettera da Pinta Galapodi a Mata Mata\|Lettera da Pinta Galapodi a Mata Mata]] |
+| ![(0) Immagini/Oggetti/Lettere Konstruct.png\|Lettere Konstruct.png](/img/user/(0)%20Immagini/Oggetti/Lettere%20Konstruct.png)   | [[Archivio/Lettere/Lettera da R9-T0-M a D1-X0N\|Lettera da R9-T0-M a D1-X0N]]                     |
+| ![(0) Immagini/Oggetti/Lettere Konstruct.png\|Lettere Konstruct.png](/img/user/(0)%20Immagini/Oggetti/Lettere%20Konstruct.png)   | [[Archivio/Lettere/Lettera da Rise Konstrukt a D1X0N\|Lettera da Rise Konstrukt a D1X0N]]         |
+| ![(0) Immagini/Oggetti/Lettere Konstruct.png\|Lettere Konstruct.png](/img/user/(0)%20Immagini/Oggetti/Lettere%20Konstruct.png)   | [[Archivio/Lettere/Lettere di D1-X0N ai suoi fratelli\|Lettere di D1-X0N ai suoi fratelli]]       |
 
 { .block-language-dataview}
 
