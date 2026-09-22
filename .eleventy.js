@@ -15,6 +15,10 @@ const matterOptions = {
     },
   },
 };
+
+// Test for "Mappamondo Harret"
+eleventyConfig.addPassthroughCopy("src/site");
+
 const faviconsPlugin = require("eleventy-plugin-gen-favicons");
 const tocPlugin = require("eleventy-plugin-nesting-toc");
 const { parse } = require("node-html-parser");
