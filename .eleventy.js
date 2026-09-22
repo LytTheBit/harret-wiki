@@ -17,7 +17,7 @@ const matterOptions = {
 };
 
 // Test for "Mappamondo Harret"
-eleventyConfig.addPassthroughCopy("src/site");
+eleventyConfig.addPassthroughCopy("src/site/cosmo-harret.html");
 
 const faviconsPlugin = require("eleventy-plugin-gen-favicons");
 const tocPlugin = require("eleventy-plugin-nesting-toc");
