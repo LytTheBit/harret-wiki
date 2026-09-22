@@ -1,0 +1,1187 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8" />
+<title>Cosmo di Harret</title>
+<style>
+  html, body { margin:0; padding:0; overflow:hidden; background:#000; height:100%; }
+  #app { position:relative; width:100vw; height:100vh; }
+  canvas { display:block; }
+
+  #panel {
+    position:absolute; top:12px; left:12px; z-index:10;
+    background:rgba(10,12,20,0.72); backdrop-filter:blur(6px);
+    border:1px solid rgba(255,255,255,0.12); border-radius:10px;
+    padding:14px 16px; color:#e8e6da; font-family:Georgia, 'Times New Roman', serif;
+    width:230px; font-size:13px; max-height:90vh; overflow-y:auto;
+  }
+  #panel h1 { font-size:15px; margin:0 0 10px 0; letter-spacing:0.5px; color:#f2d9a6; }
+  #panel label { display:flex; align-items:center; gap:8px; margin:6px 0; cursor:pointer; }
+  #panel input[type=checkbox] { accent-color:#f2d9a6; }
+  #panel .row { display:flex; align-items:center; justify-content:space-between; margin-top:4px;}
+  #panel input[type=range] { width:120px; }
+  #panel hr { border:none; border-top:1px solid rgba(255,255,255,0.12); margin:10px 0; }
+  #tooltip {
+    position:absolute; pointer-events:none; z-index:20;
+    background:rgba(10,12,20,0.88); color:#f2d9a6; border:1px solid rgba(255,255,255,0.2);
+    padding:5px 9px; border-radius:6px; font-family:Georgia,serif; font-size:12px; display:none;
+  }
+  #vignette {
+    position:absolute; inset:0; pointer-events:none; z-index:4;
+    background: radial-gradient(ellipse at center, rgba(0,0,0,0) 50%, rgba(0,0,0,0.62) 100%);
+  }
+  #labels { position:absolute; inset:0; pointer-events:none; z-index:5; }
+  .body-label {
+    position:absolute; transform:translate(-50%,-150%); pointer-events:none;
+    font-family:Georgia, 'Times New Roman', serif; font-size:11px; color:#f2d9a6;
+    text-shadow:0 0 4px rgba(0,0,0,0.9), 0 0 2px rgba(0,0,0,0.9);
+    white-space:nowrap; opacity:0.88;
+  }
+</style>
+</head>
+<body>
+<div id="app">
+  <div id="panel">
+    <h1>☾ Cosmo di Harret ☉</h1>
+    <label title="Il pianeta natale, al centro del Cosmo."><input type="checkbox" id="c0" checked> 0 · Harret</label>
+    <label title="Il cielo più vicino ad Harret. Qui si muovono i venti, le nubi e gli uccelli: compongono il clima e l'atmosfera del mondo."><input type="checkbox" id="c1" checked> I · Cielo dei Venti e delle Nubi</label>
+    <label title="Cielo apparentemente vuoto, eccezion fatta per la Luna. Talvolta vi passano stelle cadenti e bestie magiche."><input type="checkbox" id="c2" checked> II · Cielo della Luna</label>
+    <label title="Dominio del Sole: da qui si irradia la luce che pervade tutto il Cosmo."><input type="checkbox" id="c3" checked> III · Cielo del Sole</label>
+    <label title="Dimora dei sei pianeti Erranti. I loro movimenti restano un mistero, ma è noto che determinano le stagioni."><input type="checkbox" id="c4" checked> IV · Cielo degli Erranti</label>
+    <label title="Dimora delle stelle e delle costellazioni che fungono da casa agli dèi. Segnano il ritmo dei mesi."><input type="checkbox" id="c5" checked> V · Cielo delle Stelle Vicine</label>
+    <label title="Le stelle più lontane del Cosmo, come intuibile dal nome: un vero mistero."><input type="checkbox" id="c6" checked> VI · Cielo delle Stelle Lontane</label>
+    <label title="Ciò che sta oltre i sei cieli: solo vuoto e caos. Perfino gli dèi hanno paura di andarci."><input type="checkbox" id="c7" checked> Il Vuoto</label>
+    <hr/>
+    <div class="row"><span>Velocità</span><input type="range" id="speed" min="0" max="4" step="0.05" value="1"></div>
+    <div class="row"><span>Orbite</span><input type="checkbox" id="showOrbits" checked></div>
+    <div class="row"><span>Forme a icosaedro (d20)</span><input type="checkbox" id="lowPoly"></div>
+    <div class="row"><span>Etichette</span><input type="checkbox" id="showLabels" checked></div>
+    <div class="row"><span>Vignetta/Bloom</span><input type="checkbox" id="fxToggle" checked></div>
+  </div>
+  <div id="vignette"></div>
+  <div id="labels"></div>
+  <div id="tooltip"></div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js" crossorigin="anonymous"></script>
+<script>
+(function(){
+
+// ---------------------------------------------------------
+// SETUP
+// ---------------------------------------------------------
+const app = document.getElementById('app');
+
+// Cheap LOD switch: on small/mobile screens we render fewer particles/points and
+// skip antialiasing so the scene stays smooth on weaker GPUs.
+const isMobile = window.innerWidth < 820 || /Mobi|Android|iPhone|iPad/i.test(navigator.userAgent);
+
+const renderer = new THREE.WebGLRenderer({ antialias: !isMobile });
+renderer.setSize(window.innerWidth, window.innerHeight);
+renderer.setPixelRatio(Math.min(window.devicePixelRatio, isMobile ? 1.5 : 2));
+app.appendChild(renderer.domElement);
+
+// Reduced/embed mode: add ?mini=1 to the URL to hide the control panel (for embedding a small
+// preview inside a wiki page, with a link/button to the full page for the complete experience).
+const miniMode = new URLSearchParams(window.location.search).get('mini') === '1';
+if(miniMode){
+  const panelEl = document.getElementById('panel');
+  if(panelEl) panelEl.style.display = 'none';
+}
+
+const scene = new THREE.Scene();
+scene.background = new THREE.Color(0x02030a);
+
+const camera = new THREE.PerspectiveCamera(50, window.innerWidth/window.innerHeight, 0.1, 2000);
+camera.position.set(0, 90, 210); // must be non-zero on all needed axes so initial theta/phi are well-defined
+
+// --- Minimal custom orbit controls (drag to rotate, wheel to zoom, damping) ---
+// Written by hand because CDN builds of THREE.OrbitControls are unreliable
+// across three.js versions/mirrors; this keeps the only dependency on three.min.js itself.
+const controls = (function(){
+  const target = new THREE.Vector3(0,0,0);
+  let radius = camera.position.length();
+  let theta = Math.atan2(camera.position.x, camera.position.z); // azimuth
+  let phi = Math.acos(THREE.MathUtils.clamp(camera.position.y/radius, -1, 1)); // polar
+  let targetTheta = theta, targetPhi = phi, targetRadius = radius;
+  const minRadius = 15, maxRadius = 700;
+  const minPhi = 0.15, maxPhi = Math.PI - 0.15;
+  const damping = 0.08;
+  let dragging = false, lastX = 0, lastY = 0;
+
+  const dom = renderer.domElement;
+  dom.style.touchAction = 'none';
+
+  dom.addEventListener('pointerdown', e=>{ dragging = true; lastX = e.clientX; lastY = e.clientY; });
+  window.addEventListener('pointerup', ()=>{ dragging = false; });
+  window.addEventListener('pointermove', e=>{
+    if(!dragging) return;
+    const dx = e.clientX - lastX, dy = e.clientY - lastY;
+    lastX = e.clientX; lastY = e.clientY;
+    targetTheta -= dx * 0.005;
+    targetPhi   -= dy * 0.005;
+    targetPhi = THREE.MathUtils.clamp(targetPhi, minPhi, maxPhi);
+  });
+  dom.addEventListener('wheel', e=>{
+    e.preventDefault();
+    targetRadius *= (1 + e.deltaY*0.001);
+    targetRadius = THREE.MathUtils.clamp(targetRadius, minRadius, maxRadius);
+  }, { passive:false });
+
+  return {
+    update(){
+      theta += (targetTheta - theta) * damping;
+      phi   += (targetPhi - phi) * damping;
+      radius += (targetRadius - radius) * damping;
+      camera.position.set(
+        target.x + radius * Math.sin(phi) * Math.sin(theta),
+        target.y + radius * Math.cos(phi),
+        target.z + radius * Math.sin(phi) * Math.cos(theta)
+      );
+      camera.lookAt(target);
+    }
+  };
+})();
+
+scene.add(new THREE.AmbientLight(0x556677, 0.55));
+const sunLight = new THREE.PointLight(0xffe9c4, 2.2, 400, 1.4);
+scene.add(sunLight);
+
+// ---------------------------------------------------------
+// HELPERS
+// ---------------------------------------------------------
+
+// Procedural placeholder texture: simulates a rectangular map wrapped on a sphere
+function makePlanetTexture(baseColor, accentColor, pattern){
+  const c = document.createElement('canvas');
+  c.width = 512; c.height = 256;
+  const ctx = c.getContext('2d');
+  ctx.fillStyle = baseColor;
+  ctx.fillRect(0,0,512,256);
+
+  if(pattern === 'water'){
+    ctx.fillStyle = accentColor;
+    for(let i=0;i<9;i++){
+      const x = Math.random()*512, y = Math.random()*256;
+      const r = 8+Math.random()*22;
+      ctx.beginPath(); ctx.ellipse(x,y,r,r*0.6,Math.random()*Math.PI,0,Math.PI*2); ctx.fill();
+    }
+  } else if(pattern === 'forest'){
+    ctx.fillStyle = accentColor;
+    for(let i=0;i<800;i++){
+      const x = Math.random()*512, y = Math.random()*256;
+      ctx.fillRect(x,y,2,2);
+    }
+  } else if(pattern === 'volcanic'){
+    ctx.fillStyle = accentColor;
+    for(let i=0;i<14;i++){
+      const x = Math.random()*512, y = Math.random()*256;
+      ctx.beginPath(); ctx.arc(x,y,3+Math.random()*10,0,Math.PI*2); ctx.fill();
+    }
+  } else if(pattern === 'gas'){
+    for(let y=0;y<256;y+=10){
+      ctx.fillStyle = y%20===0 ? accentColor : baseColor;
+      ctx.fillRect(0,y,512,10);
+    }
+  } else if(pattern === 'dark'){
+    ctx.fillStyle = accentColor;
+    for(let i=0;i<300;i++){
+      const x = Math.random()*512, y = Math.random()*256;
+      ctx.fillRect(x,y,1,1);
+    }
+  } else if(pattern === 'star'){
+    const grad = ctx.createRadialGradient(256,128,0,256,128,256);
+    grad.addColorStop(0, accentColor);
+    grad.addColorStop(1, baseColor);
+    ctx.fillStyle = grad;
+    ctx.fillRect(0,0,512,256);
+  }
+  const tex = new THREE.CanvasTexture(c);
+  tex.wrapS = THREE.RepeatWrapping;
+  return tex;
+}
+
+function makeStarSprite(color){
+  const c = document.createElement('canvas'); c.width=c.height=64;
+  const ctx = c.getContext('2d');
+  const g = ctx.createRadialGradient(32,32,0,32,32,32);
+  g.addColorStop(0, color); g.addColorStop(0.3, color); g.addColorStop(1,'rgba(0,0,0,0)');
+  ctx.fillStyle = g; ctx.fillRect(0,0,64,64);
+  return new THREE.CanvasTexture(c);
+}
+
+// Elemental aura attached to each season planet: purely cosmetic (particles/glow/rings),
+// distinct from the placeholder map texture so the element reads even before real maps exist.
+function addAura(mesh, kind, radius){
+  const group = new THREE.Group();
+
+  if(kind==='fire'){
+    const halo = new THREE.Sprite(new THREE.SpriteMaterial({
+      map: makeStarSprite('#ff9a52'), color:0xff8a4d, transparent:true, opacity:0.6,
+      blending: THREE.AdditiveBlending, depthWrite:false
+    }));
+    halo.scale.set(radius*4.2, radius*4.2, 1);
+    group.add(halo);
+  }
+
+  else if(kind==='water'){
+    const ring = new THREE.Mesh(
+      new THREE.TorusGeometry(radius*1.7, radius*0.1, 8, 48),
+      new THREE.MeshBasicMaterial({ color:0x6fc7e8, transparent:true, opacity:0.4 })
+    );
+    ring.rotation.x = Math.PI/2.3;
+    group.add(ring);
+    group.userData.spin = 0.5;
+  }
+
+  else if(kind==='earth'){
+    const geo = new THREE.BufferGeometry();
+    const pos = [];
+    for(let i=0;i<(isMobile?18:36);i++){
+      const a = Math.random()*Math.PI*2, r = radius*1.5+Math.random()*radius*0.7;
+      pos.push(Math.cos(a)*r, (Math.random()-0.5)*radius*0.7, Math.sin(a)*r);
+    }
+    geo.setAttribute('position', new THREE.Float32BufferAttribute(pos,3));
+    const pts = new THREE.Points(geo, new THREE.PointsMaterial({
+      color:0x8fe08a, size:0.16, transparent:true, opacity:0.85,
+      map: makeStarSprite('#8fe08a'), depthWrite:false
+    }));
+    group.add(pts);
+    group.userData.spin = 0.18;
+  }
+
+  else if(kind==='air'){
+    // Soft swirling wind wisps (particle spiral) instead of rigid rotating planes.
+    const count = isMobile ? 20 : 42;
+    const geo = new THREE.BufferGeometry();
+    geo.setAttribute('position', new THREE.BufferAttribute(new Float32Array(count*3), 3));
+    const orbitR = [], orbitY = [], speed = [], phase = [];
+    for(let i=0;i<count;i++){
+      const ring = i % 3;
+      orbitR.push(radius*(1.6 + ring*0.32));
+      orbitY.push((ring-1)*radius*0.32);
+      speed.push(1.0 + ring*0.28 + Math.random()*0.15);
+      phase.push((i/count)*Math.PI*8 + Math.random()*0.5);
+    }
+    const pts = new THREE.Points(geo, new THREE.PointsMaterial({
+      color:0x9df2e0, size:radius*0.26, transparent:true, opacity:0.55,
+      map: makeStarSprite('#9df2e0'), depthWrite:false, blending:THREE.AdditiveBlending
+    }));
+    pts.userData.wind = { orbitR, orbitY, speed, phase, count };
+    group.add(pts);
+  }
+
+  else if(kind==='light'){
+    // Three small concentric rings (not one wide one) so Luma reads differently from Venthar's
+    // wind-particle aura even though both are "ringed" bodies at a glance.
+    const ringColors = [0xfff3c9, 0xffe9a8, 0xfff8dd];
+    for(let i=0;i<3;i++){
+      const inner = radius*(1.3 + i*0.22);
+      const outer = inner + radius*0.1;
+      const ring = new THREE.Mesh(
+        new THREE.RingGeometry(inner, outer, 48),
+        new THREE.MeshBasicMaterial({ color: ringColors[i], side:THREE.DoubleSide, transparent:true, opacity:0.55-i*0.1, blending:THREE.AdditiveBlending, depthWrite:false })
+      );
+      ring.rotation.x = Math.PI/2 + 0.12 + i*0.16;
+      ring.rotation.z = i*0.35;
+      group.add(ring);
+    }
+    group.userData.spin = 0.3;
+  }
+
+  else if(kind==='dark'){
+    for(let i=0;i<(isMobile?3:5);i++){
+      const s = new THREE.Sprite(new THREE.SpriteMaterial({
+        map: makeStarSprite('#6a4a8a'), color:0x6a4a8a, transparent:true, opacity:0.32, depthWrite:false
+      }));
+      const a = Math.random()*Math.PI*2, r = radius*0.7+Math.random()*radius*0.9;
+      s.position.set(Math.cos(a)*r, (Math.random()-0.5)*radius*0.6, Math.sin(a)*r);
+      s.scale.set(radius*1.6, radius*1.6, 1);
+      group.add(s);
+    }
+    group.userData.spin = -0.06;
+  }
+
+  mesh.add(group);
+  return group;
+}
+
+// Per-frame update for the local aura effects (wind particle spiral, slow spin)
+function updateAura(group, dt, t){
+  if(!group) return;
+  if(group.userData.spin) group.rotation.y += dt*group.userData.spin;
+  group.children.forEach(child=>{
+    if(child.userData.wind){
+      const w = child.userData.wind;
+      const posAttr = child.geometry.attributes.position;
+      for(let i=0;i<w.count;i++){
+        const ang = t*w.speed[i] + w.phase[i];
+        posAttr.setXYZ(i, Math.cos(ang)*w.orbitR[i], w.orbitY[i] + Math.sin(t*0.7+w.phase[i])*0.15*w.orbitR[i], Math.sin(ang)*w.orbitR[i]);
+      }
+      posAttr.needsUpdate = true;
+    }
+  });
+}
+
+function ellipsePoints(a, b, segments){
+  const pts = [];
+  for(let i=0;i<=segments;i++){
+    const t = (i/segments)*Math.PI*2;
+    pts.push(new THREE.Vector3(Math.cos(t)*a, 0, Math.sin(t)*b));
+  }
+  return pts;
+}
+
+function orbitLine(a, b, color, opacity){
+  const pts = ellipsePoints(a,b,128);
+  const geo = new THREE.BufferGeometry().setFromPoints(pts);
+  const mat = new THREE.LineBasicMaterial({ color, transparent:true, opacity: opacity!==undefined?opacity:0.25 });
+  return new THREE.LineLoop(geo, mat);
+}
+
+const tooltip = document.getElementById('tooltip');
+function label(mesh, text){ mesh.userData.label = text; }
+
+// Bodies that can be hovered/clicked (tooltip + future wiki link)
+const clickableBodies = [];
+function makeClickable(mesh, text, wikiUrl){
+  label(mesh, text);
+  mesh.userData.wikiUrl = wikiUrl || null;
+  clickableBodies.push(mesh);
+}
+
+// Bodies that can swap between a smooth sphere and a low-poly icosahedron (d20) look
+const shapeToggleables = [];
+function makeShapeToggleable(mesh, radius){
+  mesh.userData.baseRadius = radius;
+  mesh.userData.sphereGeo = mesh.geometry;
+  mesh.userData.icoGeo = new THREE.IcosahedronGeometry(radius, 0);
+  shapeToggleables.push(mesh);
+}
+
+// Lightweight always-on screen-space labels (toggleable), for the main named bodies only
+const labelContainer = document.getElementById('labels');
+const worldLabels = [];
+const labelProjectVec = new THREE.Vector3();
+function addWorldLabel(mesh, text, layer){
+  const el = document.createElement('div');
+  el.className = 'body-label';
+  el.textContent = text;
+  labelContainer.appendChild(el);
+  worldLabels.push({ mesh, el, layer });
+}
+
+// ---------------------------------------------------------
+// LAYER GROUPS (one per Cielo, independently toggleable)
+// ---------------------------------------------------------
+const layers = {};
+function newLayer(name){ const g = new THREE.Group(); g.name=name; scene.add(g); layers[name]=g; return g; }
+
+const gHarret   = newLayer('harret');
+const gCielo1   = newLayer('cielo1');
+const gCielo2   = newLayer('cielo2');
+const gCielo3   = newLayer('cielo3');
+const gCielo4   = newLayer('cielo4');
+const gCielo5   = newLayer('cielo5');
+const gCielo6   = newLayer('cielo6');
+const gVuoto    = newLayer('vuoto');
+const gOrbits   = newLayer('orbits');
+
+// --- 0. HARRET (center) ---
+const harretTex = makePlanetTexture('#1d5b8f', '#2f8f4e', 'water');
+// --- Wiki links (dal vault Obsidian) ---
+const WIKI_BASE = 'https://harret-wiki.vercel.app';
+const WIKI_URLS = {
+  Harret:    `${WIKI_BASE}/Mondo/Harret/Pianeta%20di%20Harret/`,
+  Luna:      `${WIKI_BASE}/Mondo/Astri/Luna/`,
+  Sole:      `${WIKI_BASE}/Mondo/Astri/Sole/`,
+  Gelior:    `${WIKI_BASE}/Mondo/Erranti/Gelior/Pianeta%20di%20Gelior/`,
+  Ignar:     `${WIKI_BASE}/Mondo/Erranti/Ignar/Pianeta%20di%20Ignar/`,
+  Luma:      `${WIKI_BASE}/Mondo/Erranti/Luma/Pianeta%20di%20Luma/`,
+  // la cartella nel vault è "Nocthar" (senza ì), a differenza del nome mostrato in scena
+  'Noctharì': `${WIKI_BASE}/Mondo/Erranti/Nocthar/Pianeta%20di%20Nocthar/`,
+  Sylvara:   `${WIKI_BASE}/Mondo/Erranti/Sylvara/Pianeta%20di%20Sylvara/`,
+  Venthar:   `${WIKI_BASE}/Mondo/Erranti/Venthar/Pianeta%20di%20Venthar/`,
+};
+
+// Dei legati alle costellazioni con forma definita (month -> nome/URL). "Dei" è assunta come
+// cartella di primo livello (come "Mondo"); se in realtà sta sotto "Mondo", basta anteporre
+// "Mondo/" qui sotto.
+const WIKI_BASE_DEI = `${WIKI_BASE}/Dei`;
+const CONSTELLATION_GODS = {
+  2:  'Dea del acqua',
+  5:  'Dio della conoscenza',
+  6:  'Dio del sole',
+  7:  'Dio della tempesta',
+  11: 'Dio dei morti',
+  12: 'Dea della luna',
+};
+const CONSTELLATION_WIKI_URLS = {
+  2:  `${WIKI_BASE_DEI}/Dea%20del%20acqua/`,
+  5:  `${WIKI_BASE_DEI}/Dio%20della%20conoscenza/`,
+  6:  `${WIKI_BASE_DEI}/Dio%20del%20sole/`,
+  7:  `${WIKI_BASE_DEI}/Dio%20della%20tempesta/`,
+  11: `${WIKI_BASE_DEI}/Dio%20dei%20morti/`,
+  12: `${WIKI_BASE_DEI}/Dea%20della%20luna/`,
+};
+
+const harret = new THREE.Mesh(
+  new THREE.SphereGeometry(5, 48, 48),
+  new THREE.MeshStandardMaterial({ map: harretTex, roughness:0.8 })
+);
+makeClickable(harret, 'Harret', WIKI_URLS.Harret);
+makeShapeToggleable(harret, 5);
+addWorldLabel(harret, 'Harret', gHarret);
+gHarret.add(harret);
+
+// --- I. VENTI E NUBI (più stratificato, e tinto in base al pianeta-stagione più vicino) ---
+const cloudGroup = new THREE.Group();
+
+const cloudRingOuter = new THREE.Mesh(
+  new THREE.TorusGeometry(7.9, 0.5, 10, 120),
+  new THREE.MeshBasicMaterial({ color:0xbfd8e6, transparent:true, opacity:0.16, blending:THREE.AdditiveBlending, depthWrite:false })
+);
+cloudRingOuter.rotation.x = Math.PI/2 + 0.14;
+
+const cloudRingInner = new THREE.Mesh(
+  new THREE.TorusGeometry(6.7, 0.28, 10, 120),
+  new THREE.MeshBasicMaterial({ color:0xbfd8e6, transparent:true, opacity:0.16, blending:THREE.AdditiveBlending, depthWrite:false })
+);
+cloudRingInner.rotation.x = Math.PI/2 - 0.1;
+
+const cloudGlow = new THREE.Sprite(new THREE.SpriteMaterial({
+  map: makeStarSprite('#bfe3ff'), color:0xbfe3ff, transparent:true, opacity:0.3,
+  blending: THREE.AdditiveBlending, depthWrite:false
+}));
+cloudGlow.scale.set(19, 19, 1);
+
+cloudGroup.add(cloudRingOuter, cloudRingInner, cloudGlow);
+gCielo1.add(cloudGroup);
+
+// wind wisps as faint points
+const cloudWisps = (function(){
+  const geo = new THREE.BufferGeometry();
+  const positions = [];
+  for(let i=0;i<(isMobile?110:260);i++){
+    const t = Math.random()*Math.PI*2;
+    const r = 6.8 + Math.random()*1.6;
+    positions.push(Math.cos(t)*r, (Math.random()-0.5)*0.9, Math.sin(t)*r);
+  }
+  geo.setAttribute('position', new THREE.Float32BufferAttribute(positions,3));
+  const mat = new THREE.PointsMaterial({
+    color:0xdff2ff, size:0.3, transparent:true, opacity:0.55,
+    map: makeStarSprite('#dff2ff'), depthWrite:false, blending:THREE.AdditiveBlending
+  });
+  const pts = new THREE.Points(geo, mat);
+  cloudGroup.add(pts);
+  return pts;
+})();
+
+// Materials whose color gets lerped every frame toward the nearest season-planet's color
+const cloudTintedMaterials = [cloudRingOuter.material, cloudRingInner.material, cloudGlow.material, cloudWisps.material];
+
+// --- II. LUNA + asteroidi ---
+const moonOrbitR = 14;
+gOrbits.add(orbitLine(moonOrbitR, moonOrbitR, 0x8fa5c9, 0.3));
+const moon = new THREE.Mesh(
+  new THREE.SphereGeometry(1.4, 24, 24),
+  new THREE.MeshStandardMaterial({ map: makePlanetTexture('#8892a8','#6d768c','dark'), roughness:0.9 })
+);
+makeClickable(moon, 'Luna', WIKI_URLS.Luna);
+makeShapeToggleable(moon, 1.4);
+addWorldLabel(moon, 'Luna', gCielo2);
+gCielo2.add(moon);
+
+const asteroids = new THREE.Group();
+for(let i=0;i<(isMobile?18:40);i++){
+  // Rounder pebbles (smooth sphere, no flat facets) so they don't read as tiny icosahedra
+  // and clash with the "Forme a icosaedro" toggle elsewhere in the scene.
+  const rockRadius = 0.15+Math.random()*0.2;
+  const geo = new THREE.SphereGeometry(rockRadius, 8, 6);
+  const mat = new THREE.MeshStandardMaterial({ color:0x777a82, roughness:1 });
+  const rock = new THREE.Mesh(geo, mat);
+  rock.scale.set(1+(Math.random()-0.5)*0.3, 1+(Math.random()-0.5)*0.3, 1+(Math.random()-0.5)*0.3);
+  makeShapeToggleable(rock, rockRadius);
+  const t = Math.random()*Math.PI*2;
+  const r = 11 + Math.random()*4;
+  rock.position.set(Math.cos(t)*r, (Math.random()-0.5)*1.2, Math.sin(t)*r);
+  rock.userData.angle = t;
+  rock.userData.radius = r;
+  rock.userData.speed = 0.15 + Math.random()*0.1;
+  asteroids.add(rock);
+}
+gCielo2.add(asteroids);
+
+// --- III. SOLE + comete ---
+const sunOrbitR = 22;
+gOrbits.add(orbitLine(sunOrbitR, sunOrbitR, 0xffcf8a, 0.3));
+const sun = new THREE.Mesh(
+  new THREE.SphereGeometry(3, 32, 32),
+  new THREE.MeshBasicMaterial({ map: makePlanetTexture('#ffb347','#fff1c9','star') })
+);
+makeClickable(sun, 'Sole', WIKI_URLS.Sole);
+makeShapeToggleable(sun, 3);
+addWorldLabel(sun, 'Sole', gCielo3);
+const sunHalo = new THREE.Sprite(new THREE.SpriteMaterial({
+  map: makeStarSprite('#ffd98a'), color:0xffd98a, transparent:true, opacity:0.55,
+  blending: THREE.AdditiveBlending, depthWrite:false
+}));
+sunHalo.scale.set(13, 13, 1);
+sun.add(sunHalo);
+gCielo3.add(sun);
+sunLight.position.set(0,0,0); // relit each frame from sun position
+
+// Comets: varied size/speed, loosely following the sun's own orbit (same radius family,
+// own eccentricity/inclination/phase). Tail is a tapered particle stream (custom shader: each
+// point shrinks and fades toward the tail) instead of a flat uniform-width line.
+const sunAngularSpeed = 0.12;
+const cometTrailLength = isMobile ? 16 : 26;
+const cometTrailTex = makeStarSprite('#ffffff');
+const cometTrailMaterial = new THREE.ShaderMaterial({
+  uniforms: { map: { value: cometTrailTex } },
+  vertexShader: `
+    attribute float aSize;
+    attribute vec3 aColor;
+    varying vec3 vColor;
+    void main(){
+      vColor = aColor;
+      vec4 mvPosition = modelViewMatrix * vec4(position, 1.0);
+      gl_PointSize = aSize * (380.0 / -mvPosition.z);
+      gl_Position = projectionMatrix * mvPosition;
+    }
+  `,
+  fragmentShader: `
+    uniform sampler2D map;
+    varying vec3 vColor;
+    void main(){
+      vec4 tex = texture2D(map, gl_PointCoord);
+      gl_FragColor = vec4(vColor, 1.0) * tex;
+    }
+  `,
+  transparent:true, depthWrite:false, blending:THREE.AdditiveBlending,
+});
+
+const comets = new THREE.Group();
+const cometHeads = [];
+for(let i=0;i<5;i++){
+  const size = 0.22 + Math.random()*0.32;
+  const hue = 0.07 + Math.random()*0.06; // warm orange/gold range, like the sun
+  const color = new THREE.Color().setHSL(hue, 0.75, 0.7);
+  const head = new THREE.Mesh(new THREE.SphereGeometry(size,10,10), new THREE.MeshBasicMaterial({ color }));
+  makeShapeToggleable(head, size);
+
+  const trailGeo = new THREE.BufferGeometry();
+  trailGeo.setAttribute('position', new THREE.BufferAttribute(new Float32Array(cometTrailLength*3),3));
+  trailGeo.setAttribute('aColor', new THREE.BufferAttribute(new Float32Array(cometTrailLength*3),3));
+  trailGeo.setAttribute('aSize', new THREE.BufferAttribute(new Float32Array(cometTrailLength),1));
+  const trail = new THREE.Points(trailGeo, cometTrailMaterial);
+
+  head.userData = {
+    followRadius: sunOrbitR + (Math.random()-0.5)*10,
+    eccFactor: 0.65 + Math.random()*0.55,   // how much it deviates from the sun's circular path
+    phase: Math.random()*Math.PI*2,
+    speedFactor: 0.5 + Math.random()*1.5,   // relative to the sun's own angular speed
+    yTilt: (Math.random()-0.5)*9,
+    trailHistory: [],
+    trail, color, headSize: size,
+  };
+  comets.add(head);
+  comets.add(trail);
+  cometHeads.push(head);
+}
+gCielo3.add(comets);
+
+// --- IV. I 6 PIANETI DELLE STAGIONI (3 orbite ellittiche IDENTICHE, Harret su un fuoco di ciascuna) ---
+// Stessa logica del vecchio Runistoria (main.cpp): 3 ellissi congruenti ruotate di 120° l'una
+// dall'altra, ognuna con Harret in uno dei due fuochi (non al centro). Le due orbite condividono
+// la stessa forma/dimensione: cambia solo l'orientamento. Ogni orbita ospita una coppia di pianeti
+// opposti (sfasati di 180°), così quando uno si avvicina a Harret l'altro si allontana.
+const seasonOrbitShape = { a: 72, b: 64 };
+const seasonOrbitFocusOffset = Math.sqrt(Math.max(seasonOrbitShape.a**2 - seasonOrbitShape.b**2, 0));
+const seasonOrbits = [0, 2*Math.PI/3, 4*Math.PI/3].map(rotation => ({
+  a: seasonOrbitShape.a,
+  b: seasonOrbitShape.b,
+  rotation,
+  phase: rotation, // keeps the three orbits in a coherent relative arrangement, like the reference script
+  center: new THREE.Vector3(-seasonOrbitFocusOffset*Math.cos(rotation), 0, -seasonOrbitFocusOffset*Math.sin(rotation)),
+}));
+
+function seasonOrbitPosition(orbit, angle){
+  const xLocal = orbit.a*Math.cos(angle);
+  const zLocal = orbit.b*Math.sin(angle);
+  const cosR = Math.cos(orbit.rotation), sinR = Math.sin(orbit.rotation);
+  return new THREE.Vector3(
+    orbit.center.x + xLocal*cosR - zLocal*sinR,
+    0,
+    orbit.center.z + xLocal*sinR + zLocal*cosR
+  );
+}
+
+seasonOrbits.forEach(orbit=>{
+  const segments = 128, pts = [];
+  for(let i=0;i<=segments;i++) pts.push(seasonOrbitPosition(orbit, (i/segments)*Math.PI*2));
+  const line = new THREE.LineLoop(
+    new THREE.BufferGeometry().setFromPoints(pts),
+    new THREE.LineBasicMaterial({ color:0xd9c58a, transparent:true, opacity:0.22 })
+  );
+  gOrbits.add(line);
+});
+
+// Coppie sullo stesso fuoco/orbita, come da lore: Luce/Buio, Acqua/Fuoco, Terra/Aria
+// seasonColor è il colore usato per tingere i Venti e le Nubi quando questo pianeta è il più vicino
+const seasonPlanets = [
+  { name:'Noctharì', color:['#0c0c14','#3a2d55'], pattern:'dark',     element:'dark',  orbit:0, phase:0,        seasonColor:'#6a4a8a' },
+  { name:'Luma',     color:['#e9e4d0','#fff9e6'], pattern:'star',     element:'light', orbit:0, phase:Math.PI, seasonColor:'#fff3c9' },
+  { name:'Ignar',    color:['#4a1717','#ff5a2e'], pattern:'volcanic', element:'fire',  orbit:1, phase:0,        seasonColor:'#ff8a4d' },
+  { name:'Gelior',   color:['#2a6f97','#bfe3ff'], pattern:'water',    element:'water', orbit:1, phase:Math.PI, seasonColor:'#6fc7e8' },
+  { name:'Sylvara',  color:['#1e5631','#4f9d5a'], pattern:'forest',   element:'earth', orbit:2, phase:0,        seasonColor:'#8fe08a' },
+  { name:'Venthar',  color:['#0f5c55','#7be0c9'], pattern:'gas',      element:'air',   orbit:2, phase:Math.PI, seasonColor:'#9df2e0' },
+];
+const planetAngularSpeed = 0.12;
+
+const planetMeshes = [];
+seasonPlanets.forEach(p=>{
+  const tex = makePlanetTexture(p.color[0], p.color[1], p.pattern);
+  const mat = p.pattern==='star'
+    ? new THREE.MeshBasicMaterial({ map: tex })
+    : new THREE.MeshStandardMaterial({ map: tex, roughness:0.85 });
+  const radius = 1.7;
+  const mesh = new THREE.Mesh(new THREE.SphereGeometry(radius, 32,32), mat);
+  mesh.userData = {
+    orbit: seasonOrbits[p.orbit],
+    phaseOffset: p.phase,
+    seasonColor: new THREE.Color(p.seasonColor),
+    element: p.element,
+  };
+  makeClickable(mesh, p.name, WIKI_URLS[p.name]);
+  makeShapeToggleable(mesh, radius);
+  addWorldLabel(mesh, p.name, gCielo4);
+  mesh.userData.auraGroup = addAura(mesh, p.element, radius);
+
+  if(p.pattern==='gas'){
+    const ring = new THREE.Mesh(
+      new THREE.RingGeometry(radius*1.5, radius*2, 48),
+      new THREE.MeshBasicMaterial({ color:0x7be0c9, side:THREE.DoubleSide, transparent:true, opacity:0.45 })
+    );
+    ring.rotation.x = Math.PI/2 + 0.3;
+    mesh.add(ring);
+  }
+
+  gCielo4.add(mesh);
+  planetMeshes.push(mesh);
+});
+
+// --- V. LE 12 COSTELLAZIONI DEGLI DEI ---
+// Ogni costellazione è dati puri: un elenco di stelle (coordinate locali x,y, origine al centro
+// della costellazione) e una lista di segmenti che le uniscono (coppie di indici in "stars").
+// Per darmi una forma precisa basta sostituire "stars"/"edges" di una voce, es:
+//   { stars:[{x:-2,y:0},{x:2,y:0},{x:0,y:2},{x:0,y:-2}], edges:[[0,1],[2,3]] }  // una croce
+// "month" è il mese (1-12) in cui la costellazione è "il mese di quella costellazione".
+function placeholderTriangle(){
+  return {
+    stars: [
+      { x:-3+Math.random(), y: 2+Math.random() },
+      { x: 3+Math.random(), y:-1+Math.random() },
+      { x: 0,                y:-3+Math.random() },
+    ],
+    edges: [[0,1],[1,2],[2,0]],
+  };
+}
+
+// Shapes for the constellations tied to a specific god, sketched in code from Francesco's
+// concept notes (not meant to trace his sketches exactly, just capture the idea of each).
+function whirlpoolShape(){ // Costellazione 2 — dio/dea dell'acqua: un vortice/spirale
+  const steps = 9;
+  const stars = [];
+  for(let i=0;i<steps;i++){
+    const angle = i*0.85;
+    const r = 0.3 + i*0.42;
+    stars.push({ x: Math.cos(angle)*r, y: Math.sin(angle)*r });
+  }
+  const edges = [];
+  for(let i=0;i<steps-1;i++) edges.push([i,i+1]);
+  return { stars, edges };
+}
+
+function bookShape(){ // Costellazione 5 — dio della conoscenza: icona di libro aperto
+  // Versione più semplice e "rettangolare": meno pizzico al centro (altrimenti sembra una
+  // farfalla) e la piega centrale del libro ben marcata come segmento a sé.
+  const stars = [
+    { x:-3, y: 2.4 }, // 0 angolo alto esterno sx
+    { x: 0, y: 1.9 }, // 1 piega centrale alta (dip leggero, non estremo)
+    { x: 3, y: 2.4 }, // 2 angolo alto esterno dx
+    { x: 3, y:-2.4 }, // 3 angolo basso esterno dx
+    { x: 0, y:-1.9 }, // 4 piega centrale bassa
+    { x:-3, y:-2.4 }, // 5 angolo basso esterno sx
+  ];
+  const edges = [
+    [0,1],[1,2],       // contorno pagina superiore (sx -> piega -> dx)
+    [2,3],             // dorso esterno dx
+    [3,4],[4,5],       // contorno pagina inferiore (dx -> piega -> sx)
+    [5,0],             // dorso esterno sx
+    [1,4],             // piega centrale del libro (la linea che mancava)
+  ];
+  return { stars, edges };
+}
+
+function sunburstShape(){ // Costellazione 6 — dio del sole: sole stilizzato
+  const stars = [{ x:0, y:0 }]; // 0: nucleo centrale
+  const rays = 8;
+  for(let i=0;i<rays;i++){
+    const angle = (i/rays)*Math.PI*2;
+    stars.push({ x: Math.cos(angle)*2.3, y: Math.sin(angle)*2.3 });
+  }
+  const edges = [];
+  for(let i=1;i<=rays;i++) edges.push([0,i]); // raggi dal nucleo verso l'esterno
+  return { stars, edges };
+}
+
+function lanternShape(){ // Costellazione 11 — dio della morte: una lanterna
+  // Corpo semplice a trapezio (niente "pancia" a botte), anello-manico in cima, candela/
+  // stoppino centrale, e una base con due piedini in fondo.
+  const stars = [
+    { x:-0.6, y: 3.0 }, // 0 manico sx
+    { x: 0.6, y: 3.0 }, // 1 manico dx
+    { x:-1.8, y: 1.9 }, // 2 corpo, angolo alto sx
+    { x: 1.8, y: 1.9 }, // 3 corpo, angolo alto dx
+    { x: 1.1, y:-2.0 }, // 4 corpo, angolo basso dx
+    { x:-1.1, y:-2.0 }, // 5 corpo, angolo basso sx
+    { x: 0,   y: 1.9 }, // 6 candela/stoppino, punto alto
+    { x: 0,   y:-2.0 }, // 7 candela/stoppino, punto basso
+    { x:-0.7, y:-2.9 }, // 8 base, piedino sx
+    { x: 0.7, y:-2.9 }, // 9 base, piedino dx
+  ];
+  const edges = [
+    [0,1],[0,2],[1,3],     // anello del manico + attacco al corpo
+    [2,3],[3,4],[4,5],[5,2], // contorno del corpo (trapezio)
+    [6,7],                 // candela/stoppino centrale
+    [5,8],[4,9],[8,9],     // base con due piedini
+  ];
+  return { stars, edges };
+}
+
+function crescentMoonShape(){ // Costellazione 12 — dea della luna: falce di luna, più curva
+  // Due archi generati (non più solo 3 punti fissi per lato) per un profilo molto più rotondo,
+  // e una falce più sottile (meno "pancia" interna) per leggersi chiaramente come luna e non lente.
+  const h = 3, outerBulge = 2.6, innerBulge = 0.85;
+  const arcSteps = 5; // punti intermedi per arco, oltre alle due punte condivise
+  const stars = [{ x:0, y:h }]; // punta alta
+  for(let i=1;i<=arcSteps;i++){
+    const theta = (i/(arcSteps+1))*Math.PI;
+    stars.push({ x: Math.sin(theta)*outerBulge, y: Math.cos(theta)*h }); // arco esterno
+  }
+  stars.push({ x:0, y:-h }); // punta bassa
+  for(let i=arcSteps;i>=1;i--){
+    const theta = (i/(arcSteps+1))*Math.PI;
+    stars.push({ x: Math.sin(theta)*innerBulge, y: Math.cos(theta)*h }); // arco interno (concavo)
+  }
+  const edges = [];
+  for(let i=0;i<stars.length;i++) edges.push([i, (i+1)%stars.length]);
+  return { stars, edges };
+}
+
+// month (1-12) -> forma custom, tutte le altre restano triangoli placeholder
+const constellationShapes = {
+  2: whirlpoolShape,
+  5: bookShape,
+  6: sunburstShape,
+  11: lanternShape,
+  12: crescentMoonShape,
+};
+
+const constellationDefs = Array.from({ length:12 }, (_, i) => ({
+  name: CONSTELLATION_GODS[i+1] || `Costellazione ${i+1}`, // TODO: nomi dei restanti dei quando saranno definiti
+  month: i+1,
+  ...(constellationShapes[i+1] ? constellationShapes[i+1]() : placeholderTriangle()),
+}));
+
+const constellationRadius = 130;
+const constellationFlatten = 0.32; // tende verso il piano comune
+const constellationStarTex = makeStarSprite('#fff3d6');
+const constellationGroups = []; // per l'animazione "si accende nel suo mese"
+const CONSTELLATION_SPREAD = 1.6; // allarga le figure, cosi le stelle non si fondono in una macchia
+
+constellationDefs.forEach((def, i)=>{
+  const group = new THREE.Group();
+  const theta = (i/12)*Math.PI*2;
+  const cx = Math.cos(theta)*constellationRadius;
+  const cz = Math.sin(theta)*constellationRadius;
+  const cy = (Math.random()-0.5)*constellationRadius*constellationFlatten*0.5;
+  group.position.set(cx, cy, cz);
+  group.lookAt(0,0,0);
+
+  const starPoints3D = def.stars.map(s => new THREE.Vector3(s.x*CONSTELLATION_SPREAD, s.y*CONSTELLATION_SPREAD, 0));
+  const starSprites = starPoints3D.map(pos=>{
+    const sp = new THREE.Sprite(new THREE.SpriteMaterial({
+      map: constellationStarTex, color:0xfff3d6, transparent:true, opacity:0.65,
+      blending: THREE.AdditiveBlending, depthWrite:false
+    }));
+    sp.position.copy(pos);
+    sp.scale.set(3.2, 3.2, 1); // visibili ma distinte, non fuse tra loro
+    group.add(sp);
+    return sp;
+  });
+
+  const edgePoints = [];
+  def.edges.forEach(([a,b])=> edgePoints.push(starPoints3D[a], starPoints3D[b]));
+  const line = new THREE.LineSegments(
+    new THREE.BufferGeometry().setFromPoints(edgePoints),
+    new THREE.LineBasicMaterial({ color:0xffe9b3, transparent:true, opacity:0.4, blending:THREE.AdditiveBlending, depthWrite:false })
+  );
+  group.add(line);
+
+  // Invisible hitbox so the whole constellation is clickable (sized to its actual spread).
+  // depthWrite:false is essential: an invisible mesh still writes to the depth buffer by
+  // default, which was silently occluding any star sprite that happened to fall inside its
+  // radius (looked like the stars were "covered by something" — because they were).
+  const bbox = new THREE.Box3().setFromPoints(starPoints3D);
+  const hitboxRadius = Math.max(4.5, bbox.getSize(new THREE.Vector3()).length()*0.6);
+  const hitbox = new THREE.Mesh(
+    new THREE.SphereGeometry(hitboxRadius, 8, 8),
+    new THREE.MeshBasicMaterial({ transparent:true, opacity:0, depthWrite:false, depthTest:false })
+  );
+  group.add(hitbox);
+  makeClickable(hitbox, def.name, CONSTELLATION_WIKI_URLS[def.month]);
+
+  gCielo5.add(group);
+  constellationGroups.push({ group, starSprites, line, month:def.month, activeAmount:0 });
+});
+
+// Orologio "calendario": in quanti secondi (a velocità 1x) passa un mese, usato per far
+// accendere la costellazione del mese corrente. Puramente narrativo, scorporato dai periodi
+// orbitali reali (che sono pensati per l'effetto visivo, non per un calendario esatto).
+const monthDuration = 5;
+function currentMonthIndex(t){ return Math.floor(t / monthDuration) % 12; } // 0-11
+
+// --- VI. STELLE LONTANE (procedurali) ---
+{
+  const count = isMobile ? 1400 : 3500;
+  const geo = new THREE.BufferGeometry();
+  const positions = new Float32Array(count*3);
+  const flatten = 0.4; // dome tendente al piano, come nello schizzo
+  for(let i=0;i<count;i++){
+    const theta = Math.random()*Math.PI*2;
+    const r = 150 + Math.random()*55;
+    const y = (Math.random()-0.5)*r*flatten;
+    positions[i*3]   = Math.cos(theta)*r;
+    positions[i*3+1] = y;
+    positions[i*3+2] = Math.sin(theta)*r;
+  }
+  geo.setAttribute('position', new THREE.Float32BufferAttribute(positions,3));
+  const mat = new THREE.PointsMaterial({ color:0xffffff, size:1.15, transparent:true, opacity:0.95, map:makeStarSprite('#ffffff'), depthWrite:false, blending:THREE.AdditiveBlending });
+  const stars = new THREE.Points(geo, mat);
+  gCielo6.add(stars);
+
+  // A few rare stars near the zenith/nadir (poles), uniformly over the full sphere so they
+  // don't just band around the equator, but far sparser than the main flattened field.
+  const poleCount = isMobile ? 260 : 750;
+  const poleGeo = new THREE.BufferGeometry();
+  const polePositions = new Float32Array(poleCount*3);
+  for(let i=0;i<poleCount;i++){
+    // uniform point on a sphere (avoids pole-clustering bias)
+    const u = Math.random()*2-1;
+    const phi = Math.random()*Math.PI*2;
+    const s = Math.sqrt(1-u*u);
+    const r = 150 + Math.random()*55;
+    polePositions[i*3]   = r*s*Math.cos(phi);
+    polePositions[i*3+1] = r*u;
+    polePositions[i*3+2] = r*s*Math.sin(phi);
+  }
+  poleGeo.setAttribute('position', new THREE.Float32BufferAttribute(polePositions,3));
+  const poleMat = new THREE.PointsMaterial({ color:0xdfe8ff, size:1.0, transparent:true, opacity:0.75, map:makeStarSprite('#dfe8ff'), depthWrite:false, blending:THREE.AdditiveBlending });
+  gCielo6.add(new THREE.Points(poleGeo, poleMat));
+}
+
+// --- VUOTO: nebulose e presenze inquietanti, molto più lontano ---
+{
+  function nebulaSprite(color, size, pos){
+    const mat = new THREE.SpriteMaterial({ map: makeStarSprite(color), color, transparent:true, opacity:0.35, depthWrite:false });
+    const s = new THREE.Sprite(mat);
+    s.scale.set(size,size,1);
+    s.position.copy(pos);
+    return s;
+  }
+  const nebulaColors = ['#4b2e83','#1d3b53','#5c1a3d','#123'];
+  for(let i=0;i<(isMobile?6:10);i++){
+    const t = Math.random()*Math.PI*2;
+    const r = 230 + Math.random()*140;
+    const pos = new THREE.Vector3(Math.cos(t)*r, (Math.random()-0.5)*160, Math.sin(t)*r);
+    gVuoto.add(nebulaSprite(nebulaColors[i%nebulaColors.length], 60+Math.random()*80, pos));
+  }
+  // black hole placeholders: dark sphere with faint accretion ring
+  for(let i=0;i<2;i++){
+    const t = Math.random()*Math.PI*2;
+    const r = 260 + Math.random()*100;
+    const pos = new THREE.Vector3(Math.cos(t)*r, (Math.random()-0.5)*100, Math.sin(t)*r);
+    const hole = new THREE.Mesh(new THREE.SphereGeometry(6,24,24), new THREE.MeshBasicMaterial({color:0x000000}));
+    hole.position.copy(pos);
+    const ring = new THREE.Mesh(new THREE.RingGeometry(7,11,48), new THREE.MeshBasicMaterial({color:0x6a3fa0, side:THREE.DoubleSide, transparent:true, opacity:0.4}));
+    ring.rotation.x = Math.PI/2.3;
+    hole.add(ring);
+    gVuoto.add(hole);
+  }
+  // "floor and ceiling" nebulae: same idea, but biased toward high |y| (above/below the ecliptic)
+  // rather than around the sides, so looking straight up/down isn't empty.
+  for(let i=0;i<(isMobile?4:7);i++){
+    const sign = i%2===0 ? 1 : -1;
+    const y = sign*(210 + Math.random()*150);
+    const spread = 90 + Math.random()*120;
+    const a = Math.random()*Math.PI*2;
+    const pos = new THREE.Vector3(Math.cos(a)*spread, y, Math.sin(a)*spread);
+    gVuoto.add(nebulaSprite(nebulaColors[i%nebulaColors.length], 50+Math.random()*70, pos));
+  }
+}
+
+// ---------------------------------------------------------
+// UI WIRING
+// ---------------------------------------------------------
+const toggles = { c0:gHarret, c1:gCielo1, c2:gCielo2, c3:gCielo3, c4:gCielo4, c5:gCielo5, c6:gCielo6, c7:gVuoto };
+Object.keys(toggles).forEach(id=>{
+  document.getElementById(id).addEventListener('change', e=>{
+    toggles[id].visible = e.target.checked;
+  });
+});
+document.getElementById('showOrbits').addEventListener('change', e=>{
+  gOrbits.visible = e.target.checked;
+});
+
+let speedMult = 1;
+document.getElementById('speed').addEventListener('input', e=>{
+  speedMult = parseFloat(e.target.value);
+});
+
+// Sphere <-> icosahedron (d20) shape toggle, for fun, applies to every clickable celestial body
+let lowPolyMode = false;
+function applyBodyShapes(){
+  shapeToggleables.forEach(mesh=>{
+    try{
+      const targetGeo = lowPolyMode ? mesh.userData.icoGeo : mesh.userData.sphereGeo;
+      if(!targetGeo) return;
+      mesh.geometry = targetGeo;
+      if(mesh.material && 'flatShading' in mesh.material){
+        mesh.material.flatShading = lowPolyMode;
+        mesh.material.needsUpdate = true;
+      }
+    } catch(err){
+      console.error('[Cosmo di Harret] impossibile cambiare forma per', mesh.userData.label || mesh, err);
+    }
+  });
+}
+document.getElementById('lowPoly').addEventListener('change', e=>{
+  lowPolyMode = e.target.checked;
+  applyBodyShapes();
+});
+
+// Lightweight screen-space labels: toggleable, hidden automatically when their Cielo is hidden
+let labelsEnabled = true;
+document.getElementById('showLabels').addEventListener('change', e=>{
+  labelsEnabled = e.target.checked;
+  labelContainer.style.display = labelsEnabled ? 'block' : 'none';
+});
+
+// Cheap CSS vignette + warm "bloom-ish" filter (no WebGL post-processing pipeline needed)
+const vignetteEl = document.getElementById('vignette');
+let fxEnabled = true;
+function applyFx(){
+  vignetteEl.style.display = fxEnabled ? 'block' : 'none';
+  renderer.domElement.style.filter = fxEnabled ? 'brightness(1.08) saturate(1.18) contrast(1.04)' : 'none';
+}
+applyFx();
+document.getElementById('fxToggle').addEventListener('change', e=>{
+  fxEnabled = e.target.checked;
+  applyFx();
+});
+
+// hover tooltip + click-to-open for every clickable body (Harret, Luna, Sole, pianeti, costellazioni)
+const raycaster = new THREE.Raycaster();
+const mouse = new THREE.Vector2();
+renderer.domElement.addEventListener('mousemove', e=>{
+  mouse.x = (e.clientX/window.innerWidth)*2-1;
+  mouse.y = -(e.clientY/window.innerHeight)*2+1;
+  raycaster.setFromCamera(mouse, camera);
+  const hits = raycaster.intersectObjects(clickableBodies);
+  if(hits.length && hits[0].object.userData.label){
+    tooltip.style.display='block';
+    tooltip.style.left = (e.clientX+14)+'px';
+    tooltip.style.top = (e.clientY+10)+'px';
+    tooltip.textContent = hits[0].object.userData.label;
+    renderer.domElement.style.cursor = 'pointer';
+  } else {
+    tooltip.style.display='none';
+    renderer.domElement.style.cursor = 'default';
+  }
+});
+
+// Click su Harret/Luna/Sole/pianeta/costellazione -> in futuro apre la pagina wiki del corpo.
+// Per ora è uno stub: valorizza mesh.userData.wikiUrl quando le pagine esisteranno.
+renderer.domElement.addEventListener('click', e=>{
+  mouse.x = (e.clientX/window.innerWidth)*2-1;
+  mouse.y = -(e.clientY/window.innerHeight)*2+1;
+  raycaster.setFromCamera(mouse, camera);
+  const hits = raycaster.intersectObjects(clickableBodies);
+  if(!hits.length) return;
+  const p = hits[0].object;
+  if(p.userData.wikiUrl){
+    window.open(p.userData.wikiUrl, '_blank');
+  } else {
+    console.log(`[Cosmo di Harret] click su ${p.userData.label} — collega qui l'URL wiki (mesh.userData.wikiUrl) quando la pagina esisterà.`);
+  }
+});
+
+// ---------------------------------------------------------
+// ANIMATION LOOP
+// ---------------------------------------------------------
+const clock = new THREE.Clock();
+let sunBrightness = 1; // reacts to which season-planet is nearest (Luma -> brighter, Noctharì -> dimmer)
+
+// When the tab regains visibility, discard the huge "how long was I gone" delta instead of
+// feeding it into the animation (that's what caused the sun/constellations to balloon).
+document.addEventListener('visibilitychange', ()=>{
+  if(!document.hidden) clock.getDelta();
+});
+let renderLoopBroken = false; // stops error spam if something ever throws mid-frame
+
+function animate(){
+  requestAnimationFrame(animate);
+  if(renderLoopBroken) return;
+  try{
+    animateFrame();
+  } catch(err){
+    renderLoopBroken = true;
+    console.error('[Cosmo di Harret] errore nel render loop, animazione fermata:', err);
+  }
+}
+
+function animateFrame(){
+  // Cap the per-frame delta: if the tab was backgrounded, the browser throttles/stops
+  // requestAnimationFrame, so the next real delta can be several seconds. Left unclamped,
+  // every "lerp toward target" in this loop (constellation scale, sun brightness...) would
+  // overshoot wildly for one frame. The visibilitychange listener below also resets the
+  // clock the moment the tab becomes visible again, so this cap is a second line of defense.
+  const rawDelta = clock.getDelta();
+  const dt = Math.min(rawDelta, 0.08) * speedMult;
+  const t = clock.elapsedTime * speedMult;
+
+  harret.rotation.y += dt*0.15;
+
+  // cielo 1: clouds slowly swirl, tinted toward the nearest season-planet's color (set below)
+  cloudGroup.rotation.y += dt*0.06;
+
+  // cielo 2: moon + asteroids
+  moon.position.set(Math.cos(t*0.4)*moonOrbitR, 0, Math.sin(t*0.4)*moonOrbitR);
+  asteroids.children.forEach(rock=>{
+    rock.userData.angle += dt*rock.userData.speed;
+    const r = rock.userData.radius;
+    rock.position.x = Math.cos(rock.userData.angle)*r;
+    rock.position.z = Math.sin(rock.userData.angle)*r;
+    rock.rotation.x += dt; rock.rotation.y += dt*0.6;
+  });
+
+  // cielo 3: sun + comets (comets loosely follow the sun's own orbital angle)
+  const sunAngle = t*sunAngularSpeed;
+  sun.position.set(Math.cos(sunAngle)*sunOrbitR, 0, Math.sin(sunAngle)*sunOrbitR);
+  sunLight.position.copy(sun.position);
+
+  cometHeads.forEach(head=>{
+    const ud = head.userData;
+    const angle = sunAngle*ud.speedFactor + ud.phase;
+    const r = ud.followRadius, b = r*ud.eccFactor;
+    head.position.set(
+      Math.cos(angle)*r,
+      Math.sin(angle*1.3 + ud.phase)*ud.yTilt*0.3,
+      Math.sin(angle)*b
+    );
+
+    ud.trailHistory.unshift(head.position.clone());
+    if(ud.trailHistory.length > cometTrailLength) ud.trailHistory.pop();
+    const posAttr = ud.trail.geometry.attributes.position;
+    const colAttr = ud.trail.geometry.attributes.aColor;
+    const sizeAttr = ud.trail.geometry.attributes.aSize;
+    for(let i=0;i<cometTrailLength;i++){
+      const pnt = ud.trailHistory[i] || head.position;
+      const fade = Math.pow(1 - i/cometTrailLength, 1.4); // smoother falloff toward the tail
+      posAttr.setXYZ(i, pnt.x, pnt.y, pnt.z);
+      colAttr.setXYZ(i, ud.color.r*fade, ud.color.g*fade, ud.color.b*fade);
+      sizeAttr.setX(i, ud.headSize * fade * 6 + 0.05);
+    }
+    posAttr.needsUpdate = true;
+    colAttr.needsUpdate = true;
+    sizeAttr.needsUpdate = true;
+  });
+
+  // cielo 4: 6 season planets, each on one of the 3 focus-based elliptical orbits
+  let nearestPlanet = null, nearestDist2 = Infinity;
+  planetMeshes.forEach(p=>{
+    const ud = p.userData;
+    const angle = ud.orbit.phase + ud.phaseOffset + planetAngularSpeed*t;
+    p.position.copy(seasonOrbitPosition(ud.orbit, angle));
+    p.rotation.y += dt*0.5;
+    updateAura(ud.auraGroup, dt, t);
+
+    const d2 = p.position.lengthSq(); // Harret is always at the origin
+    if(d2 < nearestDist2){ nearestDist2 = d2; nearestPlanet = p; }
+  });
+  if(nearestPlanet){
+    const target = nearestPlanet.userData.seasonColor;
+    cloudTintedMaterials.forEach(mat=> mat.color.lerp(target, dt*0.4));
+  }
+
+  // Il Sole reagisce al pianeta-stagione più vicino: più luminoso durante la Stagione Radiosa
+  // (Luma vicina), più fioco durante la Stagione Ombrosa (Noctharì vicino).
+  const sunBrightnessTarget = nearestPlanet
+    ? (nearestPlanet.userData.element === 'light' ? 1.4 : nearestPlanet.userData.element === 'dark' ? 0.6 : 1.0)
+    : 1.0;
+  sunBrightness += (sunBrightnessTarget - sunBrightness) * dt*0.6;
+  sunBrightness = THREE.MathUtils.clamp(sunBrightness, 0.5, 1.5);
+  const haloPulse = 12.5 + Math.sin(t*1.4)*1.4;
+  const haloScale = haloPulse * (0.82 + sunBrightness*0.28);
+  sunHalo.scale.set(haloScale, haloScale, 1);
+  sunHalo.material.opacity = THREE.MathUtils.clamp(0.55*sunBrightness, 0.2, 0.85);
+  sun.material.color.setScalar(THREE.MathUtils.clamp(sunBrightness, 0.55, 1.3));
+  sunLight.intensity = 2.2 * THREE.MathUtils.clamp(sunBrightness, 0.55, 1.3);
+
+  // cielo 5: le costellazioni del mese corrente si accendono leggermente (più luminose e più grandi)
+  const monthIdx = currentMonthIndex(t);
+  constellationGroups.forEach(c=>{
+    const targetActive = (c.month-1)===monthIdx ? 1 : 0;
+    c.activeAmount += (targetActive - c.activeAmount) * dt*1.5;
+    c.activeAmount = THREE.MathUtils.clamp(c.activeAmount, 0, 1);
+    c.group.scale.setScalar(1 + c.activeAmount*0.28);
+    c.starSprites.forEach(sp=> sp.material.opacity = 0.65 + c.activeAmount*0.35);
+    c.line.material.opacity = 0.4 + c.activeAmount*0.4;
+  });
+
+  // cielo 5 & 6: slow overall rotation, like the celestial dome turning
+  gCielo5.rotation.y += dt*0.01;
+  gCielo6.rotation.y += dt*0.004;
+  gVuoto.rotation.y += dt*0.001;
+
+  // screen-space labels for the main named bodies
+  if(labelsEnabled){
+    const w = renderer.domElement.clientWidth, h = renderer.domElement.clientHeight;
+    worldLabels.forEach(({mesh, el, layer})=>{
+      if(layer && !layer.visible){ el.style.display='none'; return; }
+      mesh.getWorldPosition(labelProjectVec);
+      labelProjectVec.project(camera);
+      if(labelProjectVec.z > 1 || labelProjectVec.z < -1){ el.style.display='none'; return; }
+      el.style.display = 'block';
+      el.style.left = ((labelProjectVec.x*0.5+0.5)*w) + 'px';
+      el.style.top = ((-labelProjectVec.y*0.5+0.5)*h) + 'px';
+    });
+  }
+
+  controls.update();
+  renderer.render(scene, camera);
+}
+animate();
+
+window.addEventListener('resize', ()=>{
+  camera.aspect = window.innerWidth/window.innerHeight;
+  camera.updateProjectionMatrix();
+  renderer.setSize(window.innerWidth, window.innerHeight);
+});
+
+})();
+</script>
+</body>
+</html>
