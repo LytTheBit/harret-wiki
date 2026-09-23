@@ -16,8 +16,6 @@ const matterOptions = {
   },
 };
 
-// Test for "Mappamondo Harret"
-eleventyConfig.addPassthroughCopy("src/site/cosmo-harret.html");
 
 const faviconsPlugin = require("eleventy-plugin-gen-favicons");
 const tocPlugin = require("eleventy-plugin-nesting-toc");
@@ -118,6 +116,9 @@ const markdownFileTypeRegex = /\.(md|markdown)$/i;
 const isMarkdownPage = (inputPath) => inputPath && inputPath.match(markdownFileTypeRegex);
 
 module.exports = function(eleventyConfig) {
+  // Test for "Mappamondo Harret"
+  eleventyConfig.addPassthroughCopy("src/site/cosmo-harret.html");
+
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
   });
