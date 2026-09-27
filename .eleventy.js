@@ -5,7 +5,7 @@ const matter = require("gray-matter");
 // Obsidian writes [[Page\|Alias]] in frontmatter, but \| is an invalid YAML
 // escape sequence. This custom engine strips \| before parsing. Shared between
 // Eleventy's own frontmatter parser and the manual matter() call in
-// getAnchorAttributes so that wikilink resolution can read the permalink.
+// getAnchorAttributes so that wikilink resolution can read the permalink
 const jsYamlForMatter = require(require.resolve("js-yaml", { paths: [require.resolve("gray-matter")] }));
 const matterOptions = {
   engines: {
