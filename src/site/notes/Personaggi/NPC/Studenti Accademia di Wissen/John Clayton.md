@@ -1,9 +1,6 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":["NPC","V2"],"dg-note-icon":"NPC","Template":"[[NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"John","Cognome":"[[Clayton]]","Specie":"[[Umani]]","Anno di nascita":1203,"Affiliazioni":["[[Accademia di Wissen#Studenti]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![[John Clayton.png]]","permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/John Clayton/","dgPassFrontmatter":true,"created":"2026-05-17T10:15:24.463+02:00","updated":"2026-09-01T22:48:59.744+02:00","dg-note-properties":{"aliases":null,"tags":["NPC","V2"],"Template":"[[(0) Template/Personaggi/NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"John","Cognome":"[[Clayton]]","Specie":"[[Bestiario/Specie Senzienti/Umani]]","Anno di nascita":1203,"Affiliazioni":["[[Fazioni/Organizazioni/Accademia di Wissen#Studenti]]"],"Campagne":["[[Campagne/Tales of the Accademy/Tales of the Accademy]]"],"Immagine":"![[(0) Immagini/Personaggi/NPC/John Clayton.png]]"}}
+{"dg-publish":true,"aliases":null,"tags":["NPC","V2"],"dg-note-icon":"NPC","Template":"[[NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"John","Cognome":"[[Clayton]]","Specie":"[[Umani]]","Anno di nascita":1203,"Affiliazioni":["[[Accademia di Wissen#Studenti]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![[John Clayton.png]]","permalink":"/Personaggi/NPC/Studenti Accademia di Wissen/John Clayton/","dgPassFrontmatter":true,"created":"2026-05-17T10:15:24.463+02:00","updated":"2026-10-19T17:58:44.927+02:00","dg-note-properties":{"aliases":null,"tags":["NPC","V2"],"Template":"[[(0) Template/Personaggi/NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"John","Cognome":"[[Clayton]]","Specie":"[[Bestiario/Specie Senzienti/Umani]]","Anno di nascita":1203,"Affiliazioni":["[[Fazioni/Organizazioni/Accademia di Wissen#Studenti]]"],"Campagne":["[[Campagne/Tales of the Accademy/Tales of the Accademy]]"],"Immagine":"![[(0) Immagini/Personaggi/NPC/John Clayton.png]]"}}
 ---
-
-> [!warning] Attenzione
-> Questa nota è ancora in fase di creazione, potrebbe essere incompleta o errata!
 
 > [!infobox|right]
 > # John Clayton
@@ -18,12 +15,16 @@
 > | Età | 24 |
 > | Affiliato | [[Fazioni/Organizazioni/Accademia di Wissen#Studenti\|Accademia di Wissen > Studenti]]|
 
-Studente del quarto anno [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]] e il figlio primogenito del capo di una tribù seminomade del est. Ora elevati a cavalieri della [[Mondo/Harret/Nazioni/Città di Dumar\|Città di Dumar]]
+Studente del quarto anno [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]] e il figlio primogenito del capo di una tribù seminomade del est. Ora elevati a cavalieri della [[Mondo/Harret/Nazioni/Città di Dumar\|Città di Dumar]].
+
+Fu rapito dai [[Risvegliati Insorti\|Risvegliati Insorti]] e portato alla [[Mondo/Harret/Nazioni/Città di Eisenbahn\|Città di Eisenbahn]]. Venne poi liberato dal Party.
 
 ## Legami
 Ha molti parenti, fratelli e cugini che compongono la sua tribù.
 
-Oltre ad essere ovviamente uno studentesse del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]]
+Oltre ad essere ovviamente uno studente del [[Fazioni/Organizazioni/Accademia di Wissen\|Accademia di Wissen]].
+
+Era promesso sposo ad [[Personaggi/NPC/Studenti Accademia di Wissen/Amity Drusilla Dumar\|Amity Drusilla Dumar]], che trattava però male. Dopo essere stato malmenato dal party la promessa di matrimonio è stata annullata.
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-content-classes":"dg-cards","tags":["V2"],"Template":"[[Famiglia]]","Capo":"[[Duca Aurelian]]","Sede Principale":"[[Ducato di Aurelian\|Ducato di Aurelian]]","Data di fondazione":null,"Motto":"*\"Il sole non tramonta mai sulla Casata Aurelion.\"*","Regno":"[[Mondo/Harret/Nazioni/Regno di Xxx\|Regno di Xxx]]","Rango nobiliare":"Duchi","Immagine":"![[Aurelian.png]]","permalink":"/Fazioni/Famiglie/Aurelian/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-12T13:49:21.401+02:00","updated":"2026-08-13T18:42:56.781+02:00","dg-note-properties":{"tags":["V2"],"Template":"[[(0) Template/Gruppi/Famiglia]]","Capo":"[[Duca Aurelian]]","Sede Principale":"[[Ducato di Aurelian\|Ducato di Aurelian]]","Data di fondazione":null,"Motto":"*\"Il sole non tramonta mai sulla Casata Aurelion.\"*","Regno":"[[Mondo/Harret/Nazioni/Regno di Xxx]]","Rango nobiliare":"Duchi","Immagine":"![[(0) Immagini/Fazioni/Gilde immagini/Aurelian.png]]"}}
+{"dg-publish":true,"dg-content-classes":"dg-cards","tags":["V2"],"Template":"[[Famiglia]]","Capo":"[[Duca Aurelian]]","Sede Principale":"[[Ducato di Aurelian\|Ducato di Aurelian]]","Data di fondazione":null,"Motto":"*\"Il sole non tramonta mai sulla Casata Aurelion.\"*","Regno":"[[Mondo/Harret/Nazioni/(TODO) Regno di Uruck\|(TODO) Regno di Uruck]]","Rango nobiliare":"Duchi","Immagine":"![[Aurelian.png]]","permalink":"/Fazioni/Famiglie/Aurelian/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-12T13:49:21.401+02:00","updated":"2026-10-19T19:38:25.823+02:00","dg-note-properties":{"tags":["V2"],"Template":"[[(0) Template/Gruppi/Famiglia]]","Capo":"[[Duca Aurelian]]","Sede Principale":"[[Ducato di Aurelian\|Ducato di Aurelian]]","Data di fondazione":null,"Motto":"*\"Il sole non tramonta mai sulla Casata Aurelion.\"*","Regno":"[[Mondo/Harret/Nazioni/(TODO) Regno di Uruck]]","Rango nobiliare":"Duchi","Immagine":"![[(0) Immagini/Fazioni/Gilde immagini/Aurelian.png]]"}}
 ---
 
 > [!infobox|right]
@@ -12,10 +12,10 @@
 > | Sede | [[Ducato di Aurelian\|Ducato di Aurelian]] |
 > | Data di fondazione | `= this["Data di fondazione"]` |
 > | Motto | *"Il sole non tramonta mai sulla Casata Aurelion."* |
-> | Regno | [[Mondo/Harret/Nazioni/Regno di Xxx\|Regno di Xxx]] |
+> | Regno | [[Mondo/Harret/Nazioni/(TODO) Regno di Uruck\|(TODO) Regno di Uruck]] |
 > | Rango nobiliare | Duchi |
 
-La famiglia Aurelian è la più importante famiglia ducale del [[Mondo/Harret/Nazioni/Regno di Xxx\|Regno di Xxx]]. Uno dei più potenti regni del continente. Governano sul ducato dal omonimo nome: [[Ducato di Aurelian\|Ducato di Aurelian]]
+La famiglia Aurelian è la più importante famiglia ducale del [[Mondo/Harret/Nazioni/(TODO) Regno di Uruck\|(TODO) Regno di Uruck]]. Uno dei più potenti regni del continente. Governano sul ducato dal omonimo nome: [[Ducato di Aurelian\|Ducato di Aurelian]]
 
 ## Storia
 .
@@ -23,7 +23,7 @@ La famiglia Aurelian è la più importante famiglia ducale del [[Mondo/Harret/Na
 .
 
 ## Al giorno d'oggi
-Al giorno d'oggi gli Aurelian sono una delle famiglie più ricche ed influenti del regno di [[Mondo/Harret/Nazioni/Regno di Xxx\|Xxx]], se non addirittura del mondo intero.
+Al giorno d'oggi gli Aurelian sono una delle famiglie più ricche ed influenti del regno di [[Mondo/Harret/Nazioni/(TODO) Regno di Uruck\|Xxx]], se non addirittura del mondo intero.
 Governano sul ricco [[Ducato di Aurelian\|Ducato di Aurelian]], e venerano il [[Dei/Dio del sole\|Dio del sole]].
 Hanno una storica rivalità con la famiglia [[Fazioni/Famiglie/Qamar\|Qamar]]
 

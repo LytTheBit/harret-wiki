@@ -32,9 +32,11 @@ La gilda gode di grande influenza politica e accademica, avendo rapporti diretti
 ## Membri
 |                                                                               | Membri                                                                        |
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| ![(0) Immagini/Personaggi/Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Personaggi/Persona%20Placeholder.png) | [[Personaggi/NPC/Alma Seele\|Alma Seele]]                                  |
+| ![(0) Immagini/Personaggi/NPC/002 Cavaliere.png\|002 Cavaliere.png](/img/user/(0)%20Immagini/Personaggi/NPC/002%20Cavaliere.png)         | [[Personaggi/NPC/002 (Cavaliere)\|002 (Cavaliere)]]                        |
+| ![(0) Immagini/Personaggi/NPC/033 Mago.png\|033 Mago.png](/img/user/(0)%20Immagini/Personaggi/NPC/033%20Mago.png)                   | [[Personaggi/NPC/033 (Mago)\|033 (Mago)]]                                  |
+| ![(0) Immagini/Personaggi/NPC/072 Moschettiere.png\|072 Moschettiere.png](/img/user/(0)%20Immagini/Personaggi/NPC/072%20Moschettiere.png)   | [[Personaggi/NPC/072 (Moschettiere)\|072 (Moschettiere)]]                  |
+| ![(0) Immagini/Personaggi/NPC/Alma Seele.png\|Alma Seele.png](/img/user/(0)%20Immagini/Personaggi/NPC/Alma%20Seele.png)               | [[Personaggi/NPC/Alma Seele\|Alma Seele]]                                  |
 | ![(0) Immagini/Personaggi/Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Personaggi/Persona%20Placeholder.png) | [[Personaggi/PG/D1-X0N\|D1-X0N]]                                           |
-| ![(0) Immagini/Personaggi/NPC/G0-P1T.png\|G0-P1T.png](/img/user/(0)%20Immagini/Personaggi/NPC/G0-P1T.png)                       | [[Personaggi/NPC/Studenti Accademia di Wissen/G0-P1-T\|G0-P1-T]]           |
 | ![(0) Immagini/Personaggi/Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Personaggi/Persona%20Placeholder.png) | [[Personaggi/NPC/Riese Konstrukt III\|Riese Konstrukt III]]                |
 | ![(0) Immagini/Personaggi/NPC/Ruggie Kerma.png\|Ruggie Kerma.png](/img/user/(0)%20Immagini/Personaggi/NPC/Ruggie%20Kerma.png)           | [[Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma\|Ruggie Kerma]] |
 

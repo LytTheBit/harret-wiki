@@ -17,7 +17,7 @@ Le Vette Grigie sono la principale catena montuosa che divide il nord dal centro
 Il castello appare come un agglomerato di edifici bianchi, in un materiale simil marmo ma più poroso e leggero. Si appoggia su diversi promontori della catena montuoso su cui sorge.
 Diversi ponti e scale di pietra collegano i vari edifici e torri.
 
-Sono per lo più disabitate, se non per qualche popolazione di [[Bestiario/Specie Senzienti/Giganti\|Giganti]] e o barbari nomadi.
+Sono per lo più disabitate, se non per qualche popolazione di [[Bestiario/Specie Senzienti/TODO/Giganti\|Giganti]] e o barbari nomadi.
 
 
 ## Storia

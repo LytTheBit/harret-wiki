@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":["Riese Konstrukt","Riese","Konstrukt III"],"tags":["NPC","V2"],"dg-note-icon":"NPC","Template":"[[NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Riese","Cognome":"[[Konstruckt]]","Specie":"[[Giganti Puri|Gigante]]","Anno di nascita":null,"Affiliazioni":["[[Gilda di Konstrukt]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![[Persona Placeholder.png]]","permalink":"/Personaggi/NPC/Riese Konstrukt III/","dgPassFrontmatter":true,"created":"2026-06-29T15:57:14.355+02:00","updated":"2026-09-06T13:53:25.098+02:00","dg-note-properties":{"aliases":["Riese Konstrukt","Riese","Konstrukt III"],"tags":["NPC","V2"],"Template":"[[(0) Template/Personaggi/NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Riese","Cognome":"[[Konstruckt]]","Specie":"[[Bestiario/Specie Senzienti/Giganti Puri|Gigante]]","Anno di nascita":null,"Affiliazioni":["[[Fazioni/Organizazioni/Gilda di Konstrukt]]"],"Campagne":["[[Campagne/Tales of the Accademy/Tales of the Accademy]]"],"Immagine":"![[(0) Immagini/Personaggi/Persona Placeholder.png]]"}}
+{"dg-publish":true,"aliases":["Riese Konstrukt","Riese","Konstrukt III"],"tags":["NPC","V2"],"dg-note-icon":"NPC","Template":"[[NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Riese","Cognome":"[[Konstruckt]]","Specie":"[[Giganti|Gigante]]","Anno di nascita":null,"Affiliazioni":["[[Gilda di Konstrukt]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![[Persona Placeholder.png]]","permalink":"/Personaggi/NPC/Riese Konstrukt III/","dgPassFrontmatter":true,"created":"2026-06-29T15:57:14.355+02:00","updated":"2026-10-21T19:19:05.875+02:00","dg-note-properties":{"aliases":["Riese Konstrukt","Riese","Konstrukt III"],"tags":["NPC","V2"],"Template":"[[(0) Template/Personaggi/NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Riese","Cognome":"[[Konstruckt]]","Specie":"[[Bestiario/Specie Senzienti/TODO/Giganti|Gigante]]","Anno di nascita":null,"Affiliazioni":["[[Fazioni/Organizazioni/Gilda di Konstrukt]]"],"Campagne":["[[Campagne/Tales of the Accademy/Tales of the Accademy]]"],"Immagine":"![[(0) Immagini/Personaggi/Persona Placeholder.png]]"}}
 ---
 
 > [!infobox|right]
@@ -11,7 +11,7 @@
 > | Nome | Riese |
 > | Cognome | [[Konstruckt\|Konstruckt]] |
 > | Sesso | Maschio |
-> | Specie | [[Bestiario/Specie Senzienti/Giganti Puri\|Gigante]] |
+> | Specie | [[Bestiario/Specie Senzienti/TODO/Giganti\|Gigante]] |
 > | Età | ??? |
 > | Affiliato | [[Fazioni/Organizazioni/Gilda di Konstrukt\|Gilda di Konstrukt]]|
 

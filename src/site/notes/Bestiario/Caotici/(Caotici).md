@@ -21,8 +21,8 @@ I cacciatori di mostri più esperti sanno a memoria il posizionamento di queste 
 
 Nascono quando un animale viene colpito da una di queste gemme, e comincia lentamente a trasformarsi. Assumendo fattezze e comportamenti mostruosi. Parti del loro corpo cominciano a crescere e a diventare nere come la pece.
 Questo processo di corruzione avviene tutto l'anno, ma è più comune durante la [[Lore/Tempo/Stagioni su Harret#Stagione Ombrosa\|Stagione Ombrosa]]
-|                                                                         | Caotici                                     |
-| ----------------------------------------------------------------------- | ------------------------------------------- |
-| ![[(0) Immagini/Personaggi immagini/Mostri/Wendingo.png\|Wendingo.png]] | [[Bestiario/Caotici/Wendingo\|Wendingo]] |
+|                                                                | Caotici                                     |
+| -------------------------------------------------------------- | ------------------------------------------- |
+| ![(0) Immagini/Bestiario/Caotici/Wendingo.png\|Wendingo.png](/img/user/(0)%20Immagini/Bestiario/Caotici/Wendingo.png) | [[Bestiario/Caotici/Wendingo\|Wendingo]] |
 
 { .block-language-dataview}

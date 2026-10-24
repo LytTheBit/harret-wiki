@@ -52,6 +52,9 @@ Gli studenti vengono messi alla prova ogni due mesi con una sfida assegnata dall
 | ![(0) Immagini/0 (Altro)/Sito Icone/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 5 - Trascrizione\|Sessione 5 - Trascrizione]] |
 | ![(0) Immagini/0 (Altro)/Sito Icone/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 6 - Riassunto\|Sessione 6 - Riassunto]]       |
 | ![(0) Immagini/0 (Altro)/Sito Icone/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 6 - Trascrizione\|Sessione 6 - Trascrizione]] |
+| ![(0) Immagini/0 (Altro)/Sito Icone/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 7 - Riassunto\|Sessione 7 - Riassunto]]       |
+| ![(0) Immagini/0 (Altro)/Sito Icone/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 7 - Trascrizione\|Sessione 7 - Trascrizione]] |
+| ![(0) Immagini/0 (Altro)/Sito Icone/Icona Tales of the Academy.png\|Icona Tales of the Academy.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Icona%20Tales%20of%20the%20Academy.png) | [[Campagne/Tales of the Accademy/Sessioni/Sessione 8 - Riassunto\|Sessione 8 - Riassunto]]       |
 
 { .block-language-dataview}
 
@@ -62,6 +65,8 @@ Gli studenti vengono messi alla prova ogni due mesi con una sfida assegnata dall
 | ![(0) Immagini/0 (Altro)/Sito Icone/Icona Quest.png\|Icona Quest.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Icona%20Quest.png) | [[Campagne/Tales of the Accademy/Quest e misteri/Esami accademia - 1°\|Esami accademia - 1°]]       |
 | ![(0) Immagini/0 (Altro)/Sito Icone/Icona Quest.png\|Icona Quest.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Icona%20Quest.png) | [[Campagne/Tales of the Accademy/Quest e misteri/Esami accademia - 2°\|Esami accademia - 2°]]       |
 | ![(0) Immagini/0 (Altro)/Sito Icone/Icona Quest.png\|Icona Quest.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Icona%20Quest.png) | [[Campagne/Tales of the Accademy/Quest e misteri/Il Dragonide Misterioso\|Il Dragonide Misterioso]] |
+| ![(0) Immagini/0 (Altro)/Sito Icone/Icona Quest.png\|Icona Quest.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Icona%20Quest.png) | [[Campagne/Tales of the Accademy/Quest e misteri/Rapimenti A\|Rapimenti A]]                         |
+| ![(0) Immagini/0 (Altro)/Sito Icone/Icona Quest.png\|Icona Quest.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Icona%20Quest.png) | [[Campagne/Tales of the Accademy/Quest e misteri/Rapimenti A 1\|Rapimenti A 1]]                     |
 | ![(0) Immagini/0 (Altro)/Sito Icone/Icona Quest.png\|Icona Quest.png](/img/user/(0)%20Immagini/0%20(Altro)/Sito%20Icone/Icona%20Quest.png) | [[Campagne/Tales of the Accademy/Quest e misteri/Rito di iniziazione\|Rito di iniziazione]]         |
 
 { .block-language-dataview}

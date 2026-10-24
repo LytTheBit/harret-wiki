@@ -24,6 +24,7 @@ Non tutte le creature possono essere elevate a Celestiali, e non da tutti i sace
 Sotto molti punti di visti i [[Bestiario/Celestiali/(Celestiali)\|Celestiali]] sono l'opposto del [[Bestiario/Caotici/(Caotici)\|Caotici]].
 |                                                               | Celestiali                                 |
 | ------------------------------------------------------------- | ------------------------------------------ |
+| ![(0) Immagini/Lore/Araldi.png\|Araldi.png](/img/user/(0)%20Immagini/Lore/Araldi.png)                 | [[Bestiario/Celestiali/Araldi\|Araldi]] |
 | ![(0) Immagini/Bestiario/Celestiali/Pegasi.png\|Pegasi.png](/img/user/(0)%20Immagini/Bestiario/Celestiali/Pegasi.png) | [[Bestiario/Celestiali/Pegasi\|Pegasi]] |
 
 { .block-language-dataview}

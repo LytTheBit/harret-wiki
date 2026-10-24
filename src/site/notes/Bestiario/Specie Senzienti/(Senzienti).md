@@ -26,7 +26,9 @@ Sotto molti punti di visti i [[Bestiario/Celestiali/(Celestiali)\|Celestiali]] s
 
 |                                                                               | Celestiali                                                 |
 | ----------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| ![(0) Immagini/Bestiario/Specie senzienti/Chorchi.png\|Chorchi.png](/img/user/(0)%20Immagini/Bestiario/Specie%20senzienti/Chorchi.png)         | [[Bestiario/Specie Senzienti/Chorchi\|Chorchi]]         |
 | ![(0) Immagini/Bestiario/Specie senzienti/Galapa.png\|Galapa.png](/img/user/(0)%20Immagini/Bestiario/Specie%20senzienti/Galapa.png)           | [[Bestiario/Specie Senzienti/Galapa\|Galapa]]           |
+| ![(0) Immagini/Bestiario/Specie senzienti/Moblin.png\|Moblin.png](/img/user/(0)%20Immagini/Bestiario/Specie%20senzienti/Moblin.png)           | [[Bestiario/Specie Senzienti/Moblin\|Moblin]]           |
 | ![(0) Immagini/Bestiario/Specie senzienti/Risvegliato.png\|Risvegliato.png](/img/user/(0)%20Immagini/Bestiario/Specie%20senzienti/Risvegliato.png) | [[Bestiario/Specie Senzienti/Risvegliati\|Risvegliati]] |
 | ![(0) Immagini/Bestiario/Specie senzienti/Umani.jpg\|Umani.jpg](/img/user/(0)%20Immagini/Bestiario/Specie%20senzienti/Umani.jpg)             | [[Bestiario/Specie Senzienti/Umani\|Umani]]             |
 

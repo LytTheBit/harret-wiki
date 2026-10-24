@@ -32,8 +32,10 @@ Per saperne di più: [[Lore/Tempo/Stagioni su Harret\|Stagioni su Harret]]
 ## Cosa c'è ad Harret?
 
 #### Regni di Harret
-|   | Nazioni |
-| - | ------- |
+|                                                                              | Nazioni                                                            |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| ![(0) Immagini/Mondo/Concept Città Libera.png\|Concept Città Libera.png](/img/user/(0)%20Immagini/Mondo/Concept%20Citt%C3%A0%20Libera.png)   | [[Mondo/Harret/Nazioni/Città di Dumar\|Città di Dumar]]         |
+| ![(0) Immagini/Mondo/Posti/Città di Eisenbahn.png\|Città di Eisenbahn.png](/img/user/(0)%20Immagini/Mondo/Posti/Citt%C3%A0%20di%20Eisenbahn.png) | [[Mondo/Harret/Nazioni/Città di Eisenbahn\|Città di Eisenbahn]] |
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-content-classes":"dg-cards","aliases":["Wissen","l'Accademia"],"tags":["V2"],"Template":"[[Organizzazione]]","Capo":"[[Adam Wissen|Preside]]","Sede Principale":"[[Mondo/Harret/Luoghi/Castel Wissen\|Castel Wissen]]","Data di fondazione":625,"Motto":"*\"Eroi si diventa.\"*","Tipo di Organizzazione":"Istituto accademico","Immagine":"![[Bandiera Accademia di Wissen.png]]","permalink":"/Fazioni/Organizazioni/Accademia di Wissen/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-07T11:56:30.769+02:00","updated":"2026-09-01T22:55:38.338+02:00","dg-note-properties":{"aliases":["Wissen","l'Accademia"],"tags":["V2"],"Template":"[[(0) Template/Gruppi/Organizzazione]]","Capo":"[[Personaggi/NPC/Professori Accademia di Wissen/Adam Wissen|Preside]]","Sede Principale":"[[Mondo/Harret/Luoghi/Castel Wissen]]","Data di fondazione":625,"Motto":"*\"Eroi si diventa.\"*","Tipo di Organizzazione":"Istituto accademico","Immagine":"![[(0) Immagini/Fazioni/Accademia/Bandiera Accademia di Wissen.png]]"}}
+{"dg-publish":true,"dg-content-classes":"dg-cards","aliases":["Wissen","l'Accademia"],"tags":["V2"],"Template":"[[Organizzazione]]","Capo":"[[Adam Wissen|Preside]]","Sede Principale":"[[Mondo/Harret/Luoghi/Castel Wissen\|Castel Wissen]]","Data di fondazione":625,"Motto":"*\"Eroi si diventa.\"*","Tipo di Organizzazione":"Istituto accademico","Immagine":"![[Bandiera Accademia di Wissen.png]]","permalink":"/Fazioni/Organizazioni/Accademia di Wissen/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-07T11:56:30.769+02:00","updated":"2026-10-19T19:38:22.996+02:00","dg-note-properties":{"aliases":["Wissen","l'Accademia"],"tags":["V2"],"Template":"[[(0) Template/Gruppi/Organizzazione]]","Capo":"[[Personaggi/NPC/Professori Accademia di Wissen/Adam Wissen|Preside]]","Sede Principale":"[[Mondo/Harret/Luoghi/Castel Wissen]]","Data di fondazione":625,"Motto":"*\"Eroi si diventa.\"*","Tipo di Organizzazione":"Istituto accademico","Immagine":"![[(0) Immagini/Fazioni/Accademia/Bandiera Accademia di Wissen.png]]"}}
 ---
 
 > [!infobox|right]
@@ -22,7 +22,7 @@ E' l'ambientazione principale della campagna [[Campagne/Tales of the Accademy/Ta
 ## Storia
 L'accademia fu fondata seicento anni fa da tre valorosi eroi che, dopo aver salvato il mondo da un antico drago che minacciava il continente, decisero di erigere una scuola sul monte stesso in cui sconfissero la bestia, affinché le generazioni future potessero imparare dalle
 loro gesta. I fondatori furono:
-- [[Re Rodrick Rammer\|Re Rodrick Rammer]]. Sovrano del regno di [[Mondo/Harret/Nazioni/Regno di Rumiria\|Regno di Rumiria]], che fondò l'*Accademia di Scienze Politiche e Reali.*
+- [[Re Rodrick Rammer\|Re Rodrick Rammer]]. Sovrano del regno di [[Mondo/Harret/Nazioni/(TODO) Regno di Rumiria\|(TODO) Regno di Rumiria]], che fondò l'*Accademia di Scienze Politiche e Reali.*
 - [[Ser Steven Strong\|Ser Steven Strong]]. Cavaliere delle Terre del Sud, che fondò l'*Accademia di Cavalleria e Coraggio.*
 - [[Maestra Morgan Maitre\|Maestra Morgan Maitre]]. Maga della [[Torre Storta\|Torre Storta]], che fondò l'*Accademia della Magia e dei Misteri.*
 

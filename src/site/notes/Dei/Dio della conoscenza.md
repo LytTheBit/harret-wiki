@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":["Memor","Dio della conoscenza"],"tags":["V2"],"dg-note-icon":"Divinità","Template":"[[Dio]]","Nome":"Memor","Sesso":"Maschio","Numero":5,"Stagione":"[[Stagione Ombrosa]]","Mese":"[[5° mese\|5° mese]]","Costellazione":"[[Tomo dei sapienti\|Tomo dei sapienti]]","Dominio":["Libri","Conoscenze","Mente"],"Immagine":"![[Dio della conoscenza.png]]","dg-content-classes":"dg-cards","permalink":"/Dei/Dio della conoscenza/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-08T22:51:08.113+02:00","updated":"2026-08-13T18:57:34.262+02:00","dg-note-properties":{"aliases":["Memor","Dio della conoscenza"],"tags":["V2"],"Template":"[[(0) Template/Dio]]","Nome":"Memor","Sesso":"Maschio","Numero":5,"Stagione":"[[Stagione Ombrosa]]","Mese":"[[5° mese\|5° mese]]","Costellazione":"[[Tomo dei sapienti\|Tomo dei sapienti]]","Dominio":["Libri","Conoscenze","Mente"],"Immagine":"![[(0) Immagini/Dei/5 - conoscenza/Dio della conoscenza.png]]"}}
+{"dg-publish":true,"aliases":["Memor","Dio della conoscenza"],"tags":["V2"],"dg-note-icon":"Divinità","Template":"[[Dio]]","Nome":"Memor","Sesso":"Maschio","Numero":5,"Stagione":"[[Stagione Ombrosa]]","Mese":"[[5° mese\|5° mese]]","Costellazione":"[[Tomo dei sapienti\|Tomo dei sapienti]]","Dominio":["Libri","Conoscenze","Mente"],"Immagine":"![[Dio della conoscenza.png]]","dg-content-classes":"dg-cards","permalink":"/Dei/Dio della conoscenza/","contentClasses":"dg-cards","dgPassFrontmatter":true,"created":"2026-05-08T22:51:08.113+02:00","updated":"2026-10-19T19:37:33.348+02:00","dg-note-properties":{"aliases":["Memor","Dio della conoscenza"],"tags":["V2"],"Template":"[[(0) Template/Dio]]","Nome":"Memor","Sesso":"Maschio","Numero":5,"Stagione":"[[Stagione Ombrosa]]","Mese":"[[5° mese\|5° mese]]","Costellazione":"[[Tomo dei sapienti\|Tomo dei sapienti]]","Dominio":["Libri","Conoscenze","Mente"],"Immagine":"![[(0) Immagini/Dei/5 - conoscenza/Dio della conoscenza.png]]"}}
 ---
 
 > [!infobox|right]
@@ -56,10 +56,18 @@ Si dice che chi sia nato sotto questa costellazione sia calmo e riflessivo, e ch
 ### Fedeli
 |                                                                                   | Fedeli                                                                                        |
 | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| ![(0) Immagini/Personaggi/Persona Placeholder.png\|Persona Placeholder.png](/img/user/(0)%20Immagini/Personaggi/Persona%20Placeholder.png)     | [[Personaggi/NPC/Alma Seele\|Alma Seele]]                                                  |
+| ![(0) Immagini/Personaggi/NPC/Alma Seele.png\|Alma Seele.png](/img/user/(0)%20Immagini/Personaggi/NPC/Alma%20Seele.png)                   | [[Personaggi/NPC/Alma Seele\|Alma Seele]]                                                  |
 | ![(0) Immagini/Personaggi/NPC/Gianpiero Arcangeli.png\|Gianpiero Arcangeli.png](/img/user/(0)%20Immagini/Personaggi/NPC/Gianpiero%20Arcangeli.png) | [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Gianpiero Arcangeli]] |
 | ![(0) Immagini/Personaggi/NPC/Jake Gulpert.png\|Jake Gulpert.png](/img/user/(0)%20Immagini/Personaggi/NPC/Jake%20Gulpert.png)               | [[Personaggi/NPC/Studenti Accademia di Wissen/Jake Gulpert\|Jake Gulpert]]                 |
 | ![(0) Immagini/Personaggi/NPC/Lucas Yoshiie.png\|Lucas Yoshiie.png](/img/user/(0)%20Immagini/Personaggi/NPC/Lucas%20Yoshiie.png)             | [[Personaggi/NPC/Studenti Accademia di Wissen/Lucas Yoshiie\|Lucas Yoshiie]]               |
 | ![(0) Immagini/Personaggi/NPC/Ruggie Kerma.png\|Ruggie Kerma.png](/img/user/(0)%20Immagini/Personaggi/NPC/Ruggie%20Kerma.png)               | [[Personaggi/NPC/Studenti Accademia di Wissen/Ruggie Kerma\|Ruggie Kerma]]                 |
+
+{ .block-language-dataview}
+
+### Luoghi
+|                                                                                | Luoghi                                                             |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------ |
+| ![(0) Immagini/Mondo/Posti/Accademia di Wissen.png\|Accademia di Wissen.png](/img/user/(0)%20Immagini/Mondo/Posti/Accademia%20di%20Wissen.png) | [[Mondo/Harret/Luoghi/Castel Wissen\|Castel Wissen]]            |
+| ![(0) Immagini/Mondo/Posti/Città di Eisenbahn.png\|Città di Eisenbahn.png](/img/user/(0)%20Immagini/Mondo/Posti/Citt%C3%A0%20di%20Eisenbahn.png)   | [[Mondo/Harret/Nazioni/Città di Eisenbahn\|Città di Eisenbahn]] |
 
 { .block-language-dataview}

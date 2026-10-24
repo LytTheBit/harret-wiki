@@ -20,6 +20,7 @@ I loro limiti e le loro potenzialità sono ancora sconosciute, ma per tutelare l
 |                                                                                    | Golem                                                           |
 | ---------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | ![(0) Immagini/Bestiario/Golem/Golem Bibliotecario.png\|Golem Bibliotecario.png](/img/user/(0)%20Immagini/Bestiario/Golem/Golem%20Bibliotecario.png) | [[Bestiario/Golem/Golem Bibliotecario\|Golem Bibliotecario]] |
+| ![(0) Immagini/Bestiario/Golem/Sun Walker.jpg\|Sun Walker.jpg](/img/user/(0)%20Immagini/Bestiario/Golem/Sun%20Walker.jpg)                   | [[Bestiario/Golem/Golem Camminatore\|Golem Camminatore]]     |
 | ![(0) Immagini/Bestiario/Golem/Golem Accademia 1.png\|Golem Accademia 1.png](/img/user/(0)%20Immagini/Bestiario/Golem/Golem%20Accademia%201.png)     | [[Bestiario/Golem/Golem Prefetto\|Golem Prefetto]]           |
 
 { .block-language-dataview}

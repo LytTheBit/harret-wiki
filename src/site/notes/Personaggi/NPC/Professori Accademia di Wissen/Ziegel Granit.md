@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":["NPC","V2"],"dg-note-icon":"NPC","Template":"[[NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Ziegel","Cognome":"[[Granit]]","Specie":"[[Giganti|Gigante]]","Anno di nascita":1143,"Affiliazioni":["[[Accademia di Wissen#Professori]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![[Ziegel Granit.png]]","permalink":"/Personaggi/NPC/Professori Accademia di Wissen/Ziegel Granit/","dgPassFrontmatter":true,"created":"2026-05-17T10:48:07.755+02:00","updated":"2026-08-13T18:54:26.032+02:00","dg-note-properties":{"aliases":null,"tags":["NPC","V2"],"Template":"[[(0) Template/Personaggi/NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Ziegel","Cognome":"[[Granit]]","Specie":"[[Bestiario/Specie Senzienti/Giganti|Gigante]]","Anno di nascita":1143,"Affiliazioni":["[[Fazioni/Organizazioni/Accademia di Wissen#Professori]]"],"Campagne":["[[Campagne/Tales of the Accademy/Tales of the Accademy]]"],"Immagine":"![[(0) Immagini/Personaggi/NPC/Ziegel Granit.png]]"}}
+{"dg-publish":true,"aliases":null,"tags":["NPC","V2"],"dg-note-icon":"NPC","Template":"[[NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Ziegel","Cognome":"[[Granit]]","Specie":"[[Giganti|Gigante]]","Anno di nascita":1143,"Affiliazioni":["[[Accademia di Wissen#Professori]]"],"Campagne":["[[Tales of the Accademy]]"],"Immagine":"![[Ziegel Granit.png]]","permalink":"/Personaggi/NPC/Professori Accademia di Wissen/Ziegel Granit/","dgPassFrontmatter":true,"created":"2026-05-17T10:48:07.755+02:00","updated":"2026-08-13T18:54:26.032+02:00","dg-note-properties":{"aliases":null,"tags":["NPC","V2"],"Template":"[[(0) Template/Personaggi/NPC]]","Sesso":"Maschio","Stato":"Vivo","Nome":"Ziegel","Cognome":"[[Granit]]","Specie":"[[Bestiario/Specie Senzienti/TODO/Giganti|Gigante]]","Anno di nascita":1143,"Affiliazioni":["[[Fazioni/Organizazioni/Accademia di Wissen#Professori]]"],"Campagne":["[[Campagne/Tales of the Accademy/Tales of the Accademy]]"],"Immagine":"![[(0) Immagini/Personaggi/NPC/Ziegel Granit.png]]"}}
 ---
 
 > [!infobox|right]
@@ -11,7 +11,7 @@
 > | Nome | Ziegel |
 > | Cognome | [[Granit\|Granit]] |
 > | Sesso | Maschio |
-> | Specie | [[Bestiario/Specie Senzienti/Giganti\|Gigante]] |
+> | Specie | [[Bestiario/Specie Senzienti/TODO/Giganti\|Gigante]] |
 > | Età | 84 |
 > | Affiliato | [[Fazioni/Organizazioni/Accademia di Wissen#Professori\|Accademia di Wissen > Professori]]|
 

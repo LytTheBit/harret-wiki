@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"dg-note-icon":"Sessione - riassunto","Template":"[[Sessione - riassunto]]","Campagna":"[[Tales of the Accademy]]","Data sessione":"30/08/2026","Players":["[[Giocatori/Lorenzo Camuso\|Lorenzo Camuso]]","[[Giocatori/Lorenzo Grassi\|Lorenzo Grassi]]","[[Giocatori/Nodar Varazashvili\|Nodar Varazashvili]]"],"PG":["[[Personaggi/PG/Mata Mata\|Mata Mata]]","[[Personaggi/PG/D1-X0N\|D1-X0N]]","[[Personaggi/PG/Gilgamesh Lugalin d’Aurelian\|Gilgamesh]]"],"Sessione numero":"5","Immagine":"![[Icona Tales of the Academy.png]]","permalink":"/Campagne/Tales of the Accademy/Sessioni/Sessione 5 - Riassunto/","dgPassFrontmatter":true,"created":"2026-08-31T13:10:26.675+02:00","updated":"2026-09-03T22:49:09.452+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Sessione - riassunto]]","Campagna":"[[Campagne/Tales of the Accademy/Tales of the Accademy]]","Data sessione":"30/08/2026","Players":["[[Giocatori/Lorenzo Camuso]]","[[Giocatori/Lorenzo Grassi]]","[[Giocatori/Nodar Varazashvili]]"],"PG":["[[Personaggi/PG/Mata Mata]]","[[Personaggi/PG/D1-X0N]]","[[Personaggi/PG/Gilgamesh Lugalin d’Aurelian|Gilgamesh]]"],"Sessione numero":"5","Immagine":"![[(0) Immagini/0 (Altro)/Sito Icone/Icona Tales of the Academy.png]]"}}
+{"dg-publish":true,"aliases":null,"tags":null,"dg-note-icon":"Sessione - riassunto","Template":"[[Sessione - riassunto]]","Campagna":"[[Tales of the Accademy]]","Data sessione":"30/08/2026","Players":["[[Giocatori/Lorenzo Camuso\|Lorenzo Camuso]]","[[Giocatori/Lorenzo Grassi\|Lorenzo Grassi]]","[[Giocatori/Nodar Varazashvili\|Nodar Varazashvili]]"],"PG":["[[Personaggi/PG/Mata Mata\|Mata Mata]]","[[Personaggi/PG/D1-X0N\|D1-X0N]]","[[Personaggi/PG/Gilgamesh Lugalin d’Aurelian\|Gilgamesh]]"],"Sessione numero":"5","Immagine":"![[Icona Tales of the Academy.png]]","permalink":"/Campagne/Tales of the Accademy/Sessioni/Sessione 5 - Riassunto/","dgPassFrontmatter":true,"created":"2026-08-31T13:10:26.675+02:00","updated":"2026-10-19T19:38:25.812+02:00","dg-note-properties":{"aliases":null,"tags":null,"Template":"[[Sessione - riassunto]]","Campagna":"[[Campagne/Tales of the Accademy/Tales of the Accademy]]","Data sessione":"30/08/2026","Players":["[[Giocatori/Lorenzo Camuso]]","[[Giocatori/Lorenzo Grassi]]","[[Giocatori/Nodar Varazashvili]]"],"PG":["[[Personaggi/PG/Mata Mata]]","[[Personaggi/PG/D1-X0N]]","[[Personaggi/PG/Gilgamesh Lugalin d’Aurelian|Gilgamesh]]"],"Sessione numero":"5","Immagine":"![[(0) Immagini/0 (Altro)/Sito Icone/Icona Tales of the Academy.png]]"}}
 ---
 
 
@@ -15,7 +15,7 @@ Il gruppo viene guardato con sospetto da una parte del corpo studentesco: sono s
 
 I giocatori descrivono cosa hanno fatto i loro PG nelle ultime settimane.
 
-- [[Giocatori/Nodar Varazashvili\|Nodar Varazashvili]] racconta di come [[Personaggi/PG/Gilgamesh Lugalin d’Aurelian\|Gilgamesh]] abbia mandato una seconda lettera al suo maggiordomo [[Personaggi/NPC/Alfred ...\|Alfred]], chiedendogli di organizzare una scorta per il viaggio verso [[Eisenbahn\|Eisenbahn]]. La prima lettera spedita al padre (con il gufo dorato che aveva rifiutato di andare) non ha ancora ricevuto risposta, nonostante i tempi sarebbero già ampiamente sufficienti. Gilgamesh decide di attendere ancora qualche giorno prima di agire.
+- [[Giocatori/Nodar Varazashvili\|Nodar Varazashvili]] racconta di come [[Personaggi/PG/Gilgamesh Lugalin d’Aurelian\|Gilgamesh]] abbia mandato una seconda lettera al suo maggiordomo [[Personaggi/NPC/Alfred ...\|Alfred]], chiedendogli di organizzare una scorta per il viaggio verso [[Mondo/Harret/Nazioni/Città di Dumar\|Città di Dumar]]. La prima lettera spedita al padre (con il gufo dorato che aveva rifiutato di andare) non ha ancora ricevuto risposta, nonostante i tempi sarebbero già ampiamente sufficienti. Gilgamesh decide di attendere ancora qualche giorno prima di agire.
 
 - [[Giocatori/Lorenzo Grassi\|Lorenzo Grassi]] racconta di come [[Personaggi/PG/D1-X0N\|D1-X0N]] abbia decifrato la *terza pagina* dei [[Campagne/Tales of the Accademy/Quest e misteri/Decifrare i documenti\|documenti misteriosi]] e stia facendo progressi sulla *quarta*. 
 > [!quote] Pagina 3
@@ -40,7 +40,7 @@ L’Identità sarà il più grande dei miei problemi… Oh Noel…
 
 ---
 
-Il gruppo si dirige quindi nell'ufficio del [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Vicepreside]] per l'incontro già programmato. Il gruppo trova ad attenderli anche [[Personaggi/NPC/Professori Accademia di Wissen/Ser Leon Rammer\|Ser Leon Rammer]], professore di Scienze Politiche e fratello minore del Re di [[Mondo/Harret/Nazioni/Regno di Rumiria\|Regno di Rumiria]], chiaramente poco convinto dell'innocenza del gruppo.
+Il gruppo si dirige quindi nell'ufficio del [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Vicepreside]] per l'incontro già programmato. Il gruppo trova ad attenderli anche [[Personaggi/NPC/Professori Accademia di Wissen/Ser Leon Rammer\|Ser Leon Rammer]], professore di Scienze Politiche e fratello minore del Re di [[Mondo/Harret/Nazioni/(TODO) Regno di Rumiria\|(TODO) Regno di Rumiria]], chiaramente poco convinto dell'innocenza del gruppo.
 
 L'interrogatorio diventa uno *scontro sociale*. Ser Leon attacca e il gruppo risponde compatto, portando avanti le proprie argomentazioni finché Ser Leon, senza argomenti sufficienti per insistere, si congeda con un ultimo sguardo tagliente.
 
@@ -64,7 +64,7 @@ Tornando alle stanze, [[Personaggi/PG/Mata Mata\|Mata]] e [[Personaggi/PG/D1-X0N
 
 Prima di rientrare, [[Personaggi/PG/Gilgamesh Lugalin d’Aurelian\|Gil]] incrocia [[Personaggi/NPC/Studenti Accademia di Wissen/Uta Napish\|Uta]] davanti alla sua porta: stava aspettando. Ma vista l'urgenza della situazione si accordano per un tè nel fine settimana.
 
-Il gruppo corre dal [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Vicepreside]], svegliandolo nel cuore della notte. Lui li accoglie con tè al fiore di loto e biscottini a forma di sole (dolci tipici del [[Mondo/Harret/Nazioni/Regno di Xxx\|Regno di Xxx]]), li ascolta con attenzione, e promette di mandare i [[Bestiario/Golem/Golem Prefetto\|Golem dell'Accademia]] a cercarlo e di informare il Preside. Offre al gruppo di dormire in una stanzetta vicino al suo ufficio, ma loro rifiutano.
+Il gruppo corre dal [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Vicepreside]], svegliandolo nel cuore della notte. Lui li accoglie con tè al fiore di loto e biscottini a forma di sole (dolci tipici del [[Mondo/Harret/Nazioni/(TODO) Regno di Uruck\|(TODO) Regno di Uruck]]), li ascolta con attenzione, e promette di mandare i [[Bestiario/Golem/Golem Prefetto\|Golem dell'Accademia]] a cercarlo e di informare il Preside. Offre al gruppo di dormire in una stanzetta vicino al suo ufficio, ma loro rifiutano.
 
 
 
@@ -117,3 +117,4 @@ Con il tempo aggiuntivo e le nuove informazioni D1-X0N riesce anche ad decifrare
 Prima di entrare nelle loro camere il gruppo nota che [[Personaggi/NPC/Studenti Accademia di Wissen/Lucy Nocida\|Lucy Nocida]] lascia un bigliettino nella casetta delle lettere di [[Personaggi/PG/Mata Mata\|Mata]].
 
 ## Immagini
+![20260830_221646.jpg](/img/user/(0)%20Immagini/Campagne/Accademy/Sessione%205/20260830_221646.jpg)
